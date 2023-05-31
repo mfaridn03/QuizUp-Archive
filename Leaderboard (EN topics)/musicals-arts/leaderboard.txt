@@ -1,0 +1,16 @@
+                 Player Country  Level    Total XP
+1                 Wilma      GB  1,037  37,801,420
+2         Balladeer # 1      US    964  32,618,656
+3             Slrshrink      US    646  14,707,444
+4               Barbara      US    581  11,900,871
+5                  Toby      US    475   7,944,941
+6   Bigger Than Big Dog      US    459   7,447,656
+7                Callie      US    422   6,278,031
+8                   GPN      AU    391   5,397,059
+9               MookLiz      US    347   4,258,246
+10               Deblaw      US    338   4,036,515
+11       ramsay claus⚔️      US    335   3,959,657
+12             Anniebee      US    327   3,780,909
+13          Stevetabisz      US    319   3,605,443
+14         Gregory Dean      US    316   3,527,433
+15               Juan U      US    306   3,312,890

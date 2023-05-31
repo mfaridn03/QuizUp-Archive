@@ -1,0 +1,16 @@
+                 Player Country Level   Total XP
+1                 Katia      US   251  2,243,939
+2           KnockOutNED      US   234  1,948,764
+3       Jack Klingshirn      US   200  1,426,130
+4                Hannah      US   173  1,069,958
+5          Chirag Patel      TT   167  1,002,651
+6            Alex Mutti      US   162    940,040
+7                Brandy      US   155    855,625
+8                  Bart      US   145    753,955
+9            Mr. Winner      US   132    625,476
+10      sydney memeford      US   130    605,579
+11      Kevin Fernandez      US   128    592,516
+12        Aurelio Nuñez      US   126    574,228
+13         Andy Capaldo      US   125    565,005
+14  Danielle Billington      CA   123    544,587
+15                  LSD      US   119    510,235

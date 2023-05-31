@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1              Bree      PH   340  4,099,407
+2        sillyBilly      GB   201  1,438,141
+3            Mike B      CA   190  1,293,818
+4        Dus Tensei      US   185  1,226,919
+5      Shawn Larson      US   170  1,028,114
+6          Guenther      CA   161    926,310
+7   Maximus the mad      US   160    914,929
+8              Madi      US   150    811,277
+9   Patrick McManus      GB   150    804,010
+10        Jean Grey      HR   141    713,759
+11           Rizqan      MY   137    677,540
+12   Sourabh Pandey      IN   137    671,634
+13      Dylan Armas      PE   125    561,825
+14         Caylee F      US   118    503,125
+15               SF      IN   117    490,186

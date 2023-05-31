@@ -1,0 +1,16 @@
+                    Player     Country Level    Total XP
+1                    AlanM          US   547  10,558,863
+2   nicky :) #FREEG$LDBERG          BR   366   4,730,860
+3                   Marife          PH   244   2,120,221
+4               Rae Riveur          FR   237   1,995,296
+5                        T          US   231   1,891,610
+6           Snowmamablizza          US   174   1,084,466
+7             Shawn Larson          US   171   1,047,822
+8             Helie Vanina          FR   167   1,002,866
+9               Jörg Klass          DE   161     925,491
+10              Permafrost          GB   159     902,764
+11                  Ewilam          FR   152     831,248
+12               Skye Mist          US   151     818,218
+13              EmmaRiglin          GB   150     811,045
+14         celine LIHOREAU          FR   149     794,945
+15            Sally Moreno  QU_ENGLAND   148     789,231

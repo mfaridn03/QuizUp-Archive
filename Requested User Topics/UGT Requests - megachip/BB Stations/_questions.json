@@ -1,0 +1,485 @@
+{
+  "04e66d61-5e83-4a99-ae6f-72314b133011": {
+    "answers": [
+      {
+        "id": "93c02d2b-d9c9-4c6b-9c1a-b7a84b7108c6",
+        "text": "Nollendorfplatz"
+      },
+      {
+        "id": "57e06582-68fc-4dec-904b-79ca77067067",
+        "text": "S\u00fcdkreuz"
+      },
+      {
+        "id": "6d4e7109-7ed5-4f2e-9e2f-b184b95f31cd",
+        "text": "B\u00fchlowstra\u00dfe"
+      },
+      {
+        "id": "8c67d5e9-2515-4451-b83c-8de13682ec24",
+        "text": "Westend"
+      }
+    ],
+    "correct_answer_id": "6d4e7109-7ed5-4f2e-9e2f-b184b95f31cd",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/76/14/22/761422b0f30bb52ec1bddf175034fc908ac78fc2/content?h=360&q=95&w=360",
+    "text": "Wo hat man diese \"Aussicht\"?"
+  },
+  "1f2c005b-d00b-427c-afb1-7186eb18278c": {
+    "answers": [
+      {
+        "id": "bb7ae700-732b-4e9b-a700-bff11e5bfcdb",
+        "text": "Pirschheide"
+      },
+      {
+        "id": "e0199f01-a238-45d3-a79a-b20802504df4",
+        "text": "Berkholz-Meyenburg"
+      },
+      {
+        "id": "63339e9c-ca6c-4439-a0d8-cca14312df22",
+        "text": "Drehwitz"
+      },
+      {
+        "id": "0436ff30-dc75-4e5d-9978-4564291cbf55",
+        "text": "Bergholz-Rehbr\u00fccke"
+      }
+    ],
+    "correct_answer_id": "0436ff30-dc75-4e5d-9978-4564291cbf55",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/93/b5/c4/93b5c49af750047c0bdd725956960a34dd1e3673/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist hier zu sehen?"
+  },
+  "23450a62-53e6-4ed9-bae3-bd39db823fef": {
+    "answers": [
+      {
+        "id": "f5baf463-9ce5-4b11-a535-016811a3024d",
+        "text": "Botanischer Garten"
+      },
+      {
+        "id": "01bbe6dd-6254-452b-9ab4-3bd4f93197e6",
+        "text": "Tiergarten"
+      },
+      {
+        "id": "65282de0-fcdb-4653-8f6d-60c94ff7a6bc",
+        "text": "Britzer Garten"
+      },
+      {
+        "id": "345fa363-9c6c-407c-ae99-dc83b938cc28",
+        "text": "Zoologischer Garten"
+      }
+    ],
+    "correct_answer_id": "345fa363-9c6c-407c-ae99-dc83b938cc28",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/54/31/52/543152c7ea07e585f0f1d2584af12ea0b0467472/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist hier Zappenduster?"
+  },
+  "234696f0-37af-418d-bc0e-d9c0fb65e553": {
+    "answers": [
+      {
+        "id": "e7824192-ee68-4be0-b203-5b65b157515b",
+        "text": "Cottbus HBF"
+      },
+      {
+        "id": "e7124d96-1469-4a72-9a66-af02aa59a817",
+        "text": "Berlin HBF"
+      },
+      {
+        "id": "143f3c01-27c0-4c6c-b86b-bcbb33acc73b",
+        "text": "Berkholz-Mayenburg"
+      },
+      {
+        "id": "18703f9f-2a61-4416-b54b-ffe7dd8d0bd8",
+        "text": "Berkholz-Rehbr\u00fccke"
+      }
+    ],
+    "correct_answer_id": "18703f9f-2a61-4416-b54b-ffe7dd8d0bd8",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/db/86/9a/db869acfd4701ba2c0d2641be5c34ec1de4fabf2/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist hier zu sehen?"
+  },
+  "31114e2b-b468-4809-94b0-78b1d2ff2749": {
+    "answers": [
+      {
+        "id": "5cf45f7b-e26a-43ea-aef8-c6e58c653311",
+        "text": "45"
+      },
+      {
+        "id": "af3077d7-1aed-40d6-a3ea-0a292a93e283",
+        "text": "12"
+      },
+      {
+        "id": "a3184491-d2bd-4bbe-ac36-3977297488e7",
+        "text": "23"
+      },
+      {
+        "id": "8d099cae-ca17-4890-85b0-9563218d3248",
+        "text": "37"
+      }
+    ],
+    "correct_answer_id": "8d099cae-ca17-4890-85b0-9563218d3248",
+    "photo_url": null,
+    "text": "Wie viele Berliner U-Bahnstationen tragen einen Platz in ihrem Namen?"
+  },
+  "3e009d9d-d8b5-4f1c-b152-4c7352500a1d": {
+    "answers": [
+      {
+        "id": "f058395e-22f9-490e-a868-7fc4fe24c4a2",
+        "text": "173"
+      },
+      {
+        "id": "e00d16f3-a171-4179-9457-c10e65988622",
+        "text": "213"
+      },
+      {
+        "id": "034d1b86-4172-4d5f-8ecc-459adacc48ed",
+        "text": "93"
+      },
+      {
+        "id": "22d407a3-5109-40a9-a6c0-4ed35857d8bd",
+        "text": "53"
+      }
+    ],
+    "correct_answer_id": "f058395e-22f9-490e-a868-7fc4fe24c4a2",
+    "photo_url": null,
+    "text": "Wie viele U-Bahnstationen hat Berlin? (2019)"
+  },
+  "3e3376b3-aa9c-46d0-bdd5-c2d609e3369f": {
+    "answers": [
+      {
+        "id": "9cb72cbf-595c-4738-8cd1-f212e7952118",
+        "text": "den Cottbuser Hauptbahnhof"
+      },
+      {
+        "id": "b9c4045a-a4e1-4b3f-afea-c4eb9edeffcb",
+        "text": "den Brandenburger Hauptbahnhof"
+      },
+      {
+        "id": "8c8f4f8a-1fe8-44cd-b1b3-e7ba71c27aa7",
+        "text": "den Berliner Haupbahnhof"
+      },
+      {
+        "id": "7c1a6057-4873-4172-8917-86e585705f38",
+        "text": "den Potsdamer Hauptbahnhof"
+      }
+    ],
+    "correct_answer_id": "8c8f4f8a-1fe8-44cd-b1b3-e7ba71c27aa7",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/79/3e/d6/793ed64ded13dd3800bcebe16aef6609a67ba671/content?h=360&q=95&w=360",
+    "text": "Und hier sehen wir?"
+  },
+  "50769c4a-0d5f-437a-9998-23ef21b402e1": {
+    "answers": [
+      {
+        "id": "5f806d7f-1899-4521-8237-55899b440689",
+        "text": "Potsdam HBF"
+      },
+      {
+        "id": "fff34279-dd7f-49d8-838b-352a3e970a49",
+        "text": "Brandenburg HBF"
+      },
+      {
+        "id": "876c96cd-d130-461e-885c-726850de4f6e",
+        "text": "Angerm\u00fcnde HBF"
+      },
+      {
+        "id": "d6a87ca5-9f04-48c7-be62-50e64f214d9c",
+        "text": "Prenzlau HBF"
+      }
+    ],
+    "correct_answer_id": "fff34279-dd7f-49d8-838b-352a3e970a49",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/89/22/09/8922092668acd80f948d737d053c7e98ef5caa47/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist das?"
+  },
+  "5eb88835-85b7-4c92-b225-a602b7b223b7": {
+    "answers": [
+      {
+        "id": "7c1c33c1-12c3-41ea-8265-ac37917623f7",
+        "text": "Charlottenhof"
+      },
+      {
+        "id": "09017aac-cba8-4480-94fa-86edef66c3f1",
+        "text": " Babelsberg"
+      },
+      {
+        "id": "46116a89-a785-4997-b44e-ca6a8bc50fe7",
+        "text": " Pirschheide"
+      },
+      {
+        "id": "df82d588-7213-4705-8486-7f816058963e",
+        "text": " Drehwitz"
+      }
+    ],
+    "correct_answer_id": "09017aac-cba8-4480-94fa-86edef66c3f1",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/92/0d/cb/920dcbdcf3c3b80c1f6678432f9597ee064d16ca/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist das?"
+  },
+  "70a882b8-d768-4ff5-b337-87b44a5e5d10": {
+    "answers": [
+      {
+        "id": "c4d19faf-a2ee-4584-90a5-c0010641e39e",
+        "text": "Frankfurt HBF"
+      },
+      {
+        "id": "9c85167c-620d-42f5-bb58-2fa59652c40a",
+        "text": "Cottbus HBF"
+      },
+      {
+        "id": "3b74ded7-53fb-4832-9fe6-866d504206ad",
+        "text": "Brandenburg HBF"
+      },
+      {
+        "id": "f1464660-e794-4503-a9c9-fb4e7b78a3e0",
+        "text": "Potsdam HBF"
+      }
+    ],
+    "correct_answer_id": "3b74ded7-53fb-4832-9fe6-866d504206ad",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/f3/29/2b/f3292ba6ebc25cda21dfe9e444ade74fa8c7ac94/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof wird hier gerade eingeschneit?"
+  },
+  "a580826f-baeb-43af-8806-f22252947980": {
+    "answers": [
+      {
+        "id": "4be4c341-55ed-404d-b353-c2f3185c8329",
+        "text": "Breitenbachplatz"
+      },
+      {
+        "id": "5c7d1f31-2099-4a77-ad78-ad8fb59faaf8",
+        "text": "Nollendorfplatz"
+      },
+      {
+        "id": "0b965794-3b20-4e3a-9001-2ce39fc5e5a2",
+        "text": "Friedrich-Wilhelm-Platz"
+      },
+      {
+        "id": "ea4872a6-0842-4c6b-92d9-c2e0f58978ab",
+        "text": "Alexanderplatz"
+      }
+    ],
+    "correct_answer_id": "5c7d1f31-2099-4a77-ad78-ad8fb59faaf8",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/d5/a4/0f/d5a40fe1e834f62f2766ebfda4d687dcc3bfbe04/content?h=360&q=95&w=360",
+    "text": "Wo befinden wir uns?"
+  },
+  "aa8255bc-7b9b-46a4-ab91-882bae94596a": {
+    "answers": [
+      {
+        "id": "c58e1cfb-afcf-432f-85f6-462d4e66a69c",
+        "text": "Kaiser Wilhelm Platz"
+      },
+      {
+        "id": "ac531242-8e0e-4df4-a09a-f4671b65abfd",
+        "text": "Nollendorfplatz"
+      },
+      {
+        "id": "5a75a456-4cec-4557-baa8-e3ef05b524cf",
+        "text": "Potsdamer Platz"
+      },
+      {
+        "id": "477538d2-9975-4f48-8d96-baacc108964c",
+        "text": "Alexanderplatz"
+      }
+    ],
+    "correct_answer_id": "ac531242-8e0e-4df4-a09a-f4671b65abfd",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/96/c9/7d/96c97d9dec89a23ffe1f5c06b454baa64d401f40/content?h=360&q=95&w=360",
+    "text": "Wo findet man diese Inschrift?"
+  },
+  "af0e1d7d-d272-420b-9ec8-6a20fffb42a3": {
+    "answers": [
+      {
+        "id": "fc3ad3fc-0d40-449c-a95f-d3edbae22fc5",
+        "text": "U2"
+      },
+      {
+        "id": "38f043f4-b90e-4c61-9c7c-aacd21c0ce62",
+        "text": "U7"
+      },
+      {
+        "id": "fcb79e69-68e9-4d60-983c-bbf153a8d647",
+        "text": "U55"
+      },
+      {
+        "id": "d0254dca-8a5e-442e-9ce9-fc7d862b1c2d",
+        "text": "U9"
+      }
+    ],
+    "correct_answer_id": "fc3ad3fc-0d40-449c-a95f-d3edbae22fc5",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/89/69/0a/89690a49425cd597ac09f70fcb6f7524f0dbf148/content?h=360&q=95&w=360",
+    "text": "Welche Linie ist hier zu sehen?"
+  },
+  "b5bdbcee-152d-4f75-916f-b81d30d535f4": {
+    "answers": [
+      {
+        "id": "81f642b5-f2e0-4542-9f8f-9258b3486500",
+        "text": "Mohrenstra\u00dfe"
+      },
+      {
+        "id": "ebf2a8d3-c214-4bff-9447-67891e37e255",
+        "text": "Mendelssohn-Bartholdy-Park"
+      },
+      {
+        "id": "934f61bc-a539-44af-98f6-df533839bed4",
+        "text": "B\u00fchlowstra\u00dfe"
+      },
+      {
+        "id": "4fbc13b8-5fd5-42e2-bcaf-2b3e60bd7280",
+        "text": "Nollendorfplatz"
+      }
+    ],
+    "correct_answer_id": "934f61bc-a539-44af-98f6-df533839bed4",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/5a/b3/2c/5ab32c6f889857dd5ac50c9432ffea1afa2cca62/content?h=360&q=95&w=360",
+    "text": "Wo sind wir?"
+  },
+  "c6aa3ed8-a354-4e1a-a86e-1ff8714b9c9f": {
+    "answers": [
+      {
+        "id": "44869614-997b-4255-ab82-e5a3cbfb423c",
+        "text": "Brandenburg/Havel"
+      },
+      {
+        "id": "55c5a3e6-e6ad-4aee-ada7-51a095c74aac",
+        "text": "Cottbus"
+      },
+      {
+        "id": "108bc875-528c-43a5-bb2e-bc886913eb98",
+        "text": "Potsdam"
+      },
+      {
+        "id": "319b5c52-16c4-4f20-b09d-a70e3a70ac75",
+        "text": "Frankfurt/Oder"
+      }
+    ],
+    "correct_answer_id": "319b5c52-16c4-4f20-b09d-a70e3a70ac75",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/cb/1b/9f/cb1b9f2d3e1e05a53473ac6b98026fd8b54abb19/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist das?"
+  },
+  "c6c05cf6-d87b-48c3-8b3d-e21989bb8c22": {
+    "answers": [
+      {
+        "id": "cfe21f96-f63e-41ca-81e9-8064976b7bb7",
+        "text": "Cottbus"
+      },
+      {
+        "id": "eef1d62c-e7e3-4661-bd67-d461c577e0a7",
+        "text": "Frankfurt/Oder"
+      },
+      {
+        "id": "52e40e35-31a4-4b61-a481-ae225db1947d",
+        "text": "Potsdam"
+      },
+      {
+        "id": "9722f9a6-c444-4eae-b5d5-f3d28ada4af1",
+        "text": "Brandenburg/Havel"
+      }
+    ],
+    "correct_answer_id": "cfe21f96-f63e-41ca-81e9-8064976b7bb7",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/85/90/f5/8590f5cdae7e0c904d8c9abeac834bd93f7aaa66/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist das?"
+  },
+  "c8309c73-b8b9-4d3c-a4c0-456a7598266a": {
+    "answers": [
+      {
+        "id": "4b3fd80f-9b60-4137-a2eb-bc5a2174784a",
+        "text": "S\u00fcdkreuz"
+      },
+      {
+        "id": "7f9a30af-00b9-4473-a2cd-1942da621417",
+        "text": "Berlin HBF"
+      },
+      {
+        "id": "7a5f557f-420c-4847-98b1-f9467cc5b7c9",
+        "text": "Gesundbrunnen"
+      },
+      {
+        "id": "8ef8745a-0d85-46a7-b5b3-222ca6947363",
+        "text": "Potsdamer Platz"
+      }
+    ],
+    "correct_answer_id": "8ef8745a-0d85-46a7-b5b3-222ca6947363",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/0c/00/0b/0c000bff2d221a7d09ccb589184038afafced3ef/content?h=360&q=95&w=360",
+    "text": "Wo sind wir?"
+  },
+  "e0f40bab-6800-45af-8a12-c75f13a55599": {
+    "answers": [
+      {
+        "id": "9e6f5510-f224-4205-bca3-2c686888658f",
+        "text": "Brandenburg Altstadt"
+      },
+      {
+        "id": "e75ff4cf-0ec2-4a21-aee0-dbae18919a75",
+        "text": "Potsdam Altstadt"
+      },
+      {
+        "id": "519ca8f3-6a65-4043-9ecb-00cf09b95207",
+        "text": "Cottbus Altstadt"
+      },
+      {
+        "id": "c97dd996-f854-4039-9552-72fc2e61b5e0",
+        "text": "Frankfurt Altstadt"
+      }
+    ],
+    "correct_answer_id": "9e6f5510-f224-4205-bca3-2c686888658f",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/1c/63/c2/1c63c27839ac1f76763a426370436986112b15e6/content?h=360&q=95&w=360",
+    "text": "Welcher innerst\u00e4dtische Bahnhof ist hier zu sehen?"
+  },
+  "e4bdf586-b171-4ff5-9088-18cbb0cbea68": {
+    "answers": [
+      {
+        "id": "986354e6-d464-48ed-ac30-fabe72c13008",
+        "text": "Cottbus HBF"
+      },
+      {
+        "id": "ce6045b2-c3ad-40f0-8e3a-1824012b5bb2",
+        "text": "Potsdam HBF"
+      },
+      {
+        "id": "76315112-0eef-4c31-be04-217b0b27b121",
+        "text": "Frankfurt HBF"
+      },
+      {
+        "id": "234cda08-d3fd-42a7-b3e1-22087d4ba07d",
+        "text": "Brandenburg HBF"
+      }
+    ],
+    "correct_answer_id": "ce6045b2-c3ad-40f0-8e3a-1824012b5bb2",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/c0/c9/44/c0c944e532ef9104df9563367d481e618d1f6dcc/content?h=360&q=95&w=360",
+    "text": "Welcher Bahnhof ist hier zu sehen?"
+  },
+  "f66c6c42-b36f-4fbe-b535-8a540666f799": {
+    "answers": [
+      {
+        "id": "ff4c83d7-0667-4ff4-841a-36ebbc291d29",
+        "text": "Eberwalde HBF"
+      },
+      {
+        "id": "aa4a1c7b-542f-452d-8264-0853894a4bae",
+        "text": "Potsdam HBF"
+      },
+      {
+        "id": "2d490c15-d94b-406d-a43e-e63d0b4323cd",
+        "text": "Brandenburg HBF"
+      },
+      {
+        "id": "45af9215-af05-4678-acae-b72d41306f9c",
+        "text": "Cottbus HBF"
+      }
+    ],
+    "correct_answer_id": "2d490c15-d94b-406d-a43e-e63d0b4323cd",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/b3/c6/91/b3c691e276e281860a2c3d3c12c38a54f0fe6da4/content?h=360&q=95&w=360",
+    "text": "Wo geht nichts mehr?"
+  },
+  "f7824e1b-4372-4ec6-98fa-74eb1596c6e0": {
+    "answers": [
+      {
+        "id": "0b5099be-a5b8-4a96-af9f-eabb53ef3367",
+        "text": "Altstadt"
+      },
+      {
+        "id": "e39decc9-9ccd-492b-93ef-9b385dd21740",
+        "text": "Pritzerbe"
+      },
+      {
+        "id": "142c2dbf-7d67-4bb3-bba6-0bb083d85995",
+        "text": "Premnitz Nord"
+      },
+      {
+        "id": "127a633b-c4e3-4175-afa1-d59824258e8a",
+        "text": "G\u00f6rden"
+      }
+    ],
+    "correct_answer_id": "127a633b-c4e3-4175-afa1-d59824258e8a",
+    "photo_url": "https://quizup-media.imgix.net/photo/343129035968887666/a4/bf/9f/a4bf9f0af50879576ffad9e9aa235c0b787266d7/content?h=360&q=95&w=360",
+    "text": "Welcher Haltepunkt der RB51 ist hier zu sehen?"
+  }
+}

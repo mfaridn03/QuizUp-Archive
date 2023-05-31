@@ -1,0 +1,16 @@
+                  Player      Country  Level    Total XP
+1         Catherine Olen           US  1,561  85,458,465
+2         Kristen Averna           US  1,261  55,812,185
+3               Veronica  QU_SCOTLAND    647  14,729,089
+4    LaurieS Team Savant           US    404   5,778,632
+5            Stevetabisz           US    389   5,350,197
+6           Disney Lover           US    388   5,315,974
+7                  AlanM           US    368   4,784,748
+8                   cDub           US    355   4,456,384
+9   Larissa Fruean-Brown           US    352   4,378,313
+10            TheRealNSM           US    350   4,322,063
+11                 jbh57           US    341   4,110,708
+12              dianakay           US    325   3,727,989
+13                     .           US    324   3,722,914
+14        Marcela Moreno           MX    324   3,721,486
+15             Lara Dove           GB    322   3,671,272

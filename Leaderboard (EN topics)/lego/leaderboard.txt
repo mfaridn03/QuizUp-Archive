@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                   Ćira      AU   645  14,638,779
+2            Joe Bastian      US   605  12,904,073
+3          Paul Sinasohn      US   318   3,591,387
+4   Caleb Morea 50+ 100+      US   289   2,957,675
+5              Legobilia      US   273   2,636,865
+6                 Tekaru      US   170   1,033,877
+7               REFOTSIR      EE   168   1,013,219
+8                Katniss      US   141     714,134
+9        LordNightwing42      US   132     627,132
+10                 Benji      GB   130     611,470
+11              Ryan Low      SG   130     607,494
+12             BrickWill      US   130     604,781
+13            Princetoon      SG   121     526,351
+14        CupIsHalfEmpty      CA   114     472,802
+15                CoreyS      AU   113     463,930

@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1       Andy Who ʑเʆʆබ      GB   363  4,668,929
+2          Shabir Khan      GB   349  4,299,931
+3           Vanion1978      CZ   347  4,260,430
+4           Doctor Who      US   341  4,106,510
+5               K.A.L.      US   297  3,127,938
+6   Dalek save the app      AU   248  2,186,109
+7           Chris Carr      GB   229  1,868,404
+8    Marc Monty Morrow      GB   226  1,815,632
+9                 Pags      AU   219  1,702,746
+10        Adam Jauffur      GB   211  1,587,077
+11              Gupcub      US   209  1,557,339
+12        Philly Coops      GB   206  1,516,693
+13              Graeme      GB   206  1,511,516
+14         Shams Uddin      GB   205  1,501,805
+15         Adrian Hart      GB   195  1,361,155

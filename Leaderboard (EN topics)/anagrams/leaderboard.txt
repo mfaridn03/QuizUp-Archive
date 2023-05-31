@@ -1,0 +1,16 @@
+           Player Country  Level    Total XP
+1             Raj      US  1,447  73,420,771
+2            Tony      AU  1,396  68,390,431
+3   Christian  88      FR  1,326  61,666,269
+4   Taranjit kaur      IN  1,163  47,522,344
+5     ...........      IN    810  23,064,822
+6       Chandrika      IN    801  22,581,965
+7    Tolits Gobot      PH    787  21,756,837
+8         Harriet      PH    776  21,184,940
+9      ~Priyanka~      IN    753  19,921,573
+10             gb      CA    714  17,949,097
+11          Farah      CA    654  15,052,147
+12         Mariya      IN    630  13,962,165
+13    Mukesh Goel      IN    620  13,549,614
+14          Ashok      IN    616  13,347,756
+15         gaurav      IN    597  12,544,103

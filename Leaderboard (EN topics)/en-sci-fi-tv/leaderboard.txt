@@ -1,0 +1,16 @@
+                   Player   Country Level   Total XP
+1         Mudguts #C- ILA        GB   433  6,606,227
+2           Daniel Conroy        GB   374  4,949,549
+3                Potemkin        US   245  2,130,675
+4                  CYCLON        BE   180  1,157,961
+5                 Mothfly        US   170  1,037,129
+6                Heimdayl        GB   159    903,703
+7                    Mick        US   152    824,228
+8         Chance du Cygne        US   140    703,208
+9            Kevan Mahers  QU_WALES   131    615,340
+10            C.L. Parker        US   131    613,832
+11  Jenne Cordon Stephens        US   130    611,575
+12               Maxieman        US   124    549,954
+13  Terry Riemenschneider        US   122    534,917
+14                    Dee        CA   111    446,848
+15               Todd ᴵᴸᴬ        AU   111    445,308

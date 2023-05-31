@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1           Guido Hatzis      AU   543  10,372,870
+2      Syed Askari Abbas      PK   437   6,731,500
+3            Pankaj gada      IN   223   1,774,375
+4         Harish Poojary      IN   187   1,247,890
+5            Sportystuff      IN   158     890,978
+6         Muhammad Imran      PK   148     780,720
+7           Chris Jordan      GB   130     611,874
+8   Maverick #Legend-ILA      IN   125     561,165
+9              Rajaram S      IN   123     543,379
+10           Nayan Arora      IN   116     483,551
+11                naddex      GB   114     472,657
+12                Shaila      IN   111     448,194
+13             Anuruddha      NZ   111     442,928
+14          RAJESH YADAV      IN   111     442,730
+15          Dimple Hubby      GB   106     408,684

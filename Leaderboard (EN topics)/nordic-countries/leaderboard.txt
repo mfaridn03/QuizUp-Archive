@@ -1,0 +1,16 @@
+            Player Country Level    Total XP
+1          Stimo68      FR   611  13,165,729
+2         Vikingir      CA   571  11,486,199
+3         Wolfgang      NO   501   8,843,204
+4           DDMUMS      US   418   6,183,369
+5            Elfar      IS   384   5,208,272
+6      Vinttikoira      GB   381   5,117,566
+7         Albatros      DE   349   4,314,205
+8   Robert Simpson      US   343   4,151,770
+9      Kathy Manor      US   337   4,011,419
+10       Bluetooth      US   330   3,850,226
+11       solstrimm      SE   272   2,623,535
+12      Oisín Lane      IE   249   2,196,277
+13    Bill Ashburn      US   243   2,094,988
+14      Kostyantyn      UA   242   2,078,500
+15   Darren Peters      AU   235   1,956,530

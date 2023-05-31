@@ -1,0 +1,16 @@
+              Player Country  Level     Total XP
+1             Tanguy      FR  1,714  103,062,013
+2           paru anu      IN  1,611   90,993,507
+3        superoma_42      AT  1,584   87,983,735
+4              Monta      TN  1,500   78,943,032
+5                Leo      FR  1,378   66,658,691
+6            Sukhdev      IN  1,339   62,921,494
+7   Lord OMega#L-ILA      MA  1,255   55,324,575
+8               Kate      GB  1,250   54,820,224
+9       ÁngelM#L-ILA      CO  1,166   47,750,925
+10    Potsdamquizzer      DE  1,150   46,414,886
+11            Brahim      MA  1,142   45,755,265
+12         Subrata M      US  1,065   39,799,795
+13           EmelS42      TR  1,046   38,451,236
+14             Rendy      ID  1,044   38,285,133
+15                 J      CA  1,027   37,055,607

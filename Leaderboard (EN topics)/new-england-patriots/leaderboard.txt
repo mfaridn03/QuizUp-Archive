@@ -1,0 +1,16 @@
+             Player     Country Level   Total XP
+1     Jim Fernandez          US   363  4,665,135
+2               Dan          US   300  3,179,278
+3     David Woodman          GB   286  2,906,468
+4               Gav  QU_ENGLAND   222  1,759,054
+5          TJ Hinds          US   163    949,638
+6       Willie Boag          US   128    590,968
+7      Derek Coburn          US   126    568,514
+8        Patriot248          CA   100    359,737
+9           DinoDan          US    99    356,622
+10     Kenneth Ames          US    87    275,454
+11             Vonn          US    86    269,753
+12      Ted Johnson          US    85    264,811
+13  PatriotsGirl_54          US    85    262,958
+14     Jim Hennigan          US    79    231,278
+15  metroplexboston          US    79    228,179

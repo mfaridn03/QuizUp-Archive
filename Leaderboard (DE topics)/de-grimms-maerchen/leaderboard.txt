@@ -1,0 +1,16 @@
+            Player Country Level    Total XP
+1          Mona Lu      DE   570  11,450,522
+2     CriminalMind      DE   482   8,198,278
+3           Pangea      DE   285   2,886,334
+4             hizi      AT   244   2,119,558
+5         Demokrat      DE   215   1,650,524
+6   Petra Kaiserin      DE   205   1,499,188
+7           andrea      DE   188   1,266,818
+8           Marion      DE   184   1,214,850
+9          Miranda      DE   184   1,210,891
+10           Sunny      DE   180   1,153,308
+11      Mirimitsch      DE   163     953,248
+12   Maria  Schulz      DE   163     948,478
+13           Maria      AT   163     947,812
+14           Peter      DE   162     939,760
+15       Babalu 50      DE   161     929,743

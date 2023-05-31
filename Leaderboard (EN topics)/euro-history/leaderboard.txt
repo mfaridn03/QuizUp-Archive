@@ -1,0 +1,16 @@
+                                 Player Country Level    Total XP
+1                        Stanley #L-ILA      IS   754  20,006,322
+2                      Walter Stefan H.      AT   710  17,733,164
+3                        Dik #Elite ILA      ES   500   8,803,189
+4                          BobPowers826      US   469   7,758,440
+5                         oliviawalton1      US   402   5,716,955
+6                           Maggy_Mouse      AT   376   5,003,222
+7                         Nervöse Nelly      DE   369   4,804,228
+8                              Jeff Yap      MY   363   4,657,171
+9   francoise desmaillet...les gil-team      FR   351   4,369,094
+10                                  mlv      FR   330   3,855,863
+11                                 Mait      EE   284   2,853,357
+12                        Peter Farrell      IE   278   2,732,192
+13                              Saurabh      IN   269   2,573,829
+14                   aMALVAma#LegendILA      US   250   2,227,624
+15                                  IkR      FR   247   2,161,641

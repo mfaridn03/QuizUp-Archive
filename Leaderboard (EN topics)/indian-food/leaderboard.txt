@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1   Maverick #Legend-ILA      IN   460  7,456,350
+2            Kapil Gupta      IN   457  7,375,490
+3             super slam      IN   419  6,186,366
+4                 MBajaj      IN   367  4,773,123
+5          Pradeep Kakad      IN   305  3,286,130
+6       Mritunjay Sharma      IN   294  3,064,336
+7            Gauri Malik      IN   288  2,932,029
+8                Harjeet      IN   285  2,884,513
+9                 SUJITH      US   275  2,673,401
+10               Sunitha      IN   249  2,210,765
+11                  fire      GB   247  2,170,331
+12                anupam      IN   231  1,892,196
+13     Basabi Chatterjee      IN   221  1,743,212
+14             Ash Uppal      IN   213  1,609,592
+15                   Anu      IN   211  1,580,294

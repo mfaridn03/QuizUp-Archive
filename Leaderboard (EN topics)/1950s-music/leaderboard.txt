@@ -1,0 +1,16 @@
+           Player Country Level    Total XP
+1        Jouevite      US   575  11,661,500
+2             ej6      AU   500   8,798,908
+3       Slrshrink      US   467   7,685,129
+4   Trevor Wilson      US   461   7,483,508
+5           Jim B      US   435   6,672,439
+6           Barry      GB   434   6,651,758
+7        Julianna      US   402   5,701,495
+8    TheWilsonDuo      GB   363   4,669,223
+9           Linda      US   336   3,985,115
+10     Par Golfer      US   311   3,424,173
+11       James w.      US   306   3,320,928
+12  Carolina Wren      US   265   2,501,495
+13     ken sefton      GB   256   2,330,960
+14     Dave Moore      ES   240   2,054,933
+15        Manny A      US   237   1,989,790

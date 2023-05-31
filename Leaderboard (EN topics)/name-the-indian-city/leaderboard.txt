@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1       Mritunjay Sharma      IN   322  3,672,155
+2                Kalpana      IN   275  2,677,906
+3        A Satish Ganesh      IN   248  2,177,791
+4             FaZe Arjun      US   238  2,005,525
+5        Jitendra Kapoor      IN   233  1,936,241
+6           Sunita Singh      IN   220  1,720,714
+7     Dilip Kumar Mandal      IN   215  1,643,344
+8   Rajkumari (Princess)      IN   210  1,563,377
+9                  Pooja      IN   189  1,275,205
+10                 sumit      IN   186  1,228,479
+11           mk dasgupta      IN   184  1,206,905
+12         Kanchan Joshi      IN   183  1,199,641
+13          suresh menon      SA   178  1,126,893
+14    Manindra Nath Sahi      IN   173  1,074,900
+15             Kalpana S      IN   173  1,070,311

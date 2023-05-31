@@ -1,0 +1,16 @@
+                                     Player Country Level    Total XP
+1                          British Longhair      RO   900  28,442,703
+2                               Garry Smith      GB   790  21,936,844
+3                              John Millard      GB   556  10,875,230
+4                                 nota bott      GB   523   9,656,323
+5                           Robert Shepherd      GB   495   8,626,153
+6                        RobandPat Shepherd      GB   487   8,353,717
+7                                     Simon      GB   397   5,580,871
+8                                     Robin      GB   374   4,950,135
+9   Marie French 🦖 Team Savant Save the app      IE   370   4,832,461
+10                              Bosquetaire      RO   363   4,661,278
+11                               Geraldined      IE   362   4,624,939
+12                                Kay Snape      GB   309   3,378,298
+13                                 Bertymax      GB   308   3,368,743
+14                                    Eddie      GB   301   3,199,648
+15                            BabyCody PLAU      IE   295   3,076,030

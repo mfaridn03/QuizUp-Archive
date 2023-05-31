@@ -1,0 +1,16 @@
+                         Player     Country Level   Total XP
+1   Grandpa Savant Save the App          GB   300  3,178,863
+2                     Erin 100+          US   289  2,965,011
+3            Barçek W. Sowiński          PL   222  1,745,900
+4                           Ben          US   200  1,422,115
+5                     Elliott J          CA   160    914,250
+6                      GarBreen          IE   153    842,988
+7           Jon Thor Johannsson          NO   140    708,922
+8                       Notella          CH   135    654,418
+9                       Sowgent          IE   127    576,843
+10                     Fourquid  QU_ENGLAND   121    531,153
+11                          Cgb          AU   118    498,711
+12         Karen Hailey Cameron          US   117    491,053
+13                          HBU          US   112    457,048
+14                          Amy          GB   108    422,826
+15                 Chris Turner          US   101    373,170

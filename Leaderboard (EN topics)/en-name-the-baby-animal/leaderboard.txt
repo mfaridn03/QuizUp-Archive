@@ -1,0 +1,16 @@
+                                     Player     Country  Level    Total XP
+1                          M.  ( Makaleka )          GB  1,619  91,897,063
+2                                    *Dalu*          BZ    616  13,357,268
+3                                       Ann          GB    591  12,308,529
+4                            Chantal Lecocq          FR    473   7,899,865
+5                         Abdelbasset behih          DZ    469   7,754,809
+6                                 Lisa Geen          GB    463   7,566,236
+7                                 Bob's Mom          US    447   7,037,525
+8                             BabyCody PLAU          IE    396   5,541,359
+9                              Orchard Girl          US    387   5,300,225
+10                                   Norsch  QU_ENGLAND    334   3,941,672
+11                            Snigdha Singh          IN    333   3,925,073
+12                                    Vijay          IN    309   3,385,849
+13                                     Pims          FR    303   3,243,899
+14                           Georgianne Lee          US    278   2,745,955
+15  Marie French 🦖 Team Savant Save the app          IE    263   2,463,298

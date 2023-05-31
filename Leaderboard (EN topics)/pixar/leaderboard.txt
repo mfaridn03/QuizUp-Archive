@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1         Alpenzwerg 35      DE   541  10,311,907
+2   Ulysse Haute Savoie      FR   480   8,117,683
+3             NB #M-ILA      GB   356   4,490,900
+4                Pigpen      US   326   3,759,583
+5               Correto      US   266   2,519,127
+6          northernmarc      CA   228   1,850,092
+7             yudy praZ      ID   210   1,565,408
+8      Brandon Manivant      FR   210   1,564,505
+9            Tridentata      US   200   1,423,545
+10        BŁØØĐ ØF ĶĮŇĞ      CH   200   1,420,841
+11                Jaime      US   199   1,410,745
+12          MasterDeegs      US   199   1,409,136
+13               Rebeca      MX   197   1,389,407
+14        Tyler Mortier      US   197   1,377,235
+15           Lexie Grey      US   195   1,358,303

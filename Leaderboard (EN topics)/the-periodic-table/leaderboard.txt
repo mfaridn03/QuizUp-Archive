@@ -1,0 +1,16 @@
+                  Player     Country Level    Total XP
+1      Antonio Estupiñán          MX   852  25,501,230
+2                Binninu          DE   779  21,359,325
+3   Jan Mac Save the App          AU   511   9,199,292
+4               Noonmark          US   466   7,655,264
+5       Alexandre Raskin          CH   439   6,792,062
+6      Alpenstrandläufer  QU_ENGLAND   375   4,964,447
+7                SarahJS          US   364   4,675,803
+8                   Mica          FR   335   3,974,118
+9      Bruce Whalley ₹ɘȵ          AU   333   3,929,252
+10          Fett's Vette          US   331   3,878,364
+11                ~@lm@~          MX   326   3,770,173
+12             Blindpool          US   324   3,704,840
+13            ShvM Agrwl          IN   319   3,606,978
+14       Josiane Milaire          BE   304   3,276,088
+15           Manny Milan          US   297   3,130,006

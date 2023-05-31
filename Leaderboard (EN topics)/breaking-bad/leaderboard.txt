@@ -1,0 +1,16 @@
+              Player Country  Level    Total XP
+1              Kitty      US  1,585  88,141,545
+2          Baby Blue      CA  1,237  53,691,529
+3           Bot 🌎UT💫      LB  1,190  49,681,908
+4            Beverly      US  1,167  47,847,879
+5                Ita      GB  1,136  45,345,916
+6        KillerQueen      ZA  1,026  36,951,721
+7                Ali      GB    889  27,773,601
+8             SOPHIE      US    726  18,523,997
+9     The Highlander      US    633  14,114,614
+10             Nomad      FR    607  12,953,674
+11  Varantino Վարանդ      FR    603  12,816,801
+12              WOLF      US    588  12,158,773
+13         The Burgy      US    526   9,737,435
+14            Beamer      US    523   9,648,395
+15            MrPibb      ES    459   7,432,883

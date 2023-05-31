@@ -1,0 +1,16 @@
+                          Player     Country Level    Total XP
+1                          Frank  QU_ENGLAND   538  10,204,938
+2                    ChrisPbacon          US   178   1,135,907
+3                   \/ery Gneiss          US   161     927,210
+4                      Redwozzer          GB   161     927,120
+5                          Scott          US   151     813,433
+6                     Fenris Ulf          US   147     771,277
+7           Elizabethevans Evans          GB   144     743,394
+8                           Andy          IE   143     738,056
+9                 Charlene Mckay          CA   142     725,058
+10           purple-people-eater          US   138     687,624
+11                  Twinmama2007          US   130     606,776
+12            Brian Muenchenbach          US   123     545,008
+13  Rhodes from the land of Trin          CA   123     542,695
+14                Mario Pokrivač          HR   120     517,634
+15                   Frank Evans          GB   120     515,298

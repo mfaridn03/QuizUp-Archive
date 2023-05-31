@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1    Rajesh Sharma      IN   381  5,128,537
+2           keshto      NZ   312  3,440,255
+3    Snigdha Singh      IN   258  2,364,670
+4              Dun      NZ   192  1,314,082
+5   Sushil Purohit      IN   155    856,594
+6               VK      US   131    615,820
+7          Puna 13      IN   130    612,428
+8      Ritu Sharma      IN   127    584,086
+9            Rahul      IN   115    478,662
+10   Kamal Chauhan      IN   115    478,172
+11   Rajesh Sharma      IN   107    415,047
+12     mamta sethi      IN   105    401,444
+13  NerkAhiawaalli      CA   101    369,362
+14           BHOOT      IN   100    363,022
+15           Vin C      IN    98    351,681

@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1   BKM51 save the app      DE   565  11,236,002
+2                  Ela      DE   475   7,958,077
+3               Eithne      DE   404   5,769,556
+4            JotttEsss      DE   371   4,861,507
+5       Rita Birkholtz      DE   343   4,165,551
+6              Ed.Ding      DE   273   2,635,825
+7               Mahmut      TR   251   2,235,565
+8       ***A.M.Josy***      AT   242   2,082,546
+9             Godspeed      IT   219   1,701,275
+10          Kaarst2008      DE   203   1,467,542
+11        Peter Kaiser      DE   180   1,151,048
+12            Mako2015      DE   170   1,039,088
+13                Mako      DE   170   1,033,037
+14          Frontignan      DE   168   1,005,119
+15             deleted      IT   164     958,798

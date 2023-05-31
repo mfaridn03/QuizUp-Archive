@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1   Maverick #Legend-ILA      IN  1,541  83,261,571
+2        Angel of Wisdom      US  1,450  73,779,350
+3            Jai Mata Di      IN  1,107  42,997,443
+4           Pukar #E-ILA      NP    915  29,424,229
+5                 Prasad      IN    828  24,124,740
+6           Guido Hatzis      AU    780  21,402,876
+7                 Jackie      ZA    676  16,070,726
+8              the champ      US    662  15,416,444
+9         Pavan Bhargava      IN    637  14,288,706
+10                  Mike      GB    585  12,049,054
+11     Syed Askari Abbas      PK    550  10,643,641
+12                Sharma      IN    549  10,603,247
+13             Rim Hafiz      BD    505   9,000,708
+14          Nikunja Rout      IN    504   8,940,108
+15                  Raja      IN    422   6,293,465

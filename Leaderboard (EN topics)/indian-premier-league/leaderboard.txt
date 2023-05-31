@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1               Samy      IN   328  3,804,675
+2   Narasimha Prasad      IN   311  3,425,760
+3      Akansh Kerala      IN   288  2,941,528
+4               ROBY      IN   242  2,087,022
+5            Ajay Ns      IN   189  1,274,671
+6      Prashant Koli      IN   180  1,152,101
+7       Mahesh kumar      IN   157    886,744
+8              Abhay      IN   152    829,920
+9    Samhith Samhith      IN   151    816,671
+10     Suhruth shyam      IN   144    747,146
+11  Siddharth Sirohi      IN   135    652,075
+12   Krishna Chandra      IN   135    650,796
+13        Rana Usman      PK   133    637,399
+14      Sunny Murthy      IN   130    605,500
+15      Pratap Patil      IN   129    600,043

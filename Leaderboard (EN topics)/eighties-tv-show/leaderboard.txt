@@ -1,0 +1,16 @@
+          Player Country Level    Total XP
+1          Linda      US   721  18,282,742
+2          Brian      US   658  15,254,642
+3   David Cayton      US   502   8,895,738
+4           Meow      NZ   326   3,752,186
+5         Rtmg11      US   256   2,327,112
+6            HAK      US   237   1,992,162
+7          Fire!      US   194   1,349,251
+8     GA Warrior      US   192   1,314,506
+9       kimm5263      US   166     983,209
+10     Bigreddog      NZ   153     836,328
+11           Rod      US   152     826,723
+12          Dave      US   148     783,485
+13        L_____      CA   145     749,620
+14        Sherri      CA   143     730,277
+15         Jerry      US   140     707,127

@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1               Angie Moss      AU  1,114  43,602,519
+2                    K I M      ES  1,015  36,217,927
+3                  Mmenull      US    835  24,500,448
+4        PDogg - No Qluzos      IE    807  22,911,669
+5           Sumatran Tiger      GB    703  17,395,762
+6                    JuneM      GB    688  16,656,133
+7                Sandy Lee      US    682  16,391,443
+8                      Mom      US    668  15,724,043
+9    Christopher Stombaugh      US    666  15,608,846
+10  Devapragasen Rungasamy      MU    589  12,221,577
+11        Mjm In The Ville      US    542  10,353,872
+12      Y u heff to b mad?      US    540  10,286,323
+13                D Miller      US    538  10,196,562
+14                  Nature      EG    524   9,673,456
+15                   MLMMD      US    490   8,450,014

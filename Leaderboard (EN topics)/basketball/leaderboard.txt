@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1              Deplorable      US   700  17,248,456
+2           Cleotha Black      US   415   6,095,607
+3                Valentín      ES   320   3,617,958
+4                 CASITAS      ES   282   2,815,794
+5           Cleotha Black      US   270   2,584,081
+6              Chhun Seng      US   230   1,873,419
+7         Big Bad Bruins!      CA   212   1,604,422
+8                  TopTen      PL   204   1,476,728
+9           Cleotha Black      US   201   1,444,109
+10         Isaac Thompson      CA   200   1,425,422
+11  D.F.=[Dirty & Freaky]      DE   191   1,304,871
+12        Can't Be Beat!!      US   186   1,241,007
+13             Mala In Se      US   184   1,212,407
+14                  Jayne      US   183   1,200,595
+15        Winston D'cunha      IN   170   1,038,035

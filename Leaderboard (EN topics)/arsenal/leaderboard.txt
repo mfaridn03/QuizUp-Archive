@@ -1,0 +1,16 @@
+                        Player     Country Level   Total XP
+1   Silvertongued Smoothie🌏UT💫  QU_ENGLAND   500  8,805,533
+2                  Ahmada  PLO          TZ   487  8,365,189
+3                         Jono          NZ   384  5,206,863
+4               MartinAbrahams          GB   300  3,195,302
+5               Jamie Houghton          GB   285  2,887,182
+6                      Arsenal          BG   268  2,542,063
+7                      :..X..:          GB   235  1,963,714
+8                   Phil Lewis          GB   231  1,899,785
+9                       Andrew  QU_ENGLAND   231  1,891,624
+10         °°°Aliyu Makarfi°°°          NG   226  1,818,921
+11           Marc Monty Morrow          GB   226  1,815,661
+12                     Topgoon          IE   204  1,480,090
+13                    Shivaram          BE   200  1,420,789
+14                        Dave          GB   196  1,364,249
+15    Pongsathorn Piriyasathit          TH   191  1,306,774

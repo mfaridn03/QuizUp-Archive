@@ -1,0 +1,16 @@
+                 Player Country  Level    Total XP
+1      Kerry#legend-ILA      AU  1,336  62,646,732
+2                 ᵈnull      ID    860  25,984,550
+3       Ty Rawles #100+      US    458   7,417,203
+4   Jaskanwar Singh ֆȶო      IN    438   6,773,832
+5            Sundevil13      US    426   6,412,222
+6           Rick Larson      US    332   3,889,719
+7                 Kevin      US    321   3,649,890
+8             Praxsus X      US    289   2,954,479
+9         Victor Mature      CA    252   2,251,642
+10       Knuckles Nelly      US    240   2,040,624
+11               Bill C      US    236   1,983,798
+12      Patricia Taplin      US    212   1,593,070
+13          Alan Lawson      US    209   1,562,578
+14              Anthony      US    203   1,465,922
+15                 Dave      US    201   1,441,942

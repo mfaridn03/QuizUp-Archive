@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1     Invoker™ ₹ɘȵ      IN   181  1,172,477
+2           Shaila      IN   166    985,078
+3         Gk Singh      IN   153    840,776
+4     Pankaj Asher      IN   129    603,305
+5               RJ      IN   122    540,676
+6     Neela Gandhi      IN   122    538,577
+7    Sunita Bhaiya      US   118    500,168
+8      Manju Sheel      IN   105    400,533
+9             Sona      IN   100    359,761
+10  Abhinav Shukla      IN    96    333,068
+11     Vijay Malik      IN    94    321,427
+12   Sandeep Gupta      IN    92    305,175
+13      Renu Mehta      IN    85    262,380
+14        Anuradha      IN    83    253,961
+15   Poonam Mishra      IN    82    248,425

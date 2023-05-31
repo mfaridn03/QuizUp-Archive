@@ -1,0 +1,16 @@
+                      Player Country Level    Total XP
+1                          D      US   577  11,724,704
+2                  Robb Louk      US   458   7,392,959
+3                    Steve W      CA   300   3,180,928
+4              Sugar & Spice      US   228   1,846,677
+5                       Bugs      US   211   1,579,032
+6                      David      US   190   1,284,648
+7                  JetFanGlo      US   157     883,975
+8              Schlangenator      US   138     684,651
+9                    Scooter      US   130     610,530
+10  Bibliophile SAVE THE APP      US   119     510,233
+11           Cameron Bristow      US   119     506,884
+12               Mark Porter      US   103     382,984
+13              Eric Majeski      US   102     380,259
+14                   Michael      US   100     360,546
+15                 Michael I      US   100     359,459

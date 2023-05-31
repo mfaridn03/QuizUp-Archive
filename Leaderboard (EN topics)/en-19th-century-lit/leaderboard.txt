@@ -1,0 +1,16 @@
+                  Player     Country Level   Total XP
+1   KatGer- Save the App          US   445  6,973,134
+2              Des Davis  QU_ENGLAND   266  2,502,089
+3                Rhaenys  QU_ENGLAND   260  2,394,935
+4              Geraldine          GB   244  2,107,986
+5           devi. #g-ila          DE   223  1,770,823
+6                Natalia          RU   204  1,481,174
+7                  Alice          US   193  1,328,307
+8               ~Sheree~          US   185  1,221,916
+9               Karant23          US   180  1,161,973
+10            John Ewing          US   174  1,085,822
+11               lyndush          GB   172  1,060,831
+12               atpeace          CA   164    965,898
+13         Bob Alexander          CA   162    935,443
+14               Carolee          AU   157    880,468
+15              Francois          US   148    786,985

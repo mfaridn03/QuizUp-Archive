@@ -1,0 +1,16 @@
+                   Player Country Level   Total XP
+1   (TZIN) - Save the App      IN   417  6,150,931
+2          Higgs Particle      SG   328  3,802,135
+3              Adeel 🌍UT💫      PK   261  2,418,114
+4                    Khan      IN   253  2,268,109
+5                    JFTE      BE   219  1,708,288
+6          Pompel Piltson      NO   205  1,501,718
+7                Michal K      PL   172  1,059,992
+8             Omkar - #CS      IN   152    829,402
+9         Neeraj Majumdar      IN   151    818,904
+10                    Yew      RO   145    753,277
+11                   Andy      IT   131    617,512
+12                  Jbird      US   129    597,696
+13                    ひろみ      JP   118    500,629
+14         Nawlins Robear      US   116    489,098
+15             Umair Khan      PK   109    431,872

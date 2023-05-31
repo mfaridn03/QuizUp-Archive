@@ -1,0 +1,16 @@
+                        Player      Country Level   Total XP
+1                 DJ Knowitall           US   305  3,299,901
+2          Will Reynolds #100+           US   239  2,031,647
+3                 carlosmaluco           PT   192  1,315,888
+4                        A.R.D           IN   190  1,282,084
+5                 Isaiah Berry           US   166    984,001
+6                   Rusch Jast           CA   137    675,321
+7                           JE           PH   118    500,242
+8   Akiza “Black Rose” Izinski   QU_ENGLAND   117    497,565
+9                      Moh.Hom           SA   111    445,614
+10            Terpsichore Kira           US   110    440,438
+11                 "The Kujak"           US   104    395,130
+12            Stuart Armstrong  QU_SCOTLAND   102    380,143
+13           Anthony Pagniello           CA   102    378,342
+14                   Lisa 100+  QU_SCOTLAND   101    373,509
+15        Snowphie JWP ~Sister   QU_ENGLAND   100    360,536

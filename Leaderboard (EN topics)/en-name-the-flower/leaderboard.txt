@@ -1,0 +1,16 @@
+             Player      Country Level    Total XP
+1          ~Sheree~           US   857  25,829,037
+2         Marco1000           IT   665  15,541,961
+3               Ann           GB   491   8,495,442
+4           Planter           US   387   5,297,356
+5      Phalaenopsis           MY   368   4,799,595
+6         Osha 🌍UT💫           US   364   4,680,816
+7              Răch           IN   313   3,460,725
+8   Hannetjie Raath           ZA   304   3,276,032
+9           Kasturi           IN   278   2,748,017
+10   Jane V * JOT *  QU_SCOTLAND   271   2,604,779
+11             Jane           US   267   2,534,011
+12     Cathy_G 🌎UT💫           US   267   2,526,179
+13           Vaanda   QU_ENGLAND   260   2,399,838
+14          Marlies           DE   260   2,396,709
+15           Beejay           CA   259   2,386,433

@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1   ArchaeoPanther      US   408  5,890,816
+2        Osha 🌍UT💫      US   343  4,153,504
+3          Gantine      US   341  4,116,145
+4    Tracy Gaberel      CA   224  1,791,587
+5        Hullflyer      US   185  1,223,341
+6             Jeff      US   172  1,052,017
+7    Emily Hergert      US   170  1,027,611
+8      Peter Dumas      US   167    993,715
+9         Tom Shaw      GB   158    892,466
+10           Jacob      US   146    764,256
+11             Val      US   137    674,454
+12    Bryce Wilson      US   135    655,744
+13    Wizard Rizzo      US   132    624,728
+14  The Black Wolf      US   129    597,742
+15    Osirisreborn      US   124    554,827

@@ -1,0 +1,16 @@
+                    Player     Country Level   Total XP
+1             JakeTheGreat          AU   400  5,638,029
+2                        L          US   339  4,057,130
+3                    Derpy          US   185  1,224,834
+4              Jon Chirico          US   128    591,279
+5                     Dave          GB   123    547,595
+6                   Stuart          US   117    491,411
+7                   TO 339          US   109    432,680
+8             Snotsucker_1          US   108    419,949
+9              Poodlemommy          US   104    391,584
+10                  Deacon          US   102    376,654
+11               Catherine          US   101    370,296
+12                 Camacho          PR   101    369,555
+13                 Frank G          US    97    343,949
+14           Amelie Cooper  QU_ENGLAND    97    343,065
+15  Shibby.  JWP - Brother          US    87    277,458

@@ -1,0 +1,16 @@
+                       Player Country Level    Total XP
+1                    RIA ROSE      DE   681  16,308,740
+2               Michelle Bark      GB   570  11,442,883
+3                      Peyang      CA   559  11,005,536
+4                      Rita D      GB   484   8,265,798
+5                    Ladyhaze      CA   398   5,590,802
+6                        Mary      IE   351   4,352,190
+7                      Bejoam      GB   343   4,158,200
+8      Anne-marie Chargelegue      FR   324   3,707,708
+9                   Alan John      GB   317   3,568,117
+10             Audrey Nuttall      GB   314   3,488,526
+11                    Treenie      AU   313   3,459,594
+12                       Rita      GB   256   2,328,152
+13                  Edeltraut      DE   252   2,249,439
+14                    Sherman      US   248   2,190,076
+15  Sophie Mujib-save the App      PK   244   2,115,187

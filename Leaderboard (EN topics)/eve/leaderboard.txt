@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1                   Edit      NZ   186  1,229,084
+2            Rule of Six      US   174  1,088,336
+3                Natalee      IS   122    537,280
+4        Casey Patterson      US   110    440,661
+5             Emre Özruh      TR   101    372,163
+6               Domanark      US    94    322,899
+7          Lauren Eccles      GB    82    247,335
+8                  Ixion      US    80    234,334
+9             Königsberg      SK    76    210,784
+10               Nyxeris      US    76    209,897
+11        Tyler Zen Ford      US    76    209,761
+12  Dread Pirate Rodgers      US    75    204,213
+13     Jonathan McDougal      GB    74    202,425
+14         Matt Renvoize      GB    70    180,459
+15             Jim Cavin      CA    69    175,693

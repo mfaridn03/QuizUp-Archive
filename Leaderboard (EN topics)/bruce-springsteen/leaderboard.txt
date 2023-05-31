@@ -1,0 +1,16 @@
+            Player     Country Level    Total XP
+1                D          US   978  33,636,388
+2     Andy Holding  QU_ENGLAND   775  21,107,338
+3          Candice          US   661  15,355,288
+4       Shirl Girl          GB   510   9,162,131
+5          Scooter          US   330   3,848,745
+6              Vid          CA   315   3,508,570
+7        Bruceyboy          AU   285   2,880,078
+8           Brn2Rn          US   275   2,687,847
+9              WJD          US   274   2,653,834
+10           Texas          FR   273   2,639,069
+11     Joe Roberts          SE   254   2,287,966
+12  Doris Porcelli          US   192   1,320,845
+13   Tapedcrusader          CA   185   1,220,023
+14    Ove.Pedersen          DK   184   1,207,042
+15        Mr Mochi          US   181   1,171,308

@@ -1,0 +1,16 @@
+                             Player      Country Level    Total XP
+1                               Rae           US   803  22,677,284
+2   Bree Team Mac Eoin Save the App           IT   559  11,001,198
+3                               Pat           GB   527   9,778,982
+4                        buffalocuz           US   497   8,715,420
+5                          Ladyhaze           CA   460   7,460,410
+6                             Marci           US   433   6,632,505
+7                              35mm           CA   433   6,609,145
+8                         Bob's Mom           US   404   5,761,667
+9                             Bremo           US   367   4,757,313
+10                Dorothy G. #L~ILA           US   366   4,744,808
+11                   Jane V * JOT *  QU_SCOTLAND   362   4,621,291
+12                             Jude           US   351   4,346,947
+13                           Dink24           US   346   4,228,685
+14                          Martina           IE   345   4,213,521
+15                          GrannyC   QU_ENGLAND   341   4,119,144

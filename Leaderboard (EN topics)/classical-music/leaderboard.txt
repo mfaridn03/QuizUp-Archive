@@ -1,0 +1,16 @@
+                     Player Country Level    Total XP
+1                  HannahBF      US   884  27,443,843
+2               Fanny Coupé      FR   829  24,173,121
+3                  Claire K      US   708  17,637,377
+4                     Jojoe      FR   660  15,338,787
+5                     Peter      GB   559  11,006,352
+6             Andrew Tohill      IE   545  10,470,360
+7       Jon Thor Johannsson      NO   530   9,918,806
+8      Merle - Save the App      DE   520   9,513,980
+9                       DrB      US   519   9,508,547
+10  Luis Eduardo Soto Pinto      CL   503   8,915,066
+11                   John49      GB   493   8,567,529
+12                   Daniel      MX   434   6,634,685
+13                MacGuffin      IN   407   5,846,785
+14                   Manu g      FR   389   5,353,845
+15            Grannie Annie      AU   375   4,972,119

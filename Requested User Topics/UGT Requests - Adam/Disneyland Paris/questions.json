@@ -1,0 +1,1727 @@
+{
+  "08249a86-9807-4f41-a4c0-8dbc0cce7a5f": {
+    "answers": [
+      {
+        "id": "ccd518e0-d81b-4e70-b53d-c2968b3d16d5",
+        "text": "WALL.E"
+      },
+      {
+        "id": "15860e8e-e4f2-4636-91fb-a457558af197",
+        "text": "Toy Story"
+      },
+      {
+        "id": "4e86a4b4-1d6a-45bf-8d99-f1c67bd5c72d",
+        "text": "Up"
+      },
+      {
+        "id": "cd585d3f-de3a-400a-bab4-a520a8c92d0d",
+        "text": "Cars"
+      }
+    ],
+    "correct_answer_id": "15860e8e-e4f2-4636-91fb-a457558af197",
+    "photo_url": null,
+    "text": "What film franchise is the Pizza Planet restaurant based on?"
+  },
+  "0bd5f89c-e168-47d4-b6e8-f4259aa0cba5": {
+    "answers": [
+      {
+        "id": "72aa6cee-81df-472a-9a9e-8216b8024d1f",
+        "text": "4"
+      },
+      {
+        "id": "e47e2c0a-fb64-4287-9e46-793a1eca41d2",
+        "text": "1"
+      },
+      {
+        "id": "9cac7a32-9656-4e27-8e2f-f795c43de437",
+        "text": "3"
+      },
+      {
+        "id": "29410dda-e78d-4cae-b703-bb4462e64f49",
+        "text": "2"
+      }
+    ],
+    "correct_answer_id": "29410dda-e78d-4cae-b703-bb4462e64f49",
+    "photo_url": null,
+    "text": "How many theme parks does Disneyland Paris Resort have?"
+  },
+  "0c708e73-32bb-46e0-992c-102b69eb2177": {
+    "answers": [
+      {
+        "id": "1a560305-47e8-46fe-9575-68b66bb4859d",
+        "text": "Prince Charming"
+      },
+      {
+        "id": "6a2e9a7e-9577-47e0-b495-d35cc6ca91e7",
+        "text": "Arthur"
+      },
+      {
+        "id": "23ede503-6870-476b-84ee-7c76d43baad2",
+        "text": "Cinderella"
+      },
+      {
+        "id": "688d2b14-7729-4e3d-ac2d-628bbac5fd41",
+        "text": "Lancelot"
+      }
+    ],
+    "correct_answer_id": "688d2b14-7729-4e3d-ac2d-628bbac5fd41",
+    "photo_url": null,
+    "text": "Fill in the blank: \"Le Carrousel de ______?\""
+  },
+  "0d601e8a-2eef-48b9-b5b7-6919c8af83ec": {
+    "answers": [
+      {
+        "id": "e75542d8-f03f-47a4-b666-6a3b4b9d08ea",
+        "text": "4"
+      },
+      {
+        "id": "6a053422-6ac9-48bb-9201-c19ac7d21c79",
+        "text": "1"
+      },
+      {
+        "id": "568159d3-a70f-4309-804b-8b97d15d8529",
+        "text": "3"
+      },
+      {
+        "id": "8f2a2db9-9998-408d-a93b-8a8dbf617511",
+        "text": "2"
+      }
+    ],
+    "correct_answer_id": "568159d3-a70f-4309-804b-8b97d15d8529",
+    "photo_url": null,
+    "text": "How many rides are in the Toy Story themed land?"
+  },
+  "0f6ca3dd-ab1a-4651-bfbd-eb433ed09dac": {
+    "answers": [
+      {
+        "id": "8eeba11d-2500-4683-8384-7853e2d3f8f2",
+        "text": "Aladdin"
+      },
+      {
+        "id": "fe2e131a-9a5f-47d4-976b-30c8f04e7516",
+        "text": "The Sultan"
+      },
+      {
+        "id": "55d6d253-7cb3-4be6-8f6c-cd4216b43d93",
+        "text": "Iago"
+      },
+      {
+        "id": "07ca72c3-6717-4456-8167-423a8424ac65",
+        "text": "Genie"
+      }
+    ],
+    "correct_answer_id": "07ca72c3-6717-4456-8167-423a8424ac65",
+    "photo_url": null,
+    "text": "Who acts as the director on the Flying Carpets ride?"
+  },
+  "101aa1bb-21c3-4e11-a9ad-47674f803c82": {
+    "answers": [
+      {
+        "id": "0317ef79-7f93-44d8-9d8d-22fae208e957",
+        "text": "7"
+      },
+      {
+        "id": "cc5a2f20-85f8-44c8-8f4f-bc5c88f3d575",
+        "text": "9"
+      },
+      {
+        "id": "9036a0a4-fa1d-400b-bd7a-3e8ffb2c774d",
+        "text": "8"
+      },
+      {
+        "id": "33c68af4-ddb7-49f9-b40b-11c3120d73be",
+        "text": "6"
+      }
+    ],
+    "correct_answer_id": "0317ef79-7f93-44d8-9d8d-22fae208e957",
+    "photo_url": null,
+    "text": "How many Disneyland Paris resort hotels are there?"
+  },
+  "11778c5b-fda5-40ca-9925-29855589a3a2": {
+    "answers": [
+      {
+        "id": "51f9faab-9348-48ae-864e-6605cbfa4091",
+        "text": "Dr Facilier"
+      },
+      {
+        "id": "a4b1a10b-4821-4e04-aa0a-aa7d35e9930a",
+        "text": "Jafar"
+      },
+      {
+        "id": "2e050f2b-319f-4533-956a-2d1bd39f5668",
+        "text": "Captain Hook"
+      },
+      {
+        "id": "d149933a-c2c8-4f5d-8ac8-5a3e7f7831d9",
+        "text": "Maleficent"
+      }
+    ],
+    "correct_answer_id": "d149933a-c2c8-4f5d-8ac8-5a3e7f7831d9",
+    "photo_url": null,
+    "text": "Which character's headgear is on top of the sign for Le Taniere Du Dragon?"
+  },
+  "11f1dc3e-9e85-4834-b02d-4b2a55875d29": {
+    "answers": [
+      {
+        "id": "dc2ee81f-4421-4898-a60f-1ce94387d02e",
+        "text": "3"
+      },
+      {
+        "id": "8a65bb47-fb80-4ae8-92dc-d32ed4d518b8",
+        "text": "2"
+      },
+      {
+        "id": "7b97186b-552a-4f5e-89fc-1184bc2d1b14",
+        "text": "4"
+      },
+      {
+        "id": "555e2f9a-730c-4e4d-9502-ef1d754ef3e2",
+        "text": "1"
+      }
+    ],
+    "correct_answer_id": "8a65bb47-fb80-4ae8-92dc-d32ed4d518b8",
+    "photo_url": null,
+    "text": "How many Child Detection Agents are there near the Scream Monitors?"
+  },
+  "14a5d230-c50c-4cf3-a9b9-52ce3718be11": {
+    "answers": [
+      {
+        "id": "29bb909c-ff54-4667-976a-33159d66a1ef",
+        "text": "March Hare"
+      },
+      {
+        "id": "8661081f-d3d4-43f0-a7ee-d8047c375a93",
+        "text": "White Rabbit"
+      },
+      {
+        "id": "afabf5df-386f-4bf3-a503-cdd1c5c44865",
+        "text": "Cheshire Cat"
+      },
+      {
+        "id": "a221a559-d244-40a5-b20e-8eec55d78366",
+        "text": "Mad Hatter"
+      }
+    ],
+    "correct_answer_id": "29bb909c-ff54-4667-976a-33159d66a1ef",
+    "photo_url": null,
+    "text": "Which Alice in Wonderland Character has a Refreshment spot?"
+  },
+  "16d87d94-60c6-4f12-86c8-df017f140380": {
+    "answers": [
+      {
+        "id": "5a0727c9-ceae-4039-8f36-64ee0bbd1e08",
+        "text": "Barry"
+      },
+      {
+        "id": "b5896466-3f3d-4491-a016-1f6aea62f737",
+        "text": "Bob"
+      },
+      {
+        "id": "eccb9ce7-e9d2-4c88-bc2e-7dacf274a0c6",
+        "text": "Bradley"
+      },
+      {
+        "id": "d81f5e3c-ab31-4e0c-a0fd-9765bfa09972",
+        "text": "Bill"
+      }
+    ],
+    "correct_answer_id": "d81f5e3c-ab31-4e0c-a0fd-9765bfa09972",
+    "photo_url": null,
+    "text": "Fill in the blank: \"Buffalo ____'s Wild West Show\"?"
+  },
+  "18ec7b8e-232a-46dd-8073-b9afd40adec3": {
+    "answers": [
+      {
+        "id": "6f3e71d0-bf88-41c1-8b49-3312cbe06ca8",
+        "text": "Cinderella"
+      },
+      {
+        "id": "c072d6a5-77c3-45c5-b27e-28a652ff18a2",
+        "text": "The Wizard of Oz"
+      },
+      {
+        "id": "16229c08-26ee-4e61-b149-b6ee32efa5aa",
+        "text": "The Sword in the Stone"
+      },
+      {
+        "id": "8f21c3af-5e47-4c92-938e-a8894be7a2d6",
+        "text": "Aladdin"
+      }
+    ],
+    "correct_answer_id": "6f3e71d0-bf88-41c1-8b49-3312cbe06ca8",
+    "photo_url": null,
+    "text": "Which of these movies is NOT featured in Le Pays de Contes de F\u00e9es?"
+  },
+  "1ac44124-6426-431b-a725-d1bde33ad491": {
+    "answers": [
+      {
+        "id": "a3874571-937c-4877-8585-f110dde3d41c",
+        "text": "Annette's"
+      },
+      {
+        "id": "d2e00019-8899-4037-8e8d-d2871b5d5245",
+        "text": "Amelia's"
+      },
+      {
+        "id": "892301f5-a4f3-43dc-8078-6a20f36dad63",
+        "text": "Alice's"
+      },
+      {
+        "id": "5dcd5030-c1a6-4c4b-b59f-f84388b732d4",
+        "text": "Aaron's"
+      }
+    ],
+    "correct_answer_id": "a3874571-937c-4877-8585-f110dde3d41c",
+    "photo_url": null,
+    "text": "Who's Diner is in Disney Village?"
+  },
+  "1d681046-53a3-4538-a36c-1641d10653e0": {
+    "answers": [
+      {
+        "id": "f7844a87-6b99-4596-bf64-acadade6b302",
+        "text": "Pike"
+      },
+      {
+        "id": "05ff5719-02ea-4bdd-a5bd-90cd3ca9581b",
+        "text": "Haddock"
+      },
+      {
+        "id": "e7bb9c79-06aa-4d22-93be-399c94bc317f",
+        "text": "Perch"
+      },
+      {
+        "id": "2449d784-97db-4f53-83b2-4b06d8f44b02",
+        "text": "Cod"
+      }
+    ],
+    "correct_answer_id": "2449d784-97db-4f53-83b2-4b06d8f44b02",
+    "photo_url": null,
+    "text": "Fill in the blank for this name of a restaurant: \"Cape ___\"?"
+  },
+  "1e4f904a-e07f-4adf-9abd-0e1b905ae2ed": {
+    "answers": [
+      {
+        "id": "998881bd-de39-4084-8624-76052acb81fe",
+        "text": "Tomorrowland"
+      },
+      {
+        "id": "d78d4ff6-2c88-4a00-b4a6-956cf23b5933",
+        "text": "Futureland"
+      },
+      {
+        "id": "ab34ad66-96a3-4e29-8f8f-f06f86a0a6a3",
+        "text": "Visionaryland"
+      },
+      {
+        "id": "cba528a2-948a-4b3e-b805-386393867f39",
+        "text": "Discoveryland"
+      }
+    ],
+    "correct_answer_id": "cba528a2-948a-4b3e-b805-386393867f39",
+    "photo_url": null,
+    "text": "What is the name of the future themed land in Disneyland Paris?"
+  },
+  "207274cc-89e1-4a89-867d-fa15d2bb8dd1": {
+    "answers": [
+      {
+        "id": "8223c4fd-8949-4341-bb69-a5f2110f1162",
+        "text": "Hunchback of Notre Dame"
+      },
+      {
+        "id": "0899be81-82aa-4cbf-b039-6607073c8891",
+        "text": "Snow White"
+      },
+      {
+        "id": "2623dd1a-b703-4d7c-b471-748ff7794c5a",
+        "text": "Cinderella"
+      },
+      {
+        "id": "20e3fb9b-006e-4ee8-a790-2ab1b335d7f5",
+        "text": "Aladdin"
+      }
+    ],
+    "correct_answer_id": "20e3fb9b-006e-4ee8-a790-2ab1b335d7f5",
+    "photo_url": null,
+    "text": "Which film has it's own enchanted passage?"
+  },
+  "21530989-b56f-4d95-aa7a-e545a58f07c5": {
+    "answers": [
+      {
+        "id": "1010b478-dbc1-46d1-8a7f-b3205ceb3bb6",
+        "text": "Magic Lamp"
+      },
+      {
+        "id": "5bc3ec0e-c487-45db-b0db-f103428655f0",
+        "text": "Ruby"
+      },
+      {
+        "id": "e192bc4f-7a11-45fc-9ae4-46109c2b3459",
+        "text": "Abu"
+      },
+      {
+        "id": "927a91be-0373-46ee-9dad-ef7c8efd4faf",
+        "text": "Genie"
+      }
+    ],
+    "correct_answer_id": "1010b478-dbc1-46d1-8a7f-b3205ceb3bb6",
+    "photo_url": null,
+    "text": "What/Who is in the middle of the Flying Carpets ride?"
+  },
+  "296ea7e1-6510-4a0a-b4bc-db86ce9624e2": {
+    "answers": [
+      {
+        "id": "5edd6671-bc8a-4a80-9783-4ab8c82b65d0",
+        "text": "7"
+      },
+      {
+        "id": "401fb6c1-9bc9-43e1-a964-cd71a290044c",
+        "text": "9"
+      },
+      {
+        "id": "f17528af-928f-4783-a080-5aa7ad1d269e",
+        "text": "10"
+      },
+      {
+        "id": "8dbbaedc-9299-4f0e-a04d-864a411aaf0b",
+        "text": "8"
+      }
+    ],
+    "correct_answer_id": "401fb6c1-9bc9-43e1-a964-cd71a290044c",
+    "photo_url": null,
+    "text": "How many scenes are there in the Le Passage Enchante d'Aladdin?"
+  },
+  "2ac54072-9b68-4271-b768-48b9ae0da55f": {
+    "answers": [
+      {
+        "id": "f1601f4a-4480-4b85-b7ea-99a54e36d5ae",
+        "text": "Mesa"
+      },
+      {
+        "id": "8fb2161d-50d7-4207-ae94-84e61761fb51",
+        "text": "Roundup"
+      },
+      {
+        "id": "532ad91c-b6a3-469a-a55c-621f939f2b36",
+        "text": "Rustler"
+      },
+      {
+        "id": "8228c39d-abc9-4e3c-b631-59e4a3b0515d",
+        "text": "Chaparral"
+      }
+    ],
+    "correct_answer_id": "8228c39d-abc9-4e3c-b631-59e4a3b0515d",
+    "photo_url": null,
+    "text": "What is the name of the theatre where the Frozen singalong plays?"
+  },
+  "30419e74-acb8-488f-8b52-45d1b78b93cf": {
+    "answers": [
+      {
+        "id": "d2e60f00-a825-48bf-a834-305a684a55ba",
+        "text": "Planet Hollywood"
+      },
+      {
+        "id": "521da6bf-8b63-4be5-9690-6920e8e2fa4f",
+        "text": "Rainforest Cafe"
+      },
+      {
+        "id": "f710903d-6fd0-45a7-8aef-e0bc2330c9b8",
+        "text": "McDonalds"
+      },
+      {
+        "id": "e3be1cd3-991a-4039-8349-ef85d6c9adc3",
+        "text": "Pizza Hut"
+      }
+    ],
+    "correct_answer_id": "e3be1cd3-991a-4039-8349-ef85d6c9adc3",
+    "photo_url": null,
+    "text": "Which of these chain restaurants are NOT found in Disney Village?"
+  },
+  "330f8b4c-3e44-4680-ab05-69b6ed9fb4a3": {
+    "answers": [
+      {
+        "id": "b53dbf7e-3dde-4cc8-8f4c-17ce7c5ad170",
+        "text": "Graham"
+      },
+      {
+        "id": "22a7e1ea-b9a7-4b74-a2d9-5d38ab3a2e43",
+        "text": "Gelato"
+      },
+      {
+        "id": "56dd1c33-cd7c-4dd0-a510-d8ab396a2cc7",
+        "text": "Gibson"
+      },
+      {
+        "id": "03a2e6a4-04df-4001-bbad-a5cc1ec8fd99",
+        "text": "Green"
+      }
+    ],
+    "correct_answer_id": "56dd1c33-cd7c-4dd0-a510-d8ab396a2cc7",
+    "photo_url": null,
+    "text": "Fill in the blank: \"____ Girl Ice Cream Parlour?\""
+  },
+  "35ad1794-0604-4788-8a9d-ea9fdf7d0103": {
+    "answers": [
+      {
+        "id": "adcf8533-31af-4e94-aade-f61f581892b2",
+        "text": "Purple"
+      },
+      {
+        "id": "4e0f60e9-8faa-4a5e-8285-88d27fc4db5d",
+        "text": "Orange"
+      },
+      {
+        "id": "48a231da-d382-4999-b629-e28053113e2e",
+        "text": "Red"
+      },
+      {
+        "id": "b96c3dc9-591c-473f-ba7a-0f4555faaf28",
+        "text": "Green"
+      }
+    ],
+    "correct_answer_id": "4e0f60e9-8faa-4a5e-8285-88d27fc4db5d",
+    "photo_url": null,
+    "text": "What colour is the track of RC Racer?"
+  },
+  "36e58497-e47b-4925-908e-8eb321713df6": {
+    "answers": [
+      {
+        "id": "d9b64154-6a57-457c-b6e4-f2cab796c983",
+        "text": "Duke"
+      },
+      {
+        "id": "b93e63f9-97a9-4080-b4f5-723d924060b8",
+        "text": "Prince"
+      },
+      {
+        "id": "1e50baa1-5ac2-48a6-a7ca-ba69f1f5f100",
+        "text": "King"
+      },
+      {
+        "id": "5776ba4d-68c2-49de-9486-760b3aee0927",
+        "text": "Earl"
+      }
+    ],
+    "correct_answer_id": "5776ba4d-68c2-49de-9486-760b3aee0927",
+    "photo_url": null,
+    "text": "What kind of royal title fills this blank: \"____ of Sandwich?\""
+  },
+  "411f34bb-c1df-4da5-974c-279961bb10cc": {
+    "answers": [
+      {
+        "id": "c93c4fca-05f3-41ac-9b0e-6775b771de5b",
+        "text": "Big Thunder Mountain"
+      },
+      {
+        "id": "079c933b-60f2-4909-9b54-2ee693b6432f",
+        "text": "Indiana Jones"
+      },
+      {
+        "id": "89dbf3bf-de7e-473a-8d89-a7fb744bd9e1",
+        "text": "Studio Tram Tour"
+      },
+      {
+        "id": "a983e8df-0f55-45b2-8bcb-128245df1a3d",
+        "text": "Disney Village"
+      }
+    ],
+    "correct_answer_id": "89dbf3bf-de7e-473a-8d89-a7fb744bd9e1",
+    "photo_url": null,
+    "text": "Where can you find Catastrophe Canyon?"
+  },
+  "4125c331-7c2f-483f-a91e-ca715b88814f": {
+    "answers": [
+      {
+        "id": "f8b988ed-10a4-4d58-b1a2-1334fd04b2f8",
+        "text": "Mickey and the Magical Map"
+      },
+      {
+        "id": "c69d936a-ec99-4dcd-9c1d-1cb16afe3d5c",
+        "text": "Animagique"
+      },
+      {
+        "id": "ae21541b-5a3d-4cd4-9b13-1810388456b7",
+        "text": "Cinemagique"
+      },
+      {
+        "id": "aed1c93d-04a0-40ae-8c5a-cf532811c391",
+        "text": "Dream Along with Mickey"
+      }
+    ],
+    "correct_answer_id": "c69d936a-ec99-4dcd-9c1d-1cb16afe3d5c",
+    "photo_url": null,
+    "text": "What show did Mickey and the Magician replace?"
+  },
+  "41dd63da-5048-43b7-99e4-fa57b00f2244": {
+    "answers": [
+      {
+        "id": "9275aee1-7e7a-41a8-98e6-ca1e9c204093",
+        "text": "Happy"
+      },
+      {
+        "id": "baf729a7-4005-4804-8c86-77a83f12c8c0",
+        "text": "Dopey"
+      },
+      {
+        "id": "7df39ddb-ca3f-4fe3-9d26-918b2f5677b6",
+        "text": "Bashful"
+      },
+      {
+        "id": "a83277e0-4304-4af4-8169-1dfeba6dba68",
+        "text": "Grumpy"
+      }
+    ],
+    "correct_answer_id": "baf729a7-4005-4804-8c86-77a83f12c8c0",
+    "photo_url": null,
+    "text": "On Les Pays des Contes de Fees, which dwarf is standing pointing outside of the mine?"
+  },
+  "53ccb5b3-6671-41ba-b9d3-92151084f78f": {
+    "answers": [
+      {
+        "id": "0decd512-3ffd-4496-82ae-9af4145a8375",
+        "text": "Dopey"
+      },
+      {
+        "id": "4adddbe4-690a-48ef-b7da-72accbfc1b8e",
+        "text": "Grmupy"
+      },
+      {
+        "id": "d01c9954-b4fb-4550-a452-a66a02375325",
+        "text": "Snow White"
+      },
+      {
+        "id": "cc24750c-2ebf-40c3-bbc7-8399ff7e284c",
+        "text": "Evil Queen"
+      }
+    ],
+    "correct_answer_id": "cc24750c-2ebf-40c3-bbc7-8399ff7e284c",
+    "photo_url": null,
+    "text": "Which character peeks through the window outside the Snow White ride?"
+  },
+  "566f5693-3f01-40b6-9218-ea58a9b93516": {
+    "answers": [
+      {
+        "id": "aada72f8-e3ba-4fa5-a6f1-10023df5c606",
+        "text": "1995"
+      },
+      {
+        "id": "53a5fd41-e91a-4e23-bcfe-327c54634bd1",
+        "text": "1992"
+      },
+      {
+        "id": "a32ed620-792b-4aa0-8d47-d2aecc38ecc1",
+        "text": "1994"
+      },
+      {
+        "id": "5fb900b5-8e95-462d-8774-0bca4a78d421",
+        "text": "1993"
+      }
+    ],
+    "correct_answer_id": "53a5fd41-e91a-4e23-bcfe-327c54634bd1",
+    "photo_url": null,
+    "text": "In which year did Disneyland Paris open?"
+  },
+  "576bfcb6-682e-4b53-baa2-c1eccf2e172a": {
+    "answers": [
+      {
+        "id": "98755079-bfee-4444-9df2-68952c075e0d",
+        "text": "Chef Hat"
+      },
+      {
+        "id": "92df7084-dde9-4e2e-9bd6-76ffd9845fed",
+        "text": "Serving Trolley"
+      },
+      {
+        "id": "b6ff5947-a3c0-404d-b267-b11cfc87f21a",
+        "text": "Spoon"
+      },
+      {
+        "id": "9f6ba61e-43a2-4543-abe9-075fa2c96669",
+        "text": "Rat"
+      }
+    ],
+    "correct_answer_id": "9f6ba61e-43a2-4543-abe9-075fa2c96669",
+    "photo_url": null,
+    "text": "What shaped vehicle do you ride in on the Ratatouille ride?"
+  },
+  "59f770f8-0cbc-4ba0-b493-1c9e2f7beb1e": {
+    "answers": [
+      {
+        "id": "8ae69403-845b-400e-8122-805da90b857a",
+        "text": "Wheezy"
+      },
+      {
+        "id": "fe1306a1-d817-45e0-bfef-06b232217342",
+        "text": "Slinky"
+      },
+      {
+        "id": "5fd55cb9-b5d9-4e5a-be8b-671623266bb1",
+        "text": "Hamm"
+      },
+      {
+        "id": "303fa586-3cba-4222-898d-72ccd838a438",
+        "text": "Woody"
+      }
+    ],
+    "correct_answer_id": "fe1306a1-d817-45e0-bfef-06b232217342",
+    "photo_url": null,
+    "text": "Which Toy Story character has his own spin ride?"
+  },
+  "6018d1a9-5cdc-43ba-a83c-a977d5a0b184": {
+    "answers": [
+      {
+        "id": "9ac0455f-3203-4986-85e4-eb37be311e43",
+        "text": "Jiminy Cricket"
+      },
+      {
+        "id": "1ebf04db-0f05-419b-aae1-a6db532ba9a0",
+        "text": "Blue Fairy"
+      },
+      {
+        "id": "de604118-09cc-4549-a02f-3ae5321507e6",
+        "text": "Pinocchio"
+      },
+      {
+        "id": "3e90f69b-7fa6-43f6-996a-d1ca08e72495",
+        "text": "Figaro"
+      }
+    ],
+    "correct_answer_id": "de604118-09cc-4549-a02f-3ae5321507e6",
+    "photo_url": null,
+    "text": "Which character stands atop the sign for Les Voyages de Pinocchio?"
+  },
+  "6193f709-49b7-48a1-b23e-cf5921e31ed4": {
+    "answers": [
+      {
+        "id": "0dfd28fc-04cd-4dfe-beaa-aa7cdb0ccad9",
+        "text": "Pig"
+      },
+      {
+        "id": "9ef8a4ef-8e55-4e81-9929-a726c5384147",
+        "text": "Donkey"
+      },
+      {
+        "id": "7d854564-8f9e-4418-998b-1225f7619fe1",
+        "text": "Dog"
+      },
+      {
+        "id": "6bc9bc42-82c2-4076-b132-98d550b06aa3",
+        "text": "Cat"
+      }
+    ],
+    "correct_answer_id": "7d854564-8f9e-4418-998b-1225f7619fe1",
+    "photo_url": null,
+    "text": "What animal holds the key in the Pirates of the Caribbean ride?"
+  },
+  "6ae1ae0b-db17-42c2-935b-dd7992ee8027": {
+    "answers": [
+      {
+        "id": "9f47014c-9a29-43f2-a3a8-2ad733fee756",
+        "text": "Whale"
+      },
+      {
+        "id": "860c2f19-7440-4a51-83f5-c56052752fd7",
+        "text": "Tiger"
+      },
+      {
+        "id": "c737fd77-3f35-4092-9f56-5edfe260a443",
+        "text": "Squid"
+      },
+      {
+        "id": "140e4c03-724f-4fe9-8743-d4e3288ca5f5",
+        "text": "Dragon"
+      }
+    ],
+    "correct_answer_id": "140e4c03-724f-4fe9-8743-d4e3288ca5f5",
+    "photo_url": null,
+    "text": "When Disneyland Paris opened which of their audio animatronics was the biggest built in a disney park?"
+  },
+  "6b169fb9-7824-4ab9-82c4-53af6b5117e8": {
+    "answers": [
+      {
+        "id": "2a3da36c-f879-4193-8f6e-c27f9256b713",
+        "text": "Goofy"
+      },
+      {
+        "id": "966c8f3b-89ce-4619-b297-345c288f722a",
+        "text": "Mickey"
+      },
+      {
+        "id": "2c4c91ee-2e28-4e3f-a03d-a4b95306acb1",
+        "text": "Donald"
+      },
+      {
+        "id": "7de90a7d-8f5b-43f0-8c0e-800b91d478a9",
+        "text": "Pluto"
+      }
+    ],
+    "correct_answer_id": "966c8f3b-89ce-4619-b297-345c288f722a",
+    "photo_url": null,
+    "text": "Which character has their own Cafe in Disney Village?"
+  },
+  "6c73721f-90ed-4afb-976b-be1a32cbe615": {
+    "answers": [
+      {
+        "id": "4e851ec0-47e1-48c0-9e52-86546a23f3ec",
+        "text": "Restaurant"
+      },
+      {
+        "id": "fc97bfdd-5190-4318-b956-88939ce80674",
+        "text": "A Food Cart"
+      },
+      {
+        "id": "a8fde85f-b9d4-42b1-8cc5-b0a8edf14620",
+        "text": "Shop"
+      },
+      {
+        "id": "50e4e75a-bb9f-4b61-8c4e-d71113da2ad1",
+        "text": "Ride"
+      }
+    ],
+    "correct_answer_id": "4e851ec0-47e1-48c0-9e52-86546a23f3ec",
+    "photo_url": null,
+    "text": "What is Toad Hall?"
+  },
+  "70ef6f9b-406f-4a1e-8a5a-3694c6ac3824": {
+    "answers": [
+      {
+        "id": "e209aefd-3895-42fb-9028-41827d18463a",
+        "text": "Scream of Fright"
+      },
+      {
+        "id": "9617b5fa-df1f-4bb4-a425-b893c11cd69a",
+        "text": "Old Hag"
+      },
+      {
+        "id": "9ff14348-7161-4319-a2e9-90958786b669",
+        "text": "Poison Apple"
+      },
+      {
+        "id": "3009c9b5-95ed-4311-82ef-0beb3ed74cdf",
+        "text": "Mummy Dust"
+      }
+    ],
+    "correct_answer_id": "9ff14348-7161-4319-a2e9-90958786b669",
+    "photo_url": null,
+    "text": "In the queue for Snow White what page is the queen's spell book open to?"
+  },
+  "711446dc-215c-473d-af06-840a88cc8dc1": {
+    "answers": [
+      {
+        "id": "f9ca1fa4-1d8f-4264-972f-06b9ef8c7ba5",
+        "text": "Connie's"
+      },
+      {
+        "id": "8e1195b3-2278-4411-bd5c-b9c31c9efb2f",
+        "text": "Casey's"
+      },
+      {
+        "id": "82215e0e-7807-465c-b515-390cdb03dd67",
+        "text": "Kelly's"
+      },
+      {
+        "id": "1fd61160-baf1-453b-b3d6-1b76c964b78f",
+        "text": "Carrie's"
+      }
+    ],
+    "correct_answer_id": "8e1195b3-2278-4411-bd5c-b9c31c9efb2f",
+    "photo_url": null,
+    "text": "Who's Corner serves hot dogs?"
+  },
+  "7624f0bc-7070-41b9-9577-6bfdaf57b585": {
+    "answers": [
+      {
+        "id": "084ff85a-278c-4fb5-936f-7eb85ae82961",
+        "text": "Monorail"
+      },
+      {
+        "id": "140c6c93-ab10-4981-9ef6-20e37a8d59b2",
+        "text": "Hot Air Balloon"
+      },
+      {
+        "id": "c13be02a-234e-4282-a73b-7e7545a8cfe9",
+        "text": "Cable Car"
+      },
+      {
+        "id": "c4f79179-8b92-48b8-aa2a-2cb6e50e095c",
+        "text": "Chair Lift"
+      }
+    ],
+    "correct_answer_id": "c13be02a-234e-4282-a73b-7e7545a8cfe9",
+    "photo_url": null,
+    "text": "What kind of vehicle is in the name of the bake shop on Main Street?"
+  },
+  "77d274ae-bf2c-48c8-b2bf-ba413f1d2c87": {
+    "answers": [
+      {
+        "id": "96cf5854-e02f-4e61-854b-83003c24ca92",
+        "text": "Indiana Jones"
+      },
+      {
+        "id": "37b344fa-b374-456e-b579-9b15acee2bd3",
+        "text": "Terminator"
+      },
+      {
+        "id": "fb0edce2-ed37-4b14-a1a0-9ed9393318de",
+        "text": "War of the Worlds"
+      },
+      {
+        "id": "eb1faa5f-de5c-48e3-a45e-f3ab68b5f95a",
+        "text": "Armageddon"
+      }
+    ],
+    "correct_answer_id": "eb1faa5f-de5c-48e3-a45e-f3ab68b5f95a",
+    "photo_url": null,
+    "text": "Which movie has it's own special effect show?"
+  },
+  "7a053e2c-a505-4c69-b6fc-8f80c772e103": {
+    "answers": [
+      {
+        "id": "dd47669d-8945-4257-bfc9-5af2b1cff177",
+        "text": "Simulator"
+      },
+      {
+        "id": "f48a3a88-f993-4fa1-aa73-72b906fb384b",
+        "text": "Rollercoaster"
+      },
+      {
+        "id": "c17d0272-1701-40e6-a924-796640ac255b",
+        "text": "Walkthrough"
+      },
+      {
+        "id": "2eae5982-bdaf-4216-944d-5771b8deea0d",
+        "text": "Log Flume"
+      }
+    ],
+    "correct_answer_id": "c17d0272-1701-40e6-a924-796640ac255b",
+    "photo_url": null,
+    "text": "What kind of attraction is La Cabane des Robinson?"
+  },
+  "7ed11acc-6fb5-45c5-9510-a194374f87a2": {
+    "answers": [
+      {
+        "id": "571907e3-a480-4a00-bae7-c7ddf4583c9d",
+        "text": "Donald Duck"
+      },
+      {
+        "id": "e4ca6bba-7fc1-4208-8374-afe87b38acc1",
+        "text": "Mickey Mouse"
+      },
+      {
+        "id": "f8de8f43-bd71-4cff-8b3a-2a831bc01ccb",
+        "text": "Tinkerbell"
+      },
+      {
+        "id": "cdaeb47e-02df-41c1-8bd2-b924faf36974",
+        "text": "Jiminy Cricket"
+      }
+    ],
+    "correct_answer_id": "e4ca6bba-7fc1-4208-8374-afe87b38acc1",
+    "photo_url": null,
+    "text": "Which character is on the face of the Disneyland Hotel clock?"
+  },
+  "81e2bffc-c11c-4b04-9fa1-9d3b2eeb4bf6": {
+    "answers": [
+      {
+        "id": "0c2e7742-8080-4019-8aa3-51349524a7a4",
+        "text": "Boot"
+      },
+      {
+        "id": "7353dd71-4900-4f80-a62e-dd79e8ea5407",
+        "text": "Shoe"
+      },
+      {
+        "id": "e3d4c08a-7aec-483b-9fe7-380b03c61d3a",
+        "text": "Spur"
+      },
+      {
+        "id": "b9af9b50-100b-46e8-a348-e35f2e1cf544",
+        "text": "Clog"
+      }
+    ],
+    "correct_answer_id": "0c2e7742-8080-4019-8aa3-51349524a7a4",
+    "photo_url": null,
+    "text": "What is the name of the Hill where Phantom Manor is situated?"
+  },
+  "8baee4a5-1ff0-4982-abbd-876ac9f9499b": {
+    "answers": [
+      {
+        "id": "af6278a1-6946-4a8a-a2c4-39840cd0cebc",
+        "text": "Hakuna Matata"
+      },
+      {
+        "id": "a6d20254-01b0-4de6-abd1-0d201217219a",
+        "text": "Can you Feel the Love Tonight"
+      },
+      {
+        "id": "e6c98454-8015-4eee-9a25-7e3aec7dd0a9",
+        "text": "Circle of Life"
+      },
+      {
+        "id": "40f908ae-214b-4c87-8478-7a78de6fde8b",
+        "text": "Just Can't Wait to be King"
+      }
+    ],
+    "correct_answer_id": "af6278a1-6946-4a8a-a2c4-39840cd0cebc",
+    "photo_url": null,
+    "text": "Which Lion King Song is the name of a Restaurant?"
+  },
+  "8d6b6409-13ef-4217-865b-54ef9b8cc26d": {
+    "answers": [
+      {
+        "id": "5c2d0a3f-64b0-4277-ba40-47a614e49e5b",
+        "text": "Mickey and the Circus"
+      },
+      {
+        "id": "1caeefd4-507d-472e-9612-96df665081a3",
+        "text": "Toy Story"
+      },
+      {
+        "id": "bc441c1f-d298-4e61-a5f8-be2773cdf86a",
+        "text": "Dumbo"
+      },
+      {
+        "id": "b27932e5-e92b-4d59-b834-1a440a715f08",
+        "text": "The Fox and the Hound"
+      }
+    ],
+    "correct_answer_id": "bc441c1f-d298-4e61-a5f8-be2773cdf86a",
+    "photo_url": null,
+    "text": "From which movie is \"le petit train du cirque\" based on?"
+  },
+  "90d7446b-1d3c-40d4-9216-bba4b136d059": {
+    "answers": [
+      {
+        "id": "51dd16a4-e850-4995-94db-025169671c75",
+        "text": "Gold"
+      },
+      {
+        "id": "01093905-0606-49bb-aafb-6ff4afc1ba3b",
+        "text": "Red"
+      },
+      {
+        "id": "c9c1ee7f-bcae-45f0-83f1-78706082793f",
+        "text": "White"
+      },
+      {
+        "id": "6e378b21-9506-4cbe-8bf5-38cfae811e12",
+        "text": "Blue"
+      }
+    ],
+    "correct_answer_id": "6e378b21-9506-4cbe-8bf5-38cfae811e12",
+    "photo_url": null,
+    "text": "What colour is the Planet Hollywood globe?"
+  },
+  "9188f20d-5694-46ef-bc50-160aba864bdd": {
+    "answers": [
+      {
+        "id": "24fa0c8d-40ab-441b-87a6-2bfc673e9be0",
+        "text": "Disney France"
+      },
+      {
+        "id": "11402f0e-e483-4def-ae29-6a9779319f43",
+        "text": "Parisian Disney"
+      },
+      {
+        "id": "b1acdd60-bdc7-4689-ae84-e6ea636752e8",
+        "text": "Euro Disney"
+      },
+      {
+        "id": "ba309ec2-185c-4599-9403-924acced7d78",
+        "text": "Disney Europe"
+      }
+    ],
+    "correct_answer_id": "b1acdd60-bdc7-4689-ae84-e6ea636752e8",
+    "photo_url": null,
+    "text": "What was Disneyland Paris' original name?"
+  },
+  "945c79c6-526b-4627-b0b4-b26df19a64ba": {
+    "answers": [
+      {
+        "id": "f4a66360-8750-48d4-b9a8-fa85bec2d3f8",
+        "text": "Arthur"
+      },
+      {
+        "id": "26d12ee1-f7f4-443a-ad6e-3e16d80f5f1b",
+        "text": "Amadeus"
+      },
+      {
+        "id": "2893bf5b-2ec9-470f-825d-8a6386c6d6d5",
+        "text": "Lancelot"
+      },
+      {
+        "id": "4c130bb1-68f1-4ad6-b76d-8f05f2176180",
+        "text": "Ludwig"
+      }
+    ],
+    "correct_answer_id": "4c130bb1-68f1-4ad6-b76d-8f05f2176180",
+    "photo_url": null,
+    "text": "Fill in the blank for the name of a restaurant: \"King _____'s Castle?\""
+  },
+  "9795d31e-b5c8-4f52-a825-47dafe07e33a": {
+    "answers": [
+      {
+        "id": "bd03b718-79ff-420b-8539-1b284308c552",
+        "text": "The King of Hearts"
+      },
+      {
+        "id": "1f5dd065-a518-458c-888f-603acac810b3",
+        "text": "Dodo"
+      },
+      {
+        "id": "d93b8227-6b90-4019-a38b-e99b8c6df6a7",
+        "text": "Queen of Hearts"
+      },
+      {
+        "id": "fd2e2de0-be10-4e0c-86be-59670d083018",
+        "text": "March Hare"
+      }
+    ],
+    "correct_answer_id": "fd2e2de0-be10-4e0c-86be-59670d083018",
+    "photo_url": null,
+    "text": "Which one of these characters is NOT inside Alice's Curious Labyrinth?"
+  },
+  "9cf647a7-5ed6-4f9a-ba2d-4db7f1d81618": {
+    "answers": [
+      {
+        "id": "059de234-de4a-4081-b051-9adeecdf028e",
+        "text": "It is unknown"
+      },
+      {
+        "id": "4835b964-0b0e-4ae4-844e-92d6c8f6e0c2",
+        "text": "Drago"
+      },
+      {
+        "id": "20b0d35b-e20c-4399-8dbf-4340ba3a8faa",
+        "text": "Fanshuego"
+      },
+      {
+        "id": "9894b3f2-ea27-4bd5-a7fa-05a9d9f08d74",
+        "text": "Lully"
+      }
+    ],
+    "correct_answer_id": "059de234-de4a-4081-b051-9adeecdf028e",
+    "photo_url": null,
+    "text": "What is the name of the dragon beneath the castle?"
+  },
+  "a7c1e516-67b9-4f20-98f5-0ce63bec06a4": {
+    "answers": [
+      {
+        "id": "8e368d3b-e861-4e8c-9501-b91ab195e13e",
+        "text": "Pluto"
+      },
+      {
+        "id": "d2b2d79a-8cdf-42af-b1e8-d120e2470460",
+        "text": "Goofy"
+      },
+      {
+        "id": "4807c0a7-103f-4ea6-b221-d622ebc09c87",
+        "text": "Donald"
+      },
+      {
+        "id": "b4df0555-af97-485d-910b-ffdc3bc9c943",
+        "text": "Mickey"
+      }
+    ],
+    "correct_answer_id": "d2b2d79a-8cdf-42af-b1e8-d120e2470460",
+    "photo_url": null,
+    "text": "Which character wears a bell hop costume and sometimes meets outside Tower of Terror?"
+  },
+  "ab42b93b-849c-4d41-ac9c-5511b872896d": {
+    "answers": [
+      {
+        "id": "91de9d0f-32ba-401d-bfc8-64b88e0aa037",
+        "text": "Sorcerer Mickey"
+      },
+      {
+        "id": "3121b2b6-1054-409e-9fe8-a5467ce4162a",
+        "text": "Jiminy Cricket"
+      },
+      {
+        "id": "e650ec29-076b-4d60-b917-9a8d834672e0",
+        "text": "Minnie Mouse"
+      },
+      {
+        "id": "7c862172-b7a8-4fe6-aca6-7cc9915fad60",
+        "text": "Yensid"
+      }
+    ],
+    "correct_answer_id": "91de9d0f-32ba-401d-bfc8-64b88e0aa037",
+    "photo_url": null,
+    "text": "Which character is in the centre of the entrance statue at Walt Disney Studios Parc?"
+  },
+  "bdf1c5e6-a7d3-40a8-969c-ccf76cf54c6f": {
+    "answers": [
+      {
+        "id": "dd10843f-a1b4-491b-ae0c-06b4406835c0",
+        "text": "Cinderella"
+      },
+      {
+        "id": "127d2ac3-a058-4853-8fab-41854c608eac",
+        "text": "Snow White"
+      },
+      {
+        "id": "ada91324-cd2d-4464-a460-d4103d6d7fcf",
+        "text": "Elsa"
+      },
+      {
+        "id": "7a461ddb-400f-448f-bfe6-67f994e961c7",
+        "text": "Aurora"
+      }
+    ],
+    "correct_answer_id": "7a461ddb-400f-448f-bfe6-67f994e961c7",
+    "photo_url": null,
+    "text": "Which Princess does the castle belong to?"
+  },
+  "c3d57237-167a-4a1b-bcfb-5cb9273702fe": {
+    "answers": [
+      {
+        "id": "99ca317c-5ebb-4618-9315-ef01e7c8c13e",
+        "text": "Ariel"
+      },
+      {
+        "id": "48d6e5b1-3d52-4cb8-916b-171900b8415f",
+        "text": "Olaf"
+      },
+      {
+        "id": "18e61fa3-5081-4f36-b6c8-4d31cb4556b2",
+        "text": "Alice in Wonderland"
+      },
+      {
+        "id": "a2cc061d-bfac-4aa3-8563-dc827d1582a9",
+        "text": "Cinderella"
+      }
+    ],
+    "correct_answer_id": "18e61fa3-5081-4f36-b6c8-4d31cb4556b2",
+    "photo_url": null,
+    "text": "Which character has their own Labyrinth attraction?"
+  },
+  "c834c7d4-0333-4e4e-8958-47dbb81c2e42": {
+    "answers": [
+      {
+        "id": "be84bb43-556e-48bd-a9f8-68b5bb8ec04f",
+        "text": "1"
+      },
+      {
+        "id": "e018736d-238f-4c1f-8841-2c39cc78447d",
+        "text": "4"
+      },
+      {
+        "id": "38dcf914-5051-4696-9727-d9cd2abd028b",
+        "text": "3"
+      },
+      {
+        "id": "c529fe61-a282-4746-be53-788901de60f6",
+        "text": "2"
+      }
+    ],
+    "correct_answer_id": "c529fe61-a282-4746-be53-788901de60f6",
+    "photo_url": null,
+    "text": "On Les Pays des Contes de Fees, how many sheep are sat on the fountain with Belle?"
+  },
+  "c9a8c011-a552-425f-85ab-2bf55b4ae3aa": {
+    "answers": [
+      {
+        "id": "0c347926-c065-4bd5-a3a9-ae50cef8632e",
+        "text": "50 mph"
+      },
+      {
+        "id": "abdc5acf-326b-4653-8267-433d7eb9b019",
+        "text": "45 mph"
+      },
+      {
+        "id": "149efe7b-147c-4259-8a17-872528ac2a97",
+        "text": "47 mph"
+      },
+      {
+        "id": "9a00bdca-b59a-41ac-8f3b-f044c4678da5",
+        "text": "57 mph"
+      }
+    ],
+    "correct_answer_id": "149efe7b-147c-4259-8a17-872528ac2a97",
+    "photo_url": null,
+    "text": "What is the maximum speed of Indiana Jones et le Temple du Peril?"
+  },
+  "cb3b805f-a076-4c52-b107-1305e4893b4d": {
+    "answers": [
+      {
+        "id": "699bed2e-c5c6-4f92-912f-7a675033ac76",
+        "text": "Indigo"
+      },
+      {
+        "id": "80c023c9-1bbe-4f02-b61b-8c0fcb857d12",
+        "text": "Teal"
+      },
+      {
+        "id": "06438bbe-5c7e-43fa-91c1-4334b5bf1b7b",
+        "text": "Aquamarine"
+      },
+      {
+        "id": "6a3f04dd-c573-4d07-a35f-347f94940081",
+        "text": "Blue"
+      }
+    ],
+    "correct_answer_id": "6a3f04dd-c573-4d07-a35f-347f94940081",
+    "photo_url": null,
+    "text": "What colour lagoon is the name of a restaurant?"
+  },
+  "cc58491c-c344-4596-92a4-3dea9f0f02bb": {
+    "answers": [
+      {
+        "id": "0f663d32-64b4-4cdc-bbdf-db6e7d133490",
+        "text": "Fish"
+      },
+      {
+        "id": "8bc64c58-25a7-4fbe-8388-c758de099138",
+        "text": "Boat"
+      },
+      {
+        "id": "b06df887-8deb-408d-ad74-b48380770f2c",
+        "text": "Starfish"
+      },
+      {
+        "id": "1db74a45-d615-409a-b077-686e73e96d44",
+        "text": "Turtle"
+      }
+    ],
+    "correct_answer_id": "1db74a45-d615-409a-b077-686e73e96d44",
+    "photo_url": null,
+    "text": "What shaped vehicle do you ride in on Crush's Coaster?"
+  },
+  "d0ea25a8-ec2e-486e-9356-269d5d73771f": {
+    "answers": [
+      {
+        "id": "a72ca691-8b13-490b-9214-278636d45006",
+        "text": "Lady and the Tramp"
+      },
+      {
+        "id": "95866ff1-6eef-4159-a803-6edfad7c776c",
+        "text": "The Aristocats"
+      },
+      {
+        "id": "35348280-c7f7-4253-8c7f-d29857c373de",
+        "text": "Hunchback of Notre Dame"
+      },
+      {
+        "id": "6bef7dc3-17c4-430f-af49-7cf69caed39a",
+        "text": "101 Dalmatians"
+      }
+    ],
+    "correct_answer_id": "a72ca691-8b13-490b-9214-278636d45006",
+    "photo_url": null,
+    "text": "Which film has a Pizza Restaurant based on it in Fantasyland?"
+  },
+  "d10d5441-1fab-43b5-8931-3ddbb38ad144": {
+    "answers": [
+      {
+        "id": "550680c1-fea2-4745-a42e-1e3c55457018",
+        "text": "Green"
+      },
+      {
+        "id": "3365f1bb-70a0-4f1a-baa1-fd4a582e283e",
+        "text": "Red"
+      },
+      {
+        "id": "ada1fb41-e00e-4801-84ba-38af32a6cc15",
+        "text": "Blue"
+      },
+      {
+        "id": "70381050-723c-4ea0-ade0-68ff133a0763",
+        "text": "Yellow"
+      }
+    ],
+    "correct_answer_id": "3365f1bb-70a0-4f1a-baa1-fd4a582e283e",
+    "photo_url": null,
+    "text": "What colour are the vehicles on the Studio Tram Tour?"
+  },
+  "d3b76f44-ad61-42ae-916a-d528e58fa762": {
+    "answers": [
+      {
+        "id": "6da079d3-45cd-4acd-b96b-7210983a5167",
+        "text": "Crush"
+      },
+      {
+        "id": "29106e8f-8a90-49f0-b910-e21eb96bc32e",
+        "text": "Mike Wazowski"
+      },
+      {
+        "id": "abaf0884-113c-4ac3-b7d4-d21db30275fc",
+        "text": "Winnie the Pooh"
+      },
+      {
+        "id": "20eee250-faf9-4c55-bc8e-5516eff9c2f5",
+        "text": "Stitch"
+      }
+    ],
+    "correct_answer_id": "20eee250-faf9-4c55-bc8e-5516eff9c2f5",
+    "photo_url": null,
+    "text": "Which character has a \"LIVE\" show where you can communicate with them?"
+  },
+  "d424909f-8b79-4dd4-b54c-714d5c3bc260": {
+    "answers": [
+      {
+        "id": "12fbb2fa-7456-4e6d-b64b-50d1d94596ca",
+        "text": "Black"
+      },
+      {
+        "id": "20c0a7a1-289b-41a7-b7b5-868c3150f468",
+        "text": "Blue"
+      },
+      {
+        "id": "b96619d1-6128-4bdf-9d3a-a610ba96df76",
+        "text": "Green"
+      },
+      {
+        "id": "ea93781b-b7b6-40bb-a3f3-38d59127da50",
+        "text": "Red"
+      }
+    ],
+    "correct_answer_id": "ea93781b-b7b6-40bb-a3f3-38d59127da50",
+    "photo_url": null,
+    "text": "What colour font is the writing on the Rainforest Cafe Logo?"
+  },
+  "d553ce07-4477-4b6e-b3f6-22ee7144498e": {
+    "answers": [
+      {
+        "id": "8a94d9f6-2b05-4631-8868-80a1264ed009",
+        "text": "3"
+      },
+      {
+        "id": "59a5c5c0-dcc3-42f8-a180-52a5a7498b86",
+        "text": "2"
+      },
+      {
+        "id": "1bc9ad1d-eb3f-4055-8db3-ccd1fd75d71a",
+        "text": "0"
+      },
+      {
+        "id": "bee3d7d9-e151-4e66-b991-1aaf00a00fea",
+        "text": "1"
+      }
+    ],
+    "correct_answer_id": "59a5c5c0-dcc3-42f8-a180-52a5a7498b86",
+    "photo_url": null,
+    "text": "How many arcades are there in Discoveryland?"
+  },
+  "d5befc91-9519-4170-9492-2cac915699af": {
+    "answers": [
+      {
+        "id": "aad2176e-e598-4015-9aac-274db2e6350e",
+        "text": "1993"
+      },
+      {
+        "id": "b06ec156-28d0-4005-a09b-46c01971e57d",
+        "text": "1995"
+      },
+      {
+        "id": "61747343-4331-48d1-8d7b-336c7c9e0f0e",
+        "text": "1994"
+      },
+      {
+        "id": "250d67ee-0dfb-4ff5-96f4-857b5a66703a",
+        "text": "1992"
+      }
+    ],
+    "correct_answer_id": "61747343-4331-48d1-8d7b-336c7c9e0f0e",
+    "photo_url": null,
+    "text": "In what year did Le Pays des Contes de Fees open?"
+  },
+  "d5f3d3b3-595f-461f-887b-296164939613": {
+    "answers": [
+      {
+        "id": "7a236512-ab21-48e3-987b-a739e875886d",
+        "text": "Bop at the Top"
+      },
+      {
+        "id": "87c8f52e-10ce-45f0-8b2d-bd44cca05937",
+        "text": "Tip Toe"
+      },
+      {
+        "id": "19e97513-1ae6-496b-9bd7-6335e48383d1",
+        "text": "Tippety Top"
+      },
+      {
+        "id": "5127e176-7a43-4fb1-8326-821d65a4da07",
+        "text": "Tip Top"
+      }
+    ],
+    "correct_answer_id": "5127e176-7a43-4fb1-8326-821d65a4da07",
+    "photo_url": null,
+    "text": "What's the name of the Club at the top of the Hollywood Tower Hotel?"
+  },
+  "d6684fe1-5c91-47e8-a171-c8e1bc0a8241": {
+    "answers": [
+      {
+        "id": "5e1317b4-993b-4042-a45d-aa93240f2f85",
+        "text": "Rolling Stones"
+      },
+      {
+        "id": "c8695bc0-cc58-43e2-ac70-ae0fed239cfc",
+        "text": "Queen"
+      },
+      {
+        "id": "cf491012-f4a5-43f2-b8f2-25a7a5df109c",
+        "text": "Aerosmith"
+      },
+      {
+        "id": "aaf939d7-0c43-4078-aa05-42e53acdcfb5",
+        "text": "Guns N Roses"
+      }
+    ],
+    "correct_answer_id": "cf491012-f4a5-43f2-b8f2-25a7a5df109c",
+    "photo_url": null,
+    "text": "Which band feature on Rock n Roller Coaster?"
+  },
+  "d75e9ba6-12e5-4578-b8e8-801af9e78fe0": {
+    "answers": [
+      {
+        "id": "8cecf878-434e-45f1-80a9-979d0e9ddc08",
+        "text": "2 mins 30 secs"
+      },
+      {
+        "id": "9fc6a125-1e20-423c-af35-1b29599583e3",
+        "text": "3 mins"
+      },
+      {
+        "id": "d77d851f-0cff-4cbd-89fa-b880477fa049",
+        "text": "1 min 30 secs"
+      },
+      {
+        "id": "745fc5df-9395-4fa2-b188-71bca95e0be0",
+        "text": "2 mins"
+      }
+    ],
+    "correct_answer_id": "745fc5df-9395-4fa2-b188-71bca95e0be0",
+    "photo_url": null,
+    "text": "What is the duration of Blanche Neige et les Sept Neins?"
+  },
+  "d781976f-7ed8-4f7b-9727-f6199e41763a": {
+    "answers": [
+      {
+        "id": "b2391481-f353-4126-ae9c-b6e167b4560f",
+        "text": "Tinker Bell"
+      },
+      {
+        "id": "c25cddfb-2c8c-4118-bd84-ae1335556f42",
+        "text": "Tick Tock"
+      },
+      {
+        "id": "0d094111-f694-4de0-b88b-f5497a63f865",
+        "text": "Peter Pan"
+      },
+      {
+        "id": "fbe4065d-e359-49e0-af8d-a03f458d944e",
+        "text": "Nana"
+      }
+    ],
+    "correct_answer_id": "c25cddfb-2c8c-4118-bd84-ae1335556f42",
+    "photo_url": null,
+    "text": "Which character is a weather vane atop Peter Pan's Flight?"
+  },
+  "d893bdeb-9d69-4d8a-a9b0-64b9165d6d7e": {
+    "answers": [
+      {
+        "id": "175f3b7d-3ba8-4daf-8006-dc40ae053a38",
+        "text": "Crush's Coaster"
+      },
+      {
+        "id": "668049b2-758d-4273-a728-27ff701c066f",
+        "text": "Big Thunder Mountain"
+      },
+      {
+        "id": "c687cc87-ddaa-4500-a7c3-d99b4984535c",
+        "text": "Autopia"
+      },
+      {
+        "id": "11d5b0a1-6c90-4f38-8689-aee944e11e42",
+        "text": "Mad Tea Party"
+      }
+    ],
+    "correct_answer_id": "175f3b7d-3ba8-4daf-8006-dc40ae053a38",
+    "photo_url": null,
+    "text": "In which ride queue can you play an online game on your mobile phone?"
+  },
+  "da84560f-5617-4b5b-8f78-58e0ad89c937": {
+    "answers": [
+      {
+        "id": "ced21698-c08a-45af-b792-733c75638b3b",
+        "text": "Baloo"
+      },
+      {
+        "id": "fcae3b0c-f67a-4389-82bb-2ae21f21a34a",
+        "text": "Colonel Hathi"
+      },
+      {
+        "id": "a46110a8-061c-410b-a57e-7f7b1d6bf26e",
+        "text": "Mowgli"
+      },
+      {
+        "id": "b5c0ee59-be68-42cd-b1cf-04c1908e9214",
+        "text": "Kaa"
+      }
+    ],
+    "correct_answer_id": "fcae3b0c-f67a-4389-82bb-2ae21f21a34a",
+    "photo_url": null,
+    "text": "Which Jungle Book character has their own Pizza Outpost?"
+  },
+  "e145fe4e-2eb5-4095-938e-ec4175426dfe": {
+    "answers": [
+      {
+        "id": "97e1723c-3dd0-499b-97ac-1bfe496a5574",
+        "text": "Madame Lerenna"
+      },
+      {
+        "id": "690ab2d9-c9d5-4f30-acce-212d27dc44e7",
+        "text": "Madame Elena"
+      },
+      {
+        "id": "058635d3-7b8b-445f-93d0-eb4f3cb0d79c",
+        "text": "Madame Leota"
+      },
+      {
+        "id": "f80a44e0-a622-4201-8aa4-fbead9f635f3",
+        "text": "Madame Elias"
+      }
+    ],
+    "correct_answer_id": "058635d3-7b8b-445f-93d0-eb4f3cb0d79c",
+    "photo_url": null,
+    "text": "What is the name of the Ghost lady in the seance room of Phantom Manor?"
+  },
+  "eb3f8eca-06d9-4f0e-b3cb-a00c668f14ef": {
+    "answers": [
+      {
+        "id": "b10bcce3-34ec-47b9-9125-002b36c690cf",
+        "text": "Bronze"
+      },
+      {
+        "id": "9ee5e964-878d-45c7-82ed-c271a4c6d6fd",
+        "text": "Gold"
+      },
+      {
+        "id": "9fe14379-50e7-4f8b-87bb-ec91ab4e2556",
+        "text": "Platinum"
+      },
+      {
+        "id": "0bdca599-08ed-4fde-98a0-53cee67581d1",
+        "text": "Silver"
+      }
+    ],
+    "correct_answer_id": "0bdca599-08ed-4fde-98a0-53cee67581d1",
+    "photo_url": null,
+    "text": "What colour Spur does the Steakhouse have?"
+  },
+  "efd142f4-3221-4f26-a234-1ec84d12c5a3": {
+    "answers": [
+      {
+        "id": "97cbf858-413f-4ece-b864-2801fd299f98",
+        "text": "Mr Stork"
+      },
+      {
+        "id": "9a795e71-e43d-47b6-85e4-067fd6adfcee",
+        "text": "Dumbo"
+      },
+      {
+        "id": "f535b563-5f00-490c-86f9-b49329fd1249",
+        "text": "Ringmaster"
+      },
+      {
+        "id": "47637f7f-2c6d-4436-ac07-34c946f0fa3b",
+        "text": "Timothy Q Mouse"
+      }
+    ],
+    "correct_answer_id": "47637f7f-2c6d-4436-ac07-34c946f0fa3b",
+    "photo_url": null,
+    "text": "Which character is in the middle of the Dumbo ride (stood on a balloon)?"
+  },
+  "f4e93068-6d6a-4a76-9de2-556b8f3a2030": {
+    "answers": [
+      {
+        "id": "fe6994a3-0c37-4c43-bf2a-18d7eefbb890",
+        "text": "Mike Wazowski"
+      },
+      {
+        "id": "d6834f7d-d5bb-4ea2-83fe-07b36504adfe",
+        "text": "Randall"
+      },
+      {
+        "id": "d6d86394-24e7-4f3e-b221-10a4cf1cf7c1",
+        "text": "Sully"
+      },
+      {
+        "id": "34353c39-40b7-43bd-a484-835d0ee265f0",
+        "text": "Boo"
+      }
+    ],
+    "correct_answer_id": "d6d86394-24e7-4f3e-b221-10a4cf1cf7c1",
+    "photo_url": null,
+    "text": "Which Character meets near the Scream Monitors?"
+  },
+  "f9f736e9-b8fa-4c61-a2e1-fd5844d83336": {
+    "answers": [
+      {
+        "id": "cd49b790-b4ee-4bfe-853b-992d8b5d4532",
+        "text": "Phantom Manor"
+      },
+      {
+        "id": "de594d30-74f7-4005-af9b-228c5592412c",
+        "text": "Crush's Coaster"
+      },
+      {
+        "id": "c208cfb3-b175-4945-8a7e-52aabe8ec48f",
+        "text": "Star Tours"
+      },
+      {
+        "id": "6e2db549-1d3d-4433-b3b0-8af931345d96",
+        "text": "Ratatouille"
+      }
+    ],
+    "correct_answer_id": "6e2db549-1d3d-4433-b3b0-8af931345d96",
+    "photo_url": null,
+    "text": "Which of these rides uses 3D technology?"
+  },
+  "fcba88d3-6874-4d36-8d04-c66d9f25170a": {
+    "answers": [
+      {
+        "id": "edf3507f-9a6d-4a02-a40b-7a7dfba9a1cd",
+        "text": "2"
+      },
+      {
+        "id": "47538780-0ca7-4099-934f-f157a96a6324",
+        "text": "3"
+      },
+      {
+        "id": "eeaca24d-b0fa-4dc7-a21a-48e90b76bc55",
+        "text": "4"
+      },
+      {
+        "id": "3a5f8172-1b0d-490f-99ae-dd3f99487a6d",
+        "text": "1"
+      }
+    ],
+    "correct_answer_id": "47538780-0ca7-4099-934f-f157a96a6324",
+    "photo_url": null,
+    "text": "How many rows does each vehicle have on Les Voyages de Pinocchio?"
+  },
+  "ffa81d71-14f5-403e-b55d-d1c918c7532b": {
+    "answers": [
+      {
+        "id": "db486183-0e0a-4579-bf5e-fe9223f4e375",
+        "text": "2 mins 30 secs"
+      },
+      {
+        "id": "305e4ed6-25b3-4b4a-9206-2f0abcd77791",
+        "text": "2 mins"
+      },
+      {
+        "id": "695b6024-1af2-40d0-a237-3d3e0755d6fe",
+        "text": "1 min 30 secs"
+      },
+      {
+        "id": "804b0d06-7d3e-4749-bba1-ed7db35a486d",
+        "text": "3 mins"
+      }
+    ],
+    "correct_answer_id": "695b6024-1af2-40d0-a237-3d3e0755d6fe",
+    "photo_url": null,
+    "text": "What's the duration of Indiana Jones et le Temple du Peril?"
+  }
+}

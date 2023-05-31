@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                    Loz      AU   954  31,975,835
+2                      C      FR   748  19,660,972
+3           GégéLeBreton      FR   701  17,276,598
+4        tête de linotte      FR   548  10,572,028
+5   Annie - Save the App      GB   447   7,060,093
+6     Catalin Pomirleanu      RO   418   6,159,801
+7           Jazzy | ҜΞ 〽      AZ   404   5,778,961
+8   Arik Bikman Shmagegy      IL   400   5,638,287
+9                  Viper      NL   368   4,798,633
+10        Rich Papierski      US   367   4,764,967
+11          ImOnAbOaT-87      US   361   4,616,688
+12                 Marty      GB   355   4,448,112
+13   AmonRa_Save the app      RO   321   3,659,248
+14          Munchkin cat      GR   307   3,340,378
+15               Gruschu      DE   303   3,241,979

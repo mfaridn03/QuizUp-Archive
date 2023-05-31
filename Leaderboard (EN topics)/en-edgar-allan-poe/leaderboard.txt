@@ -1,0 +1,16 @@
+                             Player      Country Level    Total XP
+1                 Kate-save the app           US   748  19,660,839
+2                     Da Vaughnster           US   502   8,901,979
+3                 Alan Giangregorio           US   239   2,032,295
+4                               Bob           US   226   1,813,148
+5                       Rogge-Gotha           IO   219   1,709,017
+6              suzy - Save The App.           ID   190   1,289,512
+7                           Notella           CH   174   1,077,407
+8                     Super Gee Gee           GB   165     973,699
+9                         Mike Roth           US   164     960,323
+10                        Mary  Kuz           RU   162     937,129
+11                              IkR           FR   159     905,092
+12                    Bob Alexander           CA   150     808,559
+13                Mal save the app!  QU_SCOTLAND   142     727,589
+14                            Alice           US   137     675,450
+15  Lukainalaia# E-ILA Save the App           FR   137     675,121

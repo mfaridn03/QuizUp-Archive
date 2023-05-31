@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1           Koala1966      DE   855  25,671,893
+2             Leeuwin      AU   692  16,838,499
+3            TigerBum      AU   675  16,013,654
+4   Michael (retired)      AU   462   7,516,456
+5           ChillyJam      GB   417   6,147,053
+6                  LV      CA   403   5,741,534
+7            mirecool      CH   401   5,676,279
+8             Pikachu      AU   397   5,570,630
+9              Carrad      IE   384   5,213,913
+10              Katie      AU   377   5,030,463
+11      Phil O'Sopher      IE   369   4,815,409
+12             OldDog      US   330   3,864,527
+13       Robert Jones      AU   326   3,769,984
+14           Twix1305      CH   300   3,178,771
+15           Davidell      AU   294   3,060,440

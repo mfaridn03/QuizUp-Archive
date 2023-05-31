@@ -1,0 +1,16 @@
+            Player      Country  Level    Total XP
+1        Jane Rice  QU_NIRELAND  1,452  73,943,731
+2           amared           CA  1,016  36,279,049
+3   Mohamed Moursy           GB    705  17,471,136
+4               GT           SG    453   7,237,971
+5               GT           SG    441   6,850,195
+6   Garry Robinson           GB    404   5,770,609
+7          Ebukkks           NG    393   5,450,602
+8            Razor           GB    347   4,269,006
+9          Deleted  QU_SCOTLAND    330   3,842,788
+10        DeeLFC96           IE    314   3,482,085
+11    Lucky Kopite           ID    269   2,565,140
+12  Dermot Sheehan           IE    267   2,522,001
+13      aindow JWP           GB    266   2,511,715
+14    David Chetty           ZA    248   2,176,817
+15      Karina JWP           BR    234   1,944,834

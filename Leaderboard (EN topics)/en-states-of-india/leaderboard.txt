@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1             Raja      IN   303  3,255,254
+2        Chandrika      IN   302  3,232,694
+3           keshto      NZ   268  2,549,805
+4             Kiki      FR   248  2,179,239
+5        Parminder      US   224  1,790,460
+6       Adeel 🌍UT💫      PK   200  1,422,021
+7      Usha Parmar      IN   154    847,482
+8               NS      IN   147    776,353
+9         srivatsa      IN   144    746,925
+10   Kanchan Joshi      IN   129    596,771
+11  Seshatalpa Sai      IN   128    586,924
+12       Atul Ekka      IN   123    549,341
+13       Raj Kamal      IN   119    510,155
+14           Aditi      IN   119    510,043
+15     Mrs. Suresh      IN   115    479,750

@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1         Lars Pollehn      DE   603  12,792,650
+2                  gra      SI   535  10,091,876
+3        Volker Ramone      DE   400   5,665,979
+4               Güni71      AT   306   3,319,280
+5   Mojtaba Roshanfekr      IR   278   2,748,977
+6                David      US   261   2,409,601
+7       El Cartoonista      HU   246   2,153,747
+8               Chkb19      FR   230   1,887,940
+9    Stefan Karczewski      DE   214   1,636,555
+10               Arash      IR   210   1,566,357
+11  Alessandro Almeida      BR   209   1,549,030
+12              Eisbär      CH   175   1,097,638
+13              HAITAM      MA   173   1,073,594
+14             Lelapha      DE   166     988,765
+15           Martin K.      DE   161     930,064

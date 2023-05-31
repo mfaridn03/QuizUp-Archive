@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1                   Arya      DE  1,491  78,008,801
+2          Alexander III      GR  1,282  57,645,562
+3               Caesar ⳩      GR    819  23,584,843
+4                  C. W.      US    771  20,907,955
+5                  Mozen      HR    666  15,632,201
+6             Nighthuber      DE    578  11,777,247
+7                   1349      US    476   7,986,643
+8                Ophidia      MX    466   7,647,037
+9       Diana Bel Rod Re      MX    426   6,407,597
+10              Lunatica      HR    350   4,343,418
+11          María Camila      CO    348   4,291,409
+12                 yigit      TR    348   4,288,637
+13          AnarchoJuche      CA    314   3,501,250
+14               Loyos 👽      FR    301   3,201,784
+15  Jaymz - Save the App      CA    299   3,160,519

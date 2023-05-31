@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1          Judith Neiuber      US   712  17,817,556
+2    KatGer- Save the App      US   612  13,200,821
+3                  Dink24      US   409   5,911,028
+4                 Eleanor      US   389   5,338,030
+5                Hagar123      BE   314   3,494,326
+6              Codswallop      GB   309   3,387,186
+7           Steve Conners      US   253   2,264,271
+8    suzy - Save The App.      ID   243   2,096,019
+9          Calvin Bradley      US   221   1,740,374
+10         Michael Scharf      US   219   1,713,252
+11                Melissa      US   202   1,455,778
+12           pennylambeau      US   200   1,419,418
+13               Karant23      US   190   1,286,565
+14            Tom Roberts      US   190   1,282,518
+15  Mingr927-save the app      US   189   1,279,651

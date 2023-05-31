@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1                 Mark      US   367  4,769,522
+2   Tim Rauschenberger      US   269  2,570,886
+3             Reggie S      US   181  1,168,921
+4            Mr'miller      US   166    986,468
+5          Upstategmen      US   115    479,514
+6               Bkcctt      US   115    476,264
+7           Fatsz 🌎UT💫      US   100    359,681
+8               NYMase      US    97    342,055
+9        Jason Derfurt      GB    92    307,879
+10                JGJG      US    87    274,312
+11                Jeff      US    85    265,961
+12       Daniel Glover      US    85    263,829
+13            Jamboree      GB    80    234,846
+14     Anthony Tedesco      US    80    234,725
+15                 HBU      US    80    232,293

@@ -1,0 +1,16 @@
+                Player      Country Level   Total XP
+1                Noire           US   380  5,090,148
+2              ~Omega~           US   306  3,322,588
+3   ☬ • Siεtε • 冬 Dεus           FR   276  2,694,383
+4                Ellen           IE   260  2,408,420
+5   Justin Juice Carse           CA   250  2,223,706
+6               Broken           US   239  2,031,347
+7                Ｋａｐａｂ           ID   221  1,738,828
+8                 Lack  QU_NIRELAND   218  1,688,915
+9              Rukayui           JP   193  1,332,309
+10                tbac           US   192  1,318,662
+11              Uyaana           US   185  1,223,292
+12      Edward Trezise           GB   182  1,180,151
+13                Sara           US   177  1,116,238
+14    Jayson Kim Cabon           PH   172  1,053,942
+15          anonym6000           DE   160    921,650

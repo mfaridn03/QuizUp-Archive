@@ -1,0 +1,16 @@
+                           Player Country Level    Total XP
+1                          Teresa      CA   707  17,599,582
+2                    Mike Naranjo      US   427   6,445,429
+3                              Al      US   420   6,221,229
+4                        Stroshow      CA   344   4,198,064
+5                           UkicA      RS   322   3,666,228
+6                              JW      US   274   2,664,372
+7                  Neil M. MacKay      CA   274   2,660,888
+8                               D      US   257   2,346,409
+9                    Sheldon Muir      CA   254   2,282,414
+10                 CohenOfTheBarn      CA   229   1,862,265
+11                           Nick      US   221   1,733,728
+12  Princess Yue - Save this App!      DE   183   1,192,660
+13                  Steven Flower      US   174   1,085,303
+14                           Ryan      US   167     993,087
+15                     leaffan316      CA   162     934,532

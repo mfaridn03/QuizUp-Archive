@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1              Daniel 43      DE   466  7,657,130
+2           Constantinos      CY   371  4,871,769
+3                 Pat 21      BE   296  3,102,340
+4                Chris W      GB   252  2,252,905
+5                   Rosi      DE   220  1,721,127
+6            Jonny Evans      GB   218  1,689,665
+7                   Javi      ES   193  1,328,525
+8           JUVENTUS F.C      IT   182  1,183,695
+9          Mycas Batutta      PT   169  1,017,141
+10        Mario Pokrivač      HR   162    936,792
+11        Dario Pokrivač      HR   159    911,021
+12             Rosi MX 5      DE   159    904,334
+13  Bad Cannstatt (Rosi)      DE   143    731,181
+14      Mohammed El Said      LY   136    669,493
+15           Rosita 1893      DE   134    646,333

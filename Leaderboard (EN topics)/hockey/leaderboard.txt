@@ -1,0 +1,16 @@
+                      Player Country  Level    Total XP
+1   PAUL(STANLEY CUP)PAOLINO      CA  1,026  36,949,308
+2                  Hockystik      US    928  30,262,412
+3                 Audrey 808      US    679  16,227,300
+4         Chris save the app      CA    529   9,876,816
+5                         SF      CA    492   8,542,953
+6                    CRE8IVE      CA    428   6,462,770
+7         The Fightin' Nerds      US    373   4,912,149
+8                  Wade Cool      CA    350   4,324,548
+9             SundinsWhiskey      US    339   4,059,682
+10               Rick Cullen      CA    319   3,600,867
+11                    Skeffy      CA    257   2,339,809
+12                 Mr. Happy      US    202   1,450,271
+13                    Asfalt      NO    184   1,212,238
+14                 Roblin411      CA    179   1,144,632
+15    Jayjayem Save the App!      US    170   1,029,390

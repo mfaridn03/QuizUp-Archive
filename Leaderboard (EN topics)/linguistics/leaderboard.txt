@@ -1,0 +1,16 @@
+                    Player Country Level   Total XP
+1        Terry Christopher      US   437  6,746,141
+2   Hermine - Save the App      AM   335  3,963,439
+3           Deepali 💫🌏 QT✨      AE   256  2,320,858
+4        Bruce Whalley ₹ɘȵ      AU   203  1,474,064
+5    Bob Clark Team Savant      ES   200  1,427,825
+6            Mona Gruetter      CH   196  1,369,646
+7              UMBERTO Eco      GR   190  1,294,216
+8                    Ramzi      TN   173  1,067,105
+9              KillerQueen      ZA   172  1,062,282
+10           Mass gardener      US   162    944,778
+11   Bhavna Gaetane Vithal      FJ   157    888,311
+12             Romeo Brown      CA   154    852,139
+13                      BW      US   154    850,356
+14              Loxodontoc      US   153    836,919
+15       Horatio Shmoratio      US   151    816,026

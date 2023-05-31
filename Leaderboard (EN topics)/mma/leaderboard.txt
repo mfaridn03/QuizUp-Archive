@@ -1,0 +1,16 @@
+                   Player Country Level   Total XP
+1        Jerry Stramiello      US   435  6,664,101
+2                Marcos G      US   434  6,635,385
+3        jerry stramiello      US   329  3,840,467
+4                   Kombo      CA   318  3,575,097
+5        jerry stramiello      US   231  1,903,278
+6                  Martin      GB   228  1,841,809
+7                 Phumali      US   190  1,287,573
+8          MattyRicePilaf      US   187  1,252,957
+9               Cashmoney      US   172  1,056,066
+10       G.J.O.M.'95 c.i.      PH   162    938,841
+11                 H Dogg      CA   146    764,475
+12  Carlos Ayon-Gutierrez      US   143    738,088
+13                 Angela      US   142    726,707
+14          Alex Castillo      US   137    671,119
+15                Christo      AU   136    668,729

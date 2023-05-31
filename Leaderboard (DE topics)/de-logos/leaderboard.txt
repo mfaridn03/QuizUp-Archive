@@ -1,0 +1,16 @@
+                            Player Country  Level    Total XP
+1                      Mediasurfer      DE  1,000  35,148,878
+2                         Hackl ɖ₮      DO    745  19,528,985
+3                         Don Papa      DE    690  16,739,484
+4                      John Player      DE    672  15,894,677
+5                        Buchtitel      DE    614  13,272,705
+6               Daniil  Shevchenko      DE    507   9,063,888
+7                           Neessa      DE    460   7,450,196
+8                             G.M.      DE    444   6,953,589
+9                            Franz      DE    427   6,435,292
+10                           Eddie      DE    403   5,733,171
+11  C@roline #L-ILA - Save the App      DE    390   5,376,836
+12                           Najet      CA    357   4,497,993
+13                         Kasturi      IN    353   4,412,156
+14                             Pia      CH    336   3,995,384
+15                           Heinz      AT    319   3,612,033

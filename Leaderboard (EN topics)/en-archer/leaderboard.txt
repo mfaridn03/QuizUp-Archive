@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1         Windows 3.1      US   346  4,228,343
+2        Sobriquet_14      US   241  2,057,151
+3     missadventure~1      US   224  1,786,172
+4                Dusk      US   209  1,554,875
+5   Um, What? Nothing      IN   206  1,517,308
+6         Poodlemommy      US   185  1,223,911
+7         JohnniePolo      US   166    980,435
+8            Amiboshi      US   155    861,995
+9            CWhite45      US   141    712,714
+10        Rog Rotunno      US   139    694,877
+11         Gingergene      US   134    646,137
+12      Ian Baertlein      US   129    596,527
+13            Jessica      US   126    572,489
+14       Chris Lunday      US   125    560,332
+15             Jhanon      US   124    557,462

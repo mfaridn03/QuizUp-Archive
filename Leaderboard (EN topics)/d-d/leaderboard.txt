@@ -1,0 +1,16 @@
+                             Player      Country Level   Total XP
+1   Chillin' ... “Savant Community”   QU_ENGLAND   366  4,732,409
+2                    Dungeon Master           US   244  2,107,996
+3                            Maharg           CA   204  1,481,588
+4                      Mark Freeman   QU_ENGLAND   197  1,382,336
+5                           Dhulmek           US   175  1,094,888
+6                       Brad Wilson           US   175  1,093,501
+7                              jade  QU_SCOTLAND   168  1,014,347
+8                        Diddy Scot           GB   168  1,005,403
+9                      Doppelganger           US   143    731,784
+10                   Nicholas Olsen           US   143    730,471
+11                      PincheMateo           US   140    700,117
+12                    GreedyHuffman           BG   133    633,472
+13                     Glenn Sawyer           GB   123    545,710
+14                         Vladprof           BR   123    543,923
+15                        Tim Myers           US   121    523,816

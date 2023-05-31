@@ -1,0 +1,16 @@
+                       Player     Country Level   Total XP
+1   Miss Nomer - Save the App          US   205  1,499,458
+2       APARNA - Save the App          IN   168  1,004,525
+3                     Kalpana          IN   168  1,004,277
+4                           S          IN   145    749,618
+5                Invoker™ ₹ɘȵ          IN   124    551,166
+6                       Kittu          IN    70    178,598
+7           Ajitsingh Rathore          IN    65    154,926
+8                  ~Priyanka~          IN    63    144,773
+9                 Rishu goyal          IN    62    144,350
+10        Tirtha Tanay Mandal          IN    62    140,319
+11           Bhupendra Charan          IN    61    136,863
+12           Ashik Antony LFC          IN    60    132,971
+13             Meera Tripathy          IN    56    115,228
+14                 ABDUL QADI  QU_ENGLAND    48     85,323
+15                   Magnolie          DE    42     67,730

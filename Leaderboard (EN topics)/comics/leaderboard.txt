@@ -1,0 +1,16 @@
+                             Player     Country Level   Total XP
+1                     Da Vaughnster          US   491  8,515,564
+2                            Connie          US   437  6,729,883
+3                    David Thompson          US   300  3,181,824
+4                       Jim Spriggs          US   284  2,868,656
+5                  Mt man ninja kgb          US   280  2,782,332
+6                     Brightthehour          CA   255  2,314,230
+7             Mingr927-save the app          US   247  2,162,851
+8                               dsg          US   229  1,859,946
+9                       Timothy Gun          US   220  1,729,002
+10                             Bill          AU   209  1,550,382
+11                           rngdvm          US   207  1,519,982
+12                        dystopika          US   200  1,431,415
+13  Chillin' ... “Savant Community”  QU_ENGLAND   195  1,355,911
+14                      Lucky Chuck          US   191  1,301,962
+15                            Susan          US   189  1,268,617

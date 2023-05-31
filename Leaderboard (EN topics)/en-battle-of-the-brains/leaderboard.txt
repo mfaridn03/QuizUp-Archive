@@ -1,0 +1,16 @@
+                             Player Country  Level    Total XP
+1                              KiSh      SG  1,515  80,482,452
+2                          Mac Eoin      IE  1,400  68,734,206
+3                                 8      US    850  25,368,279
+4                  Douglas Squasoni      US    806  22,845,604
+5                           MariSol      ES    794  22,151,967
+6                            Deacon      US    776  21,153,398
+7                           Vanessa      US    564  11,215,110
+8                        Александар      MK    559  11,011,749
+9                     CjBowen #100+      US    529   9,869,090
+10                 The Farrier 🌍UT💫      AU    510   9,153,660
+11                Jack Save the App      US    477   8,010,108
+12        Sophie Mujib-save the App      PK    475   7,951,133
+13                         Vicky 45      FR    472   7,865,302
+14                           Heliøt      MA    472   7,855,687
+15  EugeneB #E-ILA <-Save The App->      ZA    465   7,637,760

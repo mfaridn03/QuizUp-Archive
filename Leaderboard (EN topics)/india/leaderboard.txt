@@ -1,0 +1,16 @@
+                     Player Country  Level    Total XP
+1                      Raja      IN  1,117  43,805,323
+2            Ashalatha Amul      IN    881  27,283,658
+3            Adarsh johnson      IN    878  27,085,448
+4             Asher Johnson      IN    837  24,650,651
+5             Parasa Hannah      IN    750  19,759,349
+6           Biju Thankachan      FI    748  19,680,512
+7               Monashu !🤣!      IN    542  10,354,654
+8                   Kasturi      IN    505   8,986,041
+9                Krishnendu      IN    466   7,662,907
+10             Royal বেঙ্গল      IN    452   7,220,748
+11            Muskan Shaikh      IN    451   7,169,542
+12              Jain Rishub      IN    434   6,644,345
+13  Dr.Dhananjay chaturvedi      IN    421   6,265,017
+14            Too many bots      US    421   6,247,395
+15                    Alice      IN    364   4,685,839

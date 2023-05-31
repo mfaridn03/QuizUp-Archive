@@ -1,0 +1,16 @@
+              Player   Country Level   Total XP
+1           Todd ᴵᴸᴬ        AU   333  3,923,940
+2              Renee        US   178  1,126,720
+3           some12be        DE   129    594,575
+4                PiK        PL   127    577,649
+5    ghastlyreligion        GB   112    453,133
+6         Milly Dean  QU_WALES   112    451,632
+7            Tempest        GB   111    445,424
+8       Unique Sense        ID   101    370,038
+9                Dee        CA   100    360,526
+10               Joy        CA   100    359,825
+11        Spidey-Fan        US   100    359,738
+12           Wānhedā        FR   100    359,724
+13  Tatiana Carvalho        PT    95    325,084
+14          Emily P.        AU    92    306,897
+15             Vicki        ZA    84    260,204

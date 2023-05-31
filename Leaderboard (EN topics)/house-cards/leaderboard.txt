@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1            Desiree      AW   670  15,793,879
+2          The Burgy      US   478   8,063,754
+3            David D      CL   375   4,980,067
+4                JOD      IE   245   2,137,614
+5      Too many bots      US   238   2,005,506
+6             Skyler      US   223   1,764,953
+7        loudmacleod      US   188   1,264,214
+8             INDIGO      US   183   1,194,197
+9              FRANK      US   180   1,156,592
+10               MBT      US   165     972,815
+11  Stefania Bellini      IT   164     960,771
+12             Bones      US   164     960,502
+13              MTMF      GB   160     918,389
+14         Cathy Fox      US   146     762,882
+15   Sufyaan Jamshir      IN   140     700,845

@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1            Charles      US   928  30,255,402
+2   Raja Aquib #S^2C      MY   485   8,294,337
+3                 ㋛ᴄ      BR   401   5,683,869
+4               Mike      US   337   4,020,745
+5                 ㅤㅤ      PH   265   2,496,922
+6               JeNa      TH   252   2,249,795
+7                HM.      VE   240   2,044,520
+8             Aiden.      TR   229   1,870,973
+9            Mayank.      IN   228   1,851,998
+10     Mick Donnelly      GB   218   1,693,826
+11              Jack      GB   211   1,580,501
+12          "!João!"      BR   210   1,567,116
+13            Athena      US   207   1,525,096
+14      shyNinnocent      DE   201   1,445,911
+15     Higor Curcino      BR   201   1,436,854

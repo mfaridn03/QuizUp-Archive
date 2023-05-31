@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                  R-Gun      US   620  13,521,686
+2                 Manisn      DE   540  10,280,004
+3          Richkras 🌍UT💫      US   533  10,005,451
+4                    Arg      GB   516   9,375,789
+5       Sonja Berendhoff      DE   419   6,199,839
+6                 Stuart      US   337   4,012,654
+7    Alex R save the app      IE   335   3,971,113
+8                 Rowi51      DE   314   3,496,792
+9               MANISN19      DE   288   2,942,650
+10                Gaizka      ES   286   2,906,279
+11           Irv Kushner      US   279   2,755,133
+12        DJANGO & POPPY      FR   264   2,479,659
+13  Herby1516  ⚡avant 💡🦈      CH   256   2,325,689
+14         Deborah Palma      BR   249   2,210,357
+15              Math Fut      BE   244   2,107,025

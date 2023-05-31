@@ -1,0 +1,16 @@
+             Player     Country  Level    Total XP
+1                 D          US  1,005  35,508,138
+2                 8          US    750  19,767,070
+3             Paula          AU    629  13,921,159
+4      Squintmaster          CA    546  10,504,810
+5         Pixie5163          US    461   7,507,075
+6   Michael Pointer          AU    434   6,643,612
+7          Glasgirl          GB    427   6,451,647
+8        Steve Wood          GB    393   5,464,216
+9              Jude          GB    363   4,666,060
+10           Dink24          US    358   4,527,444
+11            Julie    QU_WALES    335   3,978,498
+12           Neale7  QU_ENGLAND    305   3,293,797
+13     Geordie Adam  QU_ENGLAND    282   2,812,609
+14    Julie Schultz          US    269   2,570,811
+15     Stephen Cobb          GB    269   2,564,427

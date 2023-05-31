@@ -1,0 +1,16 @@
+                        Player Country Level    Total XP
+1                            M      US   565  11,246,250
+2     Judith Havelock de Waele      GB   530   9,887,062
+3                          IkR      FR   350   4,334,014
+4                           EK      NL   340   4,094,200
+5         KatGer- Save the App      US   312   3,456,069
+6   Radford Lad - Save the App      GB   287   2,926,352
+7                      Notella      CH   285   2,870,385
+8                      Carolyn      US   254   2,298,570
+9               Constantin Dan      RO   234   1,941,050
+10                    comanche      NO   226   1,816,376
+11           Burkhardt Schmidt      US   225   1,794,986
+12                  Diddy Scot      GB   211   1,584,237
+13               Steve Conners      US   208   1,534,289
+14               Bob Alexander      CA   200   1,427,539
+15                  Loxodontoc      US   163     947,055

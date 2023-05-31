@@ -1,0 +1,16 @@
+                          Player     Country Level   Total XP
+1                           Alex          RO   524  9,695,962
+2                        ‮Perthy          QT   428  6,474,777
+3                       ChrisTea          RO   376  4,987,998
+4         nicky :) #FREEG$LDBERG          BR   366  4,740,040
+5                       jaxonlex          NZ   300  3,182,771
+6                           ナタリー          KR   284  2,866,505
+7   The Most Righteous Rev. JuJu          US   235  1,967,207
+8                   Sandydupratt          IN   222  1,755,751
+9                         Xephyr          FR   216  1,665,408
+10                  Carl Osborne          GB   193  1,331,551
+11                Doris Saldanha          US   184  1,210,306
+12                    KET Goethe          DE   184  1,202,717
+13            Jacqueline Goulden  QU_ENGLAND   174  1,076,418
+14                          Yui.          CA   171  1,051,497
+15                   Andrew King          US   168  1,013,893

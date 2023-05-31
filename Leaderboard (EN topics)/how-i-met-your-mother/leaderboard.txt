@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1          Hunter ₹ɘȵ      US   730  18,729,882
+2               Finty      IE   645  14,658,838
+3          Catilina89      DE   613  13,222,866
+4          Ada Helena      US   568  11,364,266
+5   attractivepancake      US   379   5,075,179
+6            Umbolino      VE   324   3,724,661
+7         Vanessa Vee      US   310   3,400,758
+8            JoyFruit      IT   309   3,385,016
+9     Aldrain Serrano      PH   305   3,303,869
+10     Schlumpfolotte      DE   255   2,302,011
+11         Mohit Jain      IN   253   2,275,146
+12      Abdullah Türk      TR   249   2,207,954
+13         ChapCo2017      US   245   2,124,986
+14            Mathias      AT   244   2,121,025
+15          Onur Akın      TR   238   2,013,428

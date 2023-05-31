@@ -1,0 +1,16 @@
+                   Player Country Level   Total XP
+1    Maverick #Legend-ILA      IN   280  2,779,092
+2                    Babu      IN   234  1,944,577
+3    J₳Ɏ₭ł₴Ⱨ₳₦ ᏆϘᏢ֎-ᴀʟᴘʜᴀ      IN   227  1,835,654
+4     Kritika Ramrakhyani      IN   210  1,573,203
+5                Gk Singh      IN   193  1,329,938
+6                   Bunty      IN   191  1,307,935
+7       Cuthbert Calculas      IN   123    542,739
+8                 Kalpana      IN   120    520,632
+9                    Roma      IN   119    509,597
+10                 Shaila      IN   117    495,756
+11             Mukta Goel      IN   113    463,942
+12  Venkata Ratnam Rayala      IN   110    436,689
+13               SCNKorea      KP   110    435,848
+14                  Vivek      IN   103    386,073
+15           Vishnu Linga      CA   101    370,771

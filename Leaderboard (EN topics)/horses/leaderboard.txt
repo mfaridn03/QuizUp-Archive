@@ -1,0 +1,16 @@
+              Player   Country Level    Total XP
+1             Jasper        CA   933  30,575,208
+2        ZenaTZB🌍UT💫        US   748  19,697,855
+3             Oracle        CA   442   6,896,937
+4        Kathy Manor        US   437   6,728,391
+5             Chrisp        US   337   4,014,222
+6            Helayna  QU_WALES   300   3,198,538
+7       JanetLedvina        US   300   3,196,459
+8          Seabreeze        GB   294   3,073,039
+9       Lenora Dobbs        US   288   2,938,184
+10     Anne Campbell        GB   284   2,869,482
+11         Nikemboka        US   273   2,638,681
+12     Grannie Annie        AU   272   2,630,881
+13               Pam        US   269   2,574,235
+14  anne chesney *dt        US   260   2,407,633
+15          Fearless        FI   250   2,223,024

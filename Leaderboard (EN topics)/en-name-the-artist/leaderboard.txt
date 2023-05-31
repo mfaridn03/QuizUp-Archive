@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1                   ....      US  1,459  74,689,361
+2           Arch Nemesis      US    700  17,231,273
+3             Ken Linton      IE    592  12,334,948
+4                Candice      US    494   8,602,250
+5             Flyingkiwi      NZ    369   4,801,721
+6                    ken      NZ    362   4,626,089
+7           jim thompson      GB    343   4,150,515
+8            Sarah James      GB    315   3,504,431
+9            superstevec      CA    310   3,401,721
+10                Chasly      US    278   2,749,812
+11             Robert EM      PL    264   2,479,755
+12      Cathy Dai Davies      GB    256   2,325,310
+13            Godsgirl62      US    254   2,287,530
+14  Hans Jørgen Schrøder      DK    245   2,131,580
+15                   Liz      BS    236   1,984,178

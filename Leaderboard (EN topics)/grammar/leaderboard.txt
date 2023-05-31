@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1           Royal বেঙ্গল      IN  1,324  61,494,970
+2                 Felipe      CO  1,220  52,233,979
+3                Shirley      US  1,218  52,083,629
+4               SuperDDM      BR  1,212  51,558,013
+5                Celeste      US  1,057  39,234,715
+6       Achyut Bharadwaj      IN    833  24,388,851
+7              ~Christa~      US    756  20,085,329
+8            Pulso Único      BR    742  19,364,345
+9             Summit14er      US    678  16,162,066
+10           Carl Hardes      GB    627  13,840,184
+11  Linda (Save the App)      GB    604  12,842,777
+12         Fikret  Hasde      TR    591  12,302,569
+13                 Aysun      TR    562  11,134,011
+14  Kitty and Miss Daisy      PH    533  10,020,894
+15                   Joe      US    528   9,832,514

@@ -1,0 +1,16 @@
+                   Player Country  Level    Total XP
+1      René (QD René FTS)      HR  1,039  37,904,937
+2                   Gizmo      DE    624  13,687,328
+3                  MIKMAN      DE    589  12,210,315
+4          Paolo Campolmi      IT    561  11,089,178
+5                   AndyS      DE    437   6,752,245
+6                  Jeanny      DE    398   5,601,983
+7             Mediasurfer      DE    310   3,406,262
+8                   goody      DE    288   2,939,899
+9         Walter Hartauer      DE    264   2,480,566
+10           Andreas Bohr      DE    256   2,332,975
+11  gabi - Save The App -      DE    247   2,159,808
+12                 skinny      DE    239   2,029,164
+13               Kalderos      DE    198   1,393,025
+14            Ace Pattaya      DE    194   1,346,170
+15            LoneStarr68      DE    194   1,335,721

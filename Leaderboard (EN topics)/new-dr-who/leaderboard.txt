@@ -1,0 +1,16 @@
+                 Player     Country Level    Total XP
+1                 Marga          NL   643  14,538,509
+2                     L          US   556  10,899,794
+3            River Song          US   422   6,288,952
+4                  Erya          PL   329   3,825,589
+5           Anya Oswald          GB   316   3,537,502
+6                Nargle          GB   294   3,054,147
+7             Pelopaine          US   279   2,767,848
+8          Littlefinger  QU_ENGLAND   269   2,562,639
+9                  Daim          NL   258   2,356,619
+10           Myriam Tou          FR   253   2,274,165
+11       Shreya Kothari          IN   241   2,057,253
+12            Don Pedro          NL   235   1,967,947
+13             Alex Yan          AU   234   1,944,536
+14  The Impossible Girl          IN   231   1,892,705
+15    Marc Monty Morrow          GB   225   1,799,853

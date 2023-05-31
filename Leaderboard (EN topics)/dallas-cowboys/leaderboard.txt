@@ -1,0 +1,16 @@
+             Player Country Level    Total XP
+1              Kurt      US   665  15,584,303
+2              Tony      US   657  15,172,795
+3            Go Pre      US   431   6,557,211
+4          Donna P.      US   386   5,257,403
+5        Dan Harpel      US   360   4,579,251
+6   Jonathan Drisko      US   329   3,834,941
+7      Mark  Thomas      US   301   3,203,989
+8         Sunflower      US   279   2,769,839
+9              Ross      US   191   1,299,840
+10       Danny_0988      US   164     957,495
+11            Jk Mm      US   142     723,885
+12           Julian      US   138     686,349
+13              J.P      GB   135     658,010
+14              Ian      GB   135     650,740
+15     Grandpa John      CA   134     648,614

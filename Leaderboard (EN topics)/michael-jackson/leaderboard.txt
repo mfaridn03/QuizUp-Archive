@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1      Smooth Criminal      US   701  17,301,020
+2                 Luke      IE   655  15,087,477
+3            Stephanie      US   622  13,600,139
+4             Koen MJJ      BE   516   9,398,605
+5          JustinMcGta      US   451   7,169,185
+6       Alison Carroll      GB   407   5,863,765
+7            Bellinajo      CA   354   4,427,096
+8       Paradigm Shift      US   345   4,211,325
+9               Javier      JM   345   4,204,645
+10   Sweet B - MIke J!      US   330   3,860,729
+11  HIStory in the Mix      US   326   3,772,702
+12          Mj forever      BE   294   3,061,115
+13            Melyna J      FR   284   2,858,814
+14             Debnita      IN   278   2,733,719
+15      KillerThriller      IE   275   2,684,915

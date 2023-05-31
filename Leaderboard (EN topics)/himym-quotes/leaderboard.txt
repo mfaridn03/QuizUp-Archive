@@ -1,0 +1,16 @@
+               Player     Country Level   Total XP
+1            Todd ᴵᴸᴬ          AU   333  3,924,012
+2   attractivepancake          US   235  1,958,073
+3         Cosmic Love          RO   168  1,009,631
+4              alayab          US   153    834,678
+5               Allan          DK   128    590,713
+6              Cerked          CA   127    582,879
+7               Corte          US   122    535,917
+8        Will Pummell  QU_ENGLAND   120    517,995
+9     Jo Cranky-Pants          US   115    478,261
+10              Joy D          US   115    478,125
+11        Matt Bausch          US   113    458,804
+12         ChapCo2017          US   112    451,178
+13     Kristen Lawson          US   103    387,982
+14     Shashank Tyagi          IN   103    382,900
+15       Billy Cliver          US   103    381,811

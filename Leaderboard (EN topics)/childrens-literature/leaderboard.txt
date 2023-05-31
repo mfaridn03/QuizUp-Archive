@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1                  LibEd      US   523  9,646,207
+2              Bob's Mom      US   487  8,373,985
+3     Betsy Harper Kranz      US   363  4,649,543
+4   KatGer- Save the App      US   273  2,644,546
+5                    Kat      US   233  1,926,047
+6             Sharon Ann      US   227  1,834,605
+7                  Juice      US   226  1,810,843
+8           Julie Wilson      US   224  1,779,319
+9   Wendy Handshaw Power      US   212  1,605,752
+10          Kyria pallia      US   210  1,569,733
+11               TennWms      US   198  1,395,289
+12                 Mrs V      NZ   192  1,319,476
+13                  Ruth      GB   192  1,309,339
+14               Lou Lew      US   187  1,253,949
+15         Sammy Johnson      US   187  1,249,375

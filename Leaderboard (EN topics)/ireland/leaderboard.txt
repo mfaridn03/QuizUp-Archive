@@ -1,0 +1,16 @@
+                                     Player Country  Level    Total XP
+1   Marie French 🦖 Team Savant Save the app      IE  1,331  62,195,573
+2                             BabyCody PLAU      IE    845  25,089,936
+3                             Brendan Grady      GB    359   4,549,056
+4                             Angela Beagan      AU    353   4,398,519
+5                                  armbaile      GB    347   4,270,848
+6                             Michael Roche      IE    346   4,226,764
+7                  Iris Eustace Halmos 100+      US    311   3,435,597
+8                           Dominick Morley      IE    290   2,977,741
+9                                     2Shay      US    255   2,308,705
+10                         Andreas Lundberg      SE    253   2,278,584
+11                           Liam Mcdonnell      US    238   2,006,145
+12                        President Kennedy      US    231   1,892,972
+13                                     Mary      IE    219   1,699,718
+14                            Gerry Buckley      IE    211   1,591,989
+15                                    Do me      IE    200   1,420,089

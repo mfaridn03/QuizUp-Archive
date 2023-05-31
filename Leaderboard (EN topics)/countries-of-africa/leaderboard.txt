@@ -1,0 +1,16 @@
+                     Player     Country Level    Total XP
+1               David Baker          GB   548  10,592,777
+2          Mike  Golubovich          ZA   480   8,142,249
+3                  Barbetta          US   438   6,781,315
+4         Lico SAVE THE APP          NL   410   5,943,798
+5                  Jon Park          GB   407   5,854,407
+6               David Baker          GB   405   5,780,867
+7                      JPhi          FR   384   5,201,424
+8              James Curran          AU   369   4,818,492
+9                   MarPor7          DE   345   4,213,719
+10                    Anita          US   339   4,073,943
+11                  Planter          US   338   4,033,118
+12                   Doktar          UG   324   3,708,487
+13                 Hofuf366  QU_ENGLAND   322   3,676,107
+14                     Kiki          FR   309   3,372,153
+15  YASSINE - JWP - BROTHER          MA   281   2,791,789

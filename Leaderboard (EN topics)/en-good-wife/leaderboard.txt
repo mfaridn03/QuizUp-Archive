@@ -1,0 +1,16 @@
+             Player     Country Level   Total XP
+1   Elaine Saunders          GB   232  1,908,758
+2                 L          US   216  1,663,275
+3           Sherman          US   198  1,401,647
+4           Heather          CA   194  1,347,588
+5      Beth Hadlock          US   161    930,954
+6         Max's Dad          US   105    398,235
+7      Lauren Jayne  QU_ENGLAND   104    393,790
+8               Dee          CA   104    393,275
+9        Doug Reetz          US   101    366,792
+10          Gal ₹ɘȵ          BR   100    363,252
+11          Wānhedā          FR   100    359,780
+12      Neeraj 🌏UT💫          IN   100    359,720
+13         Rachel B          GB   100    359,479
+14       Godsgirl62          US    95    328,362
+15           Sindhu          PK    91    299,713

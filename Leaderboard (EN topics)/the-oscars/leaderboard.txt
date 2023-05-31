@@ -1,0 +1,16 @@
+             Player   Country Level    Total XP
+1               459        US   550  10,656,842
+2      Fred78cinema        FR   522   9,606,560
+3              Ouch        US   294   3,073,588
+4            Dennis        US   265   2,492,207
+5       Mark Hunter        US   248   2,192,672
+6       Gomes {ֆȶო}        BR   242   2,079,453
+7        Smallville        ES   235   1,958,742
+8   Holly Golightly        US   228   1,850,620
+9              Lara        RU   220   1,716,615
+10          MookLiz        US   214   1,624,583
+11         Susan CS        US   200   1,428,398
+12            Maite        ES   188   1,262,471
+13          Beattyc        US   187   1,244,694
+14      Paulo Silva        BR   185   1,220,488
+15           Justin  QU_WALES   182   1,187,331

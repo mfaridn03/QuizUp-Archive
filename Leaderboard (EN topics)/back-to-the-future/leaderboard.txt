@@ -1,0 +1,16 @@
+                            Player      Country Level    Total XP
+1                             Bone           US   649  14,809,054
+2                Mal save the app!  QU_SCOTLAND   574  11,587,086
+3   Copperdome Bodhi #Save The App           IN   550  10,662,622
+4                    Bill Mulligan           KR   482   8,186,786
+5                       Steve Wood           GB   464   7,593,330
+6                             Bone           US   447   7,046,295
+7                           Apache           FR   389   5,335,537
+8                      lleggollazz           PH   381   5,125,283
+9                  Asian Sensation           CA   368   4,791,210
+10                         Shawn25           US   350   4,332,743
+11                         WoodyWP           US   290   2,984,393
+12                       Ducks Fan           US   285   2,871,356
+13                          Jonesy           US   280   2,772,678
+14                            Amit           IN   273   2,647,204
+15                         Maniolo           FR   273   2,646,992

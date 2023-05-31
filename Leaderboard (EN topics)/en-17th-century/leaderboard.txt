@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1   Tenacious D    In*      US   431  6,561,165
+2       Constantin Dan      RO   377  5,015,017
+3                  IkR      FR   330  3,865,404
+4        Peaky Blinder      GB   319  3,600,934
+5              Carolyn      US   317  3,568,688
+6      Samuel B Hinkie      US   310  3,414,638
+7           Diddy Scot      GB   293  3,033,926
+8                Hub30      US   270  2,578,480
+9       Stanley #L-ILA      IS   266  2,518,613
+10          Loxodontoc      US   245  2,134,402
+11                 Flo      FR   241  2,065,935
+12          Rob Dabell      GB   241  2,061,469
+13            Tinylama      NL   236  1,978,714
+14            comanche      NO   227  1,829,980
+15       Steve Conners      US   211  1,578,880

@@ -1,0 +1,16 @@
+             Player Country  Level    Total XP
+1            Yandog      US  1,158  47,069,513
+2      Darth Raider      US  1,148  46,278,104
+3            j dawg      US    781  21,437,634
+4       Running Man      US    615  13,302,600
+5    Austin Richard      US    550  10,659,912
+6       John Potter      US    513   9,281,363
+7             Karin      US    474   7,915,527
+8              John      GB    397   5,579,878
+9           Mike J.      US    352   4,380,286
+10           Jonesy      US    327   3,793,131
+11      James Moore      IE    315   3,511,027
+12   Linda Robinson      US    302   3,236,175
+13         MattyIce      US    301   3,216,322
+14  Kweku Ghana Boy      US    266   2,513,041
+15        Alex Ross      US    255   2,310,158

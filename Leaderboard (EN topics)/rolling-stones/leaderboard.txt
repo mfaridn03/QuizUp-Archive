@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1      Villa Nellcôte      FR  1,559  85,236,299
+2   Thomas Stones Fan      US    617  13,421,720
+3                 Joe      US    519   9,510,025
+4          Foo Foryou      CA    420   6,220,875
+5                 Art      US    383   5,196,248
+6           Catinca34      DE    362   4,623,447
+7             Cuffboy      US    323   3,704,758
+8            Twizzler      GB    300   3,187,039
+9       kitchenrickie      US    293   3,034,817
+10                KBM      IN    287   2,918,495
+11               Dice      US    282   2,829,722
+12               Keef      US    280   2,779,482
+13          FraDavido      DE    268   2,556,500
+14      Warren Hawtin      AU    248   2,182,835
+15              Bruno      DE    237   1,993,235

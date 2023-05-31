@@ -1,0 +1,16 @@
+                                        Player      Country Level    Total XP
+1                             Paul #savequizup   QU_ENGLAND   950  31,678,536
+2                              Blackpool Belle           GB   744  19,446,309
+3                           Stacey #savequizup           GB   723  18,368,769
+4                                       Donkey  QU_SCOTLAND   561  11,072,459
+5                                      Gnasher   QU_ENGLAND   459   7,448,372
+6                                          Gaz           GB   387   5,293,493
+7                            susan ellerington           CY   369   4,806,434
+8   G                   A                    Z           GB   361   4,604,383
+9                       nicky :) #FREEG$LDBERG           BR   335   3,980,986
+10                             Sue Ellerington           GB   325   3,743,973
+11                                      Eileen           US   307   3,331,833
+12                                        Robb           GB   295   3,074,623
+13                                   Jackie W.  QU_SCOTLAND   272   2,618,836
+14                                      Eileen           GB   266   2,511,655
+15                                 Brian smith           GB   265   2,486,868

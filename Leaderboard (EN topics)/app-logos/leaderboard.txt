@@ -1,0 +1,16 @@
+                     Player Country  Level    Total XP
+1      Maverick #Legend-ILA      IN  1,113  43,502,819
+2                 the champ      US    885  27,536,262
+3               Executioner      US    881  27,254,943
+4           Angel of Wisdom      US    497   8,718,953
+5   [AGR] [ShadowKid] #100+      SG    430   6,533,371
+6                    SWD213      GB    381   5,118,507
+7    nicky :) #FREEG$LDBERG      BR    366   4,736,980
+8              haneen tahir      PK    342   4,127,780
+9                     RazeN      FR    302   3,225,164
+10                       ED      US    301   3,218,608
+11                Faan #TSN      PK    300   3,182,696
+12             `ryan.ZAY $k      AU    300   3,179,027
+13                  FeLiCiA      PH    283   2,846,453
+14                   Tsuka-      AQ    275   2,690,600
+15                 FReeKayZ      FR    272   2,616,820

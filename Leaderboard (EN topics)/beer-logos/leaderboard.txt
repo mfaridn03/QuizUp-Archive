@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1               DenGe      DE  1,082  41,084,722
+2          aindow JWP      GB    642  14,490,703
+3           Koolnkalm      CA    499   8,795,634
+4         Stella 7101      CR    455   7,298,470
+5          Flo PtiFlo      FR    369   4,807,374
+6          StraycatJP      FR    362   4,639,107
+7        François Fef      FR    338   4,031,449
+8      sulian poirier      FR    317   3,554,789
+9   Roberto Tonelli       IT    313   3,459,472
+10              Welch      US    301   3,218,667
+11                MR7      MX    301   3,208,408
+12     Hemnes Beerman      NO    295   3,083,643
+13                Grg      IT    281   2,803,045
+14               B.B.      SG    281   2,790,783
+15             Shaila      IN    277   2,721,016

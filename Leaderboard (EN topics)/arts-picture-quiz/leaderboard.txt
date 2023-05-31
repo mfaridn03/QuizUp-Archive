@@ -1,0 +1,16 @@
+                         Player      Country Level    Total XP
+1                           Mel           US   998  34,990,136
+2                   Jammerquist           US   867  26,404,043
+3              °|° Künstler StA           DE   767  20,662,912
+4                  Bitty Bailey           US   766  20,633,381
+5                          Izzy           US   612  13,169,809
+6                Christine Merl           AT   505   8,987,892
+7                      Albatros           DE   465   7,638,520
+8   Chiefmaster K.-Save the App           CH   455   7,320,914
+9                          Luca           IT   446   7,007,288
+10                        Marwo           MX   412   5,982,892
+11                      Natalia           RU   391   5,400,797
+12                      Cameron           US   389   5,333,124
+13             Chris Fitzgerald  QU_NIRELAND   352   4,378,207
+14             Salpy Dzadourian           LB   338   4,036,997
+15            Luca Save The App           IT   330   3,861,060

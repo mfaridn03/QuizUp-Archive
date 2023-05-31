@@ -1,0 +1,16 @@
+                     Player     Country Level    Total XP
+1               Kyle Wesker          ES   874  26,840,196
+2                       AML          CA   636  14,229,706
+3                      Loïc          FR   474   7,941,143
+4                    Miguel          ES   462   7,519,021
+5                      Shaz          AU   400   5,665,473
+6   ✨ɧαƖʄ-ɛƖνєŋ 🌎ut💫 vípєr🐉          US   346   4,224,005
+7                 Bob's Mom          US   346   4,223,323
+8              Ken Zalewski          US   317   3,567,158
+9           Meeshell Cortez          KE   303   3,248,257
+10            Michelly Dias          BR   254   2,284,642
+11                      Mia          GB   225   1,794,669
+12         Leonardo Queiroz          BR   217   1,672,915
+13                    kirby  QU_ENGLAND   215   1,653,257
+14               Lilian Teo          SG   204   1,481,407
+15                  Antoine          FR   178   1,132,961

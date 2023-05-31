@@ -1,0 +1,16 @@
+                 Player     Country Level   Total XP
+1          Guido Hatzis          AU   481  8,150,704
+2     Syed Askari Abbas          PK   356  4,472,718
+3           Steve Penny          LK   179  1,142,706
+4          Chris Jordan          GB   170  1,033,218
+5            TommyC1873          US   150    805,742
+6         Robert Galvin  QU_ENGLAND   142    722,641
+7            Sam Jordan          GB   126    567,909
+8            Sam Jordan          GB   111    442,093
+9   tree42 SAVE THE APP          AU   107    414,428
+10         Anthony Burt          GB   107    411,017
+11                 Mike          GB    98    350,757
+12         geoff clarke          ZA    98    348,101
+13                  BRS          IN    95    325,995
+14        Allen Station          US    94    319,740
+15       Mucilla Clarke          ZA    93    314,198

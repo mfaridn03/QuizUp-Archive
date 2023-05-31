@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1              Gal ₹ɘȵ      BR   817  23,442,095
+2          David Betts      GB   441   6,873,077
+3              Charles      US   380   5,115,278
+4          simply Rich      GB   361   4,610,582
+5   Bob Morrisroe#100+      GB   326   3,765,927
+6                ST£V£      US   319   3,609,343
+7            Cristinel      US   304   3,281,881
+8            Rub Bjarx      MX   285   2,876,481
+9      Bartie Mad-Eyes      BE   266   2,512,306
+10           Gastao7be      BE   243   2,105,961
+11      Juan Rodríguez      US   195   1,359,776
+12              Nishad      ES   187   1,247,917
+13          Sé Martins      BR   183   1,194,018
+14         Marcin Jaro      PL   183   1,193,386
+15            Georgios      RS   177   1,115,978

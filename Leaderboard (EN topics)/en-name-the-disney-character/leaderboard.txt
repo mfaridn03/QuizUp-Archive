@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1                   AlanM      US   577  11,710,970
+2                     Liz      CA   426   6,417,458
+3                Zenitram      US   377   5,020,243
+4                   Ricky      US   376   4,999,287
+5          Barney Cushion      GB   353   4,396,249
+6               kaki popo      FR   336   3,990,291
+7                  Raissa      RE   325   3,737,190
+8             MinnieMouse      US   299   3,169,156
+9             Draya #100+      US   285   2,876,919
+10                 Jim :)      US   279   2,769,182
+11                 Disney      US   278   2,742,650
+12              Jej Vador      FR   276   2,696,278
+13         Stéphane Tonon      FR   273   2,649,957
+14               Mamahen8      CA   266   2,518,740
+15  Jamie Lingane Poynton      US   237   1,989,089

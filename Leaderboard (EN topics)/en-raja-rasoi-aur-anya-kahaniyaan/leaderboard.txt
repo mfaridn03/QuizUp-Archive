@@ -1,0 +1,16 @@
+                       Player Country Level   Total XP
+1   Miss Nomer - Save the App      US   445  6,995,558
+2                 Meghna Puri      IN   309  3,383,843
+3                 Richa Verma      IN   306  3,314,321
+4           Cuthbert Calculas      IN   180  1,157,319
+5                Neerja Verma      IN   171  1,049,217
+6              Lohit Satpathy      IN   127    577,141
+7           Satish Kumar Soni      IN   116    486,834
+8                Neerja Verma      IN   104    391,159
+9                  Mieze Katz      NL    99    359,014
+10                      Kittu      IN    84    255,631
+11                      sapna      IN    81    239,442
+12               Shah Sandeep      IN    81    239,006
+13              Kanchan Joshi      IN    79    226,557
+14               Asha Thakkar      IN    78    224,685
+15              arya singh 04      IN    78    221,614

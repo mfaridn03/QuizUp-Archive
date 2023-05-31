@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1   Maverick #Legend-ILA      IN  1,001  35,167,050
+2        Angel of Wisdom      US    548  10,564,985
+3           Guido Hatzis      AU    352   4,374,454
+4                 Jackie      ZA    294   3,061,017
+5      Syed Askari Abbas      PK    224   1,778,434
+6           Chris Jordan      GB    150     802,126
+7          Carl Malherbe      ZA    145     758,021
+8             Yoganandum      IN    136     662,040
+9                   Kiwi      CA    133     635,851
+10            Diddy Scot      GB    125     559,685
+11                 David      GB    123     547,503
+12             the champ      US    123     547,182
+13            ali hameed      PK    112     456,233
+14                 Zeppo      AU    111     443,201
+15             Vishal S.      IN    105     400,235

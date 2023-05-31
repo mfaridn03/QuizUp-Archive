@@ -1,0 +1,16 @@
+                      Player     Country Level    Total XP
+1                   HAL 9000          GB   618  13,436,371
+2           British Longhair          RO   602  12,773,670
+3      Michael - Team Savant          IE   574  11,608,156
+4   Judith Havelock de Waele          GB   509   9,121,247
+5                      TonyB          GB   466   7,658,824
+6                      Jim F          CA   446   7,021,804
+7                      Bob C          US   398   5,582,491
+8                 Julian pym          GB   370   4,845,639
+9                  LA4052101          US   350   4,344,967
+10               Letterstone          GB   318   3,569,745
+11           PortobelloChris          US   306   3,314,865
+12               Bosquetaire          RO   294   3,069,364
+13             Westwing Kath          US   280   2,786,336
+14                     Eddie          GB   277   2,721,445
+15                    Bigted  QU_ENGLAND   274   2,666,954

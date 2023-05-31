@@ -1,0 +1,16 @@
+                  Player      Country Level   Total XP
+1          Pradeep Kakad           IN   264  2,480,829
+2                    Dun           NZ   204  1,484,722
+3            Manju Sheel           IN   183  1,189,736
+4           Invoker™ ₹ɘȵ           IN   127    582,740
+5   Lilly - Save the App           IN   124    558,389
+6             @faisalr21           IN   121    524,783
+7          Sudeep Mahato           IN   114    467,270
+8                   Anni           NZ   111    449,165
+9   Maverick #Legend-ILA           IN   100    360,094
+10                Neerja           IN    86    269,343
+11           Jolly Roger  QU_SCOTLAND    84    255,801
+12          Basanti Goel           IN    84    254,991
+13                  1234           CA    81    242,240
+14                   SSB           IN    81    239,740
+15    Yogesh Vijayvergia           IN    74    201,681

@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1                    G16      PH  1,500  78,996,003
+2               ✦ Memo G      MX  1,100  42,465,249
+3         CRO 007 #L-ILA      HR  1,040  37,955,589
+4                 Iceman      FR  1,000  35,095,887
+5                 Cosmin      HU    909  29,043,742
+6   *KillerFrost* #E-ILA      DE    851  25,445,608
+7                     Em      AE    802  22,632,866
+8                  Jozef      PL    645  14,622,705
+9               Theorist      MK    605  12,880,067
+10            Αλέξανδρος      GR    551  10,707,865
+11                   007      HR    528   9,811,328
+12                  Eric      GB    522   9,613,389
+13                 Miren      ES    516   9,398,041
+14            Màhmud ₹ɘȵ      AZ    512   9,226,660
+15            skenderbeu      AL    511   9,187,852

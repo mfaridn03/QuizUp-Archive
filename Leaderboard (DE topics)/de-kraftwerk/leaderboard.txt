@@ -1,0 +1,16 @@
+                        Player Country Level   Total XP
+1                   Bertolucci      DE   335  3,977,365
+2   Alb E. Stein Save the App!      AT   261  2,423,706
+3                  Rogge-Gotha      IO   201  1,436,998
+4                   Peter Lehr      AT   127    577,802
+5                       Doktar      UG   107    414,982
+6                 Van Nostrand      DE    91    299,354
+7                    sunflower      DE    84    255,724
+8                    sunflower      DE    83    249,230
+9                 SpookyDaemon      DE    70    178,885
+10                SpookyDaemon      DE    47     84,038
+11                       SOJUS      DE    44     73,936
+12                      xXiaXx      DE    42     66,612
+13        No more Mr. Nice Guy      SJ    35     47,516
+14                  Frontignan      DE    34     43,946
+15                    mohindah      DE    33     41,738

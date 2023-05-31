@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1            Evil 3131      AU   313  3,476,660
+2                Hub30      US   205  1,499,595
+3             Valentín      ES   150    801,802
+4     Ashik Antony LFC      IN   125    560,802
+5            TRUE BLUE      US   116    485,367
+6        2EZ🏀NBAKINGs💯      US   112    456,694
+7       Mario Pokrivač      HR   100    363,858
+8   Vilius Andrulionis      LT    96    336,376
+9    B-radimir Manovic      NZ    77    218,525
+10          Dan Skitch      CA    70    178,346
+11                 Mwn      US    67    165,924
+12         TRUE×B@LL3R      US    56    117,880
+13               Jaden      US    54    109,845
+14     Hunter Pormilli      US    53    106,953
+15        Matt Hubbard      US    52    100,011

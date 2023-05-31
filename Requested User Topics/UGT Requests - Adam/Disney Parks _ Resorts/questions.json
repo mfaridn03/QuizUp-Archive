@@ -1,0 +1,2187 @@
+{
+  "000a9d0e-0242-4939-92b9-a2c8e545b67b": {
+    "answers": [
+      {
+        "id": "4829ceda-5c26-4370-85f2-968ec835af3e",
+        "text": "Millennium Falcon"
+      },
+      {
+        "id": "2a3aebda-dd35-4db4-912c-f436e176215f",
+        "text": "X-2 Deep Space Shuttle"
+      },
+      {
+        "id": "933c052b-5f06-44e9-ac5e-96eb5b9b5e41",
+        "text": "Space Shuttle Atlantis"
+      },
+      {
+        "id": "168bf170-8708-48c4-aea4-953865033e80",
+        "text": "Starship Enterprise"
+      }
+    ],
+    "correct_answer_id": "2a3aebda-dd35-4db4-912c-f436e176215f",
+    "photo_url": null,
+    "text": "What spacecraft are you preparing to board during your ride on \"Mission: SPACE\"?"
+  },
+  "08889e1e-9463-441d-9855-b40c8aacd278": {
+    "answers": [
+      {
+        "id": "2ed4b898-647e-459e-85c0-43288620921f",
+        "text": "Three"
+      },
+      {
+        "id": "35fe23c3-d7da-4573-91d7-e8076282453d",
+        "text": "Four"
+      },
+      {
+        "id": "48f3e0af-c8f1-4060-be22-100bfbcc9122",
+        "text": "Five"
+      },
+      {
+        "id": "0449e065-dd44-49c1-b164-8fe136383948",
+        "text": "Six"
+      }
+    ],
+    "correct_answer_id": "35fe23c3-d7da-4573-91d7-e8076282453d",
+    "photo_url": null,
+    "text": "How many Theme Parks are located at \"Walt Disney World\"?"
+  },
+  "0e763ded-f44c-4a0b-8c9b-a31d05b8827e": {
+    "answers": [
+      {
+        "id": "9378592b-1cd4-4ae1-920b-0fe9565cf3ce",
+        "text": "Pink"
+      },
+      {
+        "id": "ad3ef245-8f56-4c97-a18e-561e5e1f12e4",
+        "text": "Orange"
+      },
+      {
+        "id": "ac35379f-f4d7-463f-be83-e990962fad0f",
+        "text": "Purple"
+      },
+      {
+        "id": "6bf424d7-5843-4afc-8e13-17baa16d89e2",
+        "text": "Blue"
+      }
+    ],
+    "correct_answer_id": "ac35379f-f4d7-463f-be83-e990962fad0f",
+    "photo_url": null,
+    "text": "What color is Figment from \"Journey Into Imagination with Figment\"?"
+  },
+  "10451d4e-b82d-4bd4-99cc-3a576e048ce7": {
+    "answers": [
+      {
+        "id": "4e3fec1a-0c93-4f93-8f9c-1b166c6f29e9",
+        "text": "Jungle Cruise"
+      },
+      {
+        "id": "1bfb69c2-1f13-4c77-8ecc-250a5a613153",
+        "text": "The Haunted Mansion"
+      },
+      {
+        "id": "7c89a638-7b08-45ee-bc25-06694ab6bc89",
+        "text": "Country Bear Jamboree"
+      },
+      {
+        "id": "73f467b1-0a1a-4586-b193-767a1b661920",
+        "text": "The Enchanted Tiki Room"
+      }
+    ],
+    "correct_answer_id": "4e3fec1a-0c93-4f93-8f9c-1b166c6f29e9",
+    "photo_url": null,
+    "text": "\"Trader Sam's\" is based off of a character from which Disney Theme Park attraction?"
+  },
+  "108fdb34-ab6f-44ac-82c3-76b225a2c390": {
+    "answers": [
+      {
+        "id": "b6d58633-7119-4e85-8605-6154e536f06c",
+        "text": "October 01, 1971"
+      },
+      {
+        "id": "eefcdc53-9d2a-42a0-ab74-1097cb534f1c",
+        "text": "May 1, 1989"
+      },
+      {
+        "id": "155b5173-f1b7-41ad-81ea-cbf5f84e6c11",
+        "text": "July 17, 1955"
+      },
+      {
+        "id": "ff599e02-baf3-4c7c-be33-2bbdecbd8034",
+        "text": "October 01, 1982"
+      }
+    ],
+    "correct_answer_id": "b6d58633-7119-4e85-8605-6154e536f06c",
+    "photo_url": null,
+    "text": "On what date did \"Magic Kingdom Park\" open?"
+  },
+  "11b24ea9-111a-41a9-acc9-22555adf9f0f": {
+    "answers": [
+      {
+        "id": "0fde6ef7-a5e9-470c-997d-5d401139d852",
+        "text": "2"
+      },
+      {
+        "id": "1a80408d-6368-4a37-b4ce-2b1b9470722d",
+        "text": "3"
+      },
+      {
+        "id": "c9dd8bd2-0ce4-4a78-ad1d-b9487a95eeeb",
+        "text": "12"
+      },
+      {
+        "id": "daae7cd8-27d1-420d-997c-89f9baa41aef",
+        "text": "6"
+      }
+    ],
+    "correct_answer_id": "1a80408d-6368-4a37-b4ce-2b1b9470722d",
+    "photo_url": null,
+    "text": "How many Mark VII monorails operate on the \"Disneyland Monorail System\"?"
+  },
+  "15835442-fcf8-491a-9ca2-1b76453dedaa": {
+    "answers": [
+      {
+        "id": "4eb746d1-6590-450b-ada8-a60451eb97d8",
+        "text": "HalloWishes"
+      },
+      {
+        "id": "99560e1d-74e5-4f85-9ec0-6b0b35fbc6f6",
+        "text": "Wishes"
+      },
+      {
+        "id": "61b81457-071c-4f3e-a607-07173c536cad",
+        "text": "Halloween Spooktacular"
+      },
+      {
+        "id": "07e34b86-95e8-4785-9137-f7659419b454",
+        "text": "Halloween Wishes"
+      }
+    ],
+    "correct_answer_id": "4eb746d1-6590-450b-ada8-a60451eb97d8",
+    "photo_url": null,
+    "text": "What fireworks are performed during \"Mickey's Not So Scary Halloween Party\" at \"Magic Kingdom\"?"
+  },
+  "1743e217-c952-4097-87ea-b9609249e436": {
+    "answers": [
+      {
+        "id": "e529d1be-374a-4eac-b9ce-2144103d392f",
+        "text": "June 01, 1989"
+      },
+      {
+        "id": "be142da5-2328-45ef-b3db-3e7b47a20ecc",
+        "text": "June 20, 1976"
+      },
+      {
+        "id": "492f0578-c727-47ae-91aa-49f96a394f30",
+        "text": "April 01, 1995"
+      },
+      {
+        "id": "aae6db47-25d0-4b7d-b201-cfeeab64c905",
+        "text": "June 19, 1998"
+      }
+    ],
+    "correct_answer_id": "492f0578-c727-47ae-91aa-49f96a394f30",
+    "photo_url": null,
+    "text": "On what date did \"Disney's Blizzard Beach\" open?"
+  },
+  "1c9531bc-3742-4f45-9069-4ee12d9b7a00": {
+    "answers": [
+      {
+        "id": "19cece4a-21c9-439c-83aa-c25f06c2d7fa",
+        "text": "Cinderella's"
+      },
+      {
+        "id": "f45f08a3-5bb0-4908-9fea-0c9e89dc6e97",
+        "text": "Sir Lancelot's"
+      },
+      {
+        "id": "79b2bc98-a89d-4d68-b04e-0e5fc9a433f8",
+        "text": "King Arthur's"
+      },
+      {
+        "id": "348ef44b-4183-4153-a031-b8981e7b9147",
+        "text": "Prince Charming's"
+      }
+    ],
+    "correct_answer_id": "348ef44b-4183-4153-a031-b8981e7b9147",
+    "photo_url": null,
+    "text": "Whose Regal Carrousel would you find at \"Magic Kingdom\"?"
+  },
+  "1e17722e-b63b-4832-bec8-c4f321b76c7c": {
+    "answers": [
+      {
+        "id": "68c4af09-bc8d-4a65-a33e-c48e6803e905",
+        "text": "Cinderella Castle"
+      },
+      {
+        "id": "df9086b8-a11a-4d10-907e-22d196af63cc",
+        "text": "Sleeping Beauty Castle"
+      },
+      {
+        "id": "d28713cf-719d-4fe6-b7b4-63b182910cd3",
+        "text": "Enchanted Storybook Castle"
+      },
+      {
+        "id": "610e27c3-e564-47b8-adbb-c01a20e06736",
+        "text": "Hong Kong Disneyland Castle"
+      }
+    ],
+    "correct_answer_id": "df9086b8-a11a-4d10-907e-22d196af63cc",
+    "photo_url": null,
+    "text": "Which castle is the icon for \"Hong Kong Disneyland\"?"
+  },
+  "236895a9-5da7-4b60-ae1e-f8aca5cf16f8": {
+    "answers": [
+      {
+        "id": "29c1206a-f84e-4bae-8a4e-c335f278f53b",
+        "text": "Riverside Resort"
+      },
+      {
+        "id": "79ae1e26-22da-4d56-8dcd-24e384ee384e",
+        "text": "Sassagoula Riverside"
+      },
+      {
+        "id": "95a98fcf-ca61-4db0-823f-7202a03f5618",
+        "text": "Dixie Landings"
+      },
+      {
+        "id": "67b23d4b-5568-4ef4-92d0-b759c77fe501",
+        "text": "Port Orleans"
+      }
+    ],
+    "correct_answer_id": "95a98fcf-ca61-4db0-823f-7202a03f5618",
+    "photo_url": null,
+    "text": "\"Port Orleans Riverside\" was formerly named what?"
+  },
+  "28bb5f23-c977-4b51-bfc4-e5846b0caf8c": {
+    "answers": [
+      {
+        "id": "26dd1f52-f710-4320-bcce-295d3ec00486",
+        "text": "DinoLand U.S.A."
+      },
+      {
+        "id": "7337f551-75d9-43d8-be5b-8d5388d23f77",
+        "text": "Camp Minnie-Mickey"
+      },
+      {
+        "id": "3ab9c48a-05d4-4c36-bf16-736a16fa0522",
+        "text": "Rafiki's Planet Watch"
+      },
+      {
+        "id": "91dae84b-5dfd-4c1d-b8dc-d3da4b059b5d",
+        "text": "Discovery Island"
+      }
+    ],
+    "correct_answer_id": "7337f551-75d9-43d8-be5b-8d5388d23f77",
+    "photo_url": null,
+    "text": "\"Pandora-The World of Avatar\" will replace what land at \"Disney's Animal Kingdom\"?"
+  },
+  "296ef312-c6e4-4a06-ae3a-2fcae90c8e1a": {
+    "answers": [
+      {
+        "id": "fde57018-0ad1-466d-9386-325c9cc9b925",
+        "text": "Mark Twain"
+      },
+      {
+        "id": "aee6666e-dedd-4f4c-8dab-a895df89fe36",
+        "text": "Liberty Belle"
+      },
+      {
+        "id": "8a6d840f-dea1-4f53-83e2-32a264e2abe1",
+        "text": "Molly Brown"
+      },
+      {
+        "id": "b5558cdd-af54-417c-b70a-8ccc16aea697",
+        "text": "Walter E. Disney Riverboat"
+      }
+    ],
+    "correct_answer_id": "fde57018-0ad1-466d-9386-325c9cc9b925",
+    "photo_url": null,
+    "text": "What riverboat can you ride on at \"Disneyland Park\"?"
+  },
+  "29de175f-7461-4338-b75a-e778af9b2c8d": {
+    "answers": [
+      {
+        "id": "27f61f30-71b1-40e1-8592-867a592d9ea8",
+        "text": "Ballroom"
+      },
+      {
+        "id": "86b18d36-bee6-40a7-9122-2f8de1afea54",
+        "text": "Attic"
+      },
+      {
+        "id": "8f07f023-d493-4a33-8eb4-6cd83c60fc31",
+        "text": "Seance Room"
+      },
+      {
+        "id": "b0f5fbd3-a045-45c6-b76a-eb383fea765c",
+        "text": "Stretching Room"
+      }
+    ],
+    "correct_answer_id": "b0f5fbd3-a045-45c6-b76a-eb383fea765c",
+    "photo_url": null,
+    "text": "According to the \"Ghost Host\", what chamber has no windows and no doors at \"The Haunted Mansion\"?"
+  },
+  "2a451ea7-fe68-4b08-bcf3-475433a81ac6": {
+    "answers": [
+      {
+        "id": "379f42a0-e023-4857-afdc-f7ac2010303f",
+        "text": "April 22, 1998"
+      },
+      {
+        "id": "77075ae4-ad82-4b01-b380-773b541498e1",
+        "text": "October 01, 1971"
+      },
+      {
+        "id": "e7dda4a6-225c-4fc8-b07f-c78b524b1c9c",
+        "text": "October 01, 1982"
+      },
+      {
+        "id": "ed8a54fc-c9ef-4ba3-8ad9-fbfb7446a71d",
+        "text": "May 01, 1989"
+      }
+    ],
+    "correct_answer_id": "e7dda4a6-225c-4fc8-b07f-c78b524b1c9c",
+    "photo_url": null,
+    "text": "On what date did \"Epcot\" open?"
+  },
+  "2a928cdb-4e70-4aa0-bc64-3362cd917c70": {
+    "answers": [
+      {
+        "id": "f9ce9c4f-c2e1-417a-a65b-0fe6ec2f5e9d",
+        "text": "DisneyBands"
+      },
+      {
+        "id": "9a763616-a786-4ebc-b1e6-a4450cec8c80",
+        "text": "MagicBands"
+      },
+      {
+        "id": "ce0649da-fff7-4766-a83e-7a10ba347ac3",
+        "text": "TicketBands"
+      },
+      {
+        "id": "75de2f2e-3e4c-4c99-84e6-f19bc204ec3d",
+        "text": "ParkBands"
+      }
+    ],
+    "correct_answer_id": "9a763616-a786-4ebc-b1e6-a4450cec8c80",
+    "photo_url": null,
+    "text": "What bands can guests wear to access MyMagic+ features?"
+  },
+  "2b0175b5-31bd-4481-8860-c89cc7916957": {
+    "answers": [
+      {
+        "id": "488ef77f-f038-47d0-863b-0327ca63915c",
+        "text": "Storybook Circus"
+      },
+      {
+        "id": "cd102b01-4f65-43a4-8726-9768a36b9df3",
+        "text": "Mickey's Birthdayland"
+      },
+      {
+        "id": "bd236ac0-5290-4d4f-a57d-dda3d3b2bc12",
+        "text": "Pixie Hollow"
+      },
+      {
+        "id": "444129a8-2043-422c-aece-2437fabd7e6a",
+        "text": "Star Wars Land"
+      }
+    ],
+    "correct_answer_id": "488ef77f-f038-47d0-863b-0327ca63915c",
+    "photo_url": null,
+    "text": "Which land replaced \"Mickey's Toontown Fair\" at \"Magic Kingdom\"?"
+  },
+  "33b1198d-0ef0-450e-8da9-9fbebebceaf1": {
+    "answers": [
+      {
+        "id": "77bb5fba-bcb9-417f-bdb9-7879c7aeb03e",
+        "text": "Disney's MGM Studios"
+      },
+      {
+        "id": "6f92e2f2-c21b-4899-8613-7837e31b9b67",
+        "text": "Walt Disney Studios Park"
+      },
+      {
+        "id": "cbf1a02f-ca06-4a48-b0ce-372a111c79cf",
+        "text": "WDW Studios"
+      },
+      {
+        "id": "210fd17c-0c35-4deb-9724-8552e299ae1e",
+        "text": "Disney's Hollywoodland Studios"
+      }
+    ],
+    "correct_answer_id": "77bb5fba-bcb9-417f-bdb9-7879c7aeb03e",
+    "photo_url": null,
+    "text": "What is the former name of \"Disney's Hollywood Studios\"?"
+  },
+  "34180f28-9a38-42ce-adea-59d4d468c8ac": {
+    "answers": [
+      {
+        "id": "c081851b-a193-4338-8af5-488f5f8e556a",
+        "text": "12 days"
+      },
+      {
+        "id": "c1e99f7e-d2ca-4b7c-b6e3-81b11d13965e",
+        "text": "7 days"
+      },
+      {
+        "id": "ec707a32-51a6-469c-823f-6317588470fc",
+        "text": "20 days"
+      },
+      {
+        "id": "8514b6bb-dbf1-4fec-81c2-00c293ebe971",
+        "text": "2 days"
+      }
+    ],
+    "correct_answer_id": "c081851b-a193-4338-8af5-488f5f8e556a",
+    "photo_url": null,
+    "text": "How many days did the team have to create \"For the First Time in Forever: A Frozen Sing-Along Celebration\"?"
+  },
+  "35392e93-5c48-493a-95c4-f85139c92378": {
+    "answers": [
+      {
+        "id": "038ffdd7-9bab-4051-8a41-8319b75d031a",
+        "text": "David MacPherson"
+      },
+      {
+        "id": "97a4d76c-5932-429a-99a1-c56ee5f7023a",
+        "text": "Lillian Disney"
+      },
+      {
+        "id": "0796f50a-48ec-4554-87a7-23496cc364c0",
+        "text": "Walt Disney"
+      },
+      {
+        "id": "e3c4e7c1-c1a5-4adc-bbba-b706cd43d288",
+        "text": "Roy O. Disney"
+      }
+    ],
+    "correct_answer_id": "e3c4e7c1-c1a5-4adc-bbba-b706cd43d288",
+    "photo_url": null,
+    "text": "Who purchased \"Disneyland\" ticket number 1?"
+  },
+  "37fc7f3a-7162-4625-8f0f-06cfd794e948": {
+    "answers": [
+      {
+        "id": "299912fc-2713-45e4-be60-bd7025c88362",
+        "text": "King Arthur's"
+      },
+      {
+        "id": "0aeae682-01e2-4964-8c9e-24ce78167ca9",
+        "text": "Cinderella's"
+      },
+      {
+        "id": "ac9321a6-23f7-4e6f-9330-18cb717411f8",
+        "text": "Prince Charming's"
+      },
+      {
+        "id": "d0ddcd8e-41fa-48f9-ba0d-7581e361ad15",
+        "text": "Sir Lancelot's"
+      }
+    ],
+    "correct_answer_id": "d0ddcd8e-41fa-48f9-ba0d-7581e361ad15",
+    "photo_url": null,
+    "text": "Whose carrousel would you find at \"Disneyland Paris\"?"
+  },
+  "390551b8-e065-4e8d-bdf8-7f41530bb009": {
+    "answers": [
+      {
+        "id": "5d02a3ad-4cf6-4ff1-8c8b-4e4dcee20801",
+        "text": "Crew Members"
+      },
+      {
+        "id": "f59a611d-4cac-432b-977c-3d8e181f9426",
+        "text": "Cast Members"
+      },
+      {
+        "id": "3b2de869-88f8-4c75-9c42-96786d91fdd8",
+        "text": "Show Members"
+      },
+      {
+        "id": "1970301a-40bd-44f0-a632-e46513d2ca40",
+        "text": "Team Members"
+      }
+    ],
+    "correct_answer_id": "f59a611d-4cac-432b-977c-3d8e181f9426",
+    "photo_url": null,
+    "text": "By what title are all employees of the \"Walt Disney Company\" called?"
+  },
+  "3a236f43-bb6b-44ee-9f22-7d564d411099": {
+    "answers": [
+      {
+        "id": "b18e2483-8e22-4b3f-8ca3-d757ee306b20",
+        "text": "Gertie"
+      },
+      {
+        "id": "6e6b3242-88fd-4246-912c-e7f3762dbf61",
+        "text": "Rex"
+      },
+      {
+        "id": "5e2dbe96-e43b-4c09-8cb9-11756c2948a4",
+        "text": "Barney"
+      },
+      {
+        "id": "0f0a620c-8d6c-4615-be96-8e55157ebf70",
+        "text": "Yoshi"
+      }
+    ],
+    "correct_answer_id": "b18e2483-8e22-4b3f-8ca3-d757ee306b20",
+    "photo_url": null,
+    "text": "What dinosaur can you get ice cream from at \"Disney's Hollywood Studios\"?"
+  },
+  "3b84dc37-cfc8-4d06-86a5-d171201301ce": {
+    "answers": [
+      {
+        "id": "d97a1d3d-a43d-421f-8240-b604fce74329",
+        "text": "5 years"
+      },
+      {
+        "id": "2aca0368-993f-4ecc-bcb0-34e32b4c4a75",
+        "text": "10 years"
+      },
+      {
+        "id": "6e182393-6c77-4cf8-91b4-984cf8f60627",
+        "text": "30 years"
+      },
+      {
+        "id": "b3318131-dcd7-4872-9ff5-f48363a0102e",
+        "text": "20 years"
+      }
+    ],
+    "correct_answer_id": "b3318131-dcd7-4872-9ff5-f48363a0102e",
+    "photo_url": null,
+    "text": "During 2015, what milestone anniversary did the \"Epcot International Food & Wine Festival\" celebrate?"
+  },
+  "3f3ca904-dfb6-4ce9-9f04-f9d0b64fb51a": {
+    "answers": [
+      {
+        "id": "3b7e681c-e367-4265-880c-ed90fcfa7c83",
+        "text": "Robert Chapek"
+      },
+      {
+        "id": "f0bbfdea-9f16-469b-8bf7-91e17ea700c0",
+        "text": "Michael Eisner "
+      },
+      {
+        "id": "5d5fcca0-27a5-4874-accd-cd0e1c521573",
+        "text": "Tom Staggs"
+      },
+      {
+        "id": "f1956864-957b-4882-ab0f-94b5b498a8fb",
+        "text": "Bob Iger"
+      }
+    ],
+    "correct_answer_id": "3b7e681c-e367-4265-880c-ed90fcfa7c83",
+    "photo_url": null,
+    "text": "As of February 23, 2015, who is the current chairman of \"Walt Disney Parks and Resorts\"? "
+  },
+  "40d5b9e5-3f3c-4e3d-b3d5-ce8e131da8d5": {
+    "answers": [
+      {
+        "id": "3e07133e-be87-4ae7-8560-e516b3432de4",
+        "text": "Disney QuickQueue"
+      },
+      {
+        "id": "5b35ce16-73ae-46a9-95c5-dcbb301a77cc",
+        "text": "Disney FasterPass"
+      },
+      {
+        "id": "80db517f-4c53-4261-861a-7396f70084d7",
+        "text": "Disney QueueSkipper"
+      },
+      {
+        "id": "5b0628dc-1531-44ac-953c-f077159b04c6",
+        "text": "Disney Fastpass+"
+      }
+    ],
+    "correct_answer_id": "5b0628dc-1531-44ac-953c-f077159b04c6",
+    "photo_url": null,
+    "text": "What virtual queuing system replaced \"Disney's Fastpass\"?"
+  },
+  "4355f13a-d207-4049-91dc-311dc15563a3": {
+    "answers": [
+      {
+        "id": "a19df3e6-6811-4aa6-97ce-83c01a01dfa3",
+        "text": "October 01, 1971"
+      },
+      {
+        "id": "d70ff550-641f-47b3-b706-09987157be23",
+        "text": "October 01, 1982"
+      },
+      {
+        "id": "45c9cb29-8e15-4513-8b8f-1d7cc3bb5624",
+        "text": "April 22, 1998"
+      },
+      {
+        "id": "698eb1ee-f348-47fd-8a52-b7ab58aa8bae",
+        "text": "May 01, 1989"
+      }
+    ],
+    "correct_answer_id": "698eb1ee-f348-47fd-8a52-b7ab58aa8bae",
+    "photo_url": null,
+    "text": "On what date did \"Disney's Hollywood Studios\" open?"
+  },
+  "438ec55e-4be5-4a45-ba5d-c00d56a3e718": {
+    "answers": [
+      {
+        "id": "f08bba4e-a923-49a8-a4a3-f96a65638739",
+        "text": "City Hall"
+      },
+      {
+        "id": "eceab348-9837-4dd2-b864-64c04b673047",
+        "text": "Emporium"
+      },
+      {
+        "id": "2f44b8d2-4452-4868-ac90-7f355dd1e863",
+        "text": "Magic Shop"
+      },
+      {
+        "id": "1614f695-7d77-4bd8-8cc2-48308cd7d7ad",
+        "text": "Fire Station"
+      }
+    ],
+    "correct_answer_id": "1614f695-7d77-4bd8-8cc2-48308cd7d7ad",
+    "photo_url": null,
+    "text": "Walt Disney's apartment is located upstairs inside which building on Disneyland's Main Street U.S.A.?"
+  },
+  "445c6dbc-ea06-4a53-b517-abdd7bc0caea": {
+    "answers": [
+      {
+        "id": "8abf8b4a-75c6-4dc3-a63e-eece79c75814",
+        "text": "Jungle Cruise"
+      },
+      {
+        "id": "ca42e66d-0568-4081-8c88-32305c3a9416",
+        "text": "Liberty Belle Riverboat"
+      },
+      {
+        "id": "ed7eb665-bbd0-4015-92be-240d3f2e6f68",
+        "text": "Pirates of the Caribbean"
+      },
+      {
+        "id": "ca448a44-4ba7-4f06-8ad6-9159a3ca234b",
+        "text": "it's a small world"
+      }
+    ],
+    "correct_answer_id": "ca448a44-4ba7-4f06-8ad6-9159a3ca234b",
+    "photo_url": null,
+    "text": "What is 'The Happiest Cruise That Ever Sailed'?"
+  },
+  "46bb111c-ba3d-4cdf-ada3-5f7784bfd90e": {
+    "answers": [
+      {
+        "id": "3ab0aed1-2de8-4fc9-8e8c-baac26292d9c",
+        "text": "La Nouba"
+      },
+      {
+        "id": "51818106-1c7f-46cf-b162-96488138ee84",
+        "text": "Zumanity"
+      },
+      {
+        "id": "96df9b70-a09e-4718-bb38-cc3f238d48ae",
+        "text": "Varekai"
+      },
+      {
+        "id": "afc096a4-1dfb-4108-a276-e5d44f811b52",
+        "text": "Myst\u00e8re"
+      }
+    ],
+    "correct_answer_id": "3ab0aed1-2de8-4fc9-8e8c-baac26292d9c",
+    "photo_url": null,
+    "text": "What \"Cirque du Soleil\" show has a permanent home at \"Disney Springs\"?"
+  },
+  "5500c0b9-ee67-450f-9448-21f9ac9bd46c": {
+    "answers": [
+      {
+        "id": "29a787bd-245a-4871-b646-1e8ebc3897b3",
+        "text": "Cinderella Castle"
+      },
+      {
+        "id": "5dd4d979-a6c7-4ddc-b483-9d656e74dece",
+        "text": "Sleeping Beauty Castle"
+      },
+      {
+        "id": "91110f6f-7ea1-44c6-984d-c3d82de7816e",
+        "text": "Enchanted Storybook Castle"
+      },
+      {
+        "id": "df9d34ee-fd84-4844-80db-492db91bf30d",
+        "text": "Shanghai Disneyland Castle"
+      }
+    ],
+    "correct_answer_id": "91110f6f-7ea1-44c6-984d-c3d82de7816e",
+    "photo_url": null,
+    "text": "Which castle will be the icon for \"Shanghai Disneyland\"?"
+  },
+  "56582cca-e599-4f1b-8b51-5a78fd7ed71d": {
+    "answers": [
+      {
+        "id": "f9ce3baa-a482-4b48-8687-3b426cfaaf1f",
+        "text": "Florida"
+      },
+      {
+        "id": "1a819730-a80a-4572-a367-32333e77caae",
+        "text": "California"
+      },
+      {
+        "id": "4dab9d22-a3ff-44a9-90e4-3c6bd94db728",
+        "text": "Hawaii"
+      },
+      {
+        "id": "4afe9517-25aa-48cb-a1ad-a8cf46c65667",
+        "text": "New York"
+      }
+    ],
+    "correct_answer_id": "1a819730-a80a-4572-a367-32333e77caae",
+    "photo_url": null,
+    "text": "\"Soarin'\" is a simulator attraction that 'soars' over what state?"
+  },
+  "594fb807-7e00-4fef-8898-dce9a94344f4": {
+    "answers": [
+      {
+        "id": "568f8317-129d-48d9-b5ee-24d77eb2a9ab",
+        "text": "Alan Menken"
+      },
+      {
+        "id": "9b46ff50-34b5-4efc-a984-1b37aa3eb1f9",
+        "text": "Sherman Brothers"
+      },
+      {
+        "id": "77e14182-0f0a-473e-9ead-99e7bf5e1423",
+        "text": "Howard Ashman"
+      },
+      {
+        "id": "742a31de-42da-4005-9240-ff38bf93800f",
+        "text": "Leigh Harline"
+      }
+    ],
+    "correct_answer_id": "9b46ff50-34b5-4efc-a984-1b37aa3eb1f9",
+    "photo_url": null,
+    "text": "Who wrote the song \"it's a small world\"?"
+  },
+  "5fe3792d-d71a-4f86-804b-0808d0bf62aa": {
+    "answers": [
+      {
+        "id": "e2aab142-e49c-475d-a52f-5a962e0085ec",
+        "text": "Strawberry"
+      },
+      {
+        "id": "0f2d7ea6-c674-4aba-8162-68f9f4cac43d",
+        "text": "Watermelon"
+      },
+      {
+        "id": "2c8c1348-53ae-4dfd-b15d-56a5ba3ff9a4",
+        "text": "Blueberry"
+      },
+      {
+        "id": "f83eb266-124d-4568-abc8-74daf39d650a",
+        "text": "Pineapple"
+      }
+    ],
+    "correct_answer_id": "f83eb266-124d-4568-abc8-74daf39d650a",
+    "photo_url": null,
+    "text": "\"Dole Whips\" are a popular treat at Disney Parks, What flavor are they?"
+  },
+  "630145f7-5b51-4987-88a1-189be634d441": {
+    "answers": [
+      {
+        "id": "27a310de-970f-478c-9b4f-03f5d17974f6",
+        "text": "Enchanted Storybook Castle"
+      },
+      {
+        "id": "0ea3d6dc-8706-4187-9d7e-7e38d9265f8e",
+        "text": "Sleeping Beauty Castle"
+      },
+      {
+        "id": "175be013-9539-4f54-9bb7-05eefb368b48",
+        "text": "Cinderella Castle"
+      },
+      {
+        "id": "8cee64d5-9e9d-424e-acba-2cf34c5fb5df",
+        "text": "Tokyo Disneyland Castle"
+      }
+    ],
+    "correct_answer_id": "175be013-9539-4f54-9bb7-05eefb368b48",
+    "photo_url": null,
+    "text": "Which castle is the icon for \"Tokyo Disneyland\"?"
+  },
+  "64be16be-a667-4f31-9040-5b74fe01ddb2": {
+    "answers": [
+      {
+        "id": "3d442460-01d9-4d0e-8d3d-43800ae100e4",
+        "text": "Robin Williams"
+      },
+      {
+        "id": "552537ef-1248-4de8-b9d6-7b7514f8b730",
+        "text": "Jerry Seinfeld"
+      },
+      {
+        "id": "96d62415-c381-4e66-9379-3cb7690cdc5b",
+        "text": "Tim Allen"
+      },
+      {
+        "id": "9f0c4745-f74a-4b0a-8a7d-bcdcea6fe870",
+        "text": "Steve Martin"
+      }
+    ],
+    "correct_answer_id": "9f0c4745-f74a-4b0a-8a7d-bcdcea6fe870",
+    "photo_url": null,
+    "text": "Which comedian's first job was at \"Main Street Magic Shop\" in \"Disneyland Park\"?"
+  },
+  "65bce03c-e219-45fe-adca-1e3214d434ea": {
+    "answers": [
+      {
+        "id": "c82e6032-a40e-44bb-ad1a-58b4c76bd15f",
+        "text": "Gus"
+      },
+      {
+        "id": "e7e454c0-acf4-42b3-bf3d-dcf698fa784a",
+        "text": "Hatbox Ghost"
+      },
+      {
+        "id": "60611ce0-290c-453a-84cb-90164d5f4be3",
+        "text": "Ezra"
+      },
+      {
+        "id": "b741abde-cb6c-4947-9dc1-57a08567b64b",
+        "text": "Phineas"
+      }
+    ],
+    "correct_answer_id": "e7e454c0-acf4-42b3-bf3d-dcf698fa784a",
+    "photo_url": null,
+    "text": "Which of the following is NOT a Hitchhiking Ghost in \"The Haunted Mansion\"? "
+  },
+  "67988ab7-ca39-4386-9d74-01aadaa52cf0": {
+    "answers": [
+      {
+        "id": "703645ad-e5a2-45fa-b15c-c8b1b1c6f4e9",
+        "text": "Song of the South"
+      },
+      {
+        "id": "7dbf2116-540f-4349-b006-d1097737b632",
+        "text": "Splash"
+      },
+      {
+        "id": "cc418073-4915-4513-aad8-a44fb7f03774",
+        "text": "The Princess and the Frog"
+      },
+      {
+        "id": "5d552774-19c1-4465-a198-68f539a220ab",
+        "text": "The Fox and the Hound"
+      }
+    ],
+    "correct_answer_id": "703645ad-e5a2-45fa-b15c-c8b1b1c6f4e9",
+    "photo_url": null,
+    "text": "\"Splash Mountain\" is based off of what movie?"
+  },
+  "6c75f083-ce7a-4bec-b02c-22de9bbce388": {
+    "answers": [
+      {
+        "id": "d5ebe051-a0a4-4675-afda-f436a3644249",
+        "text": "April 15, 1983"
+      },
+      {
+        "id": "1b67cfd6-69e1-4eda-bcd8-606ec9fba32f",
+        "text": "April 12, 1992"
+      },
+      {
+        "id": "baf22a35-d344-4748-810b-b515ed06bf62",
+        "text": "March 16, 2002"
+      },
+      {
+        "id": "080821cd-f1e4-4516-bf93-44cb2188652f",
+        "text": "September 04, 2001"
+      }
+    ],
+    "correct_answer_id": "1b67cfd6-69e1-4eda-bcd8-606ec9fba32f",
+    "photo_url": null,
+    "text": "On what date did \"Disneyland Paris\" open?"
+  },
+  "739bc641-01ab-4928-8fb4-bae7d1bf564f": {
+    "answers": [
+      {
+        "id": "c91d3cb3-d15e-4dff-9861-f4cf35b49a1d",
+        "text": "Disneyland Castle"
+      },
+      {
+        "id": "2250c94c-fd7c-4385-81fc-39e3532e8c68",
+        "text": "Cinderella Castle"
+      },
+      {
+        "id": "b144ef30-354b-4e42-9e66-c03db8724c16",
+        "text": "Enchanted Storybook Castle"
+      },
+      {
+        "id": "b2399845-f32c-4ba3-a074-75ef923ab3ad",
+        "text": "Sleeping Beauty Castle"
+      }
+    ],
+    "correct_answer_id": "b2399845-f32c-4ba3-a074-75ef923ab3ad",
+    "photo_url": null,
+    "text": "Which castle is the icon for \"Disneyland Park\"?"
+  },
+  "74bfafb2-b9d3-409e-bcce-2aa2e17e3495": {
+    "answers": [
+      {
+        "id": "46f97127-c43c-4047-9f83-0839b4c935b8",
+        "text": "Tom Sawyer Island"
+      },
+      {
+        "id": "cddc0d97-a47e-4532-a53b-fa0b6bac6703",
+        "text": "Matterhorn Bobsleds"
+      },
+      {
+        "id": "dca073b8-4ac2-4864-8ed6-16e00ef65b7f",
+        "text": "Haunted Mansion"
+      },
+      {
+        "id": "966ea896-4ed8-4562-a89a-4d13c2474928",
+        "text": "Sleeping Beauty Castle"
+      }
+    ],
+    "correct_answer_id": "cddc0d97-a47e-4532-a53b-fa0b6bac6703",
+    "photo_url": null,
+    "text": "There is a basketball court inside which \"Disneyland Park\" attraction?"
+  },
+  "76074679-771f-4324-8313-02482e0cdc24": {
+    "answers": [
+      {
+        "id": "89de0986-9ce2-42b3-a3ce-7351008ca4d0",
+        "text": "New York, New York"
+      },
+      {
+        "id": "3e15762e-0388-41a3-9a59-9f9784da659d",
+        "text": "Fort Collins, Colorado"
+      },
+      {
+        "id": "c1887937-fb43-413e-9016-247c7f5cc9d6",
+        "text": "Marceline, Missouri"
+      },
+      {
+        "id": "5b6bc178-0ff7-451a-a737-a54c5ccb6305",
+        "text": "San Francisco, California"
+      }
+    ],
+    "correct_answer_id": "c1887937-fb43-413e-9016-247c7f5cc9d6",
+    "photo_url": null,
+    "text": "\"Main Street, U.S.A.\" was inspired by what town?"
+  },
+  "770f5b09-a662-4c4f-bcc2-74adde4e8dd0": {
+    "answers": [
+      {
+        "id": "18b9c0a4-f3dd-4154-b7d3-8b1ccd70c9cd",
+        "text": "Ford"
+      },
+      {
+        "id": "6eadfbab-b66e-44f8-8278-5bade12688cd",
+        "text": "Mercedes-Benz"
+      },
+      {
+        "id": "8700924d-cf47-4018-a8e7-58b4458c2f25",
+        "text": "Chevrolet"
+      },
+      {
+        "id": "25dbe19e-e77f-4138-bf9c-4552de3ee4c5",
+        "text": "General Motors"
+      }
+    ],
+    "correct_answer_id": "8700924d-cf47-4018-a8e7-58b4458c2f25",
+    "photo_url": null,
+    "text": "As of 2015, Who is the current sponsor of \"Test Track\"?"
+  },
+  "7892ffa3-3968-4b91-81be-aa6abd5d579c": {
+    "answers": [
+      {
+        "id": "1466653c-3213-4e8c-9c4f-29faf2d85116",
+        "text": "Vero Beach, Florida"
+      },
+      {
+        "id": "ebd40e5c-b490-49a7-b4e7-4d7233641868",
+        "text": "Oahu, Hawaii"
+      },
+      {
+        "id": "42e22950-2bb4-4c6b-bcca-7520a897a64f",
+        "text": "Hilton Head, South Carolina"
+      },
+      {
+        "id": "397d04c3-cae3-4eab-8362-069d3387fa8f",
+        "text": "Washington, D.C."
+      }
+    ],
+    "correct_answer_id": "397d04c3-cae3-4eab-8362-069d3387fa8f",
+    "photo_url": null,
+    "text": "Which of the following is NOT a location of a \"Disney Vacation Club\" resort?"
+  },
+  "7e31ec56-9ef8-4ebd-8315-367ffda0f73b": {
+    "answers": [
+      {
+        "id": "4c9899fa-9f7d-4e60-9458-2d0c5f771a44",
+        "text": "Disneyland Paris's"
+      },
+      {
+        "id": "7986b12f-d916-4690-b019-01b386e1df9b",
+        "text": "Hong Kong Disneyland's"
+      },
+      {
+        "id": "ea424026-aec2-4f99-9c70-218c9e5701fd",
+        "text": "Magic Kingdom's"
+      },
+      {
+        "id": "a41b26e7-f634-46e4-bb62-df07f001bf93",
+        "text": "Tokyo Disneyland's"
+      }
+    ],
+    "correct_answer_id": "4c9899fa-9f7d-4e60-9458-2d0c5f771a44",
+    "photo_url": null,
+    "text": "\"Phantom Manor\" is what theme park's version of \"The Haunted Mansion\"?"
+  },
+  "8395e99e-45bc-4676-84be-aafdc9b95de2": {
+    "answers": [
+      {
+        "id": "29747068-037c-4585-a9b5-a16a3aaa7e0a",
+        "text": "Tumbleweed"
+      },
+      {
+        "id": "b30d6a95-8917-41d8-ad9a-261e1c7d286d",
+        "text": "Frontier Rock"
+      },
+      {
+        "id": "79f936b6-cc3f-44f5-a2db-d36410cd64cf",
+        "text": "Rainbow Ridge"
+      },
+      {
+        "id": "5af89c4f-ccae-46a6-ad14-50ceb5da9c6d",
+        "text": "Thunder Mesa"
+      }
+    ],
+    "correct_answer_id": "b30d6a95-8917-41d8-ad9a-261e1c7d286d",
+    "photo_url": null,
+    "text": "Which of the following is NOT one of the towns you would find at a \"Big Thunder Mountain Railroad\" attraction?"
+  },
+  "8480a020-7d24-480d-99b7-9de328926700": {
+    "answers": [
+      {
+        "id": "3eae04fc-6b99-4091-94a9-bebdfef7b189",
+        "text": "April 22, 1998"
+      },
+      {
+        "id": "f388c649-0345-4782-84f5-e249bcfa195f",
+        "text": "February 08, 2001"
+      },
+      {
+        "id": "c609b022-800b-4260-944a-16d92c9d6ddc",
+        "text": "September 12, 2005"
+      },
+      {
+        "id": "40495f68-4c7f-4adb-bda3-8460f97c0d12",
+        "text": "March 16, 2002"
+      }
+    ],
+    "correct_answer_id": "c609b022-800b-4260-944a-16d92c9d6ddc",
+    "photo_url": null,
+    "text": "On what date did \"Hong Kong Disneyland\" open?"
+  },
+  "88823318-6220-4a20-8dd6-81481f84e322": {
+    "answers": [
+      {
+        "id": "da229e5f-341b-4541-ae0f-b9907268f481",
+        "text": "April 12, 1992"
+      },
+      {
+        "id": "b4089567-268e-4e99-bf76-82675a9493a5",
+        "text": "April 15, 1983"
+      },
+      {
+        "id": "2ebb9890-cdee-46b6-8d75-ec3abaa321ef",
+        "text": "March 16, 2002"
+      },
+      {
+        "id": "c38748ff-a7b4-445f-8817-15623d562fc8",
+        "text": "September 04, 2001"
+      }
+    ],
+    "correct_answer_id": "c38748ff-a7b4-445f-8817-15623d562fc8",
+    "photo_url": null,
+    "text": "On what date did \"Tokyo DisneySea\" open?"
+  },
+  "8e3fe529-9a5c-4d3e-ac7d-64c7c23d6959": {
+    "answers": [
+      {
+        "id": "657cc3fb-4361-4360-b07d-bbd6a4c44734",
+        "text": "The Beatles"
+      },
+      {
+        "id": "d6580c1d-0278-4816-8940-f537097d35b0",
+        "text": "Aerosmith"
+      },
+      {
+        "id": "ceac8e39-f975-4d12-bd22-94d2f40cf622",
+        "text": "Rolling Stones"
+      },
+      {
+        "id": "2d7ee9be-43a6-48f6-886e-3e83a7ecc33d",
+        "text": "AC/DC"
+      }
+    ],
+    "correct_answer_id": "d6580c1d-0278-4816-8940-f537097d35b0",
+    "photo_url": null,
+    "text": "\"Rock 'n' Roller Coaster\" stars which rock band?"
+  },
+  "8e6454a8-b6b7-40d0-8aa3-f206c221a413": {
+    "answers": [
+      {
+        "id": "c13799a0-3fa5-4b0e-9515-3b475b56d89d",
+        "text": "Disney's Contemporary Resort"
+      },
+      {
+        "id": "245b6105-9309-4f5f-9ff8-7c0942fca0a5",
+        "text": "Disney's Grand Floridian"
+      },
+      {
+        "id": "6a54ac98-fa36-471d-acdf-32309be93b0e",
+        "text": "Disney's Wilderness Lodge"
+      },
+      {
+        "id": "dbc95fb5-a23f-4164-ae20-28bd150dfdc4",
+        "text": "Disney's Polynesian Village"
+      }
+    ],
+    "correct_answer_id": "c13799a0-3fa5-4b0e-9515-3b475b56d89d",
+    "photo_url": null,
+    "text": "Which resort does the Disney Monorail System go through at \"Walt Disney World\"?"
+  },
+  "8f86094d-ca43-4a5d-935b-46944446facc": {
+    "answers": [
+      {
+        "id": "2257aef6-1854-4705-ba5c-9f9a10bcfd6b",
+        "text": "Mickey Mouse's"
+      },
+      {
+        "id": "bde05bab-22be-4223-a319-b7426fa1eb84",
+        "text": "Maleficent's"
+      },
+      {
+        "id": "7d53ff53-4c75-4530-872c-f3b5c04c54ee",
+        "text": "Cinderella's"
+      },
+      {
+        "id": "407e7d97-2cd3-44e8-b090-6c268c0998df",
+        "text": "Walt Disney's"
+      }
+    ],
+    "correct_answer_id": "2257aef6-1854-4705-ba5c-9f9a10bcfd6b",
+    "photo_url": null,
+    "text": "\"Fantasmic!\" takes place in who's imagination?"
+  },
+  "90e7b4b3-70f0-41aa-8c01-79fbafd1ec41": {
+    "answers": [
+      {
+        "id": "ada182c2-64d3-4a11-99c1-d333c79d32cc",
+        "text": "Bean Bunny"
+      },
+      {
+        "id": "6bcab53a-476a-451e-9575-a2ca38c80892",
+        "text": "Kermit the Frog"
+      },
+      {
+        "id": "73dd1c3b-dbd6-46d6-a441-4025c6d1b227",
+        "text": "Waldo"
+      },
+      {
+        "id": "f01bf395-ccaa-45f0-a409-4c2379531347",
+        "text": "Swedish Chef"
+      }
+    ],
+    "correct_answer_id": "f01bf395-ccaa-45f0-a409-4c2379531347",
+    "photo_url": null,
+    "text": "Who operates the projector at \"Muppet*Vision 3D\"?"
+  },
+  "926332e8-4a25-425d-9b2d-4635517cf9c2": {
+    "answers": [
+      {
+        "id": "f147775b-c257-413b-a52d-b1d41569e845",
+        "text": "Swampy"
+      },
+      {
+        "id": "e16abd5d-f825-4245-a57b-67784c37de42",
+        "text": "Louis"
+      },
+      {
+        "id": "d83a6785-af72-407c-9827-85031c189db3",
+        "text": "Ice Gator"
+      },
+      {
+        "id": "205f068d-afe1-44fc-9c91-2d4ca281165d",
+        "text": "Lagoona Gator"
+      }
+    ],
+    "correct_answer_id": "205f068d-afe1-44fc-9c91-2d4ca281165d",
+    "photo_url": null,
+    "text": "Which character is the mascot for \"Disney's Typhoon Lagoon\"?"
+  },
+  "974952f9-d901-41ea-ac0c-44c841bceebb": {
+    "answers": [
+      {
+        "id": "23ff02c6-67ef-4c45-9fa6-2939ded14446",
+        "text": "Club Disney"
+      },
+      {
+        "id": "6a0a8bca-436c-4198-80ca-00be09e77292",
+        "text": "Club 55"
+      },
+      {
+        "id": "4cd4b9d0-1503-4d34-8ef0-7a169b650fb1",
+        "text": "Club 33"
+      },
+      {
+        "id": "9752be93-901e-43f6-bcbe-f6c49e1b23e4",
+        "text": "Club WED"
+      }
+    ],
+    "correct_answer_id": "4cd4b9d0-1503-4d34-8ef0-7a169b650fb1",
+    "photo_url": null,
+    "text": "What is the name of the exclusive club located inside \"Disneyland Park\"?"
+  },
+  "97e65320-bc68-4221-ab2f-9905bf4a9519": {
+    "answers": [
+      {
+        "id": "e05466ad-c0aa-4095-ac39-1dc762905c76",
+        "text": "Starspeeder 2000"
+      },
+      {
+        "id": "144cb273-92f7-428b-bb76-0b86f7c89ddf",
+        "text": "Starspeeder 3000"
+      },
+      {
+        "id": "e234d787-c5e7-41d8-9dc6-737d630b293d",
+        "text": "Starspeeder 4000"
+      },
+      {
+        "id": "9922cd77-162a-4cf3-9821-1d2100f7387a",
+        "text": "Starspeeder 1000"
+      }
+    ],
+    "correct_answer_id": "9922cd77-162a-4cf3-9821-1d2100f7387a",
+    "photo_url": null,
+    "text": "Which Starspeeder can you ride on in \"Star Tours - The Adventures Continue\"?"
+  },
+  "9b2d5111-0fcb-45f1-9a4d-429b9b66e0ba": {
+    "answers": [
+      {
+        "id": "191ec574-93b7-475d-bbd9-93d8916ca763",
+        "text": "Liberty Tree Tavern"
+      },
+      {
+        "id": "d65f6f08-f90c-42de-b788-edd0b67e0e24",
+        "text": "Tony's Town Square Restaurant"
+      },
+      {
+        "id": "3405420d-aa32-477e-91ab-ed36e112074b",
+        "text": "The Crystal Palace"
+      },
+      {
+        "id": "07d606f5-8cef-4e5e-afad-9342c8b42377",
+        "text": "Be Our Guest Restaurant"
+      }
+    ],
+    "correct_answer_id": "d65f6f08-f90c-42de-b788-edd0b67e0e24",
+    "photo_url": null,
+    "text": "What restaurant at \"Magic Kingdom\" is inspired by a restaurant featured in \"Lady and the Tramp\"?"
+  },
+  "9ee8fab3-1a5f-4d7a-941e-221ace4a72d9": {
+    "answers": [
+      {
+        "id": "e84c4be6-70bc-42f6-8fa8-9bd4e02ea6a4",
+        "text": "Disney's Animal Kingdom"
+      },
+      {
+        "id": "bcdcc33b-cf9c-4a1d-bbc8-f54772052532",
+        "text": "Disney's Hollywood Studios"
+      },
+      {
+        "id": "2a3f803e-9cd4-449a-9453-777125f6a1fb",
+        "text": "Epcot"
+      },
+      {
+        "id": "683c309a-230a-4917-9116-3f34e5582aaa",
+        "text": "Magic Kingdom"
+      }
+    ],
+    "correct_answer_id": "e84c4be6-70bc-42f6-8fa8-9bd4e02ea6a4",
+    "photo_url": null,
+    "text": "Which of the theme parks at \"Walt Disney World\" is the largest?"
+  },
+  "a37d2b06-9b04-46c9-9c83-41d407414573": {
+    "answers": [
+      {
+        "id": "b5e3064d-1e86-47e7-a316-35b8115f7bbc",
+        "text": "Magic Kingdom Castle"
+      },
+      {
+        "id": "0c7090ca-6e4f-4e8c-823c-4d83c0661ab2",
+        "text": "Sleeping Beauty Castle"
+      },
+      {
+        "id": "d06c59d8-e0dd-447d-b89f-6835a0d273fc",
+        "text": "Cinderella Castle"
+      },
+      {
+        "id": "a0ec675f-12fb-431b-8922-cafc042b6317",
+        "text": "Enchanted Storybook Castle"
+      }
+    ],
+    "correct_answer_id": "d06c59d8-e0dd-447d-b89f-6835a0d273fc",
+    "photo_url": null,
+    "text": "Which castle is the icon for \"Magic Kingdom Park\"?"
+  },
+  "a3bebab2-954e-4828-b27c-5bd18c2a8e32": {
+    "answers": [
+      {
+        "id": "7c2ad204-747f-4525-a6d8-e98fd1f5a06d",
+        "text": "Luke Skywalker"
+      },
+      {
+        "id": "2fdcbe90-5298-4ecf-bf03-15eb2a1063d0",
+        "text": "RX-24"
+      },
+      {
+        "id": "ab9039ba-70db-4111-b4e9-9b8ab3844eeb",
+        "text": "C-3P0"
+      },
+      {
+        "id": "f9068ec7-66d7-4c83-8396-0529c6a303bc",
+        "text": "R2-D2"
+      }
+    ],
+    "correct_answer_id": "2fdcbe90-5298-4ecf-bf03-15eb2a1063d0",
+    "photo_url": null,
+    "text": "Who was the pilot of the original \"Star Tours\" attraction?"
+  },
+  "a991a633-a657-4a2a-b9a2-08b4cfffd517": {
+    "answers": [
+      {
+        "id": "93a60d04-eae2-49c4-976f-b150785ec6cb",
+        "text": "All-Star Television"
+      },
+      {
+        "id": "e41aedb2-01b9-4a04-89a5-f3f7165c805b",
+        "text": "All-Star Music"
+      },
+      {
+        "id": "c7fc6437-f8ad-4f3f-a0f4-d9d8aea1b063",
+        "text": "All-Star Sports"
+      },
+      {
+        "id": "1cbdbe2e-dff7-4455-abe8-01ee759c1899",
+        "text": "All-Star Movies"
+      }
+    ],
+    "correct_answer_id": "93a60d04-eae2-49c4-976f-b150785ec6cb",
+    "photo_url": null,
+    "text": "Which of the following is NOT an All-Star Resort?"
+  },
+  "aa069b42-1a53-4a2d-8f04-5dccf35b9fab": {
+    "answers": [
+      {
+        "id": "91996d1b-fe36-4ace-bcc8-aeb7fd91ef47",
+        "text": "The Haunted Mansion"
+      },
+      {
+        "id": "6620c4c8-96e7-4805-8811-11e53be6cfc3",
+        "text": "Country Bear Jamboree"
+      },
+      {
+        "id": "68228685-1bc6-4635-8a48-df6d95248830",
+        "text": "The Enchanted Tiki Room"
+      },
+      {
+        "id": "ec083c18-6e3f-4b56-abca-6fe7ab1c57b1",
+        "text": "Jungle Cruise"
+      }
+    ],
+    "correct_answer_id": "68228685-1bc6-4635-8a48-df6d95248830",
+    "photo_url": null,
+    "text": "Iago and Zazu took over management of what classic \"Magic Kingdom\" attraction between 1998 and 2011?"
+  },
+  "ac661a37-d132-4d4b-b78c-4d82b300c752": {
+    "answers": [
+      {
+        "id": "8763e98b-987c-45b7-8ce0-57b487da63c5",
+        "text": "10"
+      },
+      {
+        "id": "5daf673b-5606-42f0-8943-fe8a6c60ed84",
+        "text": "2"
+      },
+      {
+        "id": "4a654673-d344-424f-9b5f-e179b5a57b5a",
+        "text": "4"
+      },
+      {
+        "id": "3326ee30-b437-4ce1-8661-5b8b9fe71ace",
+        "text": "7"
+      }
+    ],
+    "correct_answer_id": "4a654673-d344-424f-9b5f-e179b5a57b5a",
+    "photo_url": null,
+    "text": "How many generations of the past 100 years do you visit in \"Walt Disney's Carousel of Progress\"?"
+  },
+  "acbf5411-d747-4208-bbdc-cf02aa7d1107": {
+    "answers": [
+      {
+        "id": "a40edfc6-19f0-43fc-b535-5e77551ce3de",
+        "text": "Bay Lake"
+      },
+      {
+        "id": "493eaa2f-7198-42b5-9a05-8c8a610c60de",
+        "text": "Winter Haven"
+      },
+      {
+        "id": "c049ea8c-8071-4fbc-a539-2530bd1fabdf",
+        "text": "Kissimmee"
+      },
+      {
+        "id": "8ab2cfc3-fb49-4eba-82cb-bb67f4ed21cb",
+        "text": "Orlando"
+      }
+    ],
+    "correct_answer_id": "a40edfc6-19f0-43fc-b535-5e77551ce3de",
+    "photo_url": null,
+    "text": "While Lake Buena Vista is the mailing address for all of \"Walt Disney World\", most of it is located in what city?"
+  },
+  "ad866d0d-2b45-4b66-8167-7f0e732cb0a8": {
+    "answers": [
+      {
+        "id": "909d4e94-e259-4abb-b6f5-0a1999e10f18",
+        "text": "Ice Gator"
+      },
+      {
+        "id": "b498e534-22a9-49e0-a2e1-2cf7910aea75",
+        "text": "Swampy"
+      },
+      {
+        "id": "194053b7-8471-4c1c-b1a1-4ee79838aee9",
+        "text": "Lagoona Gator"
+      },
+      {
+        "id": "844cd10d-e684-42ee-89a4-46f805f1f66d",
+        "text": "Louis"
+      }
+    ],
+    "correct_answer_id": "909d4e94-e259-4abb-b6f5-0a1999e10f18",
+    "photo_url": null,
+    "text": "Which character is the mascot for \"Disney's Blizzard Beach\"?"
+  },
+  "b05a6829-2a3e-46c5-b974-3cb062426797": {
+    "answers": [
+      {
+        "id": "ede99ac4-ad37-4e10-b8b2-9970adc6d281",
+        "text": "75 MPH"
+      },
+      {
+        "id": "dac60b0c-0717-42cf-b055-f3ba9bc74602",
+        "text": "65 MPH"
+      },
+      {
+        "id": "e853cb4f-bfe4-4bc5-9eae-ea9ee02d91d2",
+        "text": "45 MPH"
+      },
+      {
+        "id": "cf50558b-30ed-4adb-833c-f0f8520efc15",
+        "text": "55 MPH"
+      }
+    ],
+    "correct_answer_id": "dac60b0c-0717-42cf-b055-f3ba9bc74602",
+    "photo_url": null,
+    "text": "What is the top speed of the vehicles on \"Test Track\"?"
+  },
+  "b05a7d76-7b85-4a45-af19-b95a0c5fa258": {
+    "answers": [
+      {
+        "id": "69f74072-b36d-4a9f-8297-823d91aae9e5",
+        "text": "Prince Charming's"
+      },
+      {
+        "id": "0f4ec516-1c12-4251-af5c-86ff158a24e1",
+        "text": "Cinderella's"
+      },
+      {
+        "id": "c192d165-51fa-44a0-a836-d1ec563415eb",
+        "text": "King Arthur's"
+      },
+      {
+        "id": "eb96ede3-e1f1-476e-a43b-65108e4ae865",
+        "text": "Sir Lancelot's"
+      }
+    ],
+    "correct_answer_id": "c192d165-51fa-44a0-a836-d1ec563415eb",
+    "photo_url": null,
+    "text": "Whose carrousel would you find at \"Disneyland Park\"?"
+  },
+  "b29792b4-ff4f-4dcc-aca5-884658782e3a": {
+    "answers": [
+      {
+        "id": "4936c4c6-7157-447c-a0b1-07eec8b49a9a",
+        "text": "Sleeping Beauty Castle"
+      },
+      {
+        "id": "20d8b0ea-eef0-4e74-a340-58a74f3e49ca",
+        "text": "Enchanted Storybook Castle"
+      },
+      {
+        "id": "6f82ec33-8b5c-4b92-b87e-ba1c32c540d8",
+        "text": "Disneyland Paris Castle"
+      },
+      {
+        "id": "d08f8105-54b2-4f86-8569-1a7699546c5b",
+        "text": "Cinderella Castle"
+      }
+    ],
+    "correct_answer_id": "4936c4c6-7157-447c-a0b1-07eec8b49a9a",
+    "photo_url": null,
+    "text": "Which castle is the icon for \"Disneyland Paris\"?"
+  },
+  "b3730620-d643-447e-b211-c261f28fe055": {
+    "answers": [
+      {
+        "id": "60a980f9-2660-420e-8413-396c1c335727",
+        "text": "Tilts side to side"
+      },
+      {
+        "id": "a0bd90b2-1f76-40d2-950f-f27d04bdb0be",
+        "text": "Bounces up and down"
+      },
+      {
+        "id": "a6e445e9-30dd-4692-83be-e7006f0c0cda",
+        "text": "Floats above the track"
+      },
+      {
+        "id": "b9fbee28-f3c9-452e-887b-54f7e73a1843",
+        "text": "Moves without a track"
+      }
+    ],
+    "correct_answer_id": "60a980f9-2660-420e-8413-396c1c335727",
+    "photo_url": null,
+    "text": "What unique feature do the trains have on \"Seven Dwarfs Mine Train\"?"
+  },
+  "b3cbee53-aed1-48e7-a83e-c3771f53b727": {
+    "answers": [
+      {
+        "id": "fafceb21-8d48-4ebd-b176-91be6e40c5bc",
+        "text": "Lionel Richie"
+      },
+      {
+        "id": "ea40c04d-6c0d-48c8-9f4e-e4f94bc5c175",
+        "text": "Billy Ocean"
+      },
+      {
+        "id": "b9c4a9ac-a283-40e8-b33c-471a40006dfc",
+        "text": "Stevie Wonder"
+      },
+      {
+        "id": "a8fb221c-378a-4e3d-9422-96e5f4219ffa",
+        "text": "Michael Jackson"
+      }
+    ],
+    "correct_answer_id": "a8fb221c-378a-4e3d-9422-96e5f4219ffa",
+    "photo_url": null,
+    "text": "\"Captain EO\" stars which pop singer?"
+  },
+  "b8f6367a-b459-4994-86b4-77869d7c1f94": {
+    "answers": [
+      {
+        "id": "2005902b-72fb-4929-97b9-c1350aa422e6",
+        "text": "Space Angels"
+      },
+      {
+        "id": "6fef3ea1-ceb5-4099-a4ce-e24a1e955e42",
+        "text": "Sonny Eclipse"
+      },
+      {
+        "id": "af7b6a56-3d89-4cef-8c9b-4bb6053a23bf",
+        "text": "Officer Zzzzyxxx"
+      },
+      {
+        "id": "17f5ac60-f6a9-447e-ae3d-4e086b60df75",
+        "text": "Mike Feedback"
+      }
+    ],
+    "correct_answer_id": "6fef3ea1-ceb5-4099-a4ce-e24a1e955e42",
+    "photo_url": null,
+    "text": "Who plays the Astro Organ at \"Cosmic Ray's Starlight Cafe\"?"
+  },
+  "b9668012-436f-417f-9d64-510ca9f7e128": {
+    "answers": [
+      {
+        "id": "a54fa184-4999-47cf-81ee-3aef21524855",
+        "text": "100"
+      },
+      {
+        "id": "16ddc314-4c7f-4eb6-b469-3801ed1717a4",
+        "text": "1,000"
+      },
+      {
+        "id": "b1ad16b0-87fa-450a-9653-d72242366f02",
+        "text": "999"
+      },
+      {
+        "id": "13dfe45b-d184-4798-a458-17ce082a51f1",
+        "text": "99"
+      }
+    ],
+    "correct_answer_id": "b1ad16b0-87fa-450a-9653-d72242366f02",
+    "photo_url": null,
+    "text": "How many ghosts reside at \"The Haunted Mansion\"?"
+  },
+  "bc7afd18-780d-4b3e-adad-52a3e6770850": {
+    "answers": [
+      {
+        "id": "7595feb2-3b29-43ab-8659-966ab90fe346",
+        "text": "Fantasmic!"
+      },
+      {
+        "id": "48706593-0426-4d77-8976-f74157a87533",
+        "text": "Believe"
+      },
+      {
+        "id": "de9d326e-725a-4ba9-a225-c7daf3a2aa82",
+        "text": "Disney Dreams!"
+      },
+      {
+        "id": "269543d2-0a16-4945-a224-7629d16a17d3",
+        "text": "Wishes"
+      }
+    ],
+    "correct_answer_id": "269543d2-0a16-4945-a224-7629d16a17d3",
+    "photo_url": null,
+    "text": "What is the title of the nightly fireworks performed most nights at \"Magic Kingdom\"?"
+  },
+  "bd114e75-89d6-402a-8f7d-9d758451bedf": {
+    "answers": [
+      {
+        "id": "52d83484-ecc0-478d-86a8-39ae008b5bb8",
+        "text": "Aladdin"
+      },
+      {
+        "id": "1a1545b3-0434-418b-a53a-5774867fcd96",
+        "text": "Buzz Lightyear"
+      },
+      {
+        "id": "b68acae0-6e69-41fe-a417-4d010b09ec45",
+        "text": "Tinker Bell"
+      },
+      {
+        "id": "007b80e1-8eed-4c99-a3fe-f828e9563d0c",
+        "text": "Dumbo"
+      }
+    ],
+    "correct_answer_id": "b68acae0-6e69-41fe-a417-4d010b09ec45",
+    "photo_url": null,
+    "text": "Who can you see flying from \"Cinderella Castle\" during \"Wishes\"?"
+  },
+  "bf4eaa5b-e0cd-4c07-a8a6-c035f2ea7732": {
+    "answers": [
+      {
+        "id": "ca18fcc0-a540-4f2d-b72c-3f2b1e14406e",
+        "text": "Hollywood"
+      },
+      {
+        "id": "0ab52639-4eeb-4dd1-b0b6-24f89f96da81",
+        "text": "Burbank"
+      },
+      {
+        "id": "23027ccb-2cae-4801-ab90-52f27cf2df32",
+        "text": "Los Angeles"
+      },
+      {
+        "id": "c50fbeed-772c-4522-a85d-3be846d4ba2b",
+        "text": "Anaheim"
+      }
+    ],
+    "correct_answer_id": "c50fbeed-772c-4522-a85d-3be846d4ba2b",
+    "photo_url": null,
+    "text": "In which city would you find \"Disneyland\"?"
+  },
+  "c027423e-aead-4f4f-8f83-fc8ebfa4c2cd": {
+    "answers": [
+      {
+        "id": "321e04cb-7f34-4e48-896f-9cd828839876",
+        "text": "Boats"
+      },
+      {
+        "id": "ad567403-6a0e-4158-9915-9c91d72051e6",
+        "text": "Cars"
+      },
+      {
+        "id": "d321c1f0-c87e-4a88-abf8-2e0d2519e214",
+        "text": "Tow Trucks"
+      },
+      {
+        "id": "fcd7d317-99ef-440c-ab7e-c019b52fa0b5",
+        "text": "Tractors"
+      }
+    ],
+    "correct_answer_id": "fcd7d317-99ef-440c-ab7e-c019b52fa0b5",
+    "photo_url": null,
+    "text": "What baby vehicles dance to the music at \"Mater's Junkyard Jamboree\"?"
+  },
+  "c3db4b2a-c69c-4dea-b9b1-c6a5a8c6b1af": {
+    "answers": [
+      {
+        "id": "bd05d2b2-b693-4fd6-8a68-93b6ecb69061",
+        "text": "Mark Twain"
+      },
+      {
+        "id": "656ad296-b478-49e7-a0ce-5b770655c8ad",
+        "text": "Walter E. Disney Riverboat"
+      },
+      {
+        "id": "d4cf37b1-fbab-486a-b9e4-24bd7ee596c1",
+        "text": "Molly Brown"
+      },
+      {
+        "id": "e2e05b13-4b46-412c-a098-acc2148c4bc0",
+        "text": "Liberty Belle"
+      }
+    ],
+    "correct_answer_id": "e2e05b13-4b46-412c-a098-acc2148c4bc0",
+    "photo_url": null,
+    "text": "What riverboat can you ride on at \"Magic Kingdom\"?"
+  },
+  "c5c45b43-d8fc-4820-b153-d1da47a1215a": {
+    "answers": [
+      {
+        "id": "1c33f4fb-4a6f-469e-9722-a96e329a4ebc",
+        "text": "May 01, 1989"
+      },
+      {
+        "id": "b6dea14b-dac0-42ea-b9f8-e7a7f33b054e",
+        "text": "October 01, 1971"
+      },
+      {
+        "id": "8af1e5a3-e443-4f92-b5e4-ad7ff92b0c00",
+        "text": "October 01, 1982"
+      },
+      {
+        "id": "bd7243e1-5d1c-4503-89d4-2b863eef18be",
+        "text": "April 22, 1998"
+      }
+    ],
+    "correct_answer_id": "bd7243e1-5d1c-4503-89d4-2b863eef18be",
+    "photo_url": null,
+    "text": "On what date did \"Disney's Animal Kingdom\" open?"
+  },
+  "cc593466-2e53-4df5-8622-0925d7f50665": {
+    "answers": [
+      {
+        "id": "1c743701-c331-4380-93ad-c2365c8514b6",
+        "text": "Cinderella's"
+      },
+      {
+        "id": "41bc8060-6f38-4293-aaf8-eca6cda1f423",
+        "text": "Sir Lancelot's"
+      },
+      {
+        "id": "a76ce246-62b9-42fa-997b-07b88d39f2ed",
+        "text": "Prince Charming's"
+      },
+      {
+        "id": "c1ebfb62-1483-45f2-b38d-fcdd373320a6",
+        "text": "King Arthur's"
+      }
+    ],
+    "correct_answer_id": "1c743701-c331-4380-93ad-c2365c8514b6",
+    "photo_url": null,
+    "text": "Whose carousel would you find at \"Hong Kong Disneyland\"?"
+  },
+  "cd4caa4a-23a3-4912-bc6c-c8a4b9b96f7e": {
+    "answers": [
+      {
+        "id": "f6468ec8-317e-421e-b5d6-bb1dab9d1408",
+        "text": "4"
+      },
+      {
+        "id": "a9601832-33b5-4c0a-8a7e-8582b5592b4f",
+        "text": "1"
+      },
+      {
+        "id": "851683d3-254f-4562-902f-2262fdffb1f5",
+        "text": "8"
+      },
+      {
+        "id": "dcf491b1-e327-4a57-967d-62e9a487b47f",
+        "text": "16"
+      }
+    ],
+    "correct_answer_id": "dcf491b1-e327-4a57-967d-62e9a487b47f",
+    "photo_url": null,
+    "text": "How many vehicles can be found on \"Dumbo the Flying Elephant\" attractions?"
+  },
+  "d2a999c6-51e7-422f-9f81-ee9464802915": {
+    "answers": [
+      {
+        "id": "860f979f-cb9f-4a1f-8b0a-70ed7d05e013",
+        "text": "River Country"
+      },
+      {
+        "id": "002853f2-4692-47c8-9a61-57f69fb9b4d2",
+        "text": "Wet N' Wild"
+      },
+      {
+        "id": "7b62374e-5a3a-475f-81c0-46e0c66e2f85",
+        "text": "Blizzard Beach"
+      },
+      {
+        "id": "a05b66a0-a970-430f-9873-a206de89524b",
+        "text": "Typhoon Lagoon"
+      }
+    ],
+    "correct_answer_id": "002853f2-4692-47c8-9a61-57f69fb9b4d2",
+    "photo_url": null,
+    "text": "Which of the following is/was NOT a Disney Water Park?"
+  },
+  "d37b3212-6ffd-4ac6-a801-7beee15f5133": {
+    "answers": [
+      {
+        "id": "a7a5ac98-5b7e-45bb-8182-d4c4817ec5e7",
+        "text": "TCL Coporation"
+      },
+      {
+        "id": "bb174296-094c-4703-be2b-4859d96028d3",
+        "text": "Walt Disney Pictures"
+      },
+      {
+        "id": "a3e7f365-9c56-49f8-a7fc-355bb5b8f31a",
+        "text": "AMC Theatres"
+      },
+      {
+        "id": "26b34d45-5924-4379-8564-fcea7cc1f7b7",
+        "text": "Turner Classic Movies"
+      }
+    ],
+    "correct_answer_id": "26b34d45-5924-4379-8564-fcea7cc1f7b7",
+    "photo_url": null,
+    "text": "As of 2015, Who is the current sponsor of \"The Great Movie Ride\"?"
+  },
+  "d416dbca-e713-41ce-bac0-7f73c8b826e9": {
+    "answers": [
+      {
+        "id": "e1e43354-1007-4bf8-b3c1-b51fdaefadef",
+        "text": "Tokyo Disneyland"
+      },
+      {
+        "id": "32831597-66ef-40ba-8fe4-dbaedef3b8e6",
+        "text": "Hong Kong Disneyland"
+      },
+      {
+        "id": "1fe79826-9f45-46bb-ad9e-16ed56898f9b",
+        "text": "Disneyland Paris"
+      },
+      {
+        "id": "37195aa4-906b-4bd5-ae82-483395b91748",
+        "text": "Magic Kingdom"
+      }
+    ],
+    "correct_answer_id": "32831597-66ef-40ba-8fe4-dbaedef3b8e6",
+    "photo_url": null,
+    "text": "\"Mystic Manor\" is found at what theme park?"
+  },
+  "d4a0f1ce-86b0-4f1c-8545-593915adcd91": {
+    "answers": [
+      {
+        "id": "fb7e0c02-74f7-488a-8e5b-7fdbfc3f74b3",
+        "text": "Disneyland Paris"
+      },
+      {
+        "id": "b1e38b83-d2da-4139-90e1-b5f7d0463766",
+        "text": "Shanghai Disneyland"
+      },
+      {
+        "id": "df3ef96c-75ae-4b83-a7db-5a1e3d0f2530",
+        "text": "Hong Kong Disneyland"
+      },
+      {
+        "id": "49c636cf-53fb-4956-adeb-61b928a66024",
+        "text": "Tokyo Disneyland"
+      }
+    ],
+    "correct_answer_id": "49c636cf-53fb-4956-adeb-61b928a66024",
+    "photo_url": null,
+    "text": "Which international Disney Park was the first to open?"
+  },
+  "d4e7165b-edfc-4c27-874c-dedbe7f0ce9c": {
+    "answers": [
+      {
+        "id": "57284a34-6ea0-4885-ac63-73d5a58d509e",
+        "text": "Starspeeder 1000"
+      },
+      {
+        "id": "2d4a30b1-e136-4e2c-aca0-37a381c89c80",
+        "text": "Starspeeder 2000"
+      },
+      {
+        "id": "40432019-94f1-4d28-bbb2-e352f8bd1b20",
+        "text": "Starspeeder 4000"
+      },
+      {
+        "id": "1045adc6-493a-4832-aecd-375aefb0fe56",
+        "text": "Starspeeder 3000"
+      }
+    ],
+    "correct_answer_id": "1045adc6-493a-4832-aecd-375aefb0fe56",
+    "photo_url": null,
+    "text": "Which Starspeeder could you ride on in the original \"Star Tours\"?"
+  },
+  "ddb56c75-8864-4841-b2a9-300651c3b2fb": {
+    "answers": [
+      {
+        "id": "45d974b1-37a2-4164-8fc6-4bf18d124aee",
+        "text": "Star Wars Land"
+      },
+      {
+        "id": "ae2d7fb5-2106-45a2-b4f8-ce63ae43c092",
+        "text": "Treasure Cove"
+      },
+      {
+        "id": "da7d26a6-0124-4eea-9d8e-01b57feff258",
+        "text": "Marvel Land"
+      },
+      {
+        "id": "c4dd3fdd-3b26-4b84-a23f-d8f0ad7f894f",
+        "text": "Arendelle"
+      }
+    ],
+    "correct_answer_id": "45d974b1-37a2-4164-8fc6-4bf18d124aee",
+    "photo_url": null,
+    "text": "What is the name of the upcoming 14-Acre land to be built at both \"Disneyland Park\" and \"Disney's Hollywood Studios\"?"
+  },
+  "df7e47c8-5971-4a0b-83d5-2d71be9210f2": {
+    "answers": [
+      {
+        "id": "9a6deaf0-099d-481c-b276-276bd96e9006",
+        "text": "April 12, 1992"
+      },
+      {
+        "id": "69703d7e-ab64-41e0-af3b-feb4bdba89ba",
+        "text": "April 15, 1983"
+      },
+      {
+        "id": "34870a8d-5c1a-4bbb-9429-e573a550fb4a",
+        "text": "September 04, 2001"
+      },
+      {
+        "id": "0fc7e798-edb5-47a0-b29b-d75f04f32ad4",
+        "text": "March 16, 2002"
+      }
+    ],
+    "correct_answer_id": "69703d7e-ab64-41e0-af3b-feb4bdba89ba",
+    "photo_url": null,
+    "text": "On what date did \"Tokyo Disneyland\" open?"
+  },
+  "e06a7f4f-5b6b-4828-8ac0-1fd37ec72ec5": {
+    "answers": [
+      {
+        "id": "590534bb-d2f6-40fd-addf-6405bd892d7c",
+        "text": "Mickey Mouse"
+      },
+      {
+        "id": "1e067692-c111-41d2-b423-91ddcda13784",
+        "text": "Oswald the Lucky Rabbit"
+      },
+      {
+        "id": "efee144f-50cc-4b61-b1cb-711f156eefbb",
+        "text": "Minnie Mouse"
+      },
+      {
+        "id": "5a5f66a7-b3e0-4a54-b19b-f245dfbb0c89",
+        "text": "Lillian Disney"
+      }
+    ],
+    "correct_answer_id": "590534bb-d2f6-40fd-addf-6405bd892d7c",
+    "photo_url": null,
+    "text": "With whom does Walt Disney hold hands with in the \"Partners Statue\"?"
+  },
+  "e73e8a53-5047-4e68-b784-faa8b0cdc904": {
+    "answers": [
+      {
+        "id": "462ca027-7c49-472b-8507-b067ec4fb514",
+        "text": "Dole"
+      },
+      {
+        "id": "ed1ac710-25c1-4916-b1f4-07d29bd2a315",
+        "text": "Kay Jewelers"
+      },
+      {
+        "id": "a495bda0-4ddd-4103-b324-ed23896529ef",
+        "text": "Make-A-Wish Foundation"
+      },
+      {
+        "id": "ff6a5025-a361-4f50-bc01-ecf63b3f8611",
+        "text": "Pandora"
+      }
+    ],
+    "correct_answer_id": "ff6a5025-a361-4f50-bc01-ecf63b3f8611",
+    "photo_url": null,
+    "text": "As of 2015, Who is the current sponsor of \"Wishes: A Magical Gathering of Disney Dreams\"?"
+  },
+  "ea6c8b00-c8a8-411f-b064-a7af4620e891": {
+    "answers": [
+      {
+        "id": "2194e848-44ad-4a91-8aa4-e6b99a3af6e8",
+        "text": "February 8, 2001"
+      },
+      {
+        "id": "47e2b934-2399-4620-bc11-f55e1e4b46bb",
+        "text": "July 17, 1955"
+      },
+      {
+        "id": "4be1ac4b-9339-401c-abde-fde0a44ee947",
+        "text": "June 11, 2010"
+      },
+      {
+        "id": "094a7b98-cf9a-4360-a496-9104c2213bd5",
+        "text": "June 14, 2012"
+      }
+    ],
+    "correct_answer_id": "2194e848-44ad-4a91-8aa4-e6b99a3af6e8",
+    "photo_url": null,
+    "text": "On what date did \"Disney California Adventure\" open?"
+  },
+  "efb25743-f683-4a2c-8d6c-885644fc173e": {
+    "answers": [
+      {
+        "id": "fbd53fce-85f7-4c39-a1a9-b7fc43b09d0e",
+        "text": "June 01, 1989"
+      },
+      {
+        "id": "ce175891-1969-48ed-94dc-362e1332a698",
+        "text": "June 20, 1976"
+      },
+      {
+        "id": "0663a1fa-d763-4f91-8b23-ce529ea5ff47",
+        "text": "May 01, 1989"
+      },
+      {
+        "id": "a76dfeeb-0aa4-4eb3-9191-2f5b6a431320",
+        "text": "April 01, 1995 "
+      }
+    ],
+    "correct_answer_id": "fbd53fce-85f7-4c39-a1a9-b7fc43b09d0e",
+    "photo_url": null,
+    "text": "On what date did \"Disney's Typhoon Lagoon\" open?"
+  },
+  "f07c069e-f42a-456e-8570-e96fdbe782fe": {
+    "answers": [
+      {
+        "id": "a5ea6a1b-e80c-402f-8c35-9b1094d0f1db",
+        "text": "October 01, 1971"
+      },
+      {
+        "id": "1cd9eaeb-0b18-42df-b77e-8f5b711afa48",
+        "text": "December 05, 1901"
+      },
+      {
+        "id": "26921917-f626-4f2a-a492-15efa4f73921",
+        "text": "December 15, 1966"
+      },
+      {
+        "id": "a9daecef-8aa0-482d-be0b-bceb17a037f4",
+        "text": "July 17, 1955"
+      }
+    ],
+    "correct_answer_id": "a9daecef-8aa0-482d-be0b-bceb17a037f4",
+    "photo_url": null,
+    "text": "On what date did \"Disneyland Park\" open?"
+  },
+  "f275623c-6c87-4e3a-abb0-9bf16015bcba": {
+    "answers": [
+      {
+        "id": "57e46071-5ab5-4d28-9e45-f2b5ecc7701d",
+        "text": "April 12, 1992"
+      },
+      {
+        "id": "032788bf-effe-431f-b1c6-5a717ffa8f84",
+        "text": "February 08, 2001"
+      },
+      {
+        "id": "7fb54eef-4a85-4990-b2b2-ab46ce0d1e8f",
+        "text": "March 16, 2002"
+      },
+      {
+        "id": "14907d33-5958-494a-95b7-fcb6883461a7",
+        "text": "September 12, 2005"
+      }
+    ],
+    "correct_answer_id": "7fb54eef-4a85-4990-b2b2-ab46ce0d1e8f",
+    "photo_url": null,
+    "text": "On what date did \"Walt Disney Studios Park\" open?"
+  },
+  "fa597e47-1c5f-4a54-98df-a9ceadf01094": {
+    "answers": [
+      {
+        "id": "ac16cd62-1ce2-4942-bc12-4f4f247e2747",
+        "text": "Luigi's Flying Tires"
+      },
+      {
+        "id": "ebe629c5-a534-43f4-987e-f593753d026b",
+        "text": "Radiator Springs Racers"
+      },
+      {
+        "id": "23fbb6df-0997-4ca0-92f8-b845b7eedeb6",
+        "text": "The whole land"
+      },
+      {
+        "id": "e80f3daa-8371-4f34-91e6-4dd7ed91b5be",
+        "text": "Mater's Junkyard Jamboree"
+      }
+    ],
+    "correct_answer_id": "ac16cd62-1ce2-4942-bc12-4f4f247e2747",
+    "photo_url": null,
+    "text": "Which opening day \"Cars Land\" attraction permanently closed on February 17, 2015?"
+  },
+  "fd99ae61-9aa5-4037-8a28-f471ff10f019": {
+    "answers": [
+      {
+        "id": "88f85d0f-c8ba-4b4b-b845-535a9513cc9a",
+        "text": "Push the Talking Trash Can"
+      },
+      {
+        "id": "54aa1054-b65a-42cc-9f60-2e1a64bef3ad",
+        "text": "Pipa the Talking Recycling Bin"
+      },
+      {
+        "id": "11c538f8-9b8f-47a9-b479-b70ef857452a",
+        "text": "Flo the Talking Water Fountain"
+      },
+      {
+        "id": "5e11673b-bd3c-405f-9c30-3bdc2a00a08d",
+        "text": "Flush the Talking Toilet"
+      }
+    ],
+    "correct_answer_id": "88f85d0f-c8ba-4b4b-b845-535a9513cc9a",
+    "photo_url": null,
+    "text": "What unique character formerly roamed around \"Magic Kingdom\"?"
+  },
+  "fdf36cba-131e-498c-bed4-f0a2725b2a59": {
+    "answers": [
+      {
+        "id": "dc2141a9-f23c-4556-a3af-aea21c56388a",
+        "text": "3"
+      },
+      {
+        "id": "20248060-869b-4eb2-8333-d0ed5034a00f",
+        "text": "12"
+      },
+      {
+        "id": "70d88108-bb81-4fee-aa75-1000968958e6",
+        "text": "9"
+      },
+      {
+        "id": "3d018c51-3f49-4092-bf1f-16541acea597",
+        "text": "6"
+      }
+    ],
+    "correct_answer_id": "20248060-869b-4eb2-8333-d0ed5034a00f",
+    "photo_url": null,
+    "text": "How many Mark VI monorails operate on the \"Walt Disney World Monorail System\"?"
+  }
+}

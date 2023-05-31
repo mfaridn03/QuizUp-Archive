@@ -1,0 +1,16 @@
+                        Player Country Level    Total XP
+1                    Panazegem      BE   672  15,896,371
+2             Baerlibirlimirli      AT   671  15,839,606
+3                        Adson      BR   671  15,839,298
+4                       KOSTAS      CA   647  14,715,422
+5                 SININHO_AZUL      BR   582  11,921,545
+6   neakameni • Save the App !      FR   577  11,707,267
+7               Stanley #L-ILA      IS   534  10,055,336
+8             Ennio Nannicelli      FR   514   9,303,120
+9                    Andromeda      ES   510   9,153,515
+10                  Christaras      US   507   9,050,377
+11                        Gaby      DE   468   7,738,685
+12                    Diogenes      BA   448   7,078,556
+13                    Margaret      US   437   6,750,177
+14                      Kpandy      DE   429   6,497,199
+15                      HelenK      CY   427   6,438,669

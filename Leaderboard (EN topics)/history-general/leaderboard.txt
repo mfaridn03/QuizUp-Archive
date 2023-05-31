@@ -1,0 +1,16 @@
+                          Player      Country  Level    Total XP
+1                    jim pepping           AU  1,455  74,334,601
+2               H.R Save the App           PK  1,376  66,401,347
+3                  Monta Fischer           US  1,315  60,675,223
+4                           KiSh           SG  1,111  43,368,499
+5                 lunatic sanity           US  1,083  41,227,846
+6                          Kunze           TH    940  31,068,286
+7               G.J.O.M.'95 c.i.           PH    903  28,634,007
+8                       ✦ Memo G           MX    817  23,471,033
+9                          Nelly           DE    781  21,456,431
+10                     OLympia55           DE    758  20,208,750
+11    Craig Duncan Team Mac Eoin  QU_SCOTLAND    723  18,381,875
+12  Petrapascale 59 Save the App           CH    700  17,255,506
+13                   Tom Edwards           US    698  17,139,995
+14                  Robert Gauld  QU_SCOTLAND    628  13,894,998
+15                Profe Nacarate           CL    611  13,131,091

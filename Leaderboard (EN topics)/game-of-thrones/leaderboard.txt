@@ -1,0 +1,16 @@
+                    Player     Country  Level     Total XP
+1    Direwolf, extinct⚜️🇩🇪          DE  1,900  126,661,221
+2              The Warrior          GB  1,339   62,911,130
+3               Marky 🌎UT💫          DE  1,333   62,330,291
+4          Kinvara | ҜΞ 〽️          PH  1,159   47,191,805
+5                     ₹मेश          IN  1,106   42,957,842
+6                  Nyméria          FR  1,058   39,278,387
+7             Dracarys⚜️🇧🇷          BR  1,052   38,885,990
+8                     Debs  QU_ENGLAND  1,035   37,629,866
+9   Lyanna Stark - Retired          US  1,000   35,128,908
+10                   Chris          GB    971   33,131,481
+11                  Shweta          IN    959   32,322,951
+12    Legendary Skysquid 🦑          US    944   31,325,151
+13               Sarah 🏳‍🌈          US    859   25,935,689
+14           Nath Engracio          FR    828   24,074,848
+15                 Wānhedā          FR    810   23,058,261

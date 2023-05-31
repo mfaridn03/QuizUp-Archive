@@ -1,0 +1,16 @@
+                    Player      Country Level   Total XP
+1              Henchman 21           US   381  5,136,338
+2   nicky :) #FREEG$LDBERG           BR   338  4,051,936
+3                  Francki           FR   243  2,095,666
+4             Kevan Mahers     QU_WALES   206  1,516,361
+5                    Gibby  QU_SCOTLAND   203  1,465,126
+6            Silent Shadow           US   196  1,374,289
+7                  Loyos 👽           FR   191  1,300,653
+8                    kanra           KR   180  1,151,205
+9           Mario Pokrivač           HR   162    944,624
+10                 Blueboo   QU_ENGLAND   160    922,385
+11     Pippilotta1313 🌏UT💫           DE   154    848,116
+12                 Fyrefox           US   149    792,273
+13         Steve Reid 🌎UT💫           US   136    667,149
+14                 Suprema           TR   131    617,426
+15         Cyril⚡️CB⚡️🌍UT💫           FR   120    520,857

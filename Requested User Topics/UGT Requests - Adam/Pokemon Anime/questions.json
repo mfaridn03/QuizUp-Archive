@@ -1,0 +1,2992 @@
+{
+  "0098f7f8-f329-42d2-aa7a-48344950ed57": {
+    "answers": [
+      {
+        "id": "b6088915-5853-4a73-add4-b436d86c9eaa",
+        "text": "Fearow"
+      },
+      {
+        "id": "fe36b7ce-70fe-4284-b3ea-38e322c9beb1",
+        "text": "Moltres"
+      },
+      {
+        "id": "78469fa6-8e6b-4644-8911-64c2e4203cf1",
+        "text": "Paras"
+      },
+      {
+        "id": "e9115c1f-8c37-4292-b324-0e74a699020d",
+        "text": "Zekrom"
+      }
+    ],
+    "correct_answer_id": "b6088915-5853-4a73-add4-b436d86c9eaa",
+    "photo_url": null,
+    "text": "Which of the following is Gary's Pokemon?"
+  },
+  "02bd1375-1d13-4fc0-9452-e976fc1c77e8": {
+    "answers": [
+      {
+        "id": "e70a37ca-d4a6-4f46-8169-f137db68b7bd",
+        "text": "Desmond"
+      },
+      {
+        "id": "b6bf36e2-943f-4882-97bb-21de87706046",
+        "text": "Drake"
+      },
+      {
+        "id": "0bf2d037-8393-45cb-9625-9d123728ac3e",
+        "text": "Duke"
+      },
+      {
+        "id": "5bc4bb2b-5eb1-43f0-8744-47825f92ca7e",
+        "text": "Drew"
+      }
+    ],
+    "correct_answer_id": "b6bf36e2-943f-4882-97bb-21de87706046",
+    "photo_url": null,
+    "text": "The leader of the Orange Crew?"
+  },
+  "02c0690b-8eb0-45c6-ae32-12ff3086e33d": {
+    "answers": [
+      {
+        "id": "95d34554-b0bb-4506-9e24-0d2ab250d617",
+        "text": "New Bark Town"
+      },
+      {
+        "id": "394f5d08-12c0-47b1-bfdf-7f20c571349f",
+        "text": "Kodai"
+      },
+      {
+        "id": "d68e3a2a-6b21-49e7-a6a6-cd5326b00118",
+        "text": "Crown City"
+      },
+      {
+        "id": "a8beac5b-1da6-4146-92ac-c638f33b3c6f",
+        "text": "Pallet Town"
+      }
+    ],
+    "correct_answer_id": "d68e3a2a-6b21-49e7-a6a6-cd5326b00118",
+    "photo_url": null,
+    "text": "Raikou,Entei and Suicune protect which city?"
+  },
+  "0398ed33-609b-4f2f-bd71-483a79132b79": {
+    "answers": [
+      {
+        "id": "58d406de-5321-4650-9a1f-bed54629ceb3",
+        "text": "7"
+      },
+      {
+        "id": "c58e57bc-f450-47bf-82db-bdc46fc7188a",
+        "text": "8"
+      },
+      {
+        "id": "7b9a2f76-54e8-4244-bfe6-309eb701f8ea",
+        "text": "11"
+      },
+      {
+        "id": "29305e8f-9c75-4282-becd-163966776d2b",
+        "text": "10"
+      }
+    ],
+    "correct_answer_id": "29305e8f-9c75-4282-becd-163966776d2b",
+    "photo_url": null,
+    "text": "How many badges does Gary Oak wins in the Kanto region?"
+  },
+  "05dcf3b5-c42c-4839-8ec2-5d8130abead1": {
+    "answers": [
+      {
+        "id": "c102b8da-9169-44f5-85a3-a3b6e06f2b5a",
+        "text": "Professor Birch"
+      },
+      {
+        "id": "60ee10b3-3255-4ad9-a600-d09306f73824",
+        "text": "Pryce"
+      },
+      {
+        "id": "e1f4a7de-346a-43f4-a57b-5dd67f607962",
+        "text": "Drayden"
+      },
+      {
+        "id": "aff96c19-ab95-4083-9c04-a5b7b68b1a8a",
+        "text": "Crasher Wake"
+      }
+    ],
+    "correct_answer_id": "e1f4a7de-346a-43f4-a57b-5dd67f607962",
+    "photo_url": null,
+    "text": "Who is Iris's Mentor?"
+  },
+  "08eea07a-ece5-4673-9a6b-219b1cd5dde7": {
+    "answers": [
+      {
+        "id": "0e41c549-2d29-4745-90f3-68373ffa5cad",
+        "text": "Khoury"
+      },
+      {
+        "id": "9b223633-d926-451e-9d42-abd1f915ce77",
+        "text": "Cherly"
+      },
+      {
+        "id": "09282e01-e083-4d41-aaae-0a840e72d520",
+        "text": "Cilan"
+      },
+      {
+        "id": "360ac8a4-4ed4-4a1a-9e6b-57222a3fd59c",
+        "text": "Kenny"
+      }
+    ],
+    "correct_answer_id": "0e41c549-2d29-4745-90f3-68373ffa5cad",
+    "photo_url": null,
+    "text": "Who decided to follow Brock and become a Breeder?"
+  },
+  "0c26d9e3-0b87-47a5-8625-c9bfe745a1ba": {
+    "answers": [
+      {
+        "id": "b2d0a568-a3c0-4ea8-9f63-5389912b7146",
+        "text": "Marowak"
+      },
+      {
+        "id": "526dd6a3-d058-4cfc-b1a2-0d0a88f6079b",
+        "text": "Golem"
+      },
+      {
+        "id": "7d83ee53-009c-4718-b2e0-7d00c8e8c8ef",
+        "text": "Graveler"
+      },
+      {
+        "id": "d695894c-4a68-4489-87b1-7fb7c91ce7be",
+        "text": "Cubone"
+      }
+    ],
+    "correct_answer_id": "526dd6a3-d058-4cfc-b1a2-0d0a88f6079b",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/f9/1f/54/f91f54315a646982d355ac3e025eaaed2331657d/content?h=360&q=95&w=360",
+    "text": "Flint(Brock's Dad) has only one Pokemon namely."
+  },
+  "0f001e06-e58f-4eb8-aa2d-92499bea1c7d": {
+    "answers": [
+      {
+        "id": "2df5ed68-d784-4bbe-bfec-f33c01b55ef4",
+        "text": "Jupiter"
+      },
+      {
+        "id": "d54379a0-aebc-4926-9fbf-02c6e13fd4bc",
+        "text": "Mars"
+      },
+      {
+        "id": "34e86c9c-4078-4eb0-8a0a-046563f1a77a",
+        "text": "Shauna"
+      },
+      {
+        "id": "7182a10e-b2c4-4641-89e7-8ddd6d4cf8fd",
+        "text": "Miette"
+      }
+    ],
+    "correct_answer_id": "7182a10e-b2c4-4641-89e7-8ddd6d4cf8fd",
+    "photo_url": null,
+    "text": "Who used Serena's crush on Ash to distract her during battle?"
+  },
+  "0f59a1de-0a97-4607-8ad9-99b732b5fe49": {
+    "answers": [
+      {
+        "id": "0c061e83-e747-4426-a05c-49ab12d39c6f",
+        "text": "Norman"
+      },
+      {
+        "id": "0e96a64d-88d8-46c8-9ccb-74871ae2704d",
+        "text": "Professor Birch"
+      },
+      {
+        "id": "4e9b7c2f-cbd7-4ccd-84d5-203b37276406",
+        "text": "Ash"
+      },
+      {
+        "id": "a0ad53b2-cd52-4f9a-b102-e4b2cf18bc63",
+        "text": "Team Rocket"
+      }
+    ],
+    "correct_answer_id": "a0ad53b2-cd52-4f9a-b102-e4b2cf18bc63",
+    "photo_url": null,
+    "text": "In the episode \"Get the show on the road\" who heals Pikachu?"
+  },
+  "0ff8b3f1-5e4a-40c6-9105-fffe8898c771": {
+    "answers": [
+      {
+        "id": "fde23608-c403-4f40-87e9-4d5f844ab25d",
+        "text": "Air"
+      },
+      {
+        "id": "8d13e336-2357-4e8c-a573-06b74db608c4",
+        "text": "Aeroplane"
+      },
+      {
+        "id": "1fac9f47-4877-4cbd-a254-0d5741102e8b",
+        "text": "Wings"
+      },
+      {
+        "id": "266f0a17-e8d7-4f7d-921a-52d4015780c0",
+        "text": "Bird"
+      }
+    ],
+    "correct_answer_id": "1fac9f47-4877-4cbd-a254-0d5741102e8b",
+    "photo_url": null,
+    "text": "Who flies planes from Transit Town to Olivine City?"
+  },
+  "10a6c4e6-5d51-4bba-ae99-edae1e913507": {
+    "answers": [
+      {
+        "id": "9df075e7-4bb1-488e-ac8e-913580d5f217",
+        "text": "Haunter"
+      },
+      {
+        "id": "bb9d3bcb-df70-4029-a439-775d4d4fd4f4",
+        "text": "Gengar"
+      },
+      {
+        "id": "31d3f7a6-f401-4ff6-aa65-61e91bd5f74f",
+        "text": "Kingler"
+      },
+      {
+        "id": "97d0117c-c32f-4b96-bb15-4c43b16c8c2c",
+        "text": "Tauros"
+      }
+    ],
+    "correct_answer_id": "9df075e7-4bb1-488e-ac8e-913580d5f217",
+    "photo_url": null,
+    "text": "Which Pokemon did Ash leave at Saffron City's Gym?"
+  },
+  "11d07b70-4e11-4734-b2b4-c15cec748616": {
+    "answers": [
+      {
+        "id": "ed35e5df-15b5-4859-afcb-fbfd98f7cfda",
+        "text": "Jirachi"
+      },
+      {
+        "id": "3fba4c5b-35cb-4759-842b-98f3c4b30399",
+        "text": "Mew"
+      },
+      {
+        "id": "cedcfab2-faab-4a8b-b700-5caadd02048f",
+        "text": "Unown"
+      },
+      {
+        "id": "dd643251-f069-423f-8e74-e455a0ff8e6d",
+        "text": "Celebi"
+      }
+    ],
+    "correct_answer_id": "ed35e5df-15b5-4859-afcb-fbfd98f7cfda",
+    "photo_url": null,
+    "text": "Complete - _____ - Wish Maker"
+  },
+  "12055c56-06ae-4715-9653-f3d5204cb677": {
+    "answers": [
+      {
+        "id": "2662745f-da9f-4951-9374-d5e0ddf1aba2",
+        "text": "Pikachu"
+      },
+      {
+        "id": "3b0b26ad-743f-4cc7-8fc2-0adb8a4360aa",
+        "text": "Deoxys"
+      },
+      {
+        "id": "80501fc3-51cf-4e92-befe-9da036cfef90",
+        "text": "Pokemon"
+      },
+      {
+        "id": "e970d1f9-9cb2-438b-9743-2cc6e3637640",
+        "text": "Mew"
+      }
+    ],
+    "correct_answer_id": "3b0b26ad-743f-4cc7-8fc2-0adb8a4360aa",
+    "photo_url": null,
+    "text": "Complete - Destiny _____"
+  },
+  "185687b2-322c-4b72-b5cb-9dd287fd51b1": {
+    "answers": [
+      {
+        "id": "026c92cb-e753-4d37-8cdb-1b4919de21a0",
+        "text": "Eusine"
+      },
+      {
+        "id": "58dd7d84-32e8-4284-9516-20a9c68184b0",
+        "text": "Ephram"
+      },
+      {
+        "id": "d8c32dc2-fdb4-4d4c-b667-f169fdf2f371",
+        "text": "Butler"
+      },
+      {
+        "id": "3835c479-1279-4cfa-a691-5e7dee9a8e58",
+        "text": "Morty"
+      }
+    ],
+    "correct_answer_id": "d8c32dc2-fdb4-4d4c-b667-f169fdf2f371",
+    "photo_url": null,
+    "text": "I am a magician but I am not Melvin.Who am I?"
+  },
+  "1a15e665-307e-4c59-8ac7-c3fea03d8a8a": {
+    "answers": [
+      {
+        "id": "7ad3ac0d-8ed9-4279-803e-22d71a67eeaf",
+        "text": "Gyarados"
+      },
+      {
+        "id": "161b5139-2251-4a9b-bdfb-d6c5c2b7f63d",
+        "text": "Crawdaunt"
+      },
+      {
+        "id": "a9f30b5a-304b-47e1-b054-532e2a9e377d",
+        "text": "Carvahna"
+      },
+      {
+        "id": "303c0131-f524-43ed-8eeb-6beda55bf7c8",
+        "text": "Walerin"
+      }
+    ],
+    "correct_answer_id": "7ad3ac0d-8ed9-4279-803e-22d71a67eeaf",
+    "photo_url": null,
+    "text": "Team Aqua do not use?"
+  },
+  "1b09872d-7c99-4102-b65a-301d0f762887": {
+    "answers": [
+      {
+        "id": "255d7d6a-fb46-4ff5-96fe-ea509e87ba62",
+        "text": "Sendai Earthquakes"
+      },
+      {
+        "id": "41f3d698-5b5b-4d08-8ba0-166ae9e4dd8d",
+        "text": "It was aired"
+      },
+      {
+        "id": "e4157a1f-a895-485d-892a-d1ef6244cddb",
+        "text": "Too long"
+      },
+      {
+        "id": "df165995-0c42-4a1b-8507-201f6e078853",
+        "text": "Government Ban"
+      }
+    ],
+    "correct_answer_id": "255d7d6a-fb46-4ff5-96fe-ea509e87ba62",
+    "photo_url": null,
+    "text": "The episode \"Team Rocket VS Team Plasma\" was not aired due to?"
+  },
+  "1b64d242-7486-4a12-934e-0ca46372813f": {
+    "answers": [
+      {
+        "id": "0cf4f97e-6831-49d6-b86e-9fcd0cbe8a05",
+        "text": "Meloetta"
+      },
+      {
+        "id": "8775070d-2d5d-4011-8b3e-ba58a5a3ac1f",
+        "text": "Daincie"
+      },
+      {
+        "id": "278a5b48-a3a8-4587-b658-6a155a21715c",
+        "text": "Genesect"
+      },
+      {
+        "id": "6bc2b475-1800-411e-b993-5ce90fd63ab8",
+        "text": "Lucario"
+      }
+    ],
+    "correct_answer_id": "278a5b48-a3a8-4587-b658-6a155a21715c",
+    "photo_url": null,
+    "text": "Complete - ________ and the Legend Awakened."
+  },
+  "1bb773f1-79ba-4c30-a005-ca74a8165e2b": {
+    "answers": [
+      {
+        "id": "0cc81be4-5531-40ff-92bb-be280b50b85f",
+        "text": "Great"
+      },
+      {
+        "id": "c74bf1ef-c4ea-4322-9132-ba7d5c525782",
+        "text": "Lure"
+      },
+      {
+        "id": "837b6b08-bcd4-4432-94bb-4063168be7b5",
+        "text": "Net"
+      },
+      {
+        "id": "d854c79d-b229-408e-af4e-774be85f191d",
+        "text": "Normal"
+      }
+    ],
+    "correct_answer_id": "c74bf1ef-c4ea-4322-9132-ba7d5c525782",
+    "photo_url": null,
+    "text": "Misty captures Corsola with a _____ Ball?"
+  },
+  "1c9e8984-a2ae-43d0-b1e4-49874ce67b9f": {
+    "answers": [
+      {
+        "id": "cf422575-e548-4e18-9f52-f1e5bdaf23be",
+        "text": "Noctowl"
+      },
+      {
+        "id": "6a3e4648-26fd-4622-b65b-d9178b33396f",
+        "text": "Shuckle"
+      },
+      {
+        "id": "e26916b9-0a0a-4fc8-a737-099640d9114b",
+        "text": "Donphan"
+      },
+      {
+        "id": "f9797849-3f42-4272-9397-5cebc81fef80",
+        "text": "Bellsprout"
+      }
+    ],
+    "correct_answer_id": "f9797849-3f42-4272-9397-5cebc81fef80",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has not been seen?"
+  },
+  "21330ee7-299f-477b-9ce3-843eb71bf89a": {
+    "answers": [
+      {
+        "id": "702f03be-dd36-45ce-ad39-e0c7039ca164",
+        "text": "Hoenn"
+      },
+      {
+        "id": "60cc2f84-4988-48c0-a772-657695e2cfc2",
+        "text": "Jhoto"
+      },
+      {
+        "id": "160d2649-bcd2-4dc8-bd43-0682b9734fbb",
+        "text": "Kanto"
+      },
+      {
+        "id": "a6cdfb28-5105-4bbd-bb38-86fe6e9dc556",
+        "text": "Sinnoh"
+      }
+    ],
+    "correct_answer_id": "a6cdfb28-5105-4bbd-bb38-86fe6e9dc556",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/5f/ad/17/5fad17d93439c1c4aed71a1258b042c4980ebc12/content?h=360&q=95&w=360",
+    "text": "Ditto's shiny form appeared in which region?"
+  },
+  "27219026-c1af-4546-8d0b-e16ae56fe501": {
+    "answers": [
+      {
+        "id": "1d7e0c5c-f19f-42ef-8e5c-015d526bf4b9",
+        "text": "Wartotle"
+      },
+      {
+        "id": "af554728-662d-48aa-8556-8e09d2ff407d",
+        "text": "Skitty"
+      },
+      {
+        "id": "b29da752-79f8-4f6d-b852-3b5660454982",
+        "text": "Munchlax"
+      },
+      {
+        "id": "c6ee2e3d-d540-4ea5-aef7-f1b4b5998880",
+        "text": "Beautifly"
+      }
+    ],
+    "correct_answer_id": "af554728-662d-48aa-8556-8e09d2ff407d",
+    "photo_url": null,
+    "text": "May's Pokemon who stays at Petalburg Gym?"
+  },
+  "28f1d64d-27bf-4678-89f4-0ac07e11eba1": {
+    "answers": [
+      {
+        "id": "6198a6c1-cd6c-4213-809f-13c61fac48b0",
+        "text": "Galaxys"
+      },
+      {
+        "id": "76688dcc-5402-44b4-a811-2e684bcfcaea",
+        "text": "Pokemons"
+      },
+      {
+        "id": "8cc383a8-8914-4d14-b079-437a32fdb682",
+        "text": "Continents"
+      },
+      {
+        "id": "c986b6b1-ab86-47d4-b0b8-36b8e2c4c850",
+        "text": "Planets"
+      }
+    ],
+    "correct_answer_id": "c986b6b1-ab86-47d4-b0b8-36b8e2c4c850",
+    "photo_url": null,
+    "text": "Team Galatic Commander's are named after?"
+  },
+  "2d695449-cd65-41ae-959e-89699c38b302": {
+    "answers": [
+      {
+        "id": "7ceab3f6-709f-424f-a2b0-503594189ccd",
+        "text": "Ditto"
+      },
+      {
+        "id": "b080fe4d-5a83-42a9-a070-00607941b059",
+        "text": "Magikarp"
+      },
+      {
+        "id": "fcb567c6-e870-4b07-b364-368ed24b49f2",
+        "text": "Flygon"
+      },
+      {
+        "id": "1da77e14-1cc6-4529-b324-353b45c03cb2",
+        "text": "Swellow"
+      }
+    ],
+    "correct_answer_id": "fcb567c6-e870-4b07-b364-368ed24b49f2",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has not been seen?"
+  },
+  "2de96cef-d7a7-499e-afcd-8e1b22da8b6f": {
+    "answers": [
+      {
+        "id": "11e7f837-de09-4d7e-8ff7-8ea79b293ac4",
+        "text": "Gyarados"
+      },
+      {
+        "id": "83a71667-977b-4b55-b489-2537ddce3b60",
+        "text": "Dragonite"
+      },
+      {
+        "id": "6d8a286e-290d-4b4b-8f27-0953dace67c8",
+        "text": "Ditto"
+      },
+      {
+        "id": "ed9032ae-c418-40c6-a55f-e174f99727ce",
+        "text": "Ariados"
+      }
+    ],
+    "correct_answer_id": "11e7f837-de09-4d7e-8ff7-8ea79b293ac4",
+    "photo_url": null,
+    "text": "Lance has a shiny ______."
+  },
+  "2f960128-d29f-4dc1-9606-d3d14d2fbf8f": {
+    "answers": [
+      {
+        "id": "94f46ffb-9300-4e23-9b9a-127ced10ed3b",
+        "text": "Lorelei"
+      },
+      {
+        "id": "25b49e85-c997-4ea8-9425-683f7a935bcf",
+        "text": "Drake"
+      },
+      {
+        "id": "3a4de82b-6216-4ee6-840b-ddb1c82fc6f1",
+        "text": "Sidney"
+      },
+      {
+        "id": "c41fd537-af56-4fd9-98a4-25cb042d0434",
+        "text": "Flint"
+      }
+    ],
+    "correct_answer_id": "c41fd537-af56-4fd9-98a4-25cb042d0434",
+    "photo_url": null,
+    "text": "Volkner considered whom as his rival when he was young?"
+  },
+  "31bcca5c-6c11-4291-a8e5-6e5fc8af166a": {
+    "answers": [
+      {
+        "id": "892de417-1658-4347-90ea-0e3fa3856736",
+        "text": "Hidden Power"
+      },
+      {
+        "id": "28adb71a-e0f1-4730-9c1f-6984c42f24c2",
+        "text": "Psychic Power"
+      },
+      {
+        "id": "e2884b7a-c969-4b44-9ee7-e06e1cb8b289",
+        "text": "Voice"
+      },
+      {
+        "id": "6affb86e-e7dc-41ae-af70-9e67f31174dc",
+        "text": "Aura"
+      }
+    ],
+    "correct_answer_id": "6affb86e-e7dc-41ae-af70-9e67f31174dc",
+    "photo_url": null,
+    "text": "Lucario can use its ____ to communicate with its trainers who are ____ masters?"
+  },
+  "335a9b74-c203-40db-a1b1-2a7c58d09dac": {
+    "answers": [
+      {
+        "id": "58390706-57c0-4b65-b296-1991ae1d41fb",
+        "text": "Paul"
+      },
+      {
+        "id": "b8ceb709-282b-4169-8534-fd40d9ff4c48",
+        "text": "Morrison"
+      },
+      {
+        "id": "83ee7aae-fa50-4e1c-a8cd-367c94192c34",
+        "text": "Tobias"
+      },
+      {
+        "id": "e08cf72d-4ef4-4360-9f18-bc2b55db6937",
+        "text": "Tyson"
+      }
+    ],
+    "correct_answer_id": "58390706-57c0-4b65-b296-1991ae1d41fb",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/10/b3/4b/10b34bcb8273292457d94dbae5c68138ee249db8/content?h=360&q=95&w=360",
+    "text": "I release my Pokemon if I feel they are weak and usless.Who am I?"
+  },
+  "35d856da-a39a-4df0-92cb-2c4d32d85299": {
+    "answers": [
+      {
+        "id": "d55dda7d-3a06-4726-85b6-258f8b09f38c",
+        "text": "Lugia"
+      },
+      {
+        "id": "df1eb2c9-f179-43ca-9514-34a530e2b3f7",
+        "text": "N"
+      },
+      {
+        "id": "f07be947-0de0-4545-a20f-a79cad63e432",
+        "text": "Arceus"
+      },
+      {
+        "id": "0eb8bc69-3792-48df-a4e8-0718d56b4cfa",
+        "text": "Kyurem"
+      }
+    ],
+    "correct_answer_id": "0eb8bc69-3792-48df-a4e8-0718d56b4cfa",
+    "photo_url": null,
+    "text": "Complete - ______ VS The Sword of Justice"
+  },
+  "380a4830-ecbb-48a6-a9a2-9ac4208b7588": {
+    "answers": [
+      {
+        "id": "2a7d7fc4-bee6-43d1-bfa0-5e754da25b0e",
+        "text": "Butterfree"
+      },
+      {
+        "id": "0c17135e-33a5-49d6-b944-cb55e784f778",
+        "text": "Vileplume"
+      },
+      {
+        "id": "dc386d69-141f-4fd7-869e-903b83c5a90c",
+        "text": "Celebi"
+      },
+      {
+        "id": "88ce2272-b13c-4808-952a-09c7d6fb8d69",
+        "text": "Jirachi"
+      }
+    ],
+    "correct_answer_id": "dc386d69-141f-4fd7-869e-903b83c5a90c",
+    "photo_url": null,
+    "text": "Complete - ____:Voice of Forest"
+  },
+  "39056004-0b58-4a8b-89d9-a0586a95480b": {
+    "answers": [
+      {
+        "id": "82fa626e-8d02-4c17-aa31-c5e39e6ea5e4",
+        "text": "Melvin"
+      },
+      {
+        "id": "0e02a0c5-8214-4b7f-a7e3-a49a4b5a6e0a",
+        "text": "Ephram"
+      },
+      {
+        "id": "dcb809ea-2cdb-4135-bfcf-670e9e502b6b",
+        "text": "Eusine"
+      },
+      {
+        "id": "627c4a2f-d5e5-41a3-86e6-773afe4c0d35",
+        "text": "Corey"
+      }
+    ],
+    "correct_answer_id": "0e02a0c5-8214-4b7f-a7e3-a49a4b5a6e0a",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/f5/d5/2a/f5d52a0bd03c6a5b714baac3b0a1fff2830150f6/content?h=360&q=95&w=360",
+    "text": "My Skiploom defeated Ash's Bulbasaur. Who am I?"
+  },
+  "396fd768-206a-4f88-bec3-49ed9fe41fdf": {
+    "answers": [
+      {
+        "id": "31a44b54-7f28-4b9a-9fa2-27ecd0e4af38",
+        "text": "Hitmonchan"
+      },
+      {
+        "id": "6fa9cc13-849e-46a9-a8ba-1f0d1d2e63c0",
+        "text": "Hitmonlee"
+      },
+      {
+        "id": "6c713113-6cfa-44e5-9492-b9494defad9c",
+        "text": "Tentacruel"
+      },
+      {
+        "id": "16246559-b5b4-42c3-8416-728fa0932e87",
+        "text": "Tyrogue"
+      }
+    ],
+    "correct_answer_id": "6c713113-6cfa-44e5-9492-b9494defad9c",
+    "photo_url": null,
+    "text": "The Fighting Brothers have a _____ each."
+  },
+  "3b337297-0829-4036-bf0f-19ba2b45869f": {
+    "answers": [
+      {
+        "id": "84db92a7-b2fc-4063-bb03-9eef14ed1bc9",
+        "text": "Speed"
+      },
+      {
+        "id": "31f629c6-952c-4b5d-add5-dea7125dbc09",
+        "text": "Resistance"
+      },
+      {
+        "id": "6cd895f6-b03c-46cc-8c48-477874055d3e",
+        "text": "Stubborn"
+      },
+      {
+        "id": "e4dea491-d5fa-4cb7-9219-d7e86934c42d",
+        "text": "Attack"
+      }
+    ],
+    "correct_answer_id": "31f629c6-952c-4b5d-add5-dea7125dbc09",
+    "photo_url": null,
+    "text": "Ash is stunned by Taillow's which ability?"
+  },
+  "3e4b852d-21a3-4c18-b13f-965020e7488b": {
+    "answers": [
+      {
+        "id": "086dcaf8-5078-4f91-9a5b-663c13bd305a",
+        "text": "Poliwag"
+      },
+      {
+        "id": "3767601f-e0ef-4929-8319-27c44cbe9595",
+        "text": "Wurmple"
+      },
+      {
+        "id": "429b8dfc-69bc-4d90-bbb8-18f48dc0d5f6",
+        "text": "Magikarp"
+      },
+      {
+        "id": "182cb0ea-2a01-4b24-9aea-fd76c443f77c",
+        "text": "Poliwhirl"
+      }
+    ],
+    "correct_answer_id": "086dcaf8-5078-4f91-9a5b-663c13bd305a",
+    "photo_url": null,
+    "text": "Which Pokemon was Max given to train by Roxanne?"
+  },
+  "449e86ab-38d0-4368-9173-9416aa3108b0": {
+    "answers": [
+      {
+        "id": "ed64b1af-b977-45de-91ad-5c66641eea2d",
+        "text": "Brawly"
+      },
+      {
+        "id": "ddd8ff1f-12f4-4bc4-93ca-bf457b3a92a9",
+        "text": "Lt. Surge"
+      },
+      {
+        "id": "2e1cf9ee-888d-4ea3-87c4-efe26e22b524",
+        "text": "Chuck"
+      },
+      {
+        "id": "536a5a57-26b0-4a94-92d2-940d0bcd5b3e",
+        "text": "Koga"
+      }
+    ],
+    "correct_answer_id": "ddd8ff1f-12f4-4bc4-93ca-bf457b3a92a9",
+    "photo_url": null,
+    "text": "Which Gym Leader believed unevolved Pokemon were weak?"
+  },
+  "4760f69c-90f6-45a5-a6d0-bfd5440ccf7a": {
+    "answers": [
+      {
+        "id": "6f08dd6b-5294-4d6d-8aab-df79402a3c63",
+        "text": "Ash"
+      },
+      {
+        "id": "2c2fe62a-431a-43df-9261-ec88998f5473",
+        "text": "He caught it"
+      },
+      {
+        "id": "085ab159-0bf6-4b2b-b557-885fdcef0972",
+        "text": "Susie"
+      },
+      {
+        "id": "4845b580-630f-417e-b801-c8cfc82ddfb5",
+        "text": "Flint"
+      }
+    ],
+    "correct_answer_id": "4845b580-630f-417e-b801-c8cfc82ddfb5",
+    "photo_url": null,
+    "text": "Who gave Onix to Brock?"
+  },
+  "48abb959-d895-4ad6-9699-27e630c1c944": {
+    "answers": [
+      {
+        "id": "ff2b2fd6-44ac-4261-947c-da65f8a87ccd",
+        "text": "Hoopa"
+      },
+      {
+        "id": "e3d36592-45f4-4f77-8937-3a99f8e75660",
+        "text": "Ho-oh"
+      },
+      {
+        "id": "defd0e64-79c4-4d10-a94c-7adf54da8613",
+        "text": "Lugia"
+      },
+      {
+        "id": "0c861c58-9319-411d-9b4d-cbaf5eba9a6c",
+        "text": "Arceus"
+      }
+    ],
+    "correct_answer_id": "ff2b2fd6-44ac-4261-947c-da65f8a87ccd",
+    "photo_url": null,
+    "text": "Complete - _____ and the Clash of Ages."
+  },
+  "49217f66-bb8a-4015-8549-6f13555bc2a8": {
+    "answers": [
+      {
+        "id": "e655afef-fe6c-4259-a137-cd82d42e65c1",
+        "text": "Magnemite"
+      },
+      {
+        "id": "f74b479a-abdb-4477-a087-23ac503f6a77",
+        "text": "Bunnelby"
+      },
+      {
+        "id": "3dd9d465-538f-4c23-9e49-494d4352f104",
+        "text": "Magneton"
+      },
+      {
+        "id": "d17c83bb-e7c9-4694-b6e0-4487d88d5620",
+        "text": "Luxio"
+      }
+    ],
+    "correct_answer_id": "d17c83bb-e7c9-4694-b6e0-4487d88d5620",
+    "photo_url": null,
+    "text": "Clemont had a misunderstanding with which of his Pokemon when he was a kid?"
+  },
+  "524ac709-1d50-44ce-af8f-1cabfe582b5d": {
+    "answers": [
+      {
+        "id": "9c92caa2-62f0-424a-83c7-494ebe1b5ad1",
+        "text": "Georgia"
+      },
+      {
+        "id": "5994d240-a7e9-4c36-8970-2779a8cf2c72",
+        "text": "Johanna"
+      },
+      {
+        "id": "4b13667e-7477-459b-9b13-be45c31253c0",
+        "text": "Erika"
+      },
+      {
+        "id": "4d0691cf-780f-4420-86a1-70d967e95f74",
+        "text": "Jasmine"
+      }
+    ],
+    "correct_answer_id": "5994d240-a7e9-4c36-8970-2779a8cf2c72",
+    "photo_url": null,
+    "text": "What is the name of Dawn's Mother?"
+  },
+  "538e36a6-4988-424d-a702-761b6ce8fc36": {
+    "answers": [
+      {
+        "id": "fa0f0a98-ac85-485e-82de-d1efd6e7729f",
+        "text": "Woobat"
+      },
+      {
+        "id": "8458e720-2e19-4cd7-b45a-16c5bc8ecbfa",
+        "text": "Wobbuffet"
+      },
+      {
+        "id": "7df89ef1-96c0-4c8f-aff3-41480a7ac6d8",
+        "text": "Gourgeist"
+      },
+      {
+        "id": "12e9798a-0296-4509-a864-e10376e9a88f",
+        "text": "Mawile"
+      }
+    ],
+    "correct_answer_id": "12e9798a-0296-4509-a864-e10376e9a88f",
+    "photo_url": null,
+    "text": "Which Pokemon did Jessie trade for Pumpkaboo?"
+  },
+  "58f2089e-49f2-4052-b8f0-0a239e9ed3be": {
+    "answers": [
+      {
+        "id": "fbc7aea1-d192-45e9-857b-7000a614da34",
+        "text": "Mew"
+      },
+      {
+        "id": "c8719d36-955f-4e6c-b4eb-69b3d386922b",
+        "text": "Mewtwo"
+      },
+      {
+        "id": "551e313e-6cc3-4eaa-8329-c4f33ecfcbf3",
+        "text": "Darkrai"
+      },
+      {
+        "id": "1a11f1ad-19ee-4d1e-b4d5-d7134654fd19",
+        "text": "N"
+      }
+    ],
+    "correct_answer_id": "c8719d36-955f-4e6c-b4eb-69b3d386922b",
+    "photo_url": null,
+    "text": "Complete - _____ Returns"
+  },
+  "597bf8bd-6928-4d09-bdeb-fb5c09cf29d2": {
+    "answers": [
+      {
+        "id": "66707f8d-3676-4ac7-af9e-0e16ff66742c",
+        "text": "Alakazam"
+      },
+      {
+        "id": "2480d253-c448-4770-95e1-676bf45a59b1",
+        "text": "Umbreon"
+      },
+      {
+        "id": "e74d9663-421f-4ba8-b6da-1d4a4b20a4f2",
+        "text": "Scizor"
+      },
+      {
+        "id": "2371cd3b-24bd-4acf-951f-a96fa32d67e4",
+        "text": "Metagross"
+      }
+    ],
+    "correct_answer_id": "e74d9663-421f-4ba8-b6da-1d4a4b20a4f2",
+    "photo_url": null,
+    "text": "The episode \"Can't beat the Heat\" focused on Gary's which Pokemon?"
+  },
+  "5a5bdc83-3e72-483b-a0c1-c6ae4f18371b": {
+    "answers": [
+      {
+        "id": "b6f6a8d7-0755-496e-bb1d-86bb2209a0ed",
+        "text": "Ariados"
+      },
+      {
+        "id": "4e8ff4ea-4a69-41f4-87e3-2f93de0e38a4",
+        "text": "Banette"
+      },
+      {
+        "id": "2bc416ce-728b-4287-8320-0c9dbe250899",
+        "text": "Wigglytuff"
+      },
+      {
+        "id": "b318e625-04a5-40f0-9708-072c79ac2803",
+        "text": "Cacturne"
+      }
+    ],
+    "correct_answer_id": "b318e625-04a5-40f0-9708-072c79ac2803",
+    "photo_url": null,
+    "text": "Harley dresses like a ______."
+  },
+  "5b0258da-6bc6-42ba-951f-a4db655f93b1": {
+    "answers": [
+      {
+        "id": "654ebc9f-6f0d-4662-820c-3cf20c05941e",
+        "text": "Trevor"
+      },
+      {
+        "id": "5e49236a-316a-410b-9d98-58f19d1171b8",
+        "text": "Trip"
+      },
+      {
+        "id": "5e0f8f91-2e8e-4dce-916f-f6bb27b423b3",
+        "text": "Tierno"
+      },
+      {
+        "id": "184d9272-b757-4d13-950d-4c9ff0eef681",
+        "text": "Shauna"
+      }
+    ],
+    "correct_answer_id": "5e0f8f91-2e8e-4dce-916f-f6bb27b423b3",
+    "photo_url": null,
+    "text": "Whose Squirtle uses dance moves in his battle?"
+  },
+  "5b6e3b77-3014-47b8-a390-860137ef92d3": {
+    "answers": [
+      {
+        "id": "2158c7ab-c14a-48fb-9aaa-059a93fcff54",
+        "text": "For Ho-oh the bells toll"
+      },
+      {
+        "id": "1e6d5e96-d554-43a0-889c-d7b00636a24a",
+        "text": "Pokemon I Choose You"
+      },
+      {
+        "id": "22488f7d-e233-4ed0-a11a-ae4b23b22791",
+        "text": "Gotta Catch Ya Later"
+      },
+      {
+        "id": "8f701a28-4dc3-40cb-9913-9a230e67fa8a",
+        "text": "Dawn of New Era"
+      }
+    ],
+    "correct_answer_id": "1e6d5e96-d554-43a0-889c-d7b00636a24a",
+    "photo_url": null,
+    "text": "Ho-oh first appears in?"
+  },
+  "5d1c2e77-4e3a-4093-8292-c29a5a56fda9": {
+    "answers": [
+      {
+        "id": "83e40a87-ee45-4c13-bea7-61c04ac5e06a",
+        "text": "Mudkip"
+      },
+      {
+        "id": "54930af9-0a6a-4558-9a1e-1341b94435ef",
+        "text": "Geodude"
+      },
+      {
+        "id": "b9732725-a258-4984-aef7-5fe3b3f08858",
+        "text": "Bonsly"
+      },
+      {
+        "id": "e24eec08-d2b0-4feb-9ea1-48e71e507760",
+        "text": "Foretress"
+      }
+    ],
+    "correct_answer_id": "e24eec08-d2b0-4feb-9ea1-48e71e507760",
+    "photo_url": null,
+    "text": "Which Pokemon does Brock take to Hoenn region?"
+  },
+  "5e2a53b1-fcc5-4a20-bdd5-b0884fb54ee1": {
+    "answers": [
+      {
+        "id": "68d69797-9ad7-404f-9a41-ecaff9642a06",
+        "text": "Kanto Champion"
+      },
+      {
+        "id": "17fee4b7-9680-4eb3-9c50-99165494047a",
+        "text": "Kalos Elite Four"
+      },
+      {
+        "id": "b905226d-f515-4b5e-b5c5-e1237bee3e89",
+        "text": "Hoenn Champion"
+      },
+      {
+        "id": "79f9afbd-81fc-4244-8d51-126922a9375e",
+        "text": "Sinnoh Champion"
+      }
+    ],
+    "correct_answer_id": "b905226d-f515-4b5e-b5c5-e1237bee3e89",
+    "photo_url": null,
+    "text": "Alan Battles Steven who was the?"
+  },
+  "5f0f2102-8a84-48e9-8e6a-7ad1651a829b": {
+    "answers": [
+      {
+        "id": "409dfc6b-c416-41ed-8de9-26590253d9a2",
+        "text": "Max"
+      },
+      {
+        "id": "91902181-20c9-4997-88cb-13df29f210f2",
+        "text": "Robert"
+      },
+      {
+        "id": "c7fa524e-91e1-4237-8e11-858eda1e86ac",
+        "text": "Drake"
+      },
+      {
+        "id": "fca4b4d7-66a2-40b8-8583-9236de14f4b0",
+        "text": "Drew"
+      }
+    ],
+    "correct_answer_id": "fca4b4d7-66a2-40b8-8583-9236de14f4b0",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/57/b0/3a/57b03a60771b45f5c62df74753743748b5b38096/content?h=360&q=95&w=360",
+    "text": "I have won at least 10 different Pokemon contests?"
+  },
+  "6085c304-1dda-46bb-bb90-8de6c20cfb44": {
+    "answers": [
+      {
+        "id": "adf1d327-8509-417e-a45b-f540aa4ae52d",
+        "text": "Raichu"
+      },
+      {
+        "id": "b642a7e5-ba4c-4580-88d2-13f9b08468b0",
+        "text": "Emolga"
+      },
+      {
+        "id": "3e363394-5c09-4664-9d74-f42340ad228f",
+        "text": "Tyranitar"
+      },
+      {
+        "id": "daa35b28-c4e8-4005-8e3a-66650e751b05",
+        "text": "Pikachu"
+      }
+    ],
+    "correct_answer_id": "b642a7e5-ba4c-4580-88d2-13f9b08468b0",
+    "photo_url": null,
+    "text": "Who is \"Team Rocket's Shocking Recurit\"?"
+  },
+  "60c9026c-6dcb-4c01-85e3-f1383765fd07": {
+    "answers": [
+      {
+        "id": "a2fb12d1-c96e-4a7b-b10f-4962bbc80a76",
+        "text": "Scizor"
+      },
+      {
+        "id": "676d2885-7f87-470a-b2f3-ba4f4ac88563",
+        "text": "Tyranitar"
+      },
+      {
+        "id": "ca3ff000-670e-43bd-9a29-fbc5a1515b02",
+        "text": "Sneasel"
+      },
+      {
+        "id": "2dd13072-68b5-4403-aa35-7bc8baa54dc1",
+        "text": "Celebi"
+      }
+    ],
+    "correct_answer_id": "676d2885-7f87-470a-b2f3-ba4f4ac88563",
+    "photo_url": null,
+    "text": "Bisharu steals which Pokemon?"
+  },
+  "60e2e202-f2fc-47a4-b160-00c5147fe075": {
+    "answers": [
+      {
+        "id": "8472c760-abb2-426b-a23d-309e9cf8e3f8",
+        "text": "Striation City"
+      },
+      {
+        "id": "02f19a22-b619-4046-af7a-833d8ad7e76f",
+        "text": "Castelia City"
+      },
+      {
+        "id": "f4f8e6e9-3872-459c-95fb-8dd8c01bfb60",
+        "text": "Nimbasa City"
+      },
+      {
+        "id": "4527ac05-8699-4706-92ce-b5cb89131387",
+        "text": "Icirrus City"
+      }
+    ],
+    "correct_answer_id": "02f19a22-b619-4046-af7a-833d8ad7e76f",
+    "photo_url": null,
+    "text": "Venipede attack which city?"
+  },
+  "656a8f8f-e715-4985-929e-777cd0b72a50": {
+    "answers": [
+      {
+        "id": "34f6d8a7-52de-4e69-bc73-bf234c864b9d",
+        "text": "Brock's bravery"
+      },
+      {
+        "id": "95eb64a5-1257-4369-aabc-9c6cf5a431b6",
+        "text": "Pikachu's bravery"
+      },
+      {
+        "id": "7f57bf35-8b65-43c5-a00b-d846fd362bc4",
+        "text": "Causing epileptic seizures"
+      },
+      {
+        "id": "254b6d5e-5e09-4bab-9cdb-f66a47f08693",
+        "text": "Ash's bravery"
+      }
+    ],
+    "correct_answer_id": "7f57bf35-8b65-43c5-a00b-d846fd362bc4",
+    "photo_url": null,
+    "text": "The episode \"Electric Soldier Porgon\" is known for?"
+  },
+  "66711fc7-8227-404f-8236-4a5d0d44c2b3": {
+    "answers": [
+      {
+        "id": "01baa933-c3ad-45e9-9496-ab5b23fd31ed",
+        "text": "Arceus"
+      },
+      {
+        "id": "e3c85b14-4e17-4c8b-ab94-d4686245b29f",
+        "text": "Diancie"
+      },
+      {
+        "id": "e321d7d6-ad36-4e51-bec9-6a153b00d6b6",
+        "text": "Darkrai"
+      },
+      {
+        "id": "5f98a8c6-3a8e-4a76-83ab-e833f4a531f2",
+        "text": "Hoopa"
+      }
+    ],
+    "correct_answer_id": "e3c85b14-4e17-4c8b-ab94-d4686245b29f",
+    "photo_url": null,
+    "text": "Complete - _____ and the Cocoon of Destruction."
+  },
+  "67370c8e-6e8b-4855-802b-a5cf1791051a": {
+    "answers": [
+      {
+        "id": "ca261f9f-b641-4c6b-bc6c-138198b3c503",
+        "text": "Brown"
+      },
+      {
+        "id": "db4991e3-ba18-486b-856c-09c9de0c3ab7",
+        "text": "Black"
+      },
+      {
+        "id": "b51dbd18-8ac8-453d-aae8-93ec1ebefd46",
+        "text": "Burgundy"
+      },
+      {
+        "id": "b8356d9e-c611-4e83-99f1-88a9c4e49401",
+        "text": "White"
+      }
+    ],
+    "correct_answer_id": "b51dbd18-8ac8-453d-aae8-93ec1ebefd46",
+    "photo_url": null,
+    "text": "He has vowed to be a better Connoisseur than Cilan?"
+  },
+  "683157fa-51b6-4065-ad85-9575a8d0896d": {
+    "answers": [
+      {
+        "id": "d133004a-9e64-407a-b0de-81ff9caa7e01",
+        "text": "Talonflame"
+      },
+      {
+        "id": "671d6692-c3be-4eb5-8690-bc20ef705b21",
+        "text": "Pikachu"
+      },
+      {
+        "id": "08a36f11-61ef-4612-81ea-833248c6d550",
+        "text": "Frogadier"
+      },
+      {
+        "id": "c5e079cc-d86b-4391-95c7-5cb0bd2d7854",
+        "text": "Hawlucha"
+      }
+    ],
+    "correct_answer_id": "c5e079cc-d86b-4391-95c7-5cb0bd2d7854",
+    "photo_url": null,
+    "text": "Ash's Noibat hatched from an egg found by ______?"
+  },
+  "6ab47568-2f23-472a-8acc-e53df9342288": {
+    "answers": [
+      {
+        "id": "11aa90b0-521c-4d81-80af-6328c4a9e477",
+        "text": "Leaf Storm"
+      },
+      {
+        "id": "fe1de9b7-70c3-4d7d-9d22-aa41d9dd7582",
+        "text": "X-Scissor"
+      },
+      {
+        "id": "f2975c83-0d1e-4255-a835-ac62ae4efe71",
+        "text": "Magical Leaf"
+      },
+      {
+        "id": "74cbceff-de9b-454b-a2b6-9709b99590d2",
+        "text": "Leaf Blade"
+      }
+    ],
+    "correct_answer_id": "74cbceff-de9b-454b-a2b6-9709b99590d2",
+    "photo_url": null,
+    "text": "Which move does Sceptile use to defeat Tobia's Darkrai?"
+  },
+  "6ccd5974-7113-4014-9868-d74760147e47": {
+    "answers": [
+      {
+        "id": "a4383e6f-3341-4196-ac45-5e4f6dd72884",
+        "text": "Pokemon Trainer"
+      },
+      {
+        "id": "216f26c9-102b-4e35-be29-98ea3faa652c",
+        "text": "Pokemon Connoisseur"
+      },
+      {
+        "id": "1e7c2d16-526f-48d2-9848-1bc4b71c9729",
+        "text": "Pokemon Watcher"
+      },
+      {
+        "id": "b45de38d-fb0d-49f4-9a54-15277e3ee2e4",
+        "text": "Pokemon Professor"
+      }
+    ],
+    "correct_answer_id": "216f26c9-102b-4e35-be29-98ea3faa652c",
+    "photo_url": null,
+    "text": "What's the profession of Cilan?"
+  },
+  "6e939745-f181-40de-974b-4072eb7616ab": {
+    "answers": [
+      {
+        "id": "db1c06ab-e925-463a-b824-8d3b8483d8da",
+        "text": "Cleffa"
+      },
+      {
+        "id": "be31a8dd-f809-483b-bfcf-aa7ee5bd975d",
+        "text": "Clefairy"
+      },
+      {
+        "id": "c569c712-94a1-4c55-af25-a8a850751a4f",
+        "text": "Mewtwo"
+      },
+      {
+        "id": "16fd8034-e12f-454f-926d-da8c5ef059b6",
+        "text": "Alakazam"
+      }
+    ],
+    "correct_answer_id": "be31a8dd-f809-483b-bfcf-aa7ee5bd975d",
+    "photo_url": null,
+    "text": "I was building a spaceship.Which Pokemon am I?"
+  },
+  "6f62a8a5-36fa-4d7e-81ff-5239fc92eb48": {
+    "answers": [
+      {
+        "id": "1c76e144-e4d2-4434-97c1-0b59719c04f8",
+        "text": "Bruno"
+      },
+      {
+        "id": "c21ac70c-8c39-4a34-8bb2-6ad6fd33506d",
+        "text": "Marshal"
+      },
+      {
+        "id": "154559be-9d54-449c-8062-bbc435fce3c1",
+        "text": "Chuck"
+      },
+      {
+        "id": "45f89c66-2375-4ff7-8b1d-455308a18491",
+        "text": "Fighting Dojo"
+      }
+    ],
+    "correct_answer_id": "154559be-9d54-449c-8062-bbc435fce3c1",
+    "photo_url": null,
+    "text": "Brawly the Gym Leader of Dewford Town used to train with?"
+  },
+  "7101fbba-3c2a-4c89-95f3-40070c8c5d00": {
+    "answers": [
+      {
+        "id": "2feb6dc5-9b06-4e1d-8132-6a76432c8931",
+        "text": "enemity"
+      },
+      {
+        "id": "df5f5ebe-b9d0-4cae-82eb-e693081a9e1f",
+        "text": "training"
+      },
+      {
+        "id": "d7007fe4-022b-49f7-9eec-fa73d163f2fb",
+        "text": "bond"
+      },
+      {
+        "id": "9a4a7243-fca1-42cf-87c8-de18d1d1f35b",
+        "text": "eating habits"
+      }
+    ],
+    "correct_answer_id": "d7007fe4-022b-49f7-9eec-fa73d163f2fb",
+    "photo_url": null,
+    "text": "Cilan can see the ____ between Trainer and Pokemon"
+  },
+  "76f061d4-ede4-4b69-b432-e53e3d6bdbba": {
+    "answers": [
+      {
+        "id": "97463932-0871-4084-a0f2-c5a478875c24",
+        "text": "Snorut"
+      },
+      {
+        "id": "6b36c27c-4b84-45e0-ad8f-0cee93638ff5",
+        "text": "Taillow"
+      },
+      {
+        "id": "bfa5d7b6-a4d0-4aa1-91b4-60f2cb0fdc64",
+        "text": "Torkoal"
+      },
+      {
+        "id": "5d57df49-5d18-476b-85a7-e4acc39c0596",
+        "text": "Treecko"
+      }
+    ],
+    "correct_answer_id": "97463932-0871-4084-a0f2-c5a478875c24",
+    "photo_url": null,
+    "text": "Ash's last Pokemon in the Hoenn region that he captures?"
+  },
+  "77c0e7f1-71f7-4926-ab1a-dee6c437781c": {
+    "answers": [
+      {
+        "id": "2942d100-d99d-470e-9002-1bc0f7983bbf",
+        "text": "Arceus"
+      },
+      {
+        "id": "d60757e0-970a-4353-a0d2-276c6fcc6329",
+        "text": "Giratina"
+      },
+      {
+        "id": "0d0815cb-4399-4204-b601-0966a281c0e8",
+        "text": "Dailga"
+      },
+      {
+        "id": "4ebe3fbf-ad31-4def-ba11-aaa7525d54cc",
+        "text": "Palkia"
+      }
+    ],
+    "correct_answer_id": "2942d100-d99d-470e-9002-1bc0f7983bbf",
+    "photo_url": null,
+    "text": "Complete - ______ and the Jewel of Life."
+  },
+  "78be4255-1df8-410f-a654-1791f70ee0c2": {
+    "answers": [
+      {
+        "id": "48dbef12-a9aa-4f8e-bae6-f6fe2c4fdd43",
+        "text": "Staryu"
+      },
+      {
+        "id": "d6198dca-2977-4f5a-afef-444a0e11e806",
+        "text": "Gyarados"
+      },
+      {
+        "id": "3ff273a2-20ca-4be4-8f68-459780ca60d0",
+        "text": "Mudkip"
+      },
+      {
+        "id": "37f8a94f-dbec-470c-a93f-e90af991b2e2",
+        "text": "Vaporeon"
+      }
+    ],
+    "correct_answer_id": "d6198dca-2977-4f5a-afef-444a0e11e806",
+    "photo_url": null,
+    "text": "Which Water Type Pokemon did James had?"
+  },
+  "7d1c0b08-8f51-4c72-a8bf-1b84e3fda0ef": {
+    "answers": [
+      {
+        "id": "d490fb10-a469-44a4-836e-9ebcee605889",
+        "text": "Pinsir"
+      },
+      {
+        "id": "f492cd8a-debb-4a3a-8585-407ca020a64b",
+        "text": "Kingdra"
+      },
+      {
+        "id": "8f340f3c-2abd-458d-a90c-64d9a7477b11",
+        "text": "Houndoom"
+      },
+      {
+        "id": "861eb553-4b49-4054-b37e-d1da83db5314",
+        "text": "Venusaur"
+      }
+    ],
+    "correct_answer_id": "861eb553-4b49-4054-b37e-d1da83db5314",
+    "photo_url": null,
+    "text": "Which of the following is not Gary's Pokemon?"
+  },
+  "7d2fa5c0-8b20-4c0b-9604-094d753af8a5": {
+    "answers": [
+      {
+        "id": "8cec8152-aec5-49e7-ac2f-a4f24b58082e",
+        "text": "Tyson"
+      },
+      {
+        "id": "89066f7e-54fc-47a6-b32b-50b4811d9b8d",
+        "text": "Tierno"
+      },
+      {
+        "id": "51c5a4c2-7eae-458d-a283-934034d0cd30",
+        "text": "Tobias"
+      },
+      {
+        "id": "70791c30-4d68-41fc-98b8-a857aa3e919d",
+        "text": "Nando"
+      }
+    ],
+    "correct_answer_id": "70791c30-4d68-41fc-98b8-a857aa3e919d",
+    "photo_url": null,
+    "text": "Who lost to Ash in the first round of Sinnoh league?"
+  },
+  "7f93ee57-8908-450e-ae64-533dc6d7a530": {
+    "answers": [
+      {
+        "id": "f217c73c-44f1-44d6-bedb-da32c1e6ebb6",
+        "text": "Genesect"
+      },
+      {
+        "id": "53be1d3c-e79d-4713-b3e2-41610c9087fc",
+        "text": "Kyurem"
+      },
+      {
+        "id": "bb3de20b-1d4c-4674-8f38-aa02ab6319b4",
+        "text": "Victini"
+      },
+      {
+        "id": "1d11b28f-0526-4f51-9250-7636765d4ead",
+        "text": "Volcarano"
+      }
+    ],
+    "correct_answer_id": "bb3de20b-1d4c-4674-8f38-aa02ab6319b4",
+    "photo_url": null,
+    "text": "Complete - Black: _____ & Reshiram White: ______ & Zekrom. "
+  },
+  "835727ef-684f-4a19-a91a-943e123f8c67": {
+    "answers": [
+      {
+        "id": "2efeb4f8-6521-4da4-a12a-65b787da2a05",
+        "text": "Lucario"
+      },
+      {
+        "id": "7beb7fa6-6335-4b0b-bcd8-659a7fbe5f14",
+        "text": "Riolu"
+      },
+      {
+        "id": "999e7c16-068c-4f53-b549-57c326c41b82",
+        "text": "Bisharp"
+      },
+      {
+        "id": "07f4ad50-f38e-4b7a-9813-f3ad7208e57a",
+        "text": "Pawinard"
+      }
+    ],
+    "correct_answer_id": "2efeb4f8-6521-4da4-a12a-65b787da2a05",
+    "photo_url": null,
+    "text": "Complete - ______ and the Mystery of Mew."
+  },
+  "85edd2fc-81bd-40d7-aaa6-ab5746ca2d21": {
+    "answers": [
+      {
+        "id": "af3a12c8-e656-41cf-8d5a-615b136a3ef1",
+        "text": "Zekrom"
+      },
+      {
+        "id": "b3101932-acf2-49d1-9f9e-a72c4424303b",
+        "text": "Yveltal"
+      },
+      {
+        "id": "04e24f7a-cc01-433a-b669-17ea8336ee14",
+        "text": "Suicune"
+      },
+      {
+        "id": "5fc4c1ad-513c-43d9-b347-c73c216d74e5",
+        "text": "Mew"
+      }
+    ],
+    "correct_answer_id": "04e24f7a-cc01-433a-b669-17ea8336ee14",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has been seen?"
+  },
+  "8619c21a-6ee3-4108-bdd4-3b24dcb0cf2f": {
+    "answers": [
+      {
+        "id": "2ef075bb-6e20-4662-8c4f-c48a4cf5bc27",
+        "text": "J"
+      },
+      {
+        "id": "a0792577-4343-441c-af60-957d54879a34",
+        "text": "P"
+      },
+      {
+        "id": "ed58f736-2efa-4052-bd93-c065dd5d1023",
+        "text": "T"
+      },
+      {
+        "id": "22df0857-48a1-4ee4-8877-42f93cf18c51",
+        "text": "N"
+      }
+    ],
+    "correct_answer_id": "2ef075bb-6e20-4662-8c4f-c48a4cf5bc27",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/6f/b2/27/6fb227606c54e4d545bd6b538b3b2d45fc9c49b5/content?h=360&q=95&w=360",
+    "text": "This Lady joined Team Galactic to catch Uxie,Azelf and Mesprit but was betrayed?"
+  },
+  "8687920b-d967-4996-8f00-6781b154531c": {
+    "answers": [
+      {
+        "id": "65e75871-21d0-4ce7-9a60-44012c24ef8b",
+        "text": "Jasmine"
+      },
+      {
+        "id": "9ffaa11f-a106-42de-9ab9-5ce3589bbdbc",
+        "text": "Delia"
+      },
+      {
+        "id": "58dc8acf-e815-41f0-804f-89ca603073b9",
+        "text": "Iris"
+      },
+      {
+        "id": "61cf77fa-5747-4986-83a9-109af654decf",
+        "text": "Caroline"
+      }
+    ],
+    "correct_answer_id": "9ffaa11f-a106-42de-9ab9-5ce3589bbdbc",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/55/a0/6e/55a06e15cbde5e04933eaa480953358553598806/content?h=360&q=95&w=360",
+    "text": "I am Ash's mother.My name is _______ Ketchum?"
+  },
+  "8870baf0-c60b-47a0-ad9e-8252014700cb": {
+    "answers": [
+      {
+        "id": "dc52f55c-4564-4cbd-90c2-0dd5fdda0e4b",
+        "text": "Kaz Gym"
+      },
+      {
+        "id": "4778600a-528d-4747-8b93-3d95df29f65e",
+        "text": "Powerzone Gym"
+      },
+      {
+        "id": "4dba9701-abf1-438f-92cc-8a23c1bc8451",
+        "text": "Yas Gym"
+      },
+      {
+        "id": "38ca889a-c375-43e5-9d99-2f55a04da5ee",
+        "text": "Coastline Gym"
+      }
+    ],
+    "correct_answer_id": "4778600a-528d-4747-8b93-3d95df29f65e",
+    "photo_url": null,
+    "text": "Which of the following is Team Rocket's Unofficial Gym?"
+  },
+  "89243724-6f32-4284-8175-9c1c06b05c7a": {
+    "answers": [
+      {
+        "id": "f4a70409-08ad-436d-94c5-80ea3478e814",
+        "text": "Mightyena"
+      },
+      {
+        "id": "74139073-96db-498b-9041-83c06b188654",
+        "text": "Gravaler"
+      },
+      {
+        "id": "822d7157-04fc-4603-b610-ecdefd1c909b",
+        "text": "Houndoom"
+      },
+      {
+        "id": "b9f9e729-f277-4be0-b77f-cadac736842c",
+        "text": "Golbat"
+      }
+    ],
+    "correct_answer_id": "74139073-96db-498b-9041-83c06b188654",
+    "photo_url": null,
+    "text": "Team Magma do not use?"
+  },
+  "89322855-e2c6-44ac-882b-c6fda7a0afd1": {
+    "answers": [
+      {
+        "id": "0d14badb-cedc-41aa-8fe0-369bdc8d477a",
+        "text": "Mewtwo"
+      },
+      {
+        "id": "e38fc456-d0ce-460b-a39d-9ff0cb935eb8",
+        "text": "Unown"
+      },
+      {
+        "id": "9fbf77c3-acfd-4870-94b8-4b37bea6d289",
+        "text": "Celebi"
+      },
+      {
+        "id": "6b109aca-042a-48d7-907a-3223522948b5",
+        "text": "Mew"
+      }
+    ],
+    "correct_answer_id": "0d14badb-cedc-41aa-8fe0-369bdc8d477a",
+    "photo_url": null,
+    "text": "Complete - _____ Strikes Back."
+  },
+  "894eca1e-2dbc-48b0-b60e-93744e697547": {
+    "answers": [
+      {
+        "id": "a879f8b3-3da0-4afd-82cd-c58aa7be50f3",
+        "text": "Rampardos"
+      },
+      {
+        "id": "de65f484-4ead-4e5c-a16d-ca73eb27e84c",
+        "text": "Golurk"
+      },
+      {
+        "id": "5d1d72bd-1c85-40a1-b0d0-b113eef99365",
+        "text": "Durddigon"
+      },
+      {
+        "id": "738633c3-4384-41d9-b822-27a7f977da69",
+        "text": "Genesect"
+      }
+    ],
+    "correct_answer_id": "a879f8b3-3da0-4afd-82cd-c58aa7be50f3",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has not been seen?"
+  },
+  "89d0bcba-cf78-4392-a347-5505d60cb5c6": {
+    "answers": [
+      {
+        "id": "121dc031-6256-429b-88b0-05ba4e221b0e",
+        "text": "Tobias"
+      },
+      {
+        "id": "8416f6a8-929f-4d04-83bb-5c8c4ee5b2a0",
+        "text": "Tyson"
+      },
+      {
+        "id": "176f785d-3599-4841-bdb4-d933aa82d7c2",
+        "text": "Morrison"
+      },
+      {
+        "id": "186604c6-c453-4549-8629-697a738d540a",
+        "text": "Gary"
+      }
+    ],
+    "correct_answer_id": "121dc031-6256-429b-88b0-05ba4e221b0e",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/b6/3c/68/b63c6865c1cbbd35b9e550b2d1eca9053d3fa4c2/content?h=360&q=95&w=360",
+    "text": "Who defeated Ash in the Sinnoh League?"
+  },
+  "8a4a7716-3a22-414b-a8e1-6e2bd9ff2ac5": {
+    "answers": [
+      {
+        "id": "c6f8d93b-c2d2-4eda-92f0-d9abd2bb468e",
+        "text": "Tobias"
+      },
+      {
+        "id": "17aec5c2-2f3d-4e80-9539-c16f704677df",
+        "text": "Morrison"
+      },
+      {
+        "id": "5a0932fd-a7e9-41e6-8a82-bb5eab12b372",
+        "text": "Tyson"
+      },
+      {
+        "id": "f206e6da-a119-4bf1-a71a-5a48f917cdf7",
+        "text": "Gary"
+      }
+    ],
+    "correct_answer_id": "5a0932fd-a7e9-41e6-8a82-bb5eab12b372",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/2e/a8/65/2ea865b61834d338bc950eeab8916d5ddac7d033/content?h=360&q=95&w=360",
+    "text": "Who wins the Hoenn League?"
+  },
+  "8b8c86af-925f-4edd-a897-afd8685a2a6a": {
+    "answers": [
+      {
+        "id": "045bf5d9-d459-46ca-8874-f227ce209227",
+        "text": "Charmander"
+      },
+      {
+        "id": "f3e18ea9-0650-4565-bfcd-b7421f359432",
+        "text": "Bulbasaur"
+      },
+      {
+        "id": "227a3b16-0273-4c61-bca7-3beccbf30fa9",
+        "text": "Growlithe"
+      },
+      {
+        "id": "2f43274b-a0db-44b9-b590-a7aba41badd6",
+        "text": "Squirtle"
+      }
+    ],
+    "correct_answer_id": "2f43274b-a0db-44b9-b590-a7aba41badd6",
+    "photo_url": null,
+    "text": "Gary Oak chose which Starter?"
+  },
+  "8c2047ea-d4e3-447c-9b62-088fb4419e73": {
+    "answers": [
+      {
+        "id": "28903ff6-a0af-40f6-b28f-ab3229bdc358",
+        "text": "Darkrai"
+      },
+      {
+        "id": "be7c03d6-8ab3-468e-bb54-daf1748a3168",
+        "text": "Tyranitar"
+      },
+      {
+        "id": "a29dc9cd-8f00-4e5f-a61f-f38d823fbfb4",
+        "text": "Absol"
+      },
+      {
+        "id": "7c671b29-30ce-4189-93bc-3519b4130f15",
+        "text": "Zoroark"
+      }
+    ],
+    "correct_answer_id": "7c671b29-30ce-4189-93bc-3519b4130f15",
+    "photo_url": null,
+    "text": "Complete - ________ Master of Illusions."
+  },
+  "8c8aa5a7-c4cc-410a-8a4d-221a61a12e4b": {
+    "answers": [
+      {
+        "id": "5f37f400-7749-4ad9-83ca-a8fd829639b7",
+        "text": "Lucy"
+      },
+      {
+        "id": "16971fd3-24db-4ad5-abee-9b016ca033c7",
+        "text": "Noland"
+      },
+      {
+        "id": "0989059b-0108-442d-864c-2aafdea94816",
+        "text": "Greta"
+      },
+      {
+        "id": "b58c5280-37b7-497a-a05a-60cd642ea50b",
+        "text": "Lance"
+      }
+    ],
+    "correct_answer_id": "0989059b-0108-442d-864c-2aafdea94816",
+    "photo_url": null,
+    "text": "Who is the head of Battle Arena?"
+  },
+  "90bb9efb-e837-49d5-b725-793603ff4ed0": {
+    "answers": [
+      {
+        "id": "88e312bf-5593-459a-a425-9ed2f5ab6812",
+        "text": "Liza"
+      },
+      {
+        "id": "eda9638b-1452-4fe5-85ea-d933d4116c9f",
+        "text": "Clair"
+      },
+      {
+        "id": "760b28ac-94d7-4ae3-b2e7-4b53d5518c42",
+        "text": "Tate"
+      },
+      {
+        "id": "13c8996e-61f8-4574-96c3-036eb5807af7",
+        "text": "Whitney"
+      }
+    ],
+    "correct_answer_id": "88e312bf-5593-459a-a425-9ed2f5ab6812",
+    "photo_url": null,
+    "text": "We both were Siblings,Co-gym leaders and rivals too.I am the sister."
+  },
+  "94d6c6ed-71c1-4bcd-9c0f-4202bcc4bb78": {
+    "answers": [
+      {
+        "id": "f63e85d9-fcd7-45aa-803c-7aebe3d42cc6",
+        "text": "Mew"
+      },
+      {
+        "id": "3fa2bfd6-e225-4539-ae9f-3a6f4dfa2632",
+        "text": "Darkrai"
+      },
+      {
+        "id": "37d33a36-6c96-416b-aaf7-15d431ad36c0",
+        "text": "Mewtwo"
+      },
+      {
+        "id": "61809439-86d5-49a6-ba29-8d1ee92d2210",
+        "text": "Deoxys"
+      }
+    ],
+    "correct_answer_id": "3fa2bfd6-e225-4539-ae9f-3a6f4dfa2632",
+    "photo_url": null,
+    "text": "Complete - The Rise of ______"
+  },
+  "98943352-024e-4522-b8b1-08adf53fe563": {
+    "answers": [
+      {
+        "id": "d74690d5-b20e-428e-8662-07b9dffefcd6",
+        "text": "Moltres"
+      },
+      {
+        "id": "edafc87a-9877-462a-b0cc-4762effa9d31",
+        "text": "Ho-oh"
+      },
+      {
+        "id": "c7a2a5d9-5280-43b3-b352-5ac58e16fa32",
+        "text": "Zapdos"
+      },
+      {
+        "id": "3b1e1e61-13e6-4a63-817d-c2fa104aba8c",
+        "text": "Articuno"
+      }
+    ],
+    "correct_answer_id": "3b1e1e61-13e6-4a63-817d-c2fa104aba8c",
+    "photo_url": null,
+    "text": "Ash's Charizard has defeated a _____."
+  },
+  "99f5a98f-b02f-4166-836f-bc200d8b8610": {
+    "answers": [
+      {
+        "id": "568f7bc4-e6e0-4d9a-9fef-2e2fcae83437",
+        "text": "Hoenn"
+      },
+      {
+        "id": "b25f6ee2-9b27-4cde-ac94-e30817a8b17b",
+        "text": "Sinnoh"
+      },
+      {
+        "id": "44e88003-ff7e-484d-8fde-a7f2fbdc2e46",
+        "text": "Jhoto"
+      },
+      {
+        "id": "2efdcbb9-bb05-4009-b5a5-3a2e90fc1b58",
+        "text": "Kanto"
+      }
+    ],
+    "correct_answer_id": "2efdcbb9-bb05-4009-b5a5-3a2e90fc1b58",
+    "photo_url": null,
+    "text": "Brock's Mudkip which was caught in Hoenn evolved in which region?"
+  },
+  "9b2f3a91-80ef-4c3b-a2a7-4db91a4acb60": {
+    "answers": [
+      {
+        "id": "773e4df1-562d-48ed-87e4-5bd7dc83e62f",
+        "text": "Wonderful"
+      },
+      {
+        "id": "ae8749f7-05d8-4174-a78f-49b53d813aae",
+        "text": "Beautiful"
+      },
+      {
+        "id": "90c9b3fe-5bce-4207-b2bc-820f2a8e8091",
+        "text": "Sensational"
+      },
+      {
+        "id": "e8682fd5-4e25-43b2-86c5-40e0f8cd2505",
+        "text": "Fighting"
+      }
+    ],
+    "correct_answer_id": "90c9b3fe-5bce-4207-b2bc-820f2a8e8091",
+    "photo_url": null,
+    "text": "The Cerulean Gym leaders are also known as \"The ______ Sisters\""
+  },
+  "9c433b9b-a044-4043-81c8-9ef191313dbf": {
+    "answers": [
+      {
+        "id": "d8f43a6c-1ead-4498-a487-37e391e97304",
+        "text": "Ash"
+      },
+      {
+        "id": "e98e6520-9432-4059-ad60-15b2726169a8",
+        "text": "May"
+      },
+      {
+        "id": "fd2dcf8a-35f0-4b42-8aa9-b3d408f6f97c",
+        "text": "Roark"
+      },
+      {
+        "id": "d13792f0-7170-412c-9d15-337012e07e42",
+        "text": "Brock"
+      }
+    ],
+    "correct_answer_id": "fd2dcf8a-35f0-4b42-8aa9-b3d408f6f97c",
+    "photo_url": null,
+    "text": "Byron,a gym leader,is father of?"
+  },
+  "9ca730ce-e1d9-443c-ad8b-b0b0acaa7390": {
+    "answers": [
+      {
+        "id": "c2846bd2-2603-4f7a-b131-c3820fc7db6f",
+        "text": "Tierno"
+      },
+      {
+        "id": "dc307f65-2d83-4c53-b2a9-24fa86558193",
+        "text": "Sawyer"
+      },
+      {
+        "id": "1c2dd5de-0bc2-4a41-a770-ef0ed4aa07e3",
+        "text": "Trevor"
+      },
+      {
+        "id": "2c585b72-bc7d-45fa-87af-917c74391113",
+        "text": "Trip"
+      }
+    ],
+    "correct_answer_id": "dc307f65-2d83-4c53-b2a9-24fa86558193",
+    "photo_url": null,
+    "text": "A trainer from Hoenn travelling through Kalos region."
+  },
+  "a10f8a7e-75f2-4c16-b77d-2918bf09d282": {
+    "answers": [
+      {
+        "id": "c0cae462-7db4-4b72-9fb6-15325fb47054",
+        "text": "Hawlucha"
+      },
+      {
+        "id": "c4a3f5f6-440c-4c13-be7b-f44c6e6ded07",
+        "text": "Metang"
+      },
+      {
+        "id": "91d74e6f-7773-4e71-99fd-b727870feefa",
+        "text": "Hydreigon"
+      },
+      {
+        "id": "e4943d2e-3b99-45d5-a840-7fb85032c9ef",
+        "text": "Onix"
+      }
+    ],
+    "correct_answer_id": "c4a3f5f6-440c-4c13-be7b-f44c6e6ded07",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has not been seen?"
+  },
+  "a13fd811-b54f-48c8-aece-f9f8fcf21c92": {
+    "answers": [
+      {
+        "id": "46ba10ba-b1db-46fa-aa2d-85616f62eb3e",
+        "text": "Dr. Tyson"
+      },
+      {
+        "id": "3d5c91d5-8cee-4d17-8442-3fe2fcd353cc",
+        "text": "Dr. Nanba"
+      },
+      {
+        "id": "94c19950-6732-44d0-8d6c-8803a4ada8fb",
+        "text": "Dr. Butler"
+      },
+      {
+        "id": "9a31958c-824f-44c8-9a95-2bad16543833",
+        "text": "Dr. Takeshi"
+      }
+    ],
+    "correct_answer_id": "3d5c91d5-8cee-4d17-8442-3fe2fcd353cc",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/aa/fc/76/aafc76a5cdc04d39f482584fc48fbcbde49cd1d7/content?h=360&q=95&w=360",
+    "text": "Who was the main scientist in Team Rocket's attempt to catch Lugia?"
+  },
+  "a5777cbd-6a88-45cb-8299-28c8fb6cc2eb": {
+    "answers": [
+      {
+        "id": "3d787176-0ed4-465f-8e08-a4fb4e134db6",
+        "text": "Pokemon Breeder"
+      },
+      {
+        "id": "bc773940-1fa6-45ec-8ec7-b77046c25109",
+        "text": "Pokemon Watcher"
+      },
+      {
+        "id": "29465580-1953-4534-a57f-138fc6bca681",
+        "text": "Pokemon Trainer"
+      },
+      {
+        "id": "a84ca65e-2e54-4c96-b3d0-611ac6c5b166",
+        "text": "Pokemon Professor"
+      }
+    ],
+    "correct_answer_id": "bc773940-1fa6-45ec-8ec7-b77046c25109",
+    "photo_url": null,
+    "text": "What's the profession of Tracey?"
+  },
+  "ac47cb40-c5e9-4b76-a31b-f6ebd9c7e346": {
+    "answers": [
+      {
+        "id": "801d508d-5eae-4249-b84d-2ba652f086b8",
+        "text": "Deoxys"
+      },
+      {
+        "id": "04d27ff3-6cc6-45f5-9fd8-8456a690e7ae",
+        "text": "Celebi"
+      },
+      {
+        "id": "71804c1a-4e2d-412f-a2ce-4c7fe997fb48",
+        "text": "Mew"
+      },
+      {
+        "id": "6f13cafe-010b-4a77-8ac7-6583039ffe57",
+        "text": "Mewtwo"
+      }
+    ],
+    "correct_answer_id": "6f13cafe-010b-4a77-8ac7-6583039ffe57",
+    "photo_url": null,
+    "text": "Complete - The origin of _____ "
+  },
+  "b10043d1-4eeb-4b37-85d6-61e81896c5b2": {
+    "answers": [
+      {
+        "id": "1d031c11-e8ce-4e79-a218-c9687b40a8d1",
+        "text": "James"
+      },
+      {
+        "id": "a38e7efd-2ec3-49ec-af32-19cc86329dae",
+        "text": "Jessie"
+      },
+      {
+        "id": "eb0824d3-3bd5-4ea8-80e2-d089eeebe2d5",
+        "text": "Ash"
+      },
+      {
+        "id": "c239890b-0ad3-409a-85e5-e7714858399b",
+        "text": "Brock"
+      }
+    ],
+    "correct_answer_id": "eb0824d3-3bd5-4ea8-80e2-d089eeebe2d5",
+    "photo_url": null,
+    "text": "Misty's Poliwag evolved while fighting against?"
+  },
+  "b10722db-12ce-4f6b-8165-4666aa792c1d": {
+    "answers": [
+      {
+        "id": "151b718d-62ed-4b56-a026-4cb00dd916a0",
+        "text": "Latias"
+      },
+      {
+        "id": "f4cb1bf5-f54d-4d1a-b094-5ac325f356d6",
+        "text": "Latios"
+      },
+      {
+        "id": "f0e7b941-76c9-44b2-9d1a-a708d216fc6b",
+        "text": "Yveltal"
+      },
+      {
+        "id": "41dbf028-7f7f-47c1-9dc7-d4f7899bebed",
+        "text": "Cresselia"
+      }
+    ],
+    "correct_answer_id": "f4cb1bf5-f54d-4d1a-b094-5ac325f356d6",
+    "photo_url": null,
+    "text": "Along with a Darkrai Tobias also has a ____?"
+  },
+  "b1b38aed-efd8-48ed-a217-0f19aa24c9e5": {
+    "answers": [
+      {
+        "id": "8f81ab64-47b8-499b-808f-63b4c06e092e",
+        "text": "Volkner"
+      },
+      {
+        "id": "2a27d99b-2270-4497-97cc-f88ffef41677",
+        "text": "Roxanne"
+      },
+      {
+        "id": "bc8af0a2-07ad-4afa-8fed-f3c51f440d6a",
+        "text": "Wallace"
+      },
+      {
+        "id": "bacad5f5-fcdc-4bed-a970-ace0897d15de",
+        "text": "Byron"
+      }
+    ],
+    "correct_answer_id": "bc8af0a2-07ad-4afa-8fed-f3c51f440d6a",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/e3/5f/2b/e35f2be02a0551d65ae705d07c19259eed48eb66/content?h=360&q=95&w=360",
+    "text": "I am a Gym Leader,a Champion and a Contest Master.Who am I?"
+  },
+  "b20f6471-9d9b-4603-a6e1-302427bf55da": {
+    "answers": [
+      {
+        "id": "4315abd5-ecd0-402b-badb-c457e446ed3f",
+        "text": "Vaporeon"
+      },
+      {
+        "id": "0671ea33-0d8a-433c-af63-237c223fd62b",
+        "text": "Flareon"
+      },
+      {
+        "id": "d8d8aea3-cce6-4a1d-901b-2dfedd1afa6b",
+        "text": "Jolteon"
+      },
+      {
+        "id": "9131edfa-c6e8-4ef2-b11b-90dd2b0a7e45",
+        "text": "Leafeon"
+      }
+    ],
+    "correct_answer_id": "9131edfa-c6e8-4ef2-b11b-90dd2b0a7e45",
+    "photo_url": null,
+    "text": "The Eevee Brothers did not have a _____?"
+  },
+  "b66aef46-c2d1-40a9-a42f-c638546d015c": {
+    "answers": [
+      {
+        "id": "b371f175-3b74-4faf-b4db-223989a727e0",
+        "text": "Yamask"
+      },
+      {
+        "id": "b6635650-cbd7-44e0-9c0e-92946a157509",
+        "text": "Cacnea"
+      },
+      {
+        "id": "02eb0704-a78a-4c6a-a89e-d980d9bb655f",
+        "text": "Arbok"
+      },
+      {
+        "id": "fa79997e-bb38-4fcd-af4a-129ec657b060",
+        "text": "Woobat"
+      }
+    ],
+    "correct_answer_id": "fa79997e-bb38-4fcd-af4a-129ec657b060",
+    "photo_url": null,
+    "text": "Cilan's Dwebble evolved during battle with which Pokemon?"
+  },
+  "b922dadb-f71b-4d2a-a20f-4fcae4b3db8e": {
+    "answers": [
+      {
+        "id": "58f04d13-dc0e-4c08-a9c1-b9a1a85b6c3e",
+        "text": "Kalos"
+      },
+      {
+        "id": "6c992c77-5e9f-4c14-a0d9-acb1b323f08d",
+        "text": "Sinnoh"
+      },
+      {
+        "id": "7ae3b6ec-0e41-4aa1-86b7-dbfcc7d71a97",
+        "text": "Hoenn"
+      },
+      {
+        "id": "6dd3d860-b16f-42e8-bc9a-11b2095c8d4f",
+        "text": "Unova"
+      }
+    ],
+    "correct_answer_id": "6dd3d860-b16f-42e8-bc9a-11b2095c8d4f",
+    "photo_url": null,
+    "text": "A change in look of Nurse Joy is first seen in which region?"
+  },
+  "bada8c90-1092-4f2a-83bc-b4407824860c": {
+    "answers": [
+      {
+        "id": "729865d0-8d36-4e51-81dd-8aaeac36f8ed",
+        "text": "Palmer"
+      },
+      {
+        "id": "9a45c223-f963-430a-9268-05a3730cef42",
+        "text": "Anabel"
+      },
+      {
+        "id": "43f4e2ec-e4c2-49cd-876b-53a768953675",
+        "text": "Ingo"
+      },
+      {
+        "id": "cd14db90-09b1-4667-88ad-e257862e0501",
+        "text": "Emmet"
+      }
+    ],
+    "correct_answer_id": "9a45c223-f963-430a-9268-05a3730cef42",
+    "photo_url": null,
+    "text": "Leader of the Battle Tower?"
+  },
+  "bd7bd1ae-5953-405f-afee-e59fa82fd37d": {
+    "answers": [
+      {
+        "id": "e81e056a-3c72-4f1e-8d1c-214221d68930",
+        "text": "Unown"
+      },
+      {
+        "id": "90aa303b-99b7-44d3-a42c-c8ed77f3ccd5",
+        "text": "Professor"
+      },
+      {
+        "id": "a21fff4b-c502-472a-b548-c72f5b863e89",
+        "text": "Jirachi"
+      },
+      {
+        "id": "0f827820-23a6-4532-a8a8-ad7ddb0dc80a",
+        "text": "Arceus"
+      }
+    ],
+    "correct_answer_id": "e81e056a-3c72-4f1e-8d1c-214221d68930",
+    "photo_url": null,
+    "text": "Complete - Spell of the _____"
+  },
+  "be3a1d95-7e19-4b2f-aee3-142003b97a97": {
+    "answers": [
+      {
+        "id": "c24ee8a0-d7c5-4f83-bf88-c9c33e26c26b",
+        "text": "Strength"
+      },
+      {
+        "id": "4c97acd8-810c-41f2-acc6-c879cfc8a478",
+        "text": "Speed"
+      },
+      {
+        "id": "4a0d4aa1-46a9-426f-8a11-694d8c0d451c",
+        "text": "Defense"
+      },
+      {
+        "id": "0e816f42-626f-4097-9c6f-c09d1b95e6d8",
+        "text": "Attack"
+      }
+    ],
+    "correct_answer_id": "4c97acd8-810c-41f2-acc6-c879cfc8a478",
+    "photo_url": null,
+    "text": "Ash was impressed by what ability of Tracey's Scyther?"
+  },
+  "c600f9c4-7473-468f-b8ef-f0af98eccd5f": {
+    "answers": [
+      {
+        "id": "c6c1b644-a157-4e96-8ed6-5fa73f9d60e6",
+        "text": "Gym Leader"
+      },
+      {
+        "id": "e530994e-142d-4c16-b6f0-4b302793f304",
+        "text": "Pokemon Researcher"
+      },
+      {
+        "id": "878114cb-8db5-4864-a9c0-10a4402a77b9",
+        "text": "Pokemon Breeder"
+      },
+      {
+        "id": "dd218bd8-1d60-459f-b820-f90b657af238",
+        "text": "Pokemon Trainer"
+      }
+    ],
+    "correct_answer_id": "e530994e-142d-4c16-b6f0-4b302793f304",
+    "photo_url": null,
+    "text": "What's the profession of Gary Oak?"
+  },
+  "c63f662f-11e9-4f6c-bfb6-1ae6344e3717": {
+    "answers": [
+      {
+        "id": "15ea98c4-d521-4126-8c37-00f8c14b1e03",
+        "text": "Pichu"
+      },
+      {
+        "id": "f3d7b281-4e83-489d-a3ee-2a29ba100f53",
+        "text": "Magnezone"
+      },
+      {
+        "id": "6b04c18e-7233-427c-8b5f-9066079d4a01",
+        "text": "Magnemite"
+      },
+      {
+        "id": "5d7e0de1-d70f-470b-8c31-b1b167edc693",
+        "text": "Pikachu"
+      }
+    ],
+    "correct_answer_id": "15ea98c4-d521-4126-8c37-00f8c14b1e03",
+    "photo_url": null,
+    "text": "Which Pokemon's shiny form has been seen?"
+  },
+  "c6b8eceb-6737-426f-9b47-0ba8c3580b60": {
+    "answers": [
+      {
+        "id": "43af5479-aa81-4859-a872-4f35d6f1d361",
+        "text": "Blaziken"
+      },
+      {
+        "id": "8af800f6-16db-49f7-b28b-55660750d853",
+        "text": "Charizard"
+      },
+      {
+        "id": "666dc0d6-7467-41d8-b67e-0fe35865bcdb",
+        "text": "Darkrai"
+      },
+      {
+        "id": "51ed5cf5-fc37-409b-bf70-ad14f1640fa2",
+        "text": "Meowth"
+      }
+    ],
+    "correct_answer_id": "51ed5cf5-fc37-409b-bf70-ad14f1640fa2",
+    "photo_url": null,
+    "text": "Which Pokemon became Team Rocket's Meowth inspiration?"
+  },
+  "c8ab22e0-e2ed-4f43-bdea-500a23af1899": {
+    "answers": [
+      {
+        "id": "18053227-a12c-4f8d-ac5d-8cdfe8124a0c",
+        "text": "A Nickname"
+      },
+      {
+        "id": "81baffb1-b755-449c-ba7a-e520aa1e9fa2",
+        "text": "A Statue"
+      },
+      {
+        "id": "997402ef-4451-4ded-8d88-2ff67cc3471d",
+        "text": "A Mega Evolution"
+      },
+      {
+        "id": "6702b83e-511e-4635-b359-5f0f0ac3e91d",
+        "text": "A Mecha"
+      }
+    ],
+    "correct_answer_id": "6702b83e-511e-4635-b359-5f0f0ac3e91d",
+    "photo_url": null,
+    "text": "What is Mega Mega Meowth?"
+  },
+  "c9a51842-ebd3-4ebe-9054-07e2791f1ecd": {
+    "answers": [
+      {
+        "id": "5dfb9ad9-01d3-49f5-8944-a0d9551bf673",
+        "text": "Sycamore"
+      },
+      {
+        "id": "ba5ad5f7-577e-4f7d-98eb-26efa7cb23f2",
+        "text": "Rowan"
+      },
+      {
+        "id": "d3dd961d-f650-4524-b603-916523f87dd8",
+        "text": "Oak"
+      },
+      {
+        "id": "f4b925a4-0757-46c3-9173-16365c83025f",
+        "text": "Birch"
+      }
+    ],
+    "correct_answer_id": "d3dd961d-f650-4524-b603-916523f87dd8",
+    "photo_url": null,
+    "text": "Professor Elm is a student of Professor ______?"
+  },
+  "cf163406-0d7a-4bda-aba8-d561e8776c1d": {
+    "answers": [
+      {
+        "id": "1761c74d-dcb9-41a4-b066-5dbdc92fb039",
+        "text": "Sinnoh festival"
+      },
+      {
+        "id": "3964f8fc-284e-400d-8ed8-3c6b27483f86",
+        "text": "Kanto festival"
+      },
+      {
+        "id": "151e1ef9-6b62-4829-8bc2-bab89ef842cc",
+        "text": "Jhoto festival"
+      },
+      {
+        "id": "41e26ae2-d17a-43b5-87f5-77391d5ecc4a",
+        "text": "Hoenn festival"
+      }
+    ],
+    "correct_answer_id": "151e1ef9-6b62-4829-8bc2-bab89ef842cc",
+    "photo_url": null,
+    "text": "Dawn received the Cyndaquil egg during which festival?"
+  },
+  "cf8dbcd8-f7e8-4b63-8de8-01daa866e2da": {
+    "answers": [
+      {
+        "id": "ea2e302d-9f96-4998-9616-98f77109ed93",
+        "text": "May"
+      },
+      {
+        "id": "360dbd0f-5930-4005-a455-6efbd9dd9d89",
+        "text": "Drew"
+      },
+      {
+        "id": "8a690a6a-4a87-49ff-95ad-2c540c3fee23",
+        "text": "Soledad"
+      },
+      {
+        "id": "f9b2d6fa-7af0-4138-b2b8-91b352943940",
+        "text": "Misty"
+      }
+    ],
+    "correct_answer_id": "8a690a6a-4a87-49ff-95ad-2c540c3fee23",
+    "photo_url": null,
+    "text": "Who won the Kanto Grand Festival?"
+  },
+  "d266a41c-535a-42a6-a163-29c020fdb81e": {
+    "answers": [
+      {
+        "id": "53acd79f-34aa-45ae-8913-b280da5ef7e7",
+        "text": "Because Mawile didn't fit in"
+      },
+      {
+        "id": "7b17d30d-123b-408a-a67d-edf69ced4db6",
+        "text": "Because Pumpkaboo evolved"
+      },
+      {
+        "id": "bfd67b9d-a920-489e-815e-1949f86e4c7b",
+        "text": "Because of mega stone"
+      },
+      {
+        "id": "5727b1d9-7d59-423a-b3ac-2f230533450e",
+        "text": "Because Mawile was weak"
+      }
+    ],
+    "correct_answer_id": "7b17d30d-123b-408a-a67d-edf69ced4db6",
+    "photo_url": null,
+    "text": "Why did Jessie reverse the trade of Pumpkaboo and Mawile?"
+  },
+  "d74e3436-1ca1-4af8-8c66-fdec387d0db3": {
+    "answers": [
+      {
+        "id": "81c2871d-c276-455f-a68a-a8ac580de18d",
+        "text": "Cofagrigus"
+      },
+      {
+        "id": "4adfc5a8-50dc-41b9-969a-9edf6ac5c71b",
+        "text": "Gengar"
+      },
+      {
+        "id": "3e2ae6ad-88b4-40ae-b3a2-4a09f5fca201",
+        "text": "Haunter"
+      },
+      {
+        "id": "7f010a27-f1c9-4a7b-8bc5-29aa0ed85ea8",
+        "text": "Yamask"
+      }
+    ],
+    "correct_answer_id": "7f010a27-f1c9-4a7b-8bc5-29aa0ed85ea8",
+    "photo_url": null,
+    "text": "Nacrene city museum is haunted by which Pokemon when Ash arrives there?"
+  },
+  "d792520d-7fc9-4341-a483-d50862af1ec6": {
+    "answers": [
+      {
+        "id": "a6cbb92e-0627-489c-b686-f923970a2d7c",
+        "text": "Arceus"
+      },
+      {
+        "id": "0a80fd56-aed0-483c-9584-0e5ae08b1bdd",
+        "text": "Rhydon"
+      },
+      {
+        "id": "ac7f8169-0081-4a88-b56c-e6af99140877",
+        "text": "Bulbasaur"
+      },
+      {
+        "id": "9c312c47-fedf-4c8e-99da-012031c547aa",
+        "text": "Mew"
+      }
+    ],
+    "correct_answer_id": "a6cbb92e-0627-489c-b686-f923970a2d7c",
+    "photo_url": null,
+    "text": "Which was the first Pokemon to be hatched out from an egg?"
+  },
+  "dd6eff7a-25ee-4511-b36f-4e9d79469f42": {
+    "answers": [
+      {
+        "id": "a4e5ece3-47e1-4b90-b949-8c89cc6be63a",
+        "text": "Corey"
+      },
+      {
+        "id": "1d93e50a-e87d-404b-a60d-3b4ace1717e4",
+        "text": "Morrison"
+      },
+      {
+        "id": "103c9ee1-7f4e-41b5-ace9-c840bf049da1",
+        "text": "Damien"
+      },
+      {
+        "id": "604e5866-bdb5-4253-a9a6-3be35e325abc",
+        "text": "Gary"
+      }
+    ],
+    "correct_answer_id": "103c9ee1-7f4e-41b5-ace9-c840bf049da1",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/b8/a4/90/b8a490b40fe22607ab9a2692398f9e485fbb7f6e/content?h=360&q=95&w=360",
+    "text": "Ash received the Charmander from a trainer who left it alone.Who was that trainer?"
+  },
+  "ddb12ea4-d57c-4897-aba4-772399f8b1ba": {
+    "answers": [
+      {
+        "id": "cc348fca-c154-46e8-8ceb-6eaa0f48ccae",
+        "text": "Eusine"
+      },
+      {
+        "id": "990147ae-7e89-4ac9-bf21-f76250553cee",
+        "text": "Wallace"
+      },
+      {
+        "id": "f6b49aed-6a68-48c3-96e8-a09a22e23ea4",
+        "text": "Tyson"
+      },
+      {
+        "id": "bba9d3a8-3816-4a5a-8a67-7e87128b2063",
+        "text": "Morrison"
+      }
+    ],
+    "correct_answer_id": "cc348fca-c154-46e8-8ceb-6eaa0f48ccae",
+    "photo_url": null,
+    "text": "I ran after Suicune,Entei and Raikou.Who am I?"
+  },
+  "e063d34f-6234-418c-b334-09095a53f8e5": {
+    "answers": [
+      {
+        "id": "86109632-31ae-4de0-92c7-c554d3e81e48",
+        "text": "Lapras"
+      },
+      {
+        "id": "1a02723b-6b71-48fd-b832-7e9297370cf1",
+        "text": "Cloyster"
+      },
+      {
+        "id": "dd2fe537-97b9-4ff8-bf9f-f7a74a614414",
+        "text": "Glaceon"
+      },
+      {
+        "id": "fc4577ed-dcc6-4469-af2c-d9b19c63b4d8",
+        "text": "Regice"
+      }
+    ],
+    "correct_answer_id": "1a02723b-6b71-48fd-b832-7e9297370cf1",
+    "photo_url": null,
+    "text": "The Ice type Pokemon that Giovanni had?"
+  },
+  "e6c244f2-6603-45cb-a6f7-65f720eb8ea4": {
+    "answers": [
+      {
+        "id": "c92e28ab-971f-4f6d-b635-89647474e5d3",
+        "text": "Chespin"
+      },
+      {
+        "id": "5dcb4447-ce6f-4566-a643-60aa5cd8c01d",
+        "text": "Fennekin"
+      },
+      {
+        "id": "2d264628-d921-44fb-bdd6-85c1514eb145",
+        "text": "Froakie"
+      },
+      {
+        "id": "16a66c90-f01e-43f5-ad09-f76587ec0f03",
+        "text": "Squirtle"
+      }
+    ],
+    "correct_answer_id": "2d264628-d921-44fb-bdd6-85c1514eb145",
+    "photo_url": null,
+    "text": "During Professor Sycamore's Summer Camp Ash and Co. were named Team ____."
+  },
+  "e8b580b3-664a-4764-8040-a55aca2fa27a": {
+    "answers": [
+      {
+        "id": "2d63bf67-1918-4224-bb53-1de0617a9963",
+        "text": "Giratina"
+      },
+      {
+        "id": "ffc79080-4cdb-4b48-8ad6-de2496a3f8e2",
+        "text": "Dialga"
+      },
+      {
+        "id": "641461f8-eb40-4ac5-b259-b32a2c87d79f",
+        "text": "Darkrai"
+      },
+      {
+        "id": "35f40951-9c8b-4567-b5c5-88ee95ba6a1b",
+        "text": "Palkia"
+      }
+    ],
+    "correct_answer_id": "2d63bf67-1918-4224-bb53-1de0617a9963",
+    "photo_url": null,
+    "text": "Complete - ______ & The Sky Warrior."
+  },
+  "e98b7ecf-e966-47bc-a24b-554e1a7e4b6e": {
+    "answers": [
+      {
+        "id": "1f07272d-12e6-4c65-8d8d-b64c1ffe5327",
+        "text": "Morrison"
+      },
+      {
+        "id": "fd78aaf0-765f-4839-899b-fc50d1df9d1d",
+        "text": "Tyson"
+      },
+      {
+        "id": "734c7922-2555-47e6-b8f4-68d6835200ba",
+        "text": "Ephram"
+      },
+      {
+        "id": "21276cb2-5040-4020-a818-f254a61e22e0",
+        "text": "Jackson"
+      }
+    ],
+    "correct_answer_id": "21276cb2-5040-4020-a818-f254a61e22e0",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/e2/6d/bd/e26dbd24a3a3d9c9b70fd940d5bac0c3526f318b/content?h=360&q=95&w=360",
+    "text": "A shiny Magneton is owned by?"
+  },
+  "ec4ea018-da2a-4d00-aeff-02236da34f38": {
+    "answers": [
+      {
+        "id": "9622a9bc-2d56-4057-ba1a-cd9c3123caa0",
+        "text": "Croagunk"
+      },
+      {
+        "id": "5c95728e-4de0-4a27-9e26-f68a4f74886b",
+        "text": "Arbok"
+      },
+      {
+        "id": "4574daa1-ccb0-432c-ad41-cf46c3676ef6",
+        "text": "Arcanine"
+      },
+      {
+        "id": "242456f3-1fa0-4520-9248-fa47679a03bd",
+        "text": "Weezing"
+      }
+    ],
+    "correct_answer_id": "9622a9bc-2d56-4057-ba1a-cd9c3123caa0",
+    "photo_url": null,
+    "text": "Powerzone Gym's losing streak broke after Jessie got a ______."
+  },
+  "ec5deb5c-d944-4afb-a28b-415d61404f9e": {
+    "answers": [
+      {
+        "id": "775bd23a-7cbd-4950-bef7-0075980ea46f",
+        "text": "Dawn"
+      },
+      {
+        "id": "f11717a7-b553-4d5d-b847-01e7a550b17e",
+        "text": "Drew"
+      },
+      {
+        "id": "e09c8d43-acf3-4e0b-a7dd-3583b15d2f56",
+        "text": "May"
+      },
+      {
+        "id": "2da9c154-c19f-475b-a755-1707f7c254b9",
+        "text": "Misty"
+      }
+    ],
+    "correct_answer_id": "775bd23a-7cbd-4950-bef7-0075980ea46f",
+    "photo_url": null,
+    "text": "Ursula is an antagonistic rival of?"
+  },
+  "ed6d2228-8597-4863-a503-3ed2f2e74801": {
+    "answers": [
+      {
+        "id": "0c5148f2-d78f-4880-a692-acefb9608e0e",
+        "text": "Jhoto"
+      },
+      {
+        "id": "07e366c0-ec5d-47fc-a311-6a5ad1926f6b",
+        "text": "Hoenn"
+      },
+      {
+        "id": "4c7b8733-1b38-4cd4-9071-c91be37c079d",
+        "text": "Sinnoh"
+      },
+      {
+        "id": "bed9ac41-b51b-4661-839c-18256aa557da",
+        "text": "Kanto"
+      }
+    ],
+    "correct_answer_id": "0c5148f2-d78f-4880-a692-acefb9608e0e",
+    "photo_url": null,
+    "text": "Gyarados's shiny form is found in which region?"
+  },
+  "ee9024a9-2f3e-4be5-b1eb-414e8020302e": {
+    "answers": [
+      {
+        "id": "d1bb359d-6e42-4c76-8b8c-15b91bb3a5f5",
+        "text": "Arcanine"
+      },
+      {
+        "id": "02da2b17-8f5a-4bce-925b-6b4411647117",
+        "text": "Venusaur"
+      },
+      {
+        "id": "dd3fbe59-bd7f-4f2c-954c-c2fd4958f5a7",
+        "text": "Blastoise"
+      },
+      {
+        "id": "bc3a5b2b-1034-4b4d-8c65-c425dcb5e7f6",
+        "text": "Charizard"
+      }
+    ],
+    "correct_answer_id": "bc3a5b2b-1034-4b4d-8c65-c425dcb5e7f6",
+    "photo_url": null,
+    "text": "Delibird by mistake delivers which Pokemon to Jessie?"
+  },
+  "eeda8c18-b18f-460b-aeb0-38d5468ecf61": {
+    "answers": [
+      {
+        "id": "529840ef-1dbc-453c-a552-f8e3cbdf58e4",
+        "text": "One"
+      },
+      {
+        "id": "3490ab80-bc91-4aca-ac96-aebe810c3b0c",
+        "text": "Mew"
+      },
+      {
+        "id": "820ca974-7d2e-479c-ab63-2e311cc7b2e1",
+        "text": "Many"
+      },
+      {
+        "id": "904fe406-2508-4630-abab-ea39097975d1",
+        "text": "Mewtwo"
+      }
+    ],
+    "correct_answer_id": "529840ef-1dbc-453c-a552-f8e3cbdf58e4",
+    "photo_url": null,
+    "text": "Complete - The Power of _____"
+  },
+  "f01b562e-0ce5-4060-8447-de18b1a5f036": {
+    "answers": [
+      {
+        "id": "b80f676e-1a08-45de-bdc8-82c21b09af23",
+        "text": "Cerulean City"
+      },
+      {
+        "id": "c2122124-b872-473f-9d7f-35dd46673424",
+        "text": "Petalburg City"
+      },
+      {
+        "id": "d4b6f251-369a-4c5d-b993-76b09fa421f9",
+        "text": "Mossdeep City"
+      },
+      {
+        "id": "0434d621-2903-4fff-b6cb-a6eb75ae755d",
+        "text": "Striaton CIty"
+      }
+    ],
+    "correct_answer_id": "d4b6f251-369a-4c5d-b993-76b09fa421f9",
+    "photo_url": null,
+    "text": "Which Pokemon Gym has two co-leaders?"
+  },
+  "f1fc546f-6dfe-4618-92f8-716386930dce": {
+    "answers": [
+      {
+        "id": "189cc7bc-6658-48c2-8b43-b6e79f85ff3b",
+        "text": "Aunt"
+      },
+      {
+        "id": "4d9c8922-f429-4167-b03a-0f3adfd6c75e",
+        "text": "Mom"
+      },
+      {
+        "id": "bccd33d8-cb81-4ecc-9a60-1c2c232e4507",
+        "text": "Dad"
+      },
+      {
+        "id": "2f6f6175-88ef-44b0-8441-94e3cefb3b91",
+        "text": "Grandfather"
+      }
+    ],
+    "correct_answer_id": "4d9c8922-f429-4167-b03a-0f3adfd6c75e",
+    "photo_url": null,
+    "text": "Brock's Gym was in danger due to his which relative?"
+  },
+  "f2e659a7-2374-4ead-8b6d-32fdc3cb1594": {
+    "answers": [
+      {
+        "id": "c42f8efe-d2f2-445e-b67a-bf9876898d05",
+        "text": "Flame Body"
+      },
+      {
+        "id": "bf8116f5-b406-494f-98d1-2a80e24b2d1e",
+        "text": "Solar Power"
+      },
+      {
+        "id": "b0598186-6b5e-4c2f-98e9-af1b1afc8b09",
+        "text": "Flash Fire"
+      },
+      {
+        "id": "696d6984-8a27-442e-bd9e-430f3886488f",
+        "text": "Blaze"
+      }
+    ],
+    "correct_answer_id": "c42f8efe-d2f2-445e-b67a-bf9876898d05",
+    "photo_url": null,
+    "text": "What is Ash's Talonflame ability?"
+  },
+  "f3fdf1b1-c83c-4e89-9c90-e13add9cd45b": {
+    "answers": [
+      {
+        "id": "c0786a0e-193e-4d65-b438-51f622f5d7f3",
+        "text": " Yas Gym"
+      },
+      {
+        "id": "de752c66-81e1-4c34-8133-65d2241d2f4d",
+        "text": "Kaz Gym"
+      },
+      {
+        "id": "02d4c79b-bf79-470f-a640-4c56a524cc50",
+        "text": "Coastline Gym"
+      },
+      {
+        "id": "cf4dce8a-6cc1-45db-8943-17a196dc770a",
+        "text": "Saffron City Dojo"
+      }
+    ],
+    "correct_answer_id": "cf4dce8a-6cc1-45db-8943-17a196dc770a",
+    "photo_url": null,
+    "text": "Which is not an unofficial gym as per the anime?"
+  },
+  "f522737d-e2d7-44e6-ae25-177a18215005": {
+    "answers": [
+      {
+        "id": "5f3dac41-fa48-4a16-9276-7aa6798945bb",
+        "text": "Normal"
+      },
+      {
+        "id": "c7666d2d-3299-43c1-a7dc-a4f6bbeee8ef",
+        "text": "Flying"
+      },
+      {
+        "id": "476f9075-258f-45d9-88f1-bfa7009f76ac",
+        "text": "Dark"
+      },
+      {
+        "id": "f7de823c-148d-4bf2-bb72-58a994bcf357",
+        "text": "Poison"
+      }
+    ],
+    "correct_answer_id": "476f9075-258f-45d9-88f1-bfa7009f76ac",
+    "photo_url": null,
+    "text": "Inkay's is a ____type and Psychic type?"
+  },
+  "f6e08577-86c2-4b8c-babf-e9556538a72e": {
+    "answers": [
+      {
+        "id": "ff6d6611-6af8-4126-ae9a-f91129886966",
+        "text": "Jessie"
+      },
+      {
+        "id": "59c9cb65-d7f0-4da9-8c23-823aa3d36780",
+        "text": "James"
+      },
+      {
+        "id": "289c1679-94ef-4bc8-acb9-4da6abddf206",
+        "text": "Ash"
+      },
+      {
+        "id": "d766584c-8100-4fb9-b10a-a4765d9dd4c8",
+        "text": "Brock"
+      }
+    ],
+    "correct_answer_id": "289c1679-94ef-4bc8-acb9-4da6abddf206",
+    "photo_url": null,
+    "text": "Misty's Poliwag evolved while fighting against whose Pokemon?"
+  },
+  "f6eb51da-bb42-42ea-bd9c-a32d29b59493": {
+    "answers": [
+      {
+        "id": "bd15d70d-8955-4c98-bc1a-f41271028ec3",
+        "text": "Sinnoh"
+      },
+      {
+        "id": "434b266d-ba82-435e-86e3-4f66720e12bf",
+        "text": "Hoenn"
+      },
+      {
+        "id": "02909904-7f15-4e32-aa4f-8e03178b322c",
+        "text": "Jhoto"
+      },
+      {
+        "id": "0fdda0c0-475f-47a0-b31a-d527cb3f9989",
+        "text": "Kanto"
+      }
+    ],
+    "correct_answer_id": "bd15d70d-8955-4c98-bc1a-f41271028ec3",
+    "photo_url": "https://quizup-media.imgix.net/photo/706975966996127266/72/c9/21/72c92111ef3f7ec1f84c0619b65e7c7c80610fe4/content?h=360&q=95&w=360",
+    "text": "Ariados's shiny form is shown in which region?"
+  },
+  "fb5b6cfb-56d9-47d4-a4b8-500a08d7c1e6": {
+    "answers": [
+      {
+        "id": "467d855e-33e1-4a70-a0b2-55098993cd58",
+        "text": "He never had an Inkay"
+      },
+      {
+        "id": "1d958ef3-b003-417b-bf31-a53126772267",
+        "text": "By fight"
+      },
+      {
+        "id": "703451bf-eaf6-4206-8d08-5b73c51c3deb",
+        "text": "By cheating"
+      },
+      {
+        "id": "11779daf-9fd0-4749-8ecc-014e9836561d",
+        "text": "By food"
+      }
+    ],
+    "correct_answer_id": "11779daf-9fd0-4749-8ecc-014e9836561d",
+    "photo_url": null,
+    "text": "How did James lure Inkay?"
+  },
+  "fbb217c8-4d21-4ec3-8778-149f52187bcb": {
+    "answers": [
+      {
+        "id": "58add135-e870-4bfa-903c-9e56d0a2c64f",
+        "text": "Liza"
+      },
+      {
+        "id": "8ea2bbb0-0a3f-486f-a7d0-ff4c914313de",
+        "text": "Norman"
+      },
+      {
+        "id": "8f83a94d-31f9-415d-9741-48e65d880d3d",
+        "text": "Brock"
+      },
+      {
+        "id": "184481de-4c20-4ebb-8491-2b462666a23f",
+        "text": "Sabrina"
+      }
+    ],
+    "correct_answer_id": "184481de-4c20-4ebb-8491-2b462666a23f",
+    "photo_url": null,
+    "text": "Which Gym leader's father advises Ash not to fight that Gym leader?"
+  },
+  "fca84c17-9d8b-43ff-bd38-67b91402202f": {
+    "answers": [
+      {
+        "id": "da24a300-8562-4267-998d-e5b3b8dda568",
+        "text": "Cassidy"
+      },
+      {
+        "id": "d90362d0-25ff-4556-8370-4b2de0a32ade",
+        "text": "Caroline"
+      },
+      {
+        "id": "b752a270-11bb-430b-890f-144b42a5ec3e",
+        "text": "Casey"
+      },
+      {
+        "id": "01b13cb5-01a4-402a-8522-f1a67856b427",
+        "text": "Cissy"
+      }
+    ],
+    "correct_answer_id": "01b13cb5-01a4-402a-8522-f1a67856b427",
+    "photo_url": null,
+    "text": "Who is the Gym leader of Mikan Island?"
+  },
+  "fdfed3b4-7efa-413a-a593-3b7112582c17": {
+    "answers": [
+      {
+        "id": "86230be7-6590-4a0d-b84a-b73c3f89014c",
+        "text": "Tack"
+      },
+      {
+        "id": "52c52430-5b92-4af8-9df6-7006f50adfa5",
+        "text": "Zack"
+      },
+      {
+        "id": "a5c0d307-91f2-4c24-b8e4-d0d0eef86026",
+        "text": "Jack"
+      },
+      {
+        "id": "52632d0a-03c3-4536-bec4-9888e05c05f2",
+        "text": "Rack"
+      }
+    ],
+    "correct_answer_id": "52c52430-5b92-4af8-9df6-7006f50adfa5",
+    "photo_url": null,
+    "text": "A school kid who wanted Ash's Pikachu but ended up with a Bellsprout?"
+  }
+}

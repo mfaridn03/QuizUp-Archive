@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1       Matthew Hooper      GB   686  16,576,768
+2                Ghost      CA   370   4,828,891
+3   Phoenix Jake Mccoy      US   368   4,799,801
+4                Tizak      GB   325   3,731,333
+5                 Kait      US   267   2,533,006
+6          James Davis      GB   266   2,517,083
+7              Heretic      GB   227   1,833,724
+8         Liara T’Soni      US   198   1,403,929
+9               Raifah      CA   195   1,351,789
+10              Bogard      US   193   1,330,105
+11               Javik      US   188   1,258,736
+12       Callum Mathie      ZA   174   1,078,631
+13    Mateja Napravnik      HR   171   1,041,648
+14                 아이라      ES   171   1,041,139
+15    Marion Langelier      FR   168   1,011,478

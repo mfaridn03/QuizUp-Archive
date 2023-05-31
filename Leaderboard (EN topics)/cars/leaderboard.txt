@@ -1,0 +1,16 @@
+               Player Country  Level     Total XP
+1                  CJ      US  2,366  196,281,312
+2     ✦ Ꮶ Ꭺ Ꭱ Ꮇ Ꭺ  ⚡️      FR  1,947  132,982,570
+3     Francisco Sousa      PT  1,354   64,341,636
+4           LC Diglio      BR  1,291   58,521,544
+5   FrancSuisseHuster      FR    760   20,290,493
+6             dikuss2      DE    747   19,610,172
+7                 rdg      US    725   18,467,758
+8            Kal - el      IN    712   17,829,553
+9             mpx2007      CA    653   14,996,861
+10                Crv      BR    637   14,265,784
+11                CCF      SG    636   14,244,288
+12         Janet Legg      GB    632   14,071,223
+13              Marty      CA    590   12,277,283
+14            DELETED      BE    580   11,853,330
+15             Kialoa      US    578   11,782,233

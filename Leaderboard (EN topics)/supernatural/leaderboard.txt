@@ -1,0 +1,16 @@
+                  Player      Country  Level    Total XP
+1    ✦Ballino Bradbury ⚡           FR  1,548  84,017,588
+2                  Lalah           BR    631  14,020,154
+3   Bad Charlie Bradbury           US    561  11,097,320
+4                Charlie           GB    529   9,848,316
+5           Killer Queen           US    528   9,827,078
+6           Kristi Balla           US    514   9,299,038
+7                   Demi           US    495   8,645,481
+8                Ela Mac  QU_SCOTLAND    484   8,259,131
+9         Sherlla Amorim           BR    481   8,152,679
+10           King Minion           ZA    420   6,241,081
+11                  Mina           GB    391   5,399,682
+12                Dreama           US    386   5,259,890
+13                taylor           US    375   4,962,542
+14               㕘 Bella           BR    372   4,889,387
+15   Winchester Obsessed           ZA    353   4,412,384

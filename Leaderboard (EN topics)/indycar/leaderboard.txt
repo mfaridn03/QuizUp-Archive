@@ -1,0 +1,16 @@
+       Player Country Level   Total XP
+1   Tom Lloyd      GB   405  5,797,072
+2      Smokey      US   347  4,253,053
+3    Mr. Moon      US   321  3,644,935
+4          JB      US   216  1,664,758
+5   debator81      US   180  1,161,710
+6         PRF      US   166    982,758
+7       jimbo      US   143    736,070
+8        Jeff      US   131    617,494
+9     spgofnm      US   112    452,039
+10        Joy      CA   100    361,144
+11       Bart      US    96    332,366
+12       Kacy      US    91    301,018
+13  Popcorn 2      US    85    261,475
+14      Roles      FR    82    248,421
+15  Raider MO      US    82    245,727

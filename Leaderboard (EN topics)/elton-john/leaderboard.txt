@@ -1,0 +1,16 @@
+                  Player      Country  Level    Total XP
+1                    Bob           US  1,100  42,531,168
+2       Mjm In The Ville           US  1,029  37,221,598
+3   A cat named Hercules   QU_ENGLAND    833  24,392,829
+4                JustJan           US    658  15,226,554
+5    Dogs in the kitchen           GB    440   6,824,901
+6         Shelley Faubel           US    401   5,681,592
+7     OMG So Many Points           US    382   5,165,857
+8                 PJones           CA    352   4,391,038
+9                  A K M  QU_SCOTLAND    317   3,552,805
+10                   MMW           PT    289   2,951,207
+11            Greg at OG           AU    272   2,631,540
+12                 Elisa           GB    261   2,420,869
+13                mrpark           US    201   1,437,236
+14                john04           GB    189   1,275,908
+15                 JWF04           GB    172   1,054,716

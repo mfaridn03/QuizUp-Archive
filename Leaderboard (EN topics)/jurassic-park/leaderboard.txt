@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1            Jesusrasic      ES   840  24,832,146
+2                    CJ      US   573  11,547,036
+3          Ryan Liechty      US   347   4,251,900
+4          Pete Lambden      GB   262   2,436,942
+5   Felipe Brignardello      BR   249   2,206,297
+6      Amanderp (Trash)      US   230   1,873,315
+7                   D.🦂      FR   224   1,783,571
+8                  Josh      US   215   1,640,406
+9       Brandon Pollard      US   203   1,467,104
+10           Eric Kirby      BR   196   1,374,727
+11                   ML      AU   185   1,216,732
+12          Hope Spring      US   180   1,158,754
+13          Angel Wings      US   169   1,026,450
+14       Texas Platinum      US   165     972,481
+15        Mickael Duret      FR   165     971,441

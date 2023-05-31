@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1         Hatkeinnamen      DE   931  30,451,018
+2          Oma Wuschel      DE   839  24,722,124
+3           Ŝʆƴtɦɛʀɨռɢ      US   806  22,819,860
+4                 Mabe      CL   441   6,866,872
+5       Rhaniel #L-ILA      BR   382   5,156,900
+6           Bikepacker      AT   321   3,642,642
+7               PabloF      GB   311   3,415,499
+8   Footrot Flats 🌏UT💫      AU   300   3,179,285
+9      Amar Jeet Singh      IN   300   3,178,564
+10             DaErwin      AT   276   2,701,549
+11   GeoNerdAlert #ILA      AU   260   2,404,161
+12             HELLBOY      DE   246   2,147,610
+13       Daniel Felipe      BR   239   2,027,384
+14              ______      GB   226   1,815,782
+15     Traian V #M-ILA      VA   225   1,797,682

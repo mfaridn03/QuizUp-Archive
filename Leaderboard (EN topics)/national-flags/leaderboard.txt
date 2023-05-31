@@ -1,0 +1,16 @@
+                             Player Country  Level    Total XP
+1         Alessandro Ricardo Vieira      BR  1,303  59,578,257
+2                              Aube      CH  1,256  55,353,211
+3                  G.J.O.M.'95 c.i.      PH    630  13,961,940
+4                    Nodmirt | ҜΞ 〽      GB    510   9,162,162
+5                     Alcibiade ₹ɘȵ      FR    500   8,799,416
+6                        Alessandro      BR    480   8,112,975
+7   Vanhooksiel 100+ Founder/leader      US    407   5,843,387
+8     De Souza W. #TSN Save the app      BR    385   5,234,593
+9                       Samirovisky      BR    365   4,717,623
+10                Myriam Reis 🔰IKT🔰      BR    360   4,572,673
+11                   Roger Lambertz      BE    355   4,454,344
+12                           Lucile      CA    352   4,374,672
+13             Luigi Tricarico #TSN      IT    344   4,191,029
+14                    Daniel Felipe      BR    343   4,172,088
+15                        Jet Anton      PH    342   4,140,257

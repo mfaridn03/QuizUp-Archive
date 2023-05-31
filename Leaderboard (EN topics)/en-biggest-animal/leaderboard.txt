@@ -1,0 +1,16 @@
+             Player      Country Level    Total XP
+1     Player tv-doc           DE   883  27,389,775
+2              Mopi           DE   502   8,893,491
+3               Ann           GB   488   8,396,971
+4      LLOYD BERLIN           US   480   8,117,530
+5         Old troll           CA   265   2,485,226
+6         AU REVOIR           FR   257   2,347,393
+7                mj           FR   253   2,273,486
+8      LLOYD BERLIN           US   220   1,721,830
+9         Jackie W.  QU_SCOTLAND   212   1,598,581
+10        Celestino           CA   191   1,296,141
+11         Kathleen  QU_SCOTLAND   188   1,255,465
+12              Nia           IN   170   1,034,698
+13              D.🦂           FR   159     903,260
+14  tête de linotte           FR   156     870,586
+15       Δεληγιαννη           FR   142     722,949

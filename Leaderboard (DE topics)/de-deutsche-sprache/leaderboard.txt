@@ -1,0 +1,16 @@
+                 Player Country  Level    Total XP
+1          Tatjana Jahn      DE  1,600  89,847,040
+2        Rita Birkholtz      DE    839  24,729,171
+3           Peter Kupka      DE    666  15,597,527
+4     Michael Roshansky      US    622  13,608,610
+5        Thomas Cervisz      DE    617  13,396,776
+6             Apostasio      DE    563  11,181,419
+7           Eifelzocker      DE    506   9,009,827
+8                Lichti      DE    420   6,233,327
+9   Jim-Bob 22.03.2021🤔      DE    416   6,121,288
+10             manibalu      DE    354   4,425,049
+11            Eifelyeti      DE    332   3,889,958
+12          Eifelzocker      DE    278   2,746,119
+13       Christine Merl      AT    278   2,734,437
+14             LeoMandy      DE    253   2,281,950
+15        Gisela Gokert      DE    249   2,198,440

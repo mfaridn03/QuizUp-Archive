@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1   Michael Lanzarone      US   633  14,092,301
+2                mike      US   608  12,998,358
+3                 DJC      CA   521   9,562,227
+4                WK57      CA   467   7,700,404
+5          The Golfer      CA   330   3,855,824
+6               Julie      US   327   3,773,509
+7             Mona Lu      DE   310   3,392,879
+8       Bob Alexander      CA   300   3,196,658
+9   Michael Lanzarone      US   289   2,960,664
+10                 MG      US   285   2,872,369
+11            MacBeth      IE   247   2,162,088
+12       TattooedFrog      CA   146     766,870
+13         Diddy Scot      GB   138     686,101
+14             exhack      CA   137     673,307
+15       BlackWatch61      CA   132     626,979

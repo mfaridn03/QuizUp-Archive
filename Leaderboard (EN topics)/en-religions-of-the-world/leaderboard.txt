@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1              KishaK      JM   621  13,560,560
+2                  D.      HR   527   9,795,444
+3              DilipT      IN   524   9,677,869
+4          #FREELULA#      AG   412   5,981,290
+5         Yerba Buena      MY   336   3,995,932
+6   Jesus cruz Rivera      MX   310   3,398,672
+7      Francisco XHGC      MX   292   3,019,461
+8               Jesse      US   290   2,975,825
+9             Bajwauk      GB   281   2,794,363
+10         Cris Lopes      BR   261   2,423,230
+11           A. B. H.      DZ   251   2,232,780
+12          Vairochan      MY   231   1,891,289
+13           Hawa_Eve      FR   229   1,860,290
+14      Blue Aksobhya      MY   227   1,836,937
+15          Magdalena      US   220   1,717,881

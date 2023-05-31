@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                kankon2      DE   539  10,228,408
+2              Eisenbein      DE   337   4,021,246
+3                kankon2      DE   309   3,371,608
+4             Kaarst2008      DE   305   3,288,639
+5             Rentiere77      DE   269   2,561,385
+6                   Nina      DE   229   1,867,869
+7              Ann Marie      DE   212   1,597,735
+8                  Aleko      CH   202   1,458,113
+9            MasterBaker      US   200   1,430,666
+10              Ingeburg      DE   195   1,356,009
+11                 Asdur      AT   185   1,225,236
+12  Klaus-Michael Plöger      US   179   1,138,429
+13                 TSJWZ      AT   171   1,050,899
+14     Königin der Nacht      DE   168   1,011,002
+15            Schokoboss      DE   168   1,005,658

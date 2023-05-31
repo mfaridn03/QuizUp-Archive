@@ -1,0 +1,16 @@
+       Player Country  Level    Total XP
+1      Heliøt      MA  1,196  50,225,341
+2      Lovely      DE    694  16,960,491
+3     Credvid      ES    678  16,188,474
+4    Mydoctor      BR    646  14,710,868
+5     soledad      ES    626  13,784,211
+6       Mpuig      ES    562  11,138,505
+7       ARIES      AT    540  10,280,530
+8       Betty      DE    489   8,442,680
+9   Princesse      DE    473   7,876,932
+10     Joline      DE    421   6,251,634
+11  Panda Sue      US    409   5,907,328
+12      mpuig      ES    405   5,798,460
+13       Dana      US    399   5,624,296
+14      Coppa      CH    397   5,571,428
+15       Babs      NL    372   4,903,822

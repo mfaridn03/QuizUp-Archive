@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1                      AML           CA   775  21,130,302
+2                      BBC           US   586  12,101,106
+3                      Cat           US   545  10,452,713
+4                     Eden           CA   501   8,834,325
+5                 Lady Ann           US   500   8,817,105
+6              Helen Ogden           GB   495   8,629,237
+7   Нямтэнгис Хөхлөрбаасан           TH   489   8,423,616
+8                  Shelley           US   487   8,358,368
+9                     Kaye           US   428   6,454,609
+10                 Nelly59  QU_SCOTLAND   379   5,075,343
+11               Dansrgurl           US   349   4,302,117
+12                   Sandy           US   310   3,400,519
+13                     DGW           US   277   2,719,046
+14         SaltyBelle #TSN           US   275   2,679,295
+15                HannahBF           US   262   2,435,216

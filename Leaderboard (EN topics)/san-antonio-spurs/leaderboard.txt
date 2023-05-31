@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1          Adamson      US   230  1,878,918
+2         Valentín      ES   230  1,877,574
+3    2EZ🏀NBAKINGs💯      US   224  1,790,144
+4     James Gelvin      US   215  1,647,106
+5          Slo Moe      GB   160    912,696
+6    gbouffard.com      FR   152    825,580
+7              jam      US   145    756,073
+8     Brandonbot90      US   123    544,504
+9        TRUE BLUE      US   113    462,699
+10          Mary k      US   103    383,563
+11  Dario Pokrivač      HR   100    366,196
+12  Mario Pokrivač      HR   100    364,534
+13            Judy      US    97    341,550
+14             Pau      US    95    328,854
+15        Karim LZ      MA    94    321,465

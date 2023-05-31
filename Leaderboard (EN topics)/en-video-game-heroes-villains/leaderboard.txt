@@ -1,0 +1,16 @@
+                       Player      Country Level   Total XP
+1                          Vc           US   412  5,994,328
+2                 Kyel Galaxy  QU_SCOTLAND   252  2,260,263
+3                      Iranyx           TT   247  2,160,941
+4   ︀︀︀︀︀︀ ︀︀︀︀︀︀︀︀︀︀︀︀ ︀︀︀︀︀   QU_ENGLAND   217  1,678,129
+5                  MetalDream           CA   208  1,539,611
+6                 Igør #C-ILA           BR   189  1,277,093
+7                    CJ98baby           US   174  1,083,763
+8                   Nos Mwarf           FR   171  1,046,752
+9                        Bean           SG   166    991,257
+10                     Nedeam           DE   165    970,635
+11              Psycho Mantis           US   157    885,309
+12                     CVM 16           CO   155    859,345
+13                    Arred K           FR   155    858,143
+14             Scrooge McDuck           US   155    857,199
+15                 Sckorpzero           FR   154    847,608

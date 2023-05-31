@@ -1,0 +1,16 @@
+             Player Country Level    Total XP
+1           Mi-Schi      CH   686  16,536,818
+2          Chandler      US   437   6,731,639
+3             Chris      FR   342   4,142,195
+4       paola cãnãã      FR   318   3,577,884
+5          André .5      FR   268   2,540,779
+6           Nani974      FR   248   2,184,222
+7              tina      FR   242   2,086,946
+8            Nw1501      FR   231   1,900,143
+9     Mike Anderson      US   223   1,765,209
+10            laura      FR   205   1,500,580
+11       bellissima      FR   202   1,458,230
+12  Monika   | ҜΞ 〽      PL   184   1,208,307
+13           Mandou      FR   181   1,164,445
+14           L_____      CA   161     930,585
+15      Édith Édith      FR   152     826,070

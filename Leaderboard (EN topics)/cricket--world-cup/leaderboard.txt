@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1              Jackie      ZA   312  3,442,748
+2             Ajay Ns      IN   177  1,113,682
+3   Syed Askari Abbas      PK   168  1,013,657
+4              Jorgen      AU   161    923,052
+5      Shubham Tiwari      IN   152    829,255
+6         Vishy Anand      IN   145    753,362
+7    Abhay Srivastava      IN   117    496,983
+8        Chris Jordan      GB   110    434,046
+9               Katsu      AU   106    409,890
+10      Enrique Ajeet      IN   103    388,064
+11         Ayush Omer      IN    97    344,774
+12      Annu PokeDost      IN    96    336,628
+13       Fahim Sheikh      PK    90    292,992
+14       Shyam Saxena      IN    88    283,223
+15       Padya_Basuru      LK    86    271,806

@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1                   Robin      GB   814  23,291,894
+2               Sugi #TSN      IN   790  21,966,266
+3            Zafar Koreja      PK   568  11,355,789
+4             Yerba Buena      MY   492   8,523,179
+5              Ashokverma      IN   462   7,519,403
+6         Pygmée gourmand      FR   414   6,052,489
+7           Zarina Khalid      PK   393   5,465,057
+8             Stella 7101      CR   358   4,530,854
+9   Aliyah Maisha Maisara      MY   354   4,423,412
+10                 Nergal      FR   348   4,295,627
+11                     P2      NL   348   4,277,854
+12                     P2      NL   338   4,047,593
+13                    S.A      MY   335   3,968,059
+14                   Saif      PK   331   3,874,655
+15           benjaminhart      SG   324   3,727,129

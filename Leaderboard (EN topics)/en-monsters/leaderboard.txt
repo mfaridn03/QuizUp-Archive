@@ -1,0 +1,16 @@
+                   Player   Country Level    Total XP
+1                 Stephen  QU_WALES   813  23,255,302
+2      ✦ Kirisute Gomen ☽        MX   528   9,808,901
+3                  Stuart        US   408   5,870,650
+4             WhiteRain 🦋        CA   392   5,432,757
+5               Roy Batty        ES   341   4,112,068
+6          Mario Pokrivač        HR   300   3,195,826
+7                Fallenrr        RO   291   3,001,848
+8   Leutah # Champion ILA        US   286   2,892,991
+9               Khajiitsu        US   272   2,633,134
+10        Steve Reid 🌎UT💫        US   244   2,116,796
+11    juan valiela villar        ES   230   1,881,776
+12               Kasandra        DE   222   1,749,354
+13                Bigorno        FR   218   1,684,236
+14              kaki popo        FR   217   1,677,271
+15              alyssaa92        DE   216   1,663,734

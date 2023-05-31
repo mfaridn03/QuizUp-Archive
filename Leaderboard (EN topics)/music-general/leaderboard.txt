@@ -1,0 +1,16 @@
+                    Player     Country Level    Total XP
+1                  RAP1949          US   810  23,076,906
+2                     Miki          US   619  13,511,932
+3               Ralf Anton          DE   408   5,890,662
+4    siralex671 (retired )          GB   400   5,638,476
+5                      Jem  QU_ENGLAND   379   5,068,370
+6           Stephen Norris          GB   372   4,900,331
+7   nicky :) #FREEG$LDBERG          BR   367   4,752,280
+8                  Belinda          NZ   332   3,911,067
+9                  Belinda          NZ   324   3,718,936
+10                     Joe          GB   268   2,553,506
+11                   Bowie          US   260   2,404,503
+12                   LRK59          US   251   2,233,772
+13              Zygo music          FR   241   2,065,633
+14              Marky 🌎UT💫          DE   227   1,837,794
+15                 Lauange          FR   224   1,789,758

@@ -1,0 +1,16 @@
+                    Player     Country Level    Total XP
+1                        J          CA   657  15,192,726
+2            The Navigator          CA   589  12,216,590
+3             Sonia Landim          BR   533   9,997,547
+4                        C          FR   431   6,561,010
+5                luckylady          GB   289   2,961,492
+6           Billy Mesquita          GB   251   2,229,661
+7             Dallin Nitta          US   231   1,903,846
+8                    Shady          NL   211   1,582,896
+9             nikola madas          RS   187   1,242,634
+10              Flybernite          ES   186   1,235,383
+11                   Jenny          ES   180   1,163,299
+12           Elliot Finley          CA   170   1,039,283
+13  RhéaNika off _ goodbye          FR   158     894,026
+14       Alpenstrandläufer  QU_ENGLAND   150     803,329
+15              Jenny Khan          GB   140     699,293

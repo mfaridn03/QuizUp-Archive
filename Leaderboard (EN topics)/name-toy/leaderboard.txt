@@ -1,0 +1,16 @@
+              Player      Country Level   Total XP
+1            Kidof89           NZ   525  9,727,440
+2               Lisa           US   504  8,939,154
+3              Derpy           US   448  7,074,936
+4             Lauren           US   357  4,515,888
+5               Matt           US   346  4,244,972
+6   🐮 Happeecow 🌍UT💫  QU_SCOTLAND   341  4,123,036
+7            Proctor           US   341  4,109,558
+8      Robert Craggs           GB   312  3,441,851
+9             Shaman           IN   301  3,211,473
+10           Shawn25           US   299  3,161,224
+11         Elizabeth           GB   295  3,074,955
+12        Fatsz 🌎UT💫           US   294  3,070,600
+13        FalvarShop           ES   293  3,042,681
+14             mandy           CA   270  2,586,691
+15      Patrick Chea           US   253  2,276,467

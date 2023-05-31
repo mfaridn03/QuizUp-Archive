@@ -1,0 +1,16 @@
+                          Player Country  Level    Total XP
+1   Katrín T #L-ILA Save The App      IS  1,203  50,785,148
+2                       Catindep      GY  1,095  42,115,514
+3                      josef hes      AT    925  30,035,421
+4                 Natasha Smythe      GB    898  28,350,675
+5                Javier Gonzalez      ES    664  15,532,319
+6                        Netti B      DE    585  12,056,768
+7                          Henri      DO    490   8,456,294
+8                            Mel      US    431   6,552,851
+9                         Bonnie      DE    425   6,388,428
+10                Isabelle Fauŕé      FR    423   6,304,863
+11                Paolo Campolmi      IT    416   6,103,041
+12            Catalin Pomirleanu      RO    409   5,915,460
+13                 Maria Lecanda      GB    403   5,725,850
+14                   Birgit Graf      DE    383   5,174,828
+15     Donatelli  "save the app"      CH    382   5,160,596

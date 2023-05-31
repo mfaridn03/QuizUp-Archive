@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1     Santosh kumar Sharma      AN  1,106  42,927,984
+2                Ed Panzyk      US  1,067  39,958,963
+3                   Puffer      US    569  11,419,232
+4       Scarlett Pimpernel      CA    457   7,358,352
+5                     Jfth      GB    444   6,954,718
+6            Trevor Wilson      US    416   6,096,447
+7       Death From The Sky      US    406   5,829,447
+8            Super Gee Gee      GB    374   4,956,739
+9              Terry Stagg      US    369   4,817,904
+10  nicky :) #FREEG$LDBERG      BR    366   4,724,740
+11                 Simon T      GB    343   4,161,254
+12                   Nimue      US    325   3,728,374
+13              Hugh Janus      ZA    322   3,667,617
+14            ALPHA Course      CX    317   3,550,899
+15             Cincinnatus      CA    302   3,232,850

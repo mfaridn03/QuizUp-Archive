@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1              John Walton      US   705  17,495,723
+2                     Jade      US   570  11,460,474
+3                    মেডেন      US   555  10,840,680
+4               Edom Marty      ID   537  10,152,463
+5          Forch The Torch      CA   515   9,341,680
+6   Frank Crum #bye QuizUp      US   404   5,768,320
+7                   Kramer      US   354   4,426,307
+8             Alvaro Pardo      US   331   3,872,991
+9                  Mr Tony      GB   288   2,931,999
+10                irocit z      US   245   2,127,968
+11               BurntPain      US   238   2,011,153
+12         The Champ 02468      US   237   2,003,505
+13                  Debi G      US   236   1,972,174
+14            Robert Roach      US   215   1,643,087
+15                    "RG"      US   211   1,587,012

@@ -1,0 +1,16 @@
+               Player Country Level Total XP
+1             despina      GR   138  686,759
+2      Joseph Strider      US   129  596,150
+3   Jonathan Hauptman      CA   128  590,325
+4       Mike Shockley      US   126  568,222
+5              MicahJ      US   125  559,003
+6             Denisse      US   115  477,733
+7               Craig      US   113  462,585
+8         Jamie Myers      US   103  386,472
+9                Gina      US   103  385,068
+10          Cocomango      GB   101  371,398
+11           Martin M      US   100  361,178
+12               Soop      US   100  359,566
+13              Diana      US    93  315,007
+14               Kyle      US    91  299,525
+15             Tonyje      US    87  275,607

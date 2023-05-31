@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1               Timson      US   335  3,977,232
+2                   HK      SG   289  2,963,299
+3        Andrew Hussie      CA   273  2,637,846
+4             Mettaton      US   272  2,625,169
+5   TheFabulousKilljoy      US   270  2,591,070
+6              dymundo      US   270  2,589,037
+7                (-_-)      AX   235  1,961,207
+8          snick snack      US   232  1,915,470
+9            Sapphacus      AU   232  1,906,246
+10      Salcha Romunus      US   218  1,693,020
+11             squishy      US   214  1,625,537
+12          SozoSnipes      ID   212  1,601,237
+13                 Lex      US   209  1,549,769
+14         HowardAtlas      US   205  1,498,899
+15            Dr. Worm      US   200  1,420,777

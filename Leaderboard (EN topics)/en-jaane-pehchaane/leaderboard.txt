@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1          Kalpana      IN   286  2,906,014
+2   Sandhya Shenoy      IN   165    973,152
+3      Sukla Ghosh      IN   126    574,087
+4   Kalpona Moitra      IN   112    453,208
+5        Vinod  68      IN   105    402,808
+6      Usha Narula      IN   103    380,985
+7             Sona      IN   100    360,624
+8   Rishit Agrawal      IN   100    360,157
+9      Usha Narula      IN    99    354,652
+10   भास्कर सोलंकी      IN    91    298,787
+11     SUKLA GHOSH      IN    90    296,475
+12  Sushil Purohit      IN    86    267,803
+13         A Gupta      IN    83    249,040
+14  Vandana Sharma      IN    81    242,167
+15   Munira Shoaib      IN    80    232,363

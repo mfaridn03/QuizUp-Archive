@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1             Hub30      US   416  6,099,699
+2     Richard Rothe      US   164    957,357
+3               M J      US   162    934,409
+4      Darl Edwards      CA   160    913,262
+5             Frank      US   147    775,998
+6         Papa John      US   137    671,622
+7      Mark Johnson      US   124    557,104
+8       Graham Tyre      GB   122    532,735
+9               Jim      US   121    528,640
+10       The K.L.F.      US   100    359,453
+11           Lori66      US    77    216,971
+12      Scott Cline      US    72    192,733
+13  Markas Ackerman      US    70    179,741
+14        Wade Cool      CA    65    154,739
+15             maro      US    61    140,145

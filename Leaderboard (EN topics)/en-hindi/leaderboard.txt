@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1     Sudha Srivastava      IN   769  20,796,028
+2          Piyush Kant      IN   696  17,059,485
+3         Reeta Saxena      IN   631  14,039,245
+4           Tahir Khan      PK   511   9,200,333
+5     Gomathi Kailasam      IN   486   8,313,373
+6   Chitra Mehrotra 60      IN   427   6,443,336
+7                Veera      US   368   4,795,738
+8          Hamid Shaik      ZA   367   4,756,738
+9                Smita      IN   365   4,701,609
+10      Sushil Purohit      IN   354   4,438,167
+11      LDShadowBeans7      US   310   3,409,444
+12      Priyanka Lomga      IN   282   2,824,948
+13       Archana sinha      IN   272   2,617,186
+14             Kalpana      IN   267   2,525,654
+15       Amit gyanveer      IN   259   2,387,925

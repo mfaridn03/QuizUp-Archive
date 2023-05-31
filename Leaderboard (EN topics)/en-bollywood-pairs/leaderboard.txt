@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1         Manju Sheel      IN   494  8,590,107
+2              Shirin      IN   352  4,379,009
+3              Naveed      GB   187  1,254,088
+4      Javaria Fatima      PK   170  1,028,230
+5       Pradeep Kakad      IN   165    974,917
+6              Shaila      IN   152    828,580
+7     Manju Srivastav      IN   138    686,268
+8                Mini      IN   132    628,585
+9   Alejandra Ricardo      DO   126    568,439
+10          mojo-jojo      CA   119    513,984
+11     Sandhya Shenoy      IN   113    461,943
+12      Preeti Hasija      IN   112    451,340
+13      Sudeep Mahato      IN   111    446,807
+14       Smita Kamdar      IN   108    421,775
+15             Madzzz      IN   106    405,488

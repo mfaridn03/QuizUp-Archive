@@ -1,0 +1,16 @@
+                     Player      Country Level    Total XP
+1       Debbie Save The App   QU_ENGLAND   612  13,177,990
+2                    Sharon           US   506   9,042,042
+3              Geordie Adam   QU_ENGLAND   400   5,656,734
+4   Golden Age of Grotesque           AU   346   4,230,417
+5                       ej6           AU   265   2,489,524
+6                Godsgirl62           US   229   1,869,891
+7                   atpeace           CA   222   1,754,518
+8          Susan McAllister  QU_SCOTLAND   211   1,579,732
+9               Lronhampton           US   185   1,228,203
+10               Rhiannon90           US   168   1,005,702
+11        Dorothy G. #L~ILA           US   167     996,646
+12        Janet hello dolly           GB   157     887,031
+13   Dragon ( Whips Tail! )           CA   157     883,743
+14                   Slinky           US   141     717,256
+15                  Candice           US   131     619,496

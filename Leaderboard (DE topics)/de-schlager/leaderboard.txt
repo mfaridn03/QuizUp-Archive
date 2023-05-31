@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1                  Jörg      DE   860  25,998,405
+2             Christi@n      DE   857  25,787,579
+3           Erhart Sch.      DE   719  18,162,272
+4         Reinhard Koll      DE   715  17,961,597
+5        Paolo Campolmi      IT   707  17,587,203
+6   Marie-Louise Lagger      CH   706  17,512,852
+7         Renate Kiepen      DE   654  15,073,237
+8           Kosta Heino      DE   606  12,942,740
+9            Gero Krebs      DE   470   7,780,747
+10              Christa      AT   458   7,410,870
+11            EDELTRAUT      DE   451   7,161,784
+12                 G.M.      DE   446   7,016,646
+13                PeTra      DE   441   6,855,199
+14            merkelout      IT   420   6,236,782
+15            Edeltraut      DE   419   6,193,784

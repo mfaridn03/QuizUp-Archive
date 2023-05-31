@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                The Burgy      US   805  22,811,793
+2             Adam Macgill      GB   505   8,983,345
+3             Knutzefrunda      DE   501   8,866,510
+4                  MrMario      US   443   6,931,550
+5               GhostyMike      US   393   5,453,750
+6                      Sam      US   377   5,014,532
+7                Denja-san      DE   304   3,264,192
+8                      Ark      US   300   3,179,408
+9                    Prado      FR   293   3,039,538
+10             Robert Long      US   275   2,675,056
+11           Shane Johnson      US   262   2,431,819
+12                 Gabriel      BR   257   2,336,952
+13             CitizenTane      FR   255   2,310,530
+14       attractivepancake      US   252   2,253,726
+15  Rex Warren - Mopar Man      US   250   2,228,425

@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1   Rat Super Genius      US   869  26,513,493
+2      Greg Spangler      US   679  16,225,052
+3             Stoggy      GB   579  11,811,570
+4                 Al      GB   498   8,749,293
+5           Roscoe A      US   487   8,350,742
+6          Golfgould      GB   464   7,590,007
+7          G M M R 🦁      ZA   447   7,039,354
+8             Andy79      AT   437   6,748,256
+9       Chris Carter      GB   421   6,262,632
+10         Thierry25      FR   401   5,676,123
+11             OHMSS      FR   387   5,282,559
+12   Robert Sterling      US   379   5,081,252
+13        Marvelstar      DE   358   4,533,967
+14          bondgirl      US   327   3,789,423
+15              Alan      CA   315   3,516,829

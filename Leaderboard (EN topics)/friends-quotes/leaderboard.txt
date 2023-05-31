@@ -1,0 +1,16 @@
+                  Player      Country Level    Total XP
+1                    PLB           US   608  13,027,860
+2              MomTrains           US   457   7,382,970
+3                 Julian           GB   342   4,145,347
+4                   Adam           GB   309   3,376,805
+5                Gal ₹ɘȵ           BR   273   2,638,639
+6                   Jock  QU_SCOTLAND   255   2,306,488
+7                krstyan           BG   251   2,229,090
+8         Steve Waggoner           US   231   1,890,163
+9          Mohamed tlili           TN   202   1,453,175
+10            Malky Ruby           MX   200   1,424,940
+11                Batman           IN   197   1,379,579
+12  'Nikita Sabharwal' ✪           IN   193   1,332,359
+13                  Alli           ZA   184   1,208,154
+14    Princess Consuella           IN   182   1,186,743
+15                     D           IN   173   1,070,241

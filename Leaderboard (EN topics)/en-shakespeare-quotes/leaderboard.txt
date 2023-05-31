@@ -1,0 +1,16 @@
+                  Player     Country Level   Total XP
+1   Vasile-SAVE THE APP!          RO   436  6,699,505
+2                   Mojo          ZA   408  5,882,219
+3              Connie N.          US   393  5,465,343
+4                 Luca M          IT   338  4,049,623
+5           Onehunga One          GB   314  3,492,273
+6                   Odin          GB   254  2,293,660
+7          Roberto Ratti          IT   225  1,800,120
+8            Collette A.          CA   214  1,632,502
+9   suzy - Save The App.          ID   214  1,632,024
+10          James Cheney          US   181  1,164,421
+11                  Olga          RU   177  1,117,550
+12          Hasan Kashif          IN   173  1,073,221
+13        Suyash Nathani          IN   165    969,162
+14         James Leppard  QU_ENGLAND   164    962,589
+15             Drjrandom          AU   162    935,363

@@ -1,0 +1,16 @@
+                    Player     Country Level   Total XP
+1            Son of Batman          US   401  5,689,591
+2   nicky :) #FREEG$LDBERG          BR   366  4,740,040
+3           lunatic sanity          US   352  4,393,491
+4                bigdaddyK          US   286  2,900,003
+5              Zur-En-Arrh          US   255  2,312,220
+6              Mrmojorisin          US   209  1,551,850
+7                King Doge          ID   208  1,537,832
+8                Beast Boy  QU_ENGLAND   207  1,531,979
+9                    Rahul          GB   185  1,219,532
+10         Kelso Hernandez          CA   177  1,120,398
+11              Black Adam          IN   165    977,882
+12            Robert Jones          US   164    964,787
+13                     Jim          US   154    845,606
+14            Jack Holland          GB   150    802,318
+15               Don Wiley          US   144    739,659

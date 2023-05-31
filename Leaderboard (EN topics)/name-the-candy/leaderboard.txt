@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1       Fur Baby Mama      US  1,087  41,518,127
+2             Bella P      AU    830  24,216,761
+3              Melody      US    670  15,775,181
+4              RAINEY      GB    469   7,764,295
+5               Judie      US    432   6,588,430
+6               Bellã      CA    428   6,453,332
+7                TuTu      US    413   6,017,398
+8            Christie      US    372   4,899,634
+9         Candy Perez      US    362   4,645,933
+10              Welch      US    359   4,566,043
+11  Syed Askari Abbas      PK    349   4,296,562
+12          Antonella      IT    338   4,035,284
+13       Leung  Tammy      CA    333   3,934,624
+14             Lauren      US    329   3,822,853
+15      Zohra Mamdani      CA    307   3,328,105

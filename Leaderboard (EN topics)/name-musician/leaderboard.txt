@@ -1,0 +1,16 @@
+                   Player      Country Level    Total XP
+1                   Sandy   QU_ENGLAND   623  13,650,106
+2             Marcin Jaro           PL   545  10,452,899
+3     Bean - Save the App           AU   491   8,496,155
+4   Vinny 69 Save the App           IE   410   5,937,307
+5             Don Rickles           US   358   4,530,565
+6                 Rainman           CA   356   4,476,620
+7           GraziellaElle           IT   290   2,987,415
+8        Susan McAllister  QU_SCOTLAND   289   2,959,001
+9       susan ellerington           CY   269   2,561,094
+10       YANICK#MasterILA           SK   245   2,126,042
+11           Susie Morgan  QU_SCOTLAND   242   2,077,848
+12                    Jlc           DK   233   1,934,406
+13            Lronhampton           US   233   1,924,487
+14                Pie man           TR   225   1,806,370
+15                 Kquine           CA   212   1,595,703

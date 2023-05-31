@@ -1,0 +1,16 @@
+          Player Country Level    Total XP
+1             JB      US   603  12,823,513
+2    Flyin Brian      US   509   9,118,007
+3             JW      US   403   5,726,897
+4         Gatman      US   385   5,246,566
+5          Linda      US   337   4,026,183
+6   Kelly Truman      US   326   3,765,738
+7   Snotsucker_1      US   293   3,036,921
+8    Tyler Chase      US   283   2,843,537
+9             DD      US   274   2,657,017
+10         Coach      US   272   2,622,568
+11  Mike Ophoven      US   267   2,522,303
+12       G Simps      US   262   2,434,480
+13            CJ      US   226   1,810,974
+14        George      US   222   1,747,032
+15         Sandy      US   218   1,686,686

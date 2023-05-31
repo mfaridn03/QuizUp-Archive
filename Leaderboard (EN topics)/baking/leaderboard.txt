@@ -1,0 +1,16 @@
+                    Player   Country Level    Total XP
+1                       JM        GB   607  12,990,716
+2           Tillie Vanilli  QU_WALES   607  12,964,343
+3              Kérin Éilís        US   432   6,585,309
+4                    Poppy        GB   392   5,432,230
+5   nicky :) #FREEG$LDBERG        BR   339   4,077,807
+6                    Kathy        US   332   3,899,235
+7               Jo Cantlay        GB   225   1,804,483
+8                    verve        SG   212   1,597,683
+9               hilarytree        GB   209   1,549,101
+10                Monomoit        US   201   1,437,105
+11                Kayla K.        US   181   1,164,453
+12               CokeFiend        US   179   1,139,593
+13                  Trevor        GB   171   1,045,532
+14                     Pat        US   169   1,021,168
+15                 Son Ghi        IT   161     924,256

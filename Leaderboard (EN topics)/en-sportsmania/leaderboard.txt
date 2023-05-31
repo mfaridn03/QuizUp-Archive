@@ -1,0 +1,16 @@
+                           Player     Country Level   Total XP
+1                         Stephen    QU_WALES   256  2,329,043
+2                          Shorty          DE   201  1,436,229
+3                       Wade Cool          CA   200  1,423,304
+4                             HBU          US   133    635,791
+5                        Valentín          ES   114    465,708
+6                            1MGR          NZ   111    442,249
+7               Tibs Save the App          RO   110    433,926
+8      Silvertongued Smoothie🌏UT💫  QU_ENGLAND   101    369,278
+9                  Dario Pokrivač          HR   100    366,378
+10                 Mario Pokrivač          HR   100    360,514
+11                            Joy          CA   100    359,605
+12       Bjornb🌍UT💫-save the app-          US    97    339,815
+13           Matt A-JWP-Co Leader          GB    97    338,599
+14                 XocolodontaxoL          US    70    181,266
+15  🏃🏻D🏄‍♂️A🏂N🚴N⛹🏼‍♂️Y 🤜🏼🤛🏼 BYE 🤗          AU    62    143,905

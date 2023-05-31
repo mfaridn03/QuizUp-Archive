@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1                 Mozen      HR   666  15,634,039
+2            Yegana Ali      AZ   470   7,786,125
+3                   IkR      FR   420   6,233,666
+4   Georges-Henri Lamot      CH   399   5,637,121
+5                 Oxana      UA   353   4,410,792
+6                 jesse      US   323   3,695,206
+7             Barberina      DE   319   3,593,049
+8                   Fer      ES   311   3,426,124
+9                 UkicA      RS   284   2,867,198
+10              Natalia      RU   275   2,687,426
+11                Gsoho      SI   259   2,374,220
+12            Werwolf62      DE   256   2,318,265
+13           Jan Haiter      DE   253   2,265,575
+14                 Юлия      GB   249   2,203,395
+15               MD cat      SK   244   2,119,399

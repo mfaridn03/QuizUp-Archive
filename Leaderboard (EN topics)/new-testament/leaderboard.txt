@@ -1,0 +1,16 @@
+             Player Country  Level    Total XP
+1                BC      US  1,015  36,155,365
+2                 C      FR  1,010  35,800,239
+3             Linda      US    944  31,323,082
+4         Carnation      KW    672  15,875,035
+5             Donna      US    603  12,791,459
+6        Pam Egland      US    565  11,229,378
+7      Sue Reynolds      US    557  10,925,856
+8           Pdxpops      US    519   9,496,835
+9    Sonny Varghese      IN    490   8,474,362
+10            Bijou      US    474   7,928,483
+11     Hurston Holt      US    459   7,424,783
+12           Alicia      US    449   7,120,189
+13   Trish Williams      US    421   6,243,693
+14          Blondie      CA    420   6,228,154
+15  Mark Pendlebury      GB    409   5,901,879

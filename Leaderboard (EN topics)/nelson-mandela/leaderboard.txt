@@ -1,0 +1,16 @@
+                                   Player     Country Level   Total XP
+1                    Jim09 - Save the App          US   453  7,244,535
+2                                 Emgee09          ZA   345  4,218,602
+3                               Moorlands          DE   218  1,688,620
+4         Chillin' ... “Savant Community”  QU_ENGLAND   215  1,650,972
+5                             Capiecanuck          CA   206  1,504,923
+6                            Austin Cheng          US   204  1,476,245
+7   Themba Ziphilele Moyake ~ Team Savant          ZA   192  1,309,693
+8                           Budi Soemargo          ID   182  1,185,321
+9                                 Planter          US   161    928,726
+10                                   Kiki          FR   160    915,975
+11                                 Chérie          ZA   158    893,443
+12                          June🐞Ward🌍UT💫          GB   153    835,604
+13                                 Doktar          UG   136    664,929
+14                                   Jean          IN   131    619,248
+15                     Jacqueline Goulden  QU_ENGLAND   120    517,745

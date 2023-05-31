@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1           Clowns!!!      AU   767  20,692,632
+2            LacushLa      AU   573  11,562,653
+3        imran bhutta      PK   405   5,792,090
+4   Kate-save the app      US   222   1,752,893
+5        Robert Jones      AU   209   1,555,974
+6       Muriel Heaton      AU   208   1,537,165
+7     Donell Holloway      AU   208   1,536,627
+8             Paladin      AU   204   1,482,411
+9                 HBU      US   184   1,210,975
+10             Surfer      AU   179   1,144,495
+11       Robert McNab      AU   160     921,470
+12  Robbie J Woodward      AU   133     636,710
+13       Dubbo Dubrow      AU   132     623,514
+14            Narelle      AU   129     598,174
+15      Brett Gregson      AU   125     561,478

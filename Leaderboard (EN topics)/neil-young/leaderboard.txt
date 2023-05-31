@@ -1,0 +1,16 @@
+                             Player     Country Level   Total XP
+1                          Mac Eoin          IE   435  6,665,434
+2                          Feldkamp          DE   419  6,202,123
+3                          Neil_pea          DK   355  4,460,216
+4                             Mitzi          US   312  3,456,865
+5                      Edi Almerian          DE   288  2,944,417
+6                        Vaeltenulv          DK   274  2,661,057
+7   Chillin' ... “Savant Community”  QU_ENGLAND   235  1,967,947
+8                       Brian Mills          US   231  1,895,577
+9                        Godsgirl62          US   225  1,795,540
+10        Lechelle Jaramillo-Eggers          US   219  1,707,304
+11             Jim09 - Save the App          US   218  1,689,528
+12                    kitchenrickie          US   214  1,627,959
+13                 Simon Blackstone          GB   186  1,230,283
+14                     Ruth Maxwell          AU   176  1,102,532
+15              SCOOBSAYSGOODBYEALL          GB   163    953,381

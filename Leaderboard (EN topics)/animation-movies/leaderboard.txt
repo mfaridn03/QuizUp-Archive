@@ -1,0 +1,16 @@
+                    Player      Country Level   Total XP
+1             The Punisher           US   517  9,429,662
+2                  J.H.F.F           US   425  6,383,427
+3   nicky :) #FREEG$LDBERG           BR   339  4,070,829
+4                   Pigpen           US   285  2,873,019
+5                    Lilie           DE   239  2,022,719
+6                    Kelly           US   222  1,756,832
+7                  Camelia           ES   219  1,700,471
+8              Gomes {ֆȶო}           BR   205  1,499,352
+9                    Benny  QU_SCOTLAND   203  1,475,302
+10                 Belinda           NZ   203  1,466,167
+11           Lady in Black           TR   190  1,288,717
+12           Miguel Flores           US   190  1,283,054
+13         Vitória Beatriz           BR   183  1,195,365
+14          Michael Clarke           NZ   177  1,116,717
+15          Mario Pokrivač           HR   162    935,158

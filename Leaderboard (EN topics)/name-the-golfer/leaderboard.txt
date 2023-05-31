@@ -1,0 +1,16 @@
+                 Player      Country Level    Total XP
+1   Alex R save the app           IE   633  14,110,089
+2                Holton           GB   531   9,946,783
+3      <--{ HUNTER }-->           US   340   4,083,677
+4            The Golfer           CA   334   3,948,671
+5       Scott A Jacques           US   302   3,235,155
+6          Zafar Koreja           PK   269   2,569,822
+7                  Glen           CA   242   2,075,097
+8              AbYwOoDs           MY   222   1,748,663
+9                    LM           ZA   219   1,706,963
+10              Russell           US   219   1,705,445
+11            Bylslyper           ZA   207   1,531,701
+12                 Paul           GB   192   1,311,185
+13                  Jim           CA   191   1,296,179
+14            Greyskull  QU_SCOTLAND   164     957,608
+15                  PAT           IE   162     940,239

@@ -1,0 +1,16 @@
+                   Player     Country Level    Total XP
+1                spoutnik          FR   918  29,582,514
+2              Deus vult!          US   787  21,761,670
+3         Michel BOGAERTS          FR   732  18,859,968
+4          Michel Leblicq          BE   535  10,103,014
+5          Isabelle Fauŕé          FR   509   9,142,298
+6                   NANAB          US   507   9,048,212
+7     Baptiste Dentifrice          FR   487   8,360,189
+8   One from the bad guys          DE   484   8,251,710
+9                    JPhi          FR   479   8,081,106
+10               Nipaucha          CA   457   7,355,462
+11         Michel Leblicq          BE   384   5,208,043
+12                   Rock  QU_ENGLAND   311   3,415,874
+13                   Mike          GB   303   3,258,011
+14                   Romy          FR   279   2,755,769
+15          condezayguais          FR   279   2,750,812

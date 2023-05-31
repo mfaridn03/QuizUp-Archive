@@ -1,0 +1,16 @@
+                          Player     Country Level    Total XP
+1                      ••ᒍᗩYᗪᗴ••          US   863  26,163,027
+2                    WhiteRain 🦋          CA   584  11,995,166
+3                  GraziellaElle          IT   343   4,153,399
+4                        Dales10          DE   306   3,314,289
+5                          Sandy  QU_ENGLAND   264   2,470,157
+6                        Chelsea          US   250   2,216,175
+7                      clodius63          FR   230   1,878,208
+8   Kleber #C-ILA (Save the app)          BR   225   1,806,560
+9                Michael Pointer          AU   215   1,646,775
+10                    Jojo Gunne          GB   211   1,592,071
+11                   Lronhampton          US   211   1,583,918
+12                       Pie man          TR   205   1,493,161
+13               Blackpool Belle          GB   205   1,492,799
+14            Alejandra Irigoyen          MX   204   1,481,031
+15               Sue Ellerington          GB   201   1,440,685

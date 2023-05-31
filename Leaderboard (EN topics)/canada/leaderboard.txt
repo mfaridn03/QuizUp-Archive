@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                     MG      US   827  24,017,059
+2            Robin Hodge      CA   516   9,393,627
+3             The Golfer      CA   490   8,459,261
+4                Nicki 🥞      CA   485   8,290,210
+5                    DJC      CA   482   8,197,377
+6                   WK57      CA   470   7,785,402
+7                   Foxy      CA   463   7,574,749
+8                  Laura      CA   433   6,606,067
+9                 PJones      CA   420   6,237,563
+10            Nat Bailey      CA   402   5,702,980
+11               Mona Lu      DE   370   4,838,524
+12  Blaze “Save the App”      CA   351   4,362,020
+13                 Chris      GB   334   3,945,061
+14                Paul M      CA   324   3,716,026
+15             Jimberger      US   322   3,675,319

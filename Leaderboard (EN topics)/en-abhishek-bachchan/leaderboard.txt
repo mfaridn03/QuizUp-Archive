@@ -1,0 +1,16 @@
+                 Player Country Level Total XP
+1   Haseeba Arif Khatri      PK   118  506,786
+2             Chandrika      IN   106  404,007
+3          Invoker™ ₹ɘȵ      IN   104  388,663
+4                 Ashok      IN   103  384,646
+5                  Jean      IN   101  369,023
+6                  Sona      IN   100  361,570
+7   Poonam Arora Sahani      IN    97  339,106
+8     Syed Askari Abbas      PK    82  243,507
+9      Michelle Alvarez      EC    77  217,880
+10         Gopinath.C.K      IN    68  170,896
+11          Lronhampton      US    65  156,468
+12        Saloni Bansal      IN    60  132,454
+13       Radhika Sharma      IN    57  119,680
+14                Katsu      AU    56  116,872
+15      Jayeshwar Singh      IN    52  101,965

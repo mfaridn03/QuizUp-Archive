@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1              Golding      US   414  6,066,561
+2             Velma Jo      US   337  4,020,709
+3        June🐞Ward🌍UT💫      GB   271  2,598,585
+4                Cassy      CA   211  1,588,557
+5          AndresHappy      PH   198  1,393,415
+6         Beny Yohanes      ID   178  1,135,817
+7   BKM51 save the app      DE   178  1,132,262
+8          Velma Grace      US   110    438,813
+9          Šêäń.Ć ~ ST      US   107    411,058
+10              Stuart      US   100    360,708
+11        Daniel David      DE    88    282,442
+12     Tamás Sebestyén      HU    88    280,657
+13                 Deb      US    85    266,401
+14              Fallon      US    72    192,959
+15       David Woodman      GB    71    187,589

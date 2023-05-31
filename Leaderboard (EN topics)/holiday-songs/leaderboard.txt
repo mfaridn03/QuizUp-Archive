@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1        Rebecca Dun      US   440  6,835,422
+2        Teresa Hall      US   406  5,827,170
+3             Denise      US   383  5,192,988
+4   Mary Fay Kennedy      CA   329  3,821,933
+5        Elsie Snave      CA   295  3,077,105
+6              Peggy      US   294  3,053,366
+7               Mari      US   284  2,863,879
+8                 Bw      US   257  2,337,747
+9             gLinda      US   213  1,611,692
+10       Carol Jones      US   200  1,427,366
+11    LADYBUG LOUISA      US   180  1,151,022
+12            Tsling      US   179  1,147,264
+13         Mattkathy      US   176  1,109,382
+14                Ed      RO   170  1,031,296
+15      <'{(((((>< 4      US   165    978,742

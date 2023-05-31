@@ -1,0 +1,16 @@
+                                 Player Country Level    Total XP
+1                      محمد الصيد إدريس      LY   700  17,216,440
+2                              FastFred      US   643  14,540,956
+3                  Herby1516  ⚡avant 💡🦈      CH   533  10,021,520
+4                                Eisbär      CH   531   9,924,624
+5                          Diego Rivera      DE   500   8,799,169
+6                               Margaux      FR   453   7,232,634
+7                                  MB25      FR   428   6,475,134
+8                      Mohammed El Said      LY   363   4,646,504
+9   Petra Gorgas "Please, save the App"      DE   300   3,197,470
+10                              Lorelei      US   300   3,194,970
+11                               Kluane      CH   300   3,194,235
+12                            Taoiseach      US   283   2,834,634
+13            Donatelli  "save the app"      CH   263   2,456,245
+14                         Sujata Mehta      IN   252   2,256,030
+15                        Mehdi Bouziri      TN   249   2,208,228

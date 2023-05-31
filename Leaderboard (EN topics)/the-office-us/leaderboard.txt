@@ -1,0 +1,15 @@
+               Player Country  Level    Total XP
+1            Todd ᴵᴸᴬ      AU  1,111  43,375,272
+2                 M J      US    814  23,307,396
+3        SchruteFarms      US    644  14,584,863
+4            Mitchell      US    392   5,439,487
+5            Campbell      CA    361   4,603,244
+6                  Jp      US    360   4,581,102
+7    Sheila the Great      US    357   4,498,559
+8              Imbaro      US    328   3,810,406
+9                Erin      US    286   2,908,512
+10   Kristoffer Riley      US    270   2,582,800
+11           Dcatalan      US    265   2,493,020
+12          Bluu21||Æ      US    263   2,460,304
+13      mjsterling322      US    252   2,263,560
+14  Mrs. Jamie Fraser      US    250   2,211,342

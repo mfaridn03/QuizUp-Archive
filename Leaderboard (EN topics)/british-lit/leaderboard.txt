@@ -1,0 +1,16 @@
+                      Player      Country Level    Total XP
+1      MightyMole#Golden ILA           GB   702  17,353,826
+2   Iris Eustace Halmos 100+           US   666  15,592,194
+3   Judith Havelock de Waele           GB   525   9,706,451
+4                 Quizaddict   QU_ENGLAND   507   9,056,945
+5                 Hazel Lunn           GB   443   6,913,956
+6                    GrannyC   QU_ENGLAND   419   6,190,621
+7                        HML           GB   417   6,151,346
+8                       Rosy           GB   386   5,264,028
+9                    Malcolm           GB   341   4,118,649
+10                    Gareth           GB   323   3,696,189
+11                   Zenobia           US   307   3,348,782
+12                 CA Kearns           CA   307   3,347,778
+13            Jane V * JOT *  QU_SCOTLAND   304   3,264,169
+14                    Pickle           ZA   283   2,836,284
+15              myles scully           IE   274   2,658,905

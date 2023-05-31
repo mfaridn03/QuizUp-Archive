@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1            Brightthehour      CA  1,042  38,131,791
+2                Sinantim1      US    634  14,147,268
+3            JeSuisCharlie      DE    354   4,442,152
+4                 MrShelby      US    342   4,149,884
+5   nicky :) #FREEG$LDBERG      BR    335   3,979,296
+6                     MTMF      GB    319   3,608,340
+7                   Pigpen      US    307   3,334,817
+8           dave uus basel      CH    286   2,894,166
+9                Sinantim1      US    248   2,176,757
+10               Sinantim1      GB    221   1,740,209
+11          Andy MacDonald      GB    216   1,659,505
+12              Marc Harry      GB    207   1,527,023
+13                mikedman      NZ    203   1,468,942
+14                Bikebird      US    193   1,325,762
+15           Speks Felidae      US    193   1,322,098

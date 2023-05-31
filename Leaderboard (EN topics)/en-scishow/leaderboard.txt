@@ -1,0 +1,16 @@
+                             Player     Country Level    Total XP
+1                           Planter          US   575  11,631,802
+2            Hurricane Hunter (Ret)          US   337   4,029,211
+3                           Cliveus  QU_ENGLAND   328   3,803,942
+4                    lunatic sanity          US   297   3,133,781
+5                   WorldTravelAcer          GB   288   2,932,665
+6                                TJ          IN   265   2,491,875
+7       Mark Hannigan888 saveQuizUp          ZA   233   1,936,605
+8                          Meowstro          US   233   1,930,489
+9                             Marge          US   226   1,810,957
+10  Buck Rodgers Space Expansionist          US   207   1,523,086
+11                       Scferguson          CA   204   1,478,801
+12                        travis462          US   200   1,420,096
+13                    Here's johnny          US   195   1,353,334
+14             Drizzy Got Benjamins          US   163     952,305
+15                       Friggeldee          GB   158     889,616

@@ -1,0 +1,16 @@
+                       Player      Country Level   Total XP
+1   ⲓ  l〡  ᚐ  〡l  ⲓ  𑁮 ⼂ ー  ╮           FR   303  3,243,821
+2                         Ged           GB   212  1,600,337
+3               Vedant Gautam           IN   193  1,322,715
+4                  Phil Lewis           GB   175  1,089,730
+5             #G0T ᗰ4ᗪ ᔕK1ᒪᒪᘔ           CA   159    906,489
+6                  Ahmed Baig           CA   157    883,269
+7               Aly Ahmed Aly           EG   155    858,443
+8                  yash tayal           IN   148    790,816
+9                Will Kendall           DE   148    782,902
+10             David Connelly  QU_SCOTLAND   146    761,774
+11           Pete Chamberlain     QU_WALES   145    756,490
+12                    ajwalks   QU_ENGLAND   145    751,344
+13             Eoin O'Faogáin           IE   137    671,412
+14                     Quiqué           US   133    637,508
+15              Hayley Barnes           GB   133    635,926

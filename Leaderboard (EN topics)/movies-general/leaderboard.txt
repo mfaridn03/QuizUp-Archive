@@ -1,0 +1,16 @@
+                                          Player      Country  Level    Total XP
+1                                             ⚜️           US  1,172  48,194,967
+2                                          Judyy           US  1,000  35,145,169
+3                                          Young           US    924  30,030,703
+4                                        Joe V60           IE    848  25,280,440
+5                                    CAVS 4 ever           US    746  19,572,230
+6                                   Robert Gauld  QU_SCOTLAND    580  11,849,211
+7                                 Mark Careswell           CA    546  10,516,030
+8                                           T-Po           BE    517   9,416,301
+9                                              🖤           US    504   8,943,225
+10                                   VernonENeal           US    502   8,887,953
+11                                        Cookie           ZA    500   8,800,336
+12  Ape X  SAVE THE APP  ₹ɘȵ  aka  Anthropic Evo           FR    465   7,621,968
+13                                  Comboio Azul           PT    448   7,067,530
+14                                       Belinda           NZ    441   6,856,938
+15                                     Juni juli           ID    415   6,088,976

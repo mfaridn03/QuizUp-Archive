@@ -1,0 +1,16 @@
+                 Player Country Level   Total XP
+1   ✦Ballino Bradbury ⚡      FR   322  3,672,502
+2               Loyos 👽      FR   314  3,497,383
+3      Claudette Trupit      NC   310  3,406,343
+4              jaxonlex      NZ   287  2,910,828
+5                 Macca      GB   260  2,402,307
+6                 Alisa      US   238  2,011,449
+7                  Gwen      AZ   215  1,653,098
+8               Larissa      BR   215  1,649,684
+9              some12be      DE   200  1,429,805
+10                  Joe      US   196  1,376,182
+11               Morgan      US   191  1,300,675
+12               Alicia      US   182  1,188,015
+13                 Dave      US   179  1,144,535
+14            ELSAJHOVA      US   179  1,141,032
+15      Nathanael Djodi      ID   179  1,140,946

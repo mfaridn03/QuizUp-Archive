@@ -1,0 +1,16 @@
+            Player      Country Level   Total XP
+1   Judith Neiuber           US   390  5,371,576
+2            Mario           US   318  3,585,967
+3     Kathy Leitch           CA   249  2,210,732
+4         Meowstro           US   249  2,195,821
+5    allan wishart           GB   224  1,784,646
+6   Michael Scharf           US   220  1,726,899
+7     Ace Beanpole  QU_SCOTLAND   205  1,493,492
+8           legend           US   194  1,336,458
+9           Beaner           US   173  1,073,295
+10    Wise old man           US   171  1,044,336
+11           Sue G           US   161    928,219
+12           pskao           US   161    923,816
+13            Anne           FR   158    896,123
+14  Lilian Moreira           BR   154    850,973
+15      Golden Dog           US   144    746,737

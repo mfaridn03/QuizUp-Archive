@@ -1,0 +1,16 @@
+                       Player     Country Level    Total XP
+1                  Monique 13          US   894  28,063,586
+2                      Debi G          US   525   9,715,945
+3               Barbara Sardo          US   303   3,245,085
+4                         xXx          IN   262   2,440,419
+5                        Mimi          US   261   2,418,430
+6                      Jodeee          US   229   1,860,520
+7           Klaartje Bullough          GB   228   1,850,469
+8           Db7. SAVE THE APP  QU_ENGLAND   208   1,540,352
+9   Sophie Mujib-save the App          PK   202   1,460,983
+10                   kola2203          DE   195   1,359,029
+11                  BellaLuna          US   183   1,198,092
+12                    Xi Chao          MX   178   1,137,448
+13                        Eff          FR   178   1,131,645
+14                    Dishank          IN   177   1,115,122
+15                     Soniya          IN   173   1,070,991

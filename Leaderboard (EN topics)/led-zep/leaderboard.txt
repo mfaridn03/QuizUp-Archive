@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                     Tony      CA   853  25,569,104
+2                    Batch      US   563  11,154,636
+3                 Pizzaman      US   542  10,368,653
+4                      WJD      US   445   6,988,861
+5                     Jade      US   432   6,573,458
+6                    JZ 49      US   428   6,480,175
+7            Bill Mitchell      US   364   4,687,594
+8              Brian Mills      US   362   4,630,685
+9       Julie Save the App      US   355   4,468,438
+10           Bri Cazadores      US   287   2,922,802
+11                   Chris      GB   283   2,846,453
+12  Brenda..Save the App!!      US   253   2,271,124
+13           electricphase      GB   252   2,249,779
+14                     b44      GB   241   2,058,343
+15     _working class hero      US   239   2,035,661

@@ -1,0 +1,16 @@
+                    Player     Country Level    Total XP
+1            Tracy Jacques          GB   594  12,424,452
+2                 Old Blue          US   511   9,194,853
+3                      Jan          GD   476   7,999,454
+4   Heather Brain Of Essex  QU_ENGLAND   434   6,642,773
+5                      Alp          TR   415   6,093,914
+6          Keith And Susan          GB   403   5,728,695
+7                  Msuzdak          US   385   5,240,455
+8           Lucille Dupras          US   352   4,393,236
+9                 Dennis S          US   344   4,182,693
+10          Audrey Nuttall          GB   314   3,501,316
+11            Island Luver          US   293   3,050,377
+12  Jackie Schwalger Wendt          NZ   266   2,503,846
+13                  IBKyle          US   260   2,402,561
+14               Jack Dunn          US   250   2,219,910
+15                  Oldhog          ZA   237   1,996,466

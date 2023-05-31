@@ -1,0 +1,16 @@
+                             Player   Country Level   Total XP
+1   Lukainalaia# E-ILA Save the App        FR   500  8,797,656
+2                 Dora The Explorer        QT   403  5,729,326
+3                   Stephen Kidwell        US   358  4,526,872
+4            Hermine - Save the App        AM   282  2,827,147
+5                              Mace        PH   220  1,720,946
+6                             Hub30        US   215  1,642,291
+7                           Stephen  QU_WALES   205  1,493,168
+8                        Deus vult!        US   203  1,472,970
+9                       Piya Sharma        IN   201  1,446,218
+10                             Jean        IN   195  1,350,230
+11         Chocolate (save the app)        GB   186  1,233,478
+12                         Diogenes        BA   181  1,164,457
+13                      UMBERTO Eco        GR   161    925,393
+14                    Bob Alexander        CA   156    873,334
+15                              Joy        CA   150    805,981

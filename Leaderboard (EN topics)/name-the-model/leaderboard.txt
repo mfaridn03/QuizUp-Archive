@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1   Quoifondo "play4brain"           CH   600  12,686,235
+2                ELSAJHOVA           US   558  10,952,427
+3             Adam Macgill           GB   236   1,978,617
+4                 Queequeg           DE   235   1,968,100
+5                 Blue Sun           DE   213   1,619,540
+6         nicofromtheblock           FR   200   1,425,712
+7          Король Виктория  QU_NIRELAND   187   1,242,458
+8                      Bob           US   154     851,867
+9          Roland Heinisch           CH   143     734,949
+10                      D.           FR   142     722,889
+11                 James H           GB   135     656,801
+12                   Chloe           GB   133     635,807
+13                 Vendila           US   132     622,548
+14                  KishaK           JM   128     585,864
+15                   SASHA           RU   123     543,895

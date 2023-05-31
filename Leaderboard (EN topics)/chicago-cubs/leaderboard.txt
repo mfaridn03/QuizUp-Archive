@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1   Rat Super Genius      US   462  7,529,015
+2             Dink24      US   390  5,364,611
+3           AnnieHat      US   317  3,560,018
+4              Hub30      US   301  3,208,299
+5    pedsr@yahoo.com      US   239  2,034,394
+6             Dink23      US   215  1,645,765
+7             ricker      US   202  1,457,406
+8               Evan      US   181  1,174,870
+9    Linda Panszczyk      US   168  1,009,729
+10           Cat Ice      US   142    722,785
+11         Srafalson      US   125    565,328
+12           Buckets      US   122    535,379
+13            Todd C      US   104    391,955
+14             Eddie      US   104    389,465
+15       Robert Kase      US   102    380,576

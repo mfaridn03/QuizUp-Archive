@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1               Karant23      US   380  5,098,168
+2                   Thor      US   303  3,255,090
+3   suzy - Save The App.      ID   295  3,080,200
+4             ann thomas      US   264  2,467,257
+5                Apoorva      IN   240  2,041,068
+6             Luckyheart      US   227  1,833,309
+7                  Nuray      TR   226  1,820,392
+8                Planter      US   221  1,742,442
+9                 Slinky      US   218  1,685,322
+10                     M      US   185  1,226,921
+11           Curt Cosper      US   182  1,184,931
+12                  chou      FR   174  1,084,243
+13     Opal Belle Jonson      US   167    999,677
+14                 MLMMD      US   162    940,670
+15              Marisand      US   157    879,797

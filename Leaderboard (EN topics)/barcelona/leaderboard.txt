@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1   Barçek W. Sowiński      PL   700  17,234,285
+2      Florián • JWP •      FR   616  13,352,140
+3               Carlos      ES   380   5,092,713
+4   Ivan Malenica Dugi      HR   379   5,074,033
+5         Carmen Solís      ES   363   4,661,606
+6          Flaco daddy      MX   350   4,323,047
+7              Rafa F.      CR   321   3,647,750
+8               Girish      IN   307   3,341,330
+9                Johan      ES   293   3,045,632
+10       xavi Iglesias      ES   281   2,796,878
+11      Adriel Lolaeff      FR   269   2,576,728
+12                  El      MA   259   2,388,178
+13            Carlos93      ES   256   2,329,929
+14           Injertado      CO   255   2,302,421
+15               Wincq      BE   241   2,067,063

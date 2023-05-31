@@ -1,0 +1,16 @@
+              Player      Country Level    Total XP
+1            MiChAeL           GB   534  10,061,581
+2         Will's Dad           CA   479   8,106,745
+3                Liz           US   400   5,649,891
+4   Susan McAllister  QU_SCOTLAND   357   4,511,251
+5      ElephantBakes           US   310   3,411,904
+6        •christmas•           CA   296   3,109,527
+7          Roll Tide           US   286   2,907,570
+8       Pringlesrock           US   278   2,736,276
+9       JaxNole Marc           US   266   2,513,712
+10         Kathy Ray           US   254   2,298,985
+11           Gadzooo           US   249   2,200,998
+12          FourierT           US   246   2,147,316
+13             Sandy           US   245   2,138,347
+14          Michelle           AU   244   2,110,178
+15             SHanT           US   226   1,817,840

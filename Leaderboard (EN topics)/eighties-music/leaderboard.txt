@@ -1,0 +1,16 @@
+                                    Player     Country  Level    Total XP
+1                                ••ᒍᗩYᗪᗴ••          US  1,075  40,560,269
+2                                    Marek          PL    747  19,629,430
+3                                  Yetimcq          GB    522   9,590,821
+4                Cookmeister! Save the app          GB    478   8,050,877
+5                            Dave Flanagan          IE    414   6,046,066
+6   David Valenzuela At Home cause covid19          MX    413   6,032,369
+7                                 W1Führer          DE    385   5,228,157
+8                                  Michael          US    371   4,871,939
+9                              Yerba Buena          MY    362   4,632,504
+10                             Michael Rjm          GB    350   4,327,962
+11                             Andy Gemini          GB    319   3,611,315
+12               Krisbergerfr-SAVE.The.App          FR    310   3,394,085
+13                       Phillip Cambouris          AU    271   2,600,662
+14                     Ahmed Khan Barakzai          PK    257   2,347,224
+15                                     Sam  QU_ENGLAND    247   2,169,235

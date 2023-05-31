@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1        slambert266      US   976  33,474,556
+2        Ian Kennedy      GB   591  12,298,752
+3                Jax      GB   363   4,654,439
+4         Rhiannon90      US   350   4,337,639
+5            Mariyam      AI   266   2,501,845
+6                Liz      IE   252   2,256,932
+7               Char      GB   231   1,905,145
+8              Marga      NL   207   1,521,855
+9     Natasha Girvan      GB   206   1,517,180
+10        Godsgirl62      US   185   1,227,639
+11              Debs      GB   171   1,040,815
+12  Mary Grace Yabut      PH   169   1,018,043
+13    lindseysomwaru      US   163     947,896
+14          Charissa      MY   162     934,476
+15        DJ Eargasm      US   160     917,637

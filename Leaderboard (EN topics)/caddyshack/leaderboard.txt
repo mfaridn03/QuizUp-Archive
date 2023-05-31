@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                      Tim      GB   621  13,568,915
+2              Curtmudgeon      US   614  13,270,134
+3                   Denise      US   536  10,133,453
+4                  GrantVE      US   456   7,347,226
+5                 Brentski      US   389   5,335,833
+6   nicky :) #FREEG$LDBERG      BR   336   3,983,171
+7              Elihu Crane      CA   240   2,044,799
+8                      Kev      US   221   1,733,574
+9                   Jerogo      US   216   1,660,811
+10                 Stevo64      GB   205   1,490,507
+11           Tiger Lionsby      US   192   1,314,894
+12              Jimmy1ball      CA   162     942,981
+13                    Tony      US   157     877,901
+14                      Ax      US   155     863,695
+15               Blendking      US   155     862,673

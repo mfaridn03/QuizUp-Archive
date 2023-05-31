@@ -1,0 +1,16 @@
+                          Player Country  Level    Total XP
+1                              -      US  1,170  48,035,278
+2                  Simon Redwood      GB  1,106  42,995,371
+3                     Hrvoje Zli      HR    733  18,900,756
+4             MrA - Save The App      AU    725  18,491,462
+5                    HorrorVacui      MX    595  12,486,591
+6                           Jono      NZ    408   5,877,211
+7                      Dalton BC      PE    404   5,759,295
+8   Phillip Davies Saves the App      GB    401   5,671,042
+9                      Roy Batty      ES    370   4,836,181
+10                          Jade      US    327   3,792,775
+11                          Jeff      US    326   3,767,409
+12                      Feldkamp      DE    275   2,675,701
+13                   Skinny Pete      US    274   2,670,626
+14             Dimitri Chevallon      FR    271   2,613,097
+15                       Leandro      ES    269   2,573,952

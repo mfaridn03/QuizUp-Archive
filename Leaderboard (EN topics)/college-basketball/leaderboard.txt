@@ -1,0 +1,16 @@
+           Player Country Level   Total XP
+1       TRUE BLUE      US   421  6,267,442
+2   Steel Curtain      US   300  3,191,069
+3     Justin Iero      US   276  2,702,179
+4       Jackdrich      US   271  2,602,392
+5        Bribcool      CA   241  2,061,314
+6          CKKY54      US   218  1,684,301
+7           Rocky      US   190  1,290,580
+8           Lorne      CA   187  1,245,864
+9            Rick      US   163    956,577
+10        Blessed      US   155    855,882
+11   Brian Devine      US   152    826,133
+12       Skippy59      US   145    758,928
+13  2EZ🏀NBAKINGs💯      US   138    684,958
+14          Lonre      CA   132    626,446
+15        Charlie      US   125    563,058

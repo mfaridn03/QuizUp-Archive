@@ -1,0 +1,16 @@
+                  Player     Country Level   Total XP
+1                  corey          AU   305  3,295,539
+2                  Ellie          GB   221  1,742,107
+3       Mikael Mikaelson          KE   220  1,724,058
+4      Rebekah Mikaelson          US   206  1,509,849
+5              Mr. Devil          GB   191  1,298,464
+6                 AkaSha          FR   181  1,169,799
+7                  Tasha          GB   180  1,157,852
+8      Niklaus Mikealson  QU_ENGLAND   178  1,126,392
+9                 Alex 🤑          US   160    915,157
+10          Gillies4life          US   158    897,171
+11  (K.K)Hayley Marshall          US   156    876,380
+12                   Abi  QU_ENGLAND   145    757,731
+13              McKenzie          US   144    742,649
+14        Maureen Holmes          GB   144    742,338
+15                chloe•          GB   140    702,769

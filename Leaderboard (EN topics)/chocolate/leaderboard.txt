@@ -1,0 +1,16 @@
+                      Player Country Level    Total XP
+1   Chocolate (save the app)      GB   743  19,397,927
+2                      Arden      US   687  16,588,089
+3                       TedK      US   514   9,311,478
+4                        DNA      US   467   7,695,372
+5               Fart Blossom      US   379   5,074,149
+6                Beth Bardot      US   342   4,134,958
+7                   RIA ROSE      DE   325   3,732,864
+8             Audrey Nuttall      GB   324   3,707,385
+9                  Monikäfer      DE   238   2,015,776
+10              Cathy_G 🌎UT💫      US   208   1,542,252
+11                  Ida Know      US   200   1,423,865
+12                     Meemo      US   187   1,248,158
+13             Ayesha Dawood      TR   175   1,096,723
+14                    Dave B      GB   174   1,083,237
+15        Chef Midnightsword      US   168   1,007,823

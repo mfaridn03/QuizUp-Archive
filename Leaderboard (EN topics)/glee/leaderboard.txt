@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1   Blaine Anderson-Hummel      US  1,017  36,336,716
+2                     Jenn      US    847  25,240,348
+3             Bucky Barnes      SG    678  16,162,649
+4         Santana D. Lopez      US    488   8,404,838
+5                 Brittana      BR    402   5,695,232
+6               timeshaker      DE    377   5,024,789
+7               Kurtpuppet      MX    351   4,353,324
+8          Elias ! | ҜΞ 〽️      SE    333   3,920,526
+9            Katie Collins      GB    305   3,291,716
+10                   Casey      US    302   3,226,319
+11        Michael Pasquale      US    291   2,993,767
+12                  Isolde      BE    283   2,839,266
+13                GemmyGem      US    268   2,540,310
+14                   Pelin      TR    257   2,338,255
+15                 Sarah Y      CA    230   1,879,197

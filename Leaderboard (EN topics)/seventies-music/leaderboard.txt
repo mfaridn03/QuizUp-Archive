@@ -1,0 +1,16 @@
+                       Player      Country Level    Total XP
+1               KATMAN JAYMEE  QU_SCOTLAND   892  27,944,129
+2                      Cougho           US   844  25,069,572
+3             The Rockmeister           GB   814  23,279,183
+4                      Malrom           CH   797  22,335,188
+5                         ej6           AU   732  18,844,718
+6                      Mooper           US   668  15,686,133
+7   Cookmeister! Save the app           GB   663  15,456,194
+8                The Punisher           US   527   9,794,868
+9                   <Deleted>           GB   515   9,340,726
+10               Susie Morgan  QU_SCOTLAND   498   8,741,414
+11           Cleva treva 100+           GB   494   8,595,198
+12                 Kim Wagner           CA   467   7,685,335
+13               Paul Newnham   QU_ENGLAND   446   7,005,448
+14               Steroid Free           US   431   6,543,983
+15                      Jingo           GB   383   5,179,894

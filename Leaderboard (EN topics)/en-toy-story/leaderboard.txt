@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1       Brandon Manivant      FR   280  2,777,490
+2                 Jackal      US   249  2,200,618
+3                Jay7080      US   224  1,779,627
+4                Jay7080      US   216  1,654,203
+5         Sniwott #C-ILA      US   200  1,427,968
+6                 Ernest      US   190  1,287,144
+7                𝅺𝅺Farah      MY   189  1,276,264
+8           Shawn Larson      US   171  1,040,870
+9                 Marife      PH   152    827,859
+10  El Chico De La Boina      MX   147    776,120
+11                 TJMay      US   145    753,824
+12              BarbHast      US   142    728,336
+13             Walker F.      US   141    713,377
+14      Barbara Hastings      US   141    710,417
+15             Lilypie12      CA   140    701,648

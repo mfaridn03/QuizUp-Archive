@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1             Roar      US   505  8,994,175
+2            Steve      US   426  6,402,595
+3             Mark      US   242  2,080,466
+4   K.A.Richardson      US   230  1,873,479
+5               gy      US   221  1,740,254
+6      WhiteRain 🦋      CA   206  1,516,981
+7   Robert Hendrix      US   158    893,349
+8          G Simps      US   156    871,666
+9       Lon Chaney      US   149    801,453
+10           Jbird      US   147    779,128
+11  Rerun Van Pelt      US   136    667,792
+12            Dave      US   130    612,060
+13            Matt      US   128    586,983
+14  lunatic sanity      US   120    521,535
+15        SRSteele      US   117    490,693

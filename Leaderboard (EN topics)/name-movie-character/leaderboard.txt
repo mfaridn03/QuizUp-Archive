@@ -1,0 +1,16 @@
+                 Player      Country Level    Total XP
+1   morgan6 #Legend-ILA           US   550  10,676,532
+2          `ryan.ZAY $k           AU   308   3,362,014
+3         rickngangster           US   240   2,039,138
+4                Snedds  QU_SCOTLAND   201   1,444,419
+5                Andy S           GB   194   1,339,146
+6         Bruce Jackson           US   175   1,097,504
+7           WhiteRain 🦋           CA   171   1,047,158
+8         James Daniels           US   168   1,004,716
+9        Mario Pokrivač           HR   162     934,636
+10           Chris Ober           US   155     859,512
+11         ****NANA****           CA   153     838,696
+12           GhostyMike           US   148     787,977
+13         Comboio Azul           PT   141     709,535
+14      Jacqui 🦍 Savant           US   140     700,619
+15          Sasa Mandic           RS   139     697,197

@@ -1,0 +1,16 @@
+                          Player Country  Level    Total XP
+1                     Dana the K      US  1,111  43,347,814
+2                         Lennon      DE    835  24,486,064
+3                      ma.isabel      PH    660  15,325,881
+4                        Redisna      CA    418   6,171,554
+5                  Todd Schickel      US    368   4,798,976
+6                        COLLEEN      US    299   3,172,164
+7                   Micah Millet      US    287   2,922,991
+8                             Em      PH    267   2,538,093
+9                      Shadow739      US    266   2,517,213
+10                        Blanca      MX    240   2,054,908
+11                    goalcrease      US    225   1,799,243
+12                  The Islander      NZ    200   1,432,729
+13                    Godsgirl62      US    194   1,341,857
+14  Caroline Loots ‘Team Savant’      BE    192   1,318,822
+15                   Jeff Chater      GB    182   1,187,876

@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1                      Ann      GB  1,148  46,303,510
+2                     Eden      CA    625  13,732,229
+3           Ashley and Red      US    229   1,859,926
+4              Selena IC✪N      US    222   1,746,516
+5            Dorothy Kelly      IE    211   1,590,990
+6     Caty Maoudj Nemchand      GB    205   1,491,529
+7                    dotie      IE    198   1,399,097
+8                 okky rad      DE    165     977,148
+9     Karen Ainsworth-Kopa      NZ    165     974,113
+10                   علینہ      PK    161     923,350
+11  Jasmine Marie Robinson      US    156     872,930
+12                  Shaila      IN    155     857,154
+13                Tamara H      US    148     786,778
+14            Red Lion ֆȶო      AU    143     730,813
+15           Kylie Kemsley      AU    143     730,532

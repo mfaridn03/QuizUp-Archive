@@ -1,0 +1,16 @@
+                             Player     Country Level   Total XP
+1                      Guido Hatzis          AU   477  8,017,062
+2                 Syed Askari Abbas          PK   329  3,823,274
+3                              Neil  QU_ENGLAND   176  1,108,085
+4                      Chris Jordan          GB   140    708,260
+5                       Brian Nixon          GB   133    639,037
+6                     Robert Galvin  QU_ENGLAND   125    559,378
+7   Chillin' ... “Savant Community”  QU_ENGLAND   110    435,526
+8                               Sam          GB   101    367,238
+9                              JVSD          IN    93    314,371
+10                       ali hameed          PK    93    312,733
+11                       Anil Patel          GB    77    217,634
+12                       chris gill  QU_ENGLAND    75    203,916
+13                             Mike          GB    73    196,956
+14                 Soundsreasonable  QU_ENGLAND    69    176,336
+15                            Fpgjc  QU_ENGLAND    65    155,663

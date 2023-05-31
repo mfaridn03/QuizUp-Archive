@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1          simply Rich      GB   376  4,992,194
+2        Budi Soemargo      ID   345  4,215,271
+3   Bob Morrisroe#100+      GB   313  3,465,900
+4           PopNemesis      RU   242  2,081,888
+5             Blackout      DE   178  1,126,101
+6           Kyle Edler      US   131    620,118
+7             "!João!"      BR   123    545,886
+8                Caleb      US   116    482,417
+9         Alane Japare      MY   113    462,961
+10          Greg Allan      GB   110    439,068
+11          TheSimsBoi      US   110    435,842
+12            jdav8457      US   107    416,387
+13       Alyssa #E-ILA      US   107    416,190
+14       sammytheteach      US   106    410,743
+15          Toxic King      DE   103    385,193

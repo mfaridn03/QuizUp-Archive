@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1              Collette A.      CA   585  12,045,645
+2            John T. Ewing      US   384   5,222,361
+3         Willy the Wabbit      AU   359   4,556,512
+4   nicky :) #FREEG$LDBERG      BR   345   4,205,614
+5        Alan Giangregorio      US   326   3,758,255
+6        Margaret Gluckman      ZA   268   2,539,304
+7                Solarpuff      US   267   2,524,624
+8               Hazel Lunn      GB   267   2,520,662
+9                      HML      GB   259   2,376,675
+10             David Paton      AU   258   2,359,956
+11           Coffee Napper      US   245   2,127,684
+12           Bob Alexander      CA   223   1,771,588
+13     Theresa  Scott 100+      GB   220   1,718,876
+14                 Onkel D      US   203   1,471,867
+15                   Bob B      US   189   1,276,551

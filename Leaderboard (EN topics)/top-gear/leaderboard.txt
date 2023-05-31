@@ -1,0 +1,16 @@
+           Player     Country Level   Total XP
+1        Campbell          CA   487  8,354,512
+2           Scott          GB   408  5,872,862
+3    Nigel Tufnel          US   250  2,223,193
+4              rb          US   238  2,008,629
+5         Chris B  QU_ENGLAND   217  1,670,641
+6             HAL          CA   174  1,076,099
+7      Amit Arora          IN   156    873,514
+8    Dávid Kravec          SK   138    685,270
+9           Joeyk          US   137    674,596
+10      Sawdust45          US   136    668,027
+11           Nick          US   131    615,731
+12          Latif          IN   131    615,529
+13  Calen Jarrett          AU   130    606,225
+14  Jack Williams  QU_ENGLAND   123    545,661
+15    David Zhang          CA   122    535,297

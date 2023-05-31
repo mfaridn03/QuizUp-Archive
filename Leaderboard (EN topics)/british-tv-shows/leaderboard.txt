@@ -1,0 +1,16 @@
+                    Player      Country Level   Total XP
+1                Mick Pitt           GB   501  8,862,582
+2              Jace de sun   QU_ENGLAND   499  8,794,389
+3                 Stueyroy           GB   400  5,655,762
+4                   Eileen           GB   385  5,229,082
+5                   GoDave           US   383  5,196,992
+6             David Gibson  QU_SCOTLAND   376  4,999,705
+7                     Emma           GB   369  4,823,181
+8   Phil Ferguson ⚡Avant 💡  QU_SCOTLAND   323  3,687,503
+9                     Robb           GB   307  3,330,275
+10          Tim Wordsworth   QU_ENGLAND   295  3,075,471
+11                   Teddy           GB   268  2,545,141
+12            Eddie Burman           GB   265  2,486,897
+13        Christine kenney           GB   264  2,480,200
+14                 Flouswa           US   245  2,124,133
+15                  Revlar           GB   225  1,806,978

@@ -1,0 +1,16 @@
+               Player      Country  Level    Total XP
+1           Amiya Pal           IN  1,284  57,886,941
+2          Paul Smyth  QU_NIRELAND  1,278  57,287,578
+3                 CK1           GB  1,193  49,995,630
+4      Peter Vergados           US  1,117  43,784,454
+5           Favour 78           SG    933  30,571,576
+6           O|||||||O           US    850  25,382,152
+7        Divyesh Noah           IN    826  23,975,637
+8                Neil     QU_WALES    720  18,217,316
+9              Hitchi           CA    636  14,237,090
+10           Budexter           NG    632  14,078,714
+11  Dharampal Jesrani           PK    617  13,399,493
+12   Shobha Toshniwal           IN    568  11,375,075
+13               Lisa           US    567  11,342,051
+14              Peter           US    562  11,128,668
+15       Rickey Estes           US    532   9,973,534

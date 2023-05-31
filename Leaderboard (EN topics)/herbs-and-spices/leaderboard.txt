@@ -1,0 +1,16 @@
+                       Player      Country Level    Total XP
+1             La bestia negra           DE   883  27,383,105
+2               Parveen Kader           IN   673  15,951,907
+3                    ~Sheree~           US   481   8,172,940
+4                     lyne 13           FR   446   7,013,093
+5                 Kay Samaroo           US   444   6,944,653
+6                      lucien           CH   416   6,123,664
+7       maryse  dirty dancing           FR   373   4,923,955
+8                         ひろみ           JP   358   4,543,429
+9   Maria Jose Martinez Gomez           ES   357   4,513,091
+10                   Gabriela           DE   281   2,795,327
+11                      Cathy           FR   269   2,559,074
+12                      Leigh  QU_SCOTLAND   232   1,919,873
+13                      Angie           DE   232   1,906,936
+14  Maria Jose Martinez gomez           ES   226   1,821,777
+15                       Lois           US   216   1,656,899

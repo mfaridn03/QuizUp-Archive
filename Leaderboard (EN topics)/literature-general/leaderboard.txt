@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1                Asimovsjs           US   901  28,557,419
+2                   Shaneb           US   831  24,290,556
+3                 Karant23           US   468   7,736,990
+4             Robert Gauld  QU_SCOTLAND   438   6,778,513
+5                   ngotch           GB   425   6,377,608
+6                Bob Gauld  QU_SCOTLAND   344   4,176,462
+7   nicky :) #FREEG$LDBERG           BR   338   4,039,756
+8           Judith Neiuber           US   312   3,439,546
+9                    Patty           US   295   3,091,759
+10              The Golfer           CA   286   2,898,268
+11                  Blanca           MX   276   2,695,560
+12                     Amy           GB   265   2,490,278
+13                   Keith           GB   260   2,405,480
+14                    Lynn           US   258   2,357,794
+15                 Loopilu           GB   229   1,866,038

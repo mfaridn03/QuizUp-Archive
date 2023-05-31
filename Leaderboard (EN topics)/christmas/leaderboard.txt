@@ -1,0 +1,16 @@
+             Player Country Level    Total XP
+1             Gerry      US   607  12,984,084
+2     Charlie Brown      US   600  12,661,399
+3             Peggy      US   551  10,679,671
+4    Judith Neiuber      US   430   6,534,204
+5          HannahBF      US   400   5,644,974
+6        Luckyheart      US   377   5,030,321
+7     Simon Stinton      GB   295   3,085,881
+8            Jackie      CA   281   2,806,904
+9              Brad      US   262   2,432,665
+10        Kane 🌎UT💫      US   252   2,253,673
+11        Steve0722      US   249   2,203,953
+12  Art Dink Throne      US   247   2,167,061
+13               Bw      US   241   2,061,524
+14           Stitch      US   230   1,877,879
+15             Jslo      US   229   1,867,006

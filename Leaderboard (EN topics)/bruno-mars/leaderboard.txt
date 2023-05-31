@@ -1,0 +1,16 @@
+                   Player      Country Level   Total XP
+1                Nikeduck           US   437  6,732,184
+2   dianahern63@gmail.com           US   263  2,459,149
+3                  Faithh           CA   181  1,163,715
+4                    ceci           BR   165    970,146
+5                Chequita           SR   153    840,106
+6               Jackie W.  QU_SCOTLAND   151    813,359
+7     Jay Mars#XXIVkMagic           US   150    808,501
+8                  Kitten           US   150    802,444
+9          FabiolaVazquez           US   136    664,277
+10                 Rachel           US   128    585,778
+11           hannah weese           US   126    570,930
+12                maria99           PL   119    510,752
+13    natty save the App.           NL   115    479,883
+14                   Mace           PH   115    478,515
+15        Andrè Nathanson           ZA   110    437,072

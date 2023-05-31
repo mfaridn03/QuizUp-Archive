@@ -1,0 +1,16 @@
+                            Player      Country Level   Total XP
+1                Dora The Explorer           QT   453  7,232,320
+2                                C           FR   426  6,401,292
+3           nicky :) #FREEG$LDBERG           BR   336  4,002,993
+4                        Bob's Mom           US   330  3,843,254
+5                       Loxodontoc           US   308  3,362,934
+6                          Desiree           AW   251  2,233,058
+7            Bob Clark Team Savant           ES   230  1,881,581
+8                    Csiga Fahejas           HU   173  1,068,246
+9             suzy - Save The App.           ID   148    783,106
+10                     UMBERTO Eco           GR   137    674,640
+11  C@roline #L-ILA - Save the App           DE   131    613,923
+12                    Red red Rose           FR   128    590,431
+13                     Jolly Roger  QU_SCOTLAND   116    483,282
+14                          Sharon           US   116    482,174
+15                    Ana Teixeira           BR   115    475,275

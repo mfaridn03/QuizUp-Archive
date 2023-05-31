@@ -1,0 +1,16 @@
+                             Player     Country Level    Total XP
+1                          QuizDino          US   580  11,855,207
+2                           Joe V60          IE   390   5,360,942
+3                     Sucyla Nelson          MY   365   4,710,843
+4                      Cathy_G 🌎UT💫          US   348   4,279,307
+5                           Player1          US   342   4,141,499
+6                         Hilma Sue          US   316   3,531,313
+7                             divya          IN   297   3,124,495
+8   Chillin' ... “Savant Community”  QU_ENGLAND   274   2,663,273
+9                             0rkéd          MY   266   2,509,625
+10                   Audrey Nuttall          GB   238   2,012,193
+11                      Alan_G 🌍UT💫          US   201   1,439,629
+12                            ✦ マリア          QT   200   1,419,296
+13                           Dave B          GB   197   1,378,849
+14                           Hunter          US   192   1,317,199
+15                      Bonus Belle          US   174   1,080,096

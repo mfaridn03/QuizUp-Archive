@@ -1,0 +1,16 @@
+                      Player     Country Level    Total XP
+1                         CC          GB   747  19,603,900
+2   I Decided To Get A life!          US   306   3,325,070
+3                      Mabbs  QU_ENGLAND   302   3,229,322
+4              Robert Galvin  QU_ENGLAND   278   2,734,887
+5                  Bigreddog          NZ   252   2,254,299
+6                     Siobhi          IE   246   2,152,827
+7                     MamaMo          US   238   2,006,306
+8                David Lucas          GB   236   1,986,137
+9               Ashish Patel  QU_ENGLAND   217   1,679,448
+10                  Ian Ward  QU_ENGLAND   205   1,496,627
+11                      THFC          CX   199   1,413,666
+12            Terry Williams    QU_WALES   187   1,243,249
+13                 Neil Coen          GB   164     965,052
+14               David Orman          US   149     791,457
+15               Pensrbutter          US   147     775,626

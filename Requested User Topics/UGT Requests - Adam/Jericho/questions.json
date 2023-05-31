@@ -1,0 +1,2072 @@
+{
+  "0015b3dc-381f-4ddb-9856-0fbe9cfcffaf": {
+    "answers": [
+      {
+        "id": "b3d7fedf-ac2b-47cc-9bf0-1bfe994f3ba1",
+        "text": "Candace Bailey"
+      },
+      {
+        "id": "1872c989-c84f-49bb-9825-64facc487abb",
+        "text": "Jazz Raycole"
+      },
+      {
+        "id": "b36b8d42-a22f-4b97-81a3-f488d09c98d2",
+        "text": "Ashley Scott"
+      },
+      {
+        "id": "56b0d40c-0777-4f03-8f59-dbd913172631",
+        "text": "Shoshannah Stern"
+      }
+    ],
+    "correct_answer_id": "1872c989-c84f-49bb-9825-64facc487abb",
+    "photo_url": null,
+    "text": "Who played Allison Hawkins?"
+  },
+  "0324faae-b3bd-4127-9dd5-c3be12bafc9a": {
+    "answers": [
+      {
+        "id": "31238e07-ddda-4c00-9df4-b23511bcbbe5",
+        "text": "Allison and Sam"
+      },
+      {
+        "id": "ca5e5533-585b-439c-b57d-7b3ab5438a20",
+        "text": "Annie and Steve"
+      },
+      {
+        "id": "6357d48b-2407-4ef5-a323-2a5825a024fa",
+        "text": "Amber and Sam"
+      },
+      {
+        "id": "ddcd7fe1-3225-428a-8bdb-0affd4fa09d8",
+        "text": "Allison and Sean"
+      }
+    ],
+    "correct_answer_id": "31238e07-ddda-4c00-9df4-b23511bcbbe5",
+    "photo_url": null,
+    "text": "What were the names of Hawkins children?"
+  },
+  "039c83a3-de5c-4982-b020-0bef975fbf5c": {
+    "answers": [
+      {
+        "id": "c78d8032-85f0-48a8-9126-b4162fcbec1b",
+        "text": "Blackbird "
+      },
+      {
+        "id": "1d3e85e5-a7ff-4a7b-adc2-8faf445d6d88",
+        "text": "Spider"
+      },
+      {
+        "id": "1f71ca86-4709-474e-ab6c-bccf9515b53c",
+        "text": "Rogue River"
+      },
+      {
+        "id": "de24ff08-1c89-4d61-a1f4-6b7f46166097",
+        "text": "Ravenwood"
+      }
+    ],
+    "correct_answer_id": "de24ff08-1c89-4d61-a1f4-6b7f46166097",
+    "photo_url": null,
+    "text": "What was the name of the mercenary group that came to Jericho?"
+  },
+  "0d80b638-17ca-4ce4-be10-336c3d1a23c8": {
+    "answers": [
+      {
+        "id": "ebd5e8dd-d4c4-42d9-bb6a-9581d7d51096",
+        "text": "For shooting Gray"
+      },
+      {
+        "id": "31380107-6902-4915-86ec-73f2cd5a378a",
+        "text": "For beating up Jake"
+      },
+      {
+        "id": "52651a5a-d135-4351-9214-a43e5a2ae273",
+        "text": "For stealing from Gracie's"
+      },
+      {
+        "id": "1b8c5a99-2e92-41a2-b257-7349e4e135e2",
+        "text": "For killing Gracie "
+      }
+    ],
+    "correct_answer_id": "ebd5e8dd-d4c4-42d9-bb6a-9581d7d51096",
+    "photo_url": null,
+    "text": "Why is Roger kicked out of Jericho?"
+  },
+  "1362daa3-26e5-49a5-8dbe-fb0410a9d313": {
+    "answers": [
+      {
+        "id": "e884053d-ec55-4942-ba68-e1068848e768",
+        "text": "Clare Carey"
+      },
+      {
+        "id": "2df21c0b-7b69-4651-a68e-883b0e05674f",
+        "text": "Ashley Scott"
+      },
+      {
+        "id": "9e8ab23e-0d02-4af3-ac4f-943b0cbe378d",
+        "text": "Darby Stanchfield"
+      },
+      {
+        "id": "c5c3b39c-00bf-4578-9140-00caace27f59",
+        "text": "Pamela Reed"
+      }
+    ],
+    "correct_answer_id": "2df21c0b-7b69-4651-a68e-883b0e05674f",
+    "photo_url": null,
+    "text": "Who plays Emily Sullivan?"
+  },
+  "14116f0a-c06c-495c-ae98-c250bb37eab6": {
+    "answers": [
+      {
+        "id": "2ccc2a81-07ea-44f5-b5d7-9740c0d5a399",
+        "text": "Currahee!"
+      },
+      {
+        "id": "2c50ecbe-e890-433e-addd-478d8abd6544",
+        "text": "Nuts!"
+      },
+      {
+        "id": "affe7695-607b-434a-8616-975ac56347db",
+        "text": "Liberty or Death!"
+      },
+      {
+        "id": "d84358ad-5d94-4af7-aa93-393d84ffa218",
+        "text": "Jericho!"
+      }
+    ],
+    "correct_answer_id": "2c50ecbe-e890-433e-addd-478d8abd6544",
+    "photo_url": null,
+    "text": "What was Jericho's battle cry in the fight with New Bern?"
+  },
+  "14adde93-9a08-45c1-9a6b-6cff21364ab5": {
+    "answers": [
+      {
+        "id": "0fac2244-3b27-4d5f-a97b-b415afec063b",
+        "text": "A bad man"
+      },
+      {
+        "id": "12d93380-172a-47b5-ab23-e5929d183fd8",
+        "text": "A good man"
+      },
+      {
+        "id": "f093c236-dfd2-4574-8a5e-1b1077927e72",
+        "text": "There is no such thing"
+      },
+      {
+        "id": "d8ea2c76-1417-43ed-b363-474a8811d26a",
+        "text": "I haven't figured that out yet"
+      }
+    ],
+    "correct_answer_id": "f093c236-dfd2-4574-8a5e-1b1077927e72",
+    "photo_url": null,
+    "text": "Finish the quote: \"Is he a good man or a bad man?\""
+  },
+  "15b75692-cc0c-424c-a87e-6f7f2d53664d": {
+    "answers": [
+      {
+        "id": "5de76745-c755-497f-a95d-f0b38264e721",
+        "text": "D.B Sweeney"
+      },
+      {
+        "id": "b4083c3b-ab17-47d5-ba27-a8ea79d7632d",
+        "text": "Richard Speight Jr"
+      },
+      {
+        "id": "c309e95e-7db4-441c-983a-6194f3184b9f",
+        "text": "Timothy Omundson"
+      },
+      {
+        "id": "3e024a9e-747f-4f68-9cdc-7522fd9ac37a",
+        "text": "Michael Gaston"
+      }
+    ],
+    "correct_answer_id": "c309e95e-7db4-441c-983a-6194f3184b9f",
+    "photo_url": null,
+    "text": "Who played Phil Constantino?"
+  },
+  "1d73a8ba-7846-4f73-8814-9867d25d1b2b": {
+    "answers": [
+      {
+        "id": "93a2f90e-8199-4901-b6f7-0505535ab56f",
+        "text": "Boston, MA"
+      },
+      {
+        "id": "3ab2442d-94fe-48f2-bcc4-ccb0024027d9",
+        "text": "Columbus, OH"
+      },
+      {
+        "id": "b09ceee3-0dd9-46b4-a3ec-31ff5914fc77",
+        "text": "Washington, DC"
+      },
+      {
+        "id": "3ba0750c-1ab6-4585-ae90-1f92c268ee73",
+        "text": "New York, NY"
+      }
+    ],
+    "correct_answer_id": "3ab2442d-94fe-48f2-bcc4-ccb0024027d9",
+    "photo_url": null,
+    "text": "Where was Hawkins supposed to set off his bomb?"
+  },
+  "1ec1edd5-087a-4896-a136-541681828838": {
+    "answers": [
+      {
+        "id": "0511dd03-51d2-425b-89e8-ad82fe594cb1",
+        "text": "Roger"
+      },
+      {
+        "id": "38a3489e-4fe9-4196-a4d4-c4dbc657753b",
+        "text": "Rick"
+      },
+      {
+        "id": "0f47ac4d-2e9f-423f-876f-903c6263d93f",
+        "text": "Randy"
+      },
+      {
+        "id": "9a707c12-2ee8-4383-b5be-7f4a68d1e34a",
+        "text": "Ryan"
+      }
+    ],
+    "correct_answer_id": "0511dd03-51d2-425b-89e8-ad82fe594cb1",
+    "photo_url": null,
+    "text": "What is the name of Emily's fianc\u00e9?"
+  },
+  "2a6cf133-6664-4859-b778-e6b3a79841f5": {
+    "answers": [
+      {
+        "id": "b78c972e-e594-424b-a6e2-12a4f07a361e",
+        "text": "Siena Goines"
+      },
+      {
+        "id": "737f2c9c-ff8b-4aaa-9ff5-d7b69e0b71da",
+        "text": "April D. Parker"
+      },
+      {
+        "id": "53b34fb5-b2ef-46ba-b5c8-f1e71871d857",
+        "text": "Jazz Raycole"
+      },
+      {
+        "id": "f6d0fffb-5107-4656-8bb0-ff8e3b6bb4ee",
+        "text": "Alicia Coppola"
+      }
+    ],
+    "correct_answer_id": "737f2c9c-ff8b-4aaa-9ff5-d7b69e0b71da",
+    "photo_url": null,
+    "text": "Who played Darcy Hawkins?"
+  },
+  "2c1c4681-1f64-49ae-a886-ae204c5bf9ae": {
+    "answers": [
+      {
+        "id": "765bf771-6b5b-40e8-a049-ee44bf153ab0",
+        "text": "Nuclear bomb"
+      },
+      {
+        "id": "275fcd6a-e1ba-47e3-a729-06884487580d",
+        "text": "Plane crash"
+      },
+      {
+        "id": "9ebb5638-7a9c-4dc7-9abd-9c59203993a7",
+        "text": "Shot"
+      },
+      {
+        "id": "546a07c0-02fb-4c6e-b04d-545057fe302d",
+        "text": "Car accident"
+      }
+    ],
+    "correct_answer_id": "546a07c0-02fb-4c6e-b04d-545057fe302d",
+    "photo_url": null,
+    "text": "How were Stanley and Bonnie's parents killed?"
+  },
+  "2c537525-befc-4848-bb31-dd8d1988411c": {
+    "answers": [
+      {
+        "id": "b2092333-5f45-44f2-8d67-0799a48c9a3f",
+        "text": "Mimi Clark"
+      },
+      {
+        "id": "5f39ac4b-06db-4885-aa05-271b95f0e77b",
+        "text": "Mary Bailey"
+      },
+      {
+        "id": "ac8f681f-7b43-426a-8c52-c7bc33ff0e16",
+        "text": "Heather Lisinski"
+      },
+      {
+        "id": "2f5a8db7-8414-4cba-bbd3-16c305a76dcb",
+        "text": "Emily Sullivan"
+      }
+    ],
+    "correct_answer_id": "b2092333-5f45-44f2-8d67-0799a48c9a3f",
+    "photo_url": null,
+    "text": "Who did Alicia Coppola play?"
+  },
+  "2f4be8b5-c9da-4441-9ca7-de25de8b2fcf": {
+    "answers": [
+      {
+        "id": "b7942c5c-586a-4512-b97b-ee4d7e5a8823",
+        "text": "Hawkins"
+      },
+      {
+        "id": "528d3a42-7545-4925-adde-d37a14551812",
+        "text": "Dale"
+      },
+      {
+        "id": "c677f14a-0a29-4602-a168-b54e81bddc6f",
+        "text": "Goetz"
+      },
+      {
+        "id": "7a578717-d78b-43e8-b708-fd73c3fd28d7",
+        "text": "Gray"
+      }
+    ],
+    "correct_answer_id": "c677f14a-0a29-4602-a168-b54e81bddc6f",
+    "photo_url": null,
+    "text": "Who kills Bonnie Richmond?"
+  },
+  "31ba1026-a3fd-4f42-9497-4b77b3add73e": {
+    "answers": [
+      {
+        "id": "24433400-3e4c-4b12-b46c-74a9d53f2d82",
+        "text": "Candy Corn"
+      },
+      {
+        "id": "274a830c-0867-4a01-888d-900bae7f8d06",
+        "text": "Mallow cups"
+      },
+      {
+        "id": "93afa2f5-7a02-4337-8173-77715c06327e",
+        "text": "Milkyway"
+      },
+      {
+        "id": "c7a6a822-3989-45ed-bcd6-a04ba0031ba8",
+        "text": "Peeps"
+      }
+    ],
+    "correct_answer_id": "274a830c-0867-4a01-888d-900bae7f8d06",
+    "photo_url": null,
+    "text": "What was Eric and Jake's favorite Halloween candy?"
+  },
+  "337e074c-3166-4f3c-8cff-29abb46abce7": {
+    "answers": [
+      {
+        "id": "714c629d-c322-49e5-b9fc-e594b5f2a6ac",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "c49921ce-a91e-47f0-911e-1fdc133fd0b4",
+        "text": "Gray Anderson"
+      },
+      {
+        "id": "aa9345ac-0e95-48fc-8792-2f41e115ed67",
+        "text": "Jake Green"
+      },
+      {
+        "id": "e39db81a-5088-4daf-8b5f-eff3b4133154",
+        "text": "Johnston Green"
+      }
+    ],
+    "correct_answer_id": "714c629d-c322-49e5-b9fc-e594b5f2a6ac",
+    "photo_url": null,
+    "text": "Who said: \"Hey, I need to borrow your tank.\""
+  },
+  "34056348-7da4-43c7-9aa8-9fb9c246d6c7": {
+    "answers": [
+      {
+        "id": "e67bcdfe-133f-4778-b6b7-ddf18b97af6b",
+        "text": "Esai Morales"
+      },
+      {
+        "id": "c0fa676d-7674-420e-be5e-f4711d54f256",
+        "text": "Titus Welliver"
+      },
+      {
+        "id": "2b24abf9-73f9-4f55-9449-a4f234c44ec0",
+        "text": "Timothy Omundson"
+      },
+      {
+        "id": "b2c06392-38b5-45fd-95ee-fd9f4e77d1f4",
+        "text": "Michael Gaston"
+      }
+    ],
+    "correct_answer_id": "e67bcdfe-133f-4778-b6b7-ddf18b97af6b",
+    "photo_url": null,
+    "text": "Who played Major Beck?"
+  },
+  "34ceee48-37ae-4bcf-a646-f140369017f5": {
+    "answers": [
+      {
+        "id": "2438546a-47ab-408f-81e0-a296bd95ce56",
+        "text": "IRS"
+      },
+      {
+        "id": "6b5d77ac-665f-4d3b-ae16-b36c8eb24a44",
+        "text": "Homeland Security"
+      },
+      {
+        "id": "641ccccf-0f27-4562-9bdd-b6094fe097cc",
+        "text": "White House"
+      },
+      {
+        "id": "64c5054d-d8ac-486a-bca5-84819afbfbeb",
+        "text": "FBI"
+      }
+    ],
+    "correct_answer_id": "2438546a-47ab-408f-81e0-a296bd95ce56",
+    "photo_url": null,
+    "text": "Where did Mimi work before the series started?"
+  },
+  "35d0e097-c00f-43a2-b42c-5bf7944db4a2": {
+    "answers": [
+      {
+        "id": "c18ea2d7-c67c-4697-85e8-a9ee2d074144",
+        "text": "Gail Green"
+      },
+      {
+        "id": "cc03e3bb-8ae0-4942-acd2-0678d79b3aff",
+        "text": "Gray Anderson"
+      },
+      {
+        "id": "7d3e0c75-3b85-410e-8a11-52c3630f1d14",
+        "text": "Mary Bailey"
+      },
+      {
+        "id": "f4a3713b-31f5-4c0e-b69f-1f22ae0bd5af",
+        "text": "Dale Turner"
+      }
+    ],
+    "correct_answer_id": "f4a3713b-31f5-4c0e-b69f-1f22ae0bd5af",
+    "photo_url": null,
+    "text": "Who owned Gracie Leigh's store after she was killed?"
+  },
+  "3af34692-16b6-4a97-9d47-9ad1b906fa49": {
+    "answers": [
+      {
+        "id": "69a59c3e-9177-4308-9601-e9f5acd2ca92",
+        "text": "John"
+      },
+      {
+        "id": "04fb40f9-44e7-4955-87b9-71a80eb6ecd8",
+        "text": "Julie "
+      },
+      {
+        "id": "7c98edc9-31cd-4b31-b0f4-32f2429b7268",
+        "text": "Terry"
+      },
+      {
+        "id": "cd6730ab-1b05-48c9-9788-7b9b3bf7d1b4",
+        "text": "Tracy"
+      }
+    ],
+    "correct_answer_id": "cd6730ab-1b05-48c9-9788-7b9b3bf7d1b4",
+    "photo_url": null,
+    "text": "What name did April say she liked for her baby with Eric?"
+  },
+  "3b847a8c-1c74-4023-bd7f-0a4c224266ea": {
+    "answers": [
+      {
+        "id": "029f6bec-a29f-4bcc-8f06-2ad740939277",
+        "text": "Mimi Clark"
+      },
+      {
+        "id": "82cad66e-2e29-4b8a-a8de-ef8414a3f170",
+        "text": "Heather Lisinski"
+      },
+      {
+        "id": "7aaf84d7-fce0-4c93-9b4b-ce46654d5a76",
+        "text": "Mary Bailey"
+      },
+      {
+        "id": "9448ef6b-28f9-4355-915e-d1af83490961",
+        "text": "Emily Sullivan"
+      }
+    ],
+    "correct_answer_id": "029f6bec-a29f-4bcc-8f06-2ad740939277",
+    "photo_url": null,
+    "text": "Who does Stanley Richmond marry?"
+  },
+  "472d8a13-034e-4ae7-aa01-2ad50d12779d": {
+    "answers": [
+      {
+        "id": "eba6cd17-054a-4acc-bacf-fa24440abcfd",
+        "text": "Semper Fidelis"
+      },
+      {
+        "id": "f20083a0-fb3a-4616-ab7c-904d0cb79ca8",
+        "text": "Red Flag"
+      },
+      {
+        "id": "38db1d7d-94bf-4d97-8ee7-2d62e2bbf90f",
+        "text": "Coalition of the Willing"
+      },
+      {
+        "id": "68f0cbbe-e8e1-4f20-b167-d116bace70e2",
+        "text": "Crossroads"
+      }
+    ],
+    "correct_answer_id": "eba6cd17-054a-4acc-bacf-fa24440abcfd",
+    "photo_url": null,
+    "text": "In what episode does Jericho get a tank?"
+  },
+  "47d8bcf0-bf00-4c78-ac41-8b6591923e18": {
+    "answers": [
+      {
+        "id": "3826d438-eb0b-4811-876f-f0d9f56976df",
+        "text": "Starlight"
+      },
+      {
+        "id": "168f3ed6-890d-44ad-a72a-16d4a3688c0c",
+        "text": "My Girl"
+      },
+      {
+        "id": "2a936d66-e0f9-4861-a6ac-99471c175f08",
+        "text": "Nothing Compares 2 U"
+      },
+      {
+        "id": "f82f9675-cba1-4c29-8746-690e8544a959",
+        "text": "Why"
+      }
+    ],
+    "correct_answer_id": "2a936d66-e0f9-4861-a6ac-99471c175f08",
+    "photo_url": null,
+    "text": "What is Jake and Emily's song?"
+  },
+  "49169e5c-f3a7-4026-9b22-492d642a585a": {
+    "answers": [
+      {
+        "id": "0c9fa375-7162-459e-b147-2b3cc5e74307",
+        "text": "Mimi"
+      },
+      {
+        "id": "0703b387-c5bf-4aec-8e86-1256f13f4959",
+        "text": "Mary"
+      },
+      {
+        "id": "3e08f9b5-c9d1-4142-937a-fe90db87d282",
+        "text": "Allison"
+      },
+      {
+        "id": "906e0ef0-af25-479f-bad3-cce6fd0766dd",
+        "text": "Emily"
+      }
+    ],
+    "correct_answer_id": "0c9fa375-7162-459e-b147-2b3cc5e74307",
+    "photo_url": null,
+    "text": "Who said: \"Well good for freakin' Bonnie. Bonnie grew up on a farm.\""
+  },
+  "4ac3f09b-9fa8-4f59-9b42-f6e88473592e": {
+    "answers": [
+      {
+        "id": "8a612c06-5c24-43b9-ab20-c128ff1d273d",
+        "text": "Heart of Winter"
+      },
+      {
+        "id": "a6a207d3-25b7-47fa-b607-5a65905d323a",
+        "text": "Winter's End"
+      },
+      {
+        "id": "04fd643c-dd48-4eaf-aa08-f559f58bd207",
+        "text": "Oversight"
+      },
+      {
+        "id": "14d7e28c-d049-482a-80c6-85310a49959e",
+        "text": "Why We Fight"
+      }
+    ],
+    "correct_answer_id": "a6a207d3-25b7-47fa-b607-5a65905d323a",
+    "photo_url": null,
+    "text": "In what episode does April Green die?"
+  },
+  "504253a2-7bf4-43a7-a960-6760b840025d": {
+    "answers": [
+      {
+        "id": "ec28ce1e-1aca-4ac7-94de-b1979c79c89e",
+        "text": "FBI"
+      },
+      {
+        "id": "8dc573b7-76b9-41da-98a3-ad069d194cdd",
+        "text": "Congress"
+      },
+      {
+        "id": "b5b51aff-2ab7-4845-8712-128266b29de9",
+        "text": "CIA"
+      },
+      {
+        "id": "e56a6e24-3a91-48b0-9b1e-b171a2bebd2d",
+        "text": "Homeland Security"
+      }
+    ],
+    "correct_answer_id": "e56a6e24-3a91-48b0-9b1e-b171a2bebd2d",
+    "photo_url": null,
+    "text": "What government agency did Valente work for?"
+  },
+  "521dc599-1831-40ff-8859-21ddcbed089b": {
+    "answers": [
+      {
+        "id": "33f5a8c5-dfc0-4ed5-8035-2861cfe6acd9",
+        "text": "Johnston Green"
+      },
+      {
+        "id": "633c852c-299d-4c6b-8100-e9231682cd6b",
+        "text": "Jake Green"
+      },
+      {
+        "id": "7b4f8dd4-0b07-4366-8ee4-8532ef9a29f1",
+        "text": "Eric Green"
+      },
+      {
+        "id": "267c1ce5-1dda-454e-b255-5e6694cbe8b1",
+        "text": "Robert Hawkins"
+      }
+    ],
+    "correct_answer_id": "633c852c-299d-4c6b-8100-e9231682cd6b",
+    "photo_url": null,
+    "text": "Who said: \"If you stop trying and I stop, then they see that. And this whole thing falls apart.\""
+  },
+  "535f354e-4c03-4b69-b887-04038d91bae1": {
+    "answers": [
+      {
+        "id": "a8a1c418-841e-4c6d-9d7f-887f5a82dd51",
+        "text": "Richard"
+      },
+      {
+        "id": "e30e1eea-7539-45a9-a9a7-1c66dfb99e59",
+        "text": "Mike"
+      },
+      {
+        "id": "f6b0658f-3f7b-428b-b1cb-7af2181cda47",
+        "text": "Robert"
+      },
+      {
+        "id": "09771796-a47d-43cc-87f3-86b61e113875",
+        "text": "Jake"
+      }
+    ],
+    "correct_answer_id": "f6b0658f-3f7b-428b-b1cb-7af2181cda47",
+    "photo_url": null,
+    "text": "What was Hawkins first name?"
+  },
+  "5b86e38b-9f98-431c-8ee3-f88a32e8e37c": {
+    "answers": [
+      {
+        "id": "e4b38932-3665-4bce-844b-16def450e690",
+        "text": "Jake Green"
+      },
+      {
+        "id": "78bf3ddd-a64e-4e82-bd96-f4bc741a7465",
+        "text": "Eric Green"
+      },
+      {
+        "id": "818349b3-dbf6-4f23-93a3-7374c1402d47",
+        "text": "Johnston Green"
+      },
+      {
+        "id": "c2437949-d89a-4bd0-8369-5965d649af82",
+        "text": "Gray Anderson"
+      }
+    ],
+    "correct_answer_id": "818349b3-dbf6-4f23-93a3-7374c1402d47",
+    "photo_url": null,
+    "text": "Who said: \"I'm about to go to war with New Bern Kansas home of the nearest CostCo. Today is about as weird as I can handle.\""
+  },
+  "5be3f206-ef54-4531-a49b-fed379fad3d2": {
+    "answers": [
+      {
+        "id": "32460065-e39a-4552-a718-3ccea15d88fc",
+        "text": "Johnston Green"
+      },
+      {
+        "id": "a44c856b-8a11-4470-877d-d06cb1a4df27",
+        "text": "Jake Green"
+      },
+      {
+        "id": "6b76ce5a-aad1-4404-a587-7afd39739225",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "d0d96649-822b-4c80-a41b-c01f0d72f0d1",
+        "text": "Eric Green"
+      }
+    ],
+    "correct_answer_id": "32460065-e39a-4552-a718-3ccea15d88fc",
+    "photo_url": null,
+    "text": "Who said this Quote: \"This isn't a fight about land or about this town. It's a fight for our very existence?\""
+  },
+  "5eba255d-2e06-4671-8691-ce04ae35bdb0": {
+    "answers": [
+      {
+        "id": "5b126221-c5d5-4945-a12a-8e87d8b54474",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "5c7814c1-2213-4486-98ea-6fbbc95f12f3",
+        "text": "Jake Green"
+      },
+      {
+        "id": "0819040b-4680-40ef-9d6b-bdd8902f80e5",
+        "text": "Stanley Richmond"
+      },
+      {
+        "id": "a5dc9beb-eec1-412d-9e41-6b7b3af33131",
+        "text": "Johnston Green"
+      }
+    ],
+    "correct_answer_id": "5b126221-c5d5-4945-a12a-8e87d8b54474",
+    "photo_url": null,
+    "text": "Who did Lennie James play?"
+  },
+  "5f427585-0ff7-401f-b7f8-bdc3bece4874": {
+    "answers": [
+      {
+        "id": "4f66f602-4976-438c-b342-304e33f52db7",
+        "text": "Russell"
+      },
+      {
+        "id": "f5df33fc-ac6b-4097-bb17-be807f74793f",
+        "text": "Bill"
+      },
+      {
+        "id": "bb49cc8c-d978-450c-8d9f-75e0d8ce249c",
+        "text": "Bob"
+      },
+      {
+        "id": "cb6f60eb-6490-4a65-9a9f-2b41a1c1f3a5",
+        "text": "Jimmy"
+      }
+    ],
+    "correct_answer_id": "cb6f60eb-6490-4a65-9a9f-2b41a1c1f3a5",
+    "photo_url": null,
+    "text": "Who did Bob Stephenson play?"
+  },
+  "63f5cbef-bbf4-40c6-b777-03c120fdd880": {
+    "answers": [
+      {
+        "id": "1a652da8-15a1-484e-bd91-3b791d505226",
+        "text": "Candace Bailey"
+      },
+      {
+        "id": "08f5f762-f9ab-4dc3-8e04-06349238f7a1",
+        "text": "Darby Stanchfield"
+      },
+      {
+        "id": "673f00e7-e816-4638-9654-8c6c1414e6b1",
+        "text": "Sprague Grayden"
+      },
+      {
+        "id": "49244699-6a7b-469a-9957-19cf4b27179e",
+        "text": "Shoshannah Stern"
+      }
+    ],
+    "correct_answer_id": "673f00e7-e816-4638-9654-8c6c1414e6b1",
+    "photo_url": null,
+    "text": "Who played Heather Lisinski?"
+  },
+  "648186d9-6b92-47e6-9fc1-f4151f50027e": {
+    "answers": [
+      {
+        "id": "fd286827-0f60-4a58-8675-1a973dbf9f80",
+        "text": "Payton"
+      },
+      {
+        "id": "f4b4cea8-d7c4-4431-b350-d130b8a00bc5",
+        "text": "Mark"
+      },
+      {
+        "id": "d2d3d155-5284-4f0b-b78c-7a67ad34d9c1",
+        "text": "Kenchy"
+      },
+      {
+        "id": "d5238726-03ac-4ade-8d7c-71e6e0665f14",
+        "text": "April"
+      }
+    ],
+    "correct_answer_id": "d2d3d155-5284-4f0b-b78c-7a67ad34d9c1",
+    "photo_url": null,
+    "text": "What is the name of the doctor that Jake and Eric meet in Rogue River?"
+  },
+  "68f758f9-13d5-4351-9eca-98d36bb465f6": {
+    "answers": [
+      {
+        "id": "53c0797d-250b-48a7-9b9b-fe0ce95783dc",
+        "text": "Brad Beyer"
+      },
+      {
+        "id": "170344c3-159a-4438-877f-481293891964",
+        "text": "Kenneth Mitchell"
+      },
+      {
+        "id": "e0578bf8-b582-4e2f-a87d-d2e87b93a110",
+        "text": "Skeet Ulrich"
+      },
+      {
+        "id": "ef00537a-9add-4e25-b6b9-d9a8c2e540c8",
+        "text": "Gerald McRaney"
+      }
+    ],
+    "correct_answer_id": "53c0797d-250b-48a7-9b9b-fe0ce95783dc",
+    "photo_url": null,
+    "text": "Who played Stanley Richmond?"
+  },
+  "69358f02-ad96-4d5c-9c38-7fa0372b0137": {
+    "answers": [
+      {
+        "id": "a72d06c0-ebd1-4ffc-8ff8-5a620c541686",
+        "text": "Sisters"
+      },
+      {
+        "id": "69702cbd-8126-49ba-8876-27b5d2417e0e",
+        "text": "They were both nurses"
+      },
+      {
+        "id": "3f68f591-68ab-42ce-9bfb-3f1d7f0542a1",
+        "text": "Cousins"
+      },
+      {
+        "id": "ccab2d32-f59d-4fd5-be42-c77f68da7a6f",
+        "text": "They were both school teachers"
+      }
+    ],
+    "correct_answer_id": "ccab2d32-f59d-4fd5-be42-c77f68da7a6f",
+    "photo_url": null,
+    "text": "What connection did Emily and Heather share?"
+  },
+  "699f86f6-9286-4f93-88cf-7155dc533889": {
+    "answers": [
+      {
+        "id": "c57c8d65-81d3-4e27-bf2f-fdb5a644aa8b",
+        "text": "Darby Stanchfield"
+      },
+      {
+        "id": "9494de14-4586-48e7-b4bf-d5913f6952ca",
+        "text": "Ashley Scott"
+      },
+      {
+        "id": "7a30d784-05f2-4b0a-8535-31c1a07b3a40",
+        "text": "Sprague Grayden"
+      },
+      {
+        "id": "48abd983-4435-464f-91de-52d8d0889bac",
+        "text": "Clare Carey"
+      }
+    ],
+    "correct_answer_id": "48abd983-4435-464f-91de-52d8d0889bac",
+    "photo_url": null,
+    "text": "Who plays Mary Bailey?"
+  },
+  "6a2706f6-8d7e-491b-89a7-15ec63826b44": {
+    "answers": [
+      {
+        "id": "de39cefa-5ced-487c-ba75-fcc00dde9751",
+        "text": "Gail "
+      },
+      {
+        "id": "9aa25921-3280-4461-ae88-b3b735fcd7aa",
+        "text": "April"
+      },
+      {
+        "id": "e520f24d-878c-4c80-862a-89c9fa302ff8",
+        "text": "Margaret"
+      },
+      {
+        "id": "2cce2204-5895-4d73-8711-1bcd95c6259d",
+        "text": "Julie"
+      }
+    ],
+    "correct_answer_id": "de39cefa-5ced-487c-ba75-fcc00dde9751",
+    "photo_url": null,
+    "text": "What is the name of Eric and Jake's mother?"
+  },
+  "6c57279a-0a7e-4cfa-a7db-80ade6d509f6": {
+    "answers": [
+      {
+        "id": "31e44f51-6070-4167-b1e4-5c38607947df",
+        "text": "Eric"
+      },
+      {
+        "id": "193caebe-3a47-4877-a7e0-34ced4aafcc5",
+        "text": "Dale"
+      },
+      {
+        "id": "7740fc58-0eb6-4982-9d8c-095b70732fdb",
+        "text": "Jake"
+      },
+      {
+        "id": "494614eb-479b-4d9f-9d09-ac5fa95c6881",
+        "text": "Stanley"
+      }
+    ],
+    "correct_answer_id": "494614eb-479b-4d9f-9d09-ac5fa95c6881",
+    "photo_url": null,
+    "text": "Who said: \"Cornhuskers are from Nebraska. I'm a Jayhawk.\""
+  },
+  "6f607dff-b666-4fa4-bb7d-6b0e72eb4702": {
+    "answers": [
+      {
+        "id": "8ebc5a7a-fb54-4be2-8cde-5bff93b858f6",
+        "text": "Dale"
+      },
+      {
+        "id": "c358399a-80e7-48c5-aaab-d113321903ac",
+        "text": "Eric"
+      },
+      {
+        "id": "65d997d1-d38e-44a4-9e51-9fb07a087c3f",
+        "text": "Sean"
+      },
+      {
+        "id": "893416d8-cd27-4850-b696-7720fe98421f",
+        "text": "Stanley"
+      }
+    ],
+    "correct_answer_id": "c358399a-80e7-48c5-aaab-d113321903ac",
+    "photo_url": null,
+    "text": "Who is Jake Green's younger brother?"
+  },
+  "70a1201d-78c0-415e-a077-1856afd90957": {
+    "answers": [
+      {
+        "id": "53e863c4-48b0-4b96-9818-0eb50537b100",
+        "text": "Skylar Stevens "
+      },
+      {
+        "id": "6b2239db-8a2f-42d8-88c7-f1c01e7a055a",
+        "text": "Gracie Leigh"
+      },
+      {
+        "id": "12f5de1d-82a8-4e3f-be42-592577216907",
+        "text": "Allison Hawkins"
+      },
+      {
+        "id": "312673b2-f3dd-45ed-95da-e84be6e04b4a",
+        "text": "Bonnie Richmond"
+      }
+    ],
+    "correct_answer_id": "312673b2-f3dd-45ed-95da-e84be6e04b4a",
+    "photo_url": null,
+    "text": "Who did Shoshannah Stern play?"
+  },
+  "71a44164-44e8-4603-b5a6-13038ad4539e": {
+    "answers": [
+      {
+        "id": "cc84754b-7904-4363-a69a-8f92e446e31c",
+        "text": "Salt mine"
+      },
+      {
+        "id": "d97d5643-c30e-46a3-acd3-2d0eeb225106",
+        "text": "Hardware store"
+      },
+      {
+        "id": "0eaa4839-dff2-4950-a5e0-3aab8e8ff170",
+        "text": "Grocery store"
+      },
+      {
+        "id": "a389657b-d3c0-4094-8ecd-c3285f836da5",
+        "text": "Tavern"
+      }
+    ],
+    "correct_answer_id": "cc84754b-7904-4363-a69a-8f92e446e31c",
+    "photo_url": null,
+    "text": "What did Gray Anderson own?"
+  },
+  "75f7b980-d1ff-4c32-b3de-ef8762921fba": {
+    "answers": [
+      {
+        "id": "9263217e-24b8-4452-ac4b-86448bb9ebbd",
+        "text": "One Man's Terrorist"
+      },
+      {
+        "id": "3fdc546f-c2a8-47d2-b72c-3cfa4e5156bb",
+        "text": "A.K.A"
+      },
+      {
+        "id": "93141a61-0a9c-4660-a6e5-f0a233fa786e",
+        "text": "One If By Land"
+      },
+      {
+        "id": "eacf15c3-7ec0-44f6-afb1-4e6f6c7ba78d",
+        "text": "Casus Belli"
+      }
+    ],
+    "correct_answer_id": "93141a61-0a9c-4660-a6e5-f0a233fa786e",
+    "photo_url": null,
+    "text": "In what episode do Jake and Eric escape New Bern?"
+  },
+  "77e42582-8d8b-4dd9-9091-164c388bff59": {
+    "answers": [
+      {
+        "id": "26f0ed69-13c9-49b9-ac0f-c889b39693f8",
+        "text": "Why We Fight"
+      },
+      {
+        "id": "c13c1e0d-c9a1-4e60-b19b-60408aaa29e9",
+        "text": "Reconstruction"
+      },
+      {
+        "id": "0bbf2d70-4405-4480-b81e-e6b49cdfd9f6",
+        "text": "Patriots and Tyrants"
+      },
+      {
+        "id": "ada35314-3b8b-4b42-9157-c864c3be8a17",
+        "text": "Coalition of the Willing"
+      }
+    ],
+    "correct_answer_id": "0bbf2d70-4405-4480-b81e-e6b49cdfd9f6",
+    "photo_url": null,
+    "text": "What is the last episode of the series?"
+  },
+  "7823e7c1-69ad-4498-8855-3a9359d38374": {
+    "answers": [
+      {
+        "id": "fc4e8765-33e4-46f9-bece-5fccde96a1d9",
+        "text": "Why We Fight"
+      },
+      {
+        "id": "85604e78-5014-4024-9f68-71222dd67929",
+        "text": "Patriots and Tyrants"
+      },
+      {
+        "id": "b5467125-0a76-423c-b681-1cb2f7612509",
+        "text": "Four Horsemen"
+      },
+      {
+        "id": "ab2831f4-8525-4fa9-a0d6-5a200933ecda",
+        "text": "Coalition of the Willing"
+      }
+    ],
+    "correct_answer_id": "ab2831f4-8525-4fa9-a0d6-5a200933ecda",
+    "photo_url": null,
+    "text": "In what episode is the song Times Like These used?"
+  },
+  "785a1ebb-35de-42c0-a3c3-627cd7ea369d": {
+    "answers": [
+      {
+        "id": "e2ba47a2-f5bf-48e1-831b-9d66aa166eab",
+        "text": "Tim"
+      },
+      {
+        "id": "8698e513-f78e-4809-a18e-ff2508f52708",
+        "text": "Terry"
+      },
+      {
+        "id": "6751ee23-27c5-4c72-821d-fee48e9ca7ce",
+        "text": "Tom"
+      },
+      {
+        "id": "9b12b6a4-d8fc-48f3-869b-b67aacaf8cdc",
+        "text": "Ted"
+      }
+    ],
+    "correct_answer_id": "9b12b6a4-d8fc-48f3-869b-b67aacaf8cdc",
+    "photo_url": null,
+    "text": "What is the name of Heather's friend from New Bern?"
+  },
+  "788c66f9-3a53-42eb-83fe-73317ba13be9": {
+    "answers": [
+      {
+        "id": "da5448be-28a6-47c4-bdf5-98d4cd2f47f4",
+        "text": "Eric"
+      },
+      {
+        "id": "9af0be0d-96d7-4ad4-abc1-33d1a5ce34ac",
+        "text": "Hawkins"
+      },
+      {
+        "id": "d244bfbc-d861-4797-bafe-cf07d8aadca2",
+        "text": "Johnston"
+      },
+      {
+        "id": "902e0cb1-5809-4720-9be8-d097009453db",
+        "text": "Jake"
+      }
+    ],
+    "correct_answer_id": "902e0cb1-5809-4720-9be8-d097009453db",
+    "photo_url": null,
+    "text": "Who saved the school bus full of kids in the Pilot?"
+  },
+  "78942f34-2abe-4b56-98d8-982d87a26411": {
+    "answers": [
+      {
+        "id": "c33e9b09-da17-4176-a930-b118b9927545",
+        "text": "John and Ben"
+      },
+      {
+        "id": "347a7417-e9ad-4eeb-8fe2-63239da85f48",
+        "text": "Jimmy and Bill"
+      },
+      {
+        "id": "a50493c2-bf79-4ba4-96d0-f3112345e5f7",
+        "text": "Jimmy and Brian"
+      },
+      {
+        "id": "1d8146b5-74c8-4788-a62b-f4cf8c404314",
+        "text": "Jeff and Bill"
+      }
+    ],
+    "correct_answer_id": "347a7417-e9ad-4eeb-8fe2-63239da85f48",
+    "photo_url": null,
+    "text": "Who were the deputies in Jericho?"
+  },
+  "7b5d92a6-e439-43ae-abd1-db1ccc93ad4b": {
+    "answers": [
+      {
+        "id": "675ae974-ae7f-42a9-9c3a-3411583c147e",
+        "text": "Sedition"
+      },
+      {
+        "id": "e5a2db0c-6b56-48e3-a856-5c31406f89c0",
+        "text": "Jennings & Rall"
+      },
+      {
+        "id": "da04ff33-d8fb-4314-9305-cf8236ef558a",
+        "text": "Termination for a Cause"
+      },
+      {
+        "id": "61b35b9a-187e-4a64-9fb5-8d0161ae3708",
+        "text": "Oversight"
+      }
+    ],
+    "correct_answer_id": "61b35b9a-187e-4a64-9fb5-8d0161ae3708",
+    "photo_url": null,
+    "text": "In what episode is Bonnie Richmond killed?"
+  },
+  "824e0146-09c9-440b-8ba6-8410cfdb4bf4": {
+    "answers": [
+      {
+        "id": "6f8882ac-51b0-49b7-852f-b8a8effee722",
+        "text": "Washington, DC"
+      },
+      {
+        "id": "b7f196f8-2637-41f2-a5ff-d9be76cef199",
+        "text": "Chicago, IL"
+      },
+      {
+        "id": "ba448c36-afd9-4afa-88b9-32db7967ed73",
+        "text": "New York, NY"
+      },
+      {
+        "id": "f0d80a6b-9053-40ed-908e-7ad2f86101fe",
+        "text": "Los Angeles, CA"
+      }
+    ],
+    "correct_answer_id": "6f8882ac-51b0-49b7-852f-b8a8effee722",
+    "photo_url": null,
+    "text": "Where did Mimi live before the attack?"
+  },
+  "867a0896-6eb6-46a9-9c27-74bbdc3e1f60": {
+    "answers": [
+      {
+        "id": "1fbc8d14-a515-40fc-8871-6d82ae8d7946",
+        "text": "Eric and Mary"
+      },
+      {
+        "id": "9d32dbfd-0a88-44b3-83a3-cbe1a6bdfba9",
+        "text": "Stanley and Mimi"
+      },
+      {
+        "id": "ffcb420c-056a-4651-a6c5-aefa77584243",
+        "text": "Jake and Emily"
+      },
+      {
+        "id": "488d3674-3a58-4495-b500-f3df0bf56515",
+        "text": "Jake and Mimi"
+      }
+    ],
+    "correct_answer_id": "488d3674-3a58-4495-b500-f3df0bf56515",
+    "photo_url": null,
+    "text": "Which of the following was NOT a couple on the show?"
+  },
+  "86c10b8f-5e26-4474-a35e-9bb59060b18d": {
+    "answers": [
+      {
+        "id": "8f5232ab-fdc9-45b3-8600-2fa0dd258ff1",
+        "text": "Termination for Cause"
+      },
+      {
+        "id": "67a29038-748d-411e-a057-1626f45715cb",
+        "text": "Why We Fight"
+      },
+      {
+        "id": "13d2ec1a-daed-493c-b068-17df2df8dd12",
+        "text": "Coalition of the Willing"
+      },
+      {
+        "id": "c0799099-7c77-4b96-9e3e-cd4aa2bdcd8c",
+        "text": "Red Flag"
+      }
+    ],
+    "correct_answer_id": "67a29038-748d-411e-a057-1626f45715cb",
+    "photo_url": null,
+    "text": "In what episode was Johnston Green killed?"
+  },
+  "8795ff2e-b964-4547-b713-a2dbce556e04": {
+    "answers": [
+      {
+        "id": "fc23e9cd-84af-468d-9dc3-b26032a3fefe",
+        "text": "Emily"
+      },
+      {
+        "id": "50995927-2769-44de-af7a-8a47fd030016",
+        "text": "Dale"
+      },
+      {
+        "id": "fa4f8c42-4935-41f6-b73e-711718602445",
+        "text": "Gray"
+      },
+      {
+        "id": "d7cfbfb9-fcd2-4e88-9233-bdc1e9209a73",
+        "text": "Mary"
+      }
+    ],
+    "correct_answer_id": "d7cfbfb9-fcd2-4e88-9233-bdc1e9209a73",
+    "photo_url": null,
+    "text": "Who owned Bailey's tavern?"
+  },
+  "8964a4f1-c214-4dd9-ab9d-0c70c9e94eb9": {
+    "answers": [
+      {
+        "id": "845d980f-42cb-4e8a-b5be-191a0b152085",
+        "text": "Ashley Scott"
+      },
+      {
+        "id": "f211f231-3576-48be-8c2a-8c1fa590d13d",
+        "text": "Alicia Coppola "
+      },
+      {
+        "id": "0d730083-bb50-4ba4-8cd4-7b7ee8a12f65",
+        "text": "Clare Carey"
+      },
+      {
+        "id": "4c2c9f20-e077-456a-a654-c1a19c21860b",
+        "text": "Pamela Reed"
+      }
+    ],
+    "correct_answer_id": "4c2c9f20-e077-456a-a654-c1a19c21860b",
+    "photo_url": null,
+    "text": "Who played Gail Green?"
+  },
+  "8a7df25c-edd0-4681-affb-4e5237607cea": {
+    "answers": [
+      {
+        "id": "aa41f389-676e-4b77-b0b3-be236b6c94e2",
+        "text": "Heather "
+      },
+      {
+        "id": "cc85eec1-a6b9-4fba-b14e-98b21b9ee71d",
+        "text": "Emily"
+      },
+      {
+        "id": "3f8b5300-75be-4b2e-ae5e-0caf8c8aee35",
+        "text": "Mary"
+      },
+      {
+        "id": "e3ff195d-c609-4d03-81e2-93dc56e7c639",
+        "text": "April"
+      }
+    ],
+    "correct_answer_id": "cc85eec1-a6b9-4fba-b14e-98b21b9ee71d",
+    "photo_url": null,
+    "text": "Who was Jake's high school sweetheart?"
+  },
+  "8a8b059f-a871-47da-b2b7-cd022acb0f26": {
+    "answers": [
+      {
+        "id": "6ffb73bc-4d40-459c-92eb-793cbfdc5609",
+        "text": "Trans Shore 787"
+      },
+      {
+        "id": "201b841d-9d97-4802-b9d1-09e6a2ef4e15",
+        "text": "Trans Shore 114"
+      },
+      {
+        "id": "a4570541-8988-4422-832c-b7aa8ecc0986",
+        "text": "Trans Shore 724"
+      },
+      {
+        "id": "3be4d9fe-75a2-404e-a913-4295330692bd",
+        "text": "Trans Shore 187"
+      }
+    ],
+    "correct_answer_id": "a4570541-8988-4422-832c-b7aa8ecc0986",
+    "photo_url": null,
+    "text": "What flight was Roger on when he went missing?"
+  },
+  "8bc09428-87ad-469a-8f2a-e27f01431e28": {
+    "answers": [
+      {
+        "id": "ac1cc551-2e66-4239-b213-052f318addc0",
+        "text": "North Korea"
+      },
+      {
+        "id": "d1619635-1cbf-47f2-94b1-29bf023dcd6d",
+        "text": "Iraq"
+      },
+      {
+        "id": "a82ac4de-af90-4ec9-ae97-22f9a678137a",
+        "text": "Russia"
+      },
+      {
+        "id": "95f74198-5781-41c8-8c5f-7a8738e047b0",
+        "text": "United States"
+      }
+    ],
+    "correct_answer_id": "95f74198-5781-41c8-8c5f-7a8738e047b0",
+    "photo_url": null,
+    "text": "Which country carried out the attack on the U.S?"
+  },
+  "924d91d7-5ead-4f67-9c3b-28a343cb671f": {
+    "answers": [
+      {
+        "id": "7a50f2a6-b4a9-4fc9-ae85-c90129819f97",
+        "text": "Denver, CO"
+      },
+      {
+        "id": "e46d6709-8d09-4795-aaf9-1fbe32cd1e94",
+        "text": "Atlanta, GA"
+      },
+      {
+        "id": "f07b5b3d-e9ad-4e99-9bab-39e81f7202ee",
+        "text": "Washington, DC"
+      },
+      {
+        "id": "4b02295e-4856-4b0a-bcb0-abadf3fa745d",
+        "text": "New York, NY"
+      }
+    ],
+    "correct_answer_id": "4b02295e-4856-4b0a-bcb0-abadf3fa745d",
+    "photo_url": null,
+    "text": "Which of these cities was NOT attacked?"
+  },
+  "9761ce09-5861-4312-a109-a038229f3d05": {
+    "answers": [
+      {
+        "id": "35152f99-92a5-45c9-8550-10f8ab535a60",
+        "text": "Eric"
+      },
+      {
+        "id": "d28db9bd-f989-48d7-9605-973c1869d374",
+        "text": "Hawkins"
+      },
+      {
+        "id": "662c1d33-7c9c-473e-a5c8-73640816c991",
+        "text": "Jake"
+      },
+      {
+        "id": "dc6588a8-9441-453b-b007-d01ea95b2d31",
+        "text": "Stanley"
+      }
+    ],
+    "correct_answer_id": "dc6588a8-9441-453b-b007-d01ea95b2d31",
+    "photo_url": null,
+    "text": "Who kills Goetz, the leader of Ravenwood?"
+  },
+  "9b170bdc-b5d5-484d-8367-e218f6f38622": {
+    "answers": [
+      {
+        "id": "0065e8ce-79ca-4279-b5e9-c286155bc3cc",
+        "text": "Dale"
+      },
+      {
+        "id": "bddd54a4-55a0-4fd2-93ef-5cb234ba9450",
+        "text": "Jonah"
+      },
+      {
+        "id": "24a8bf1e-4b5f-4f1f-a27a-87047e00447a",
+        "text": "Chris"
+      },
+      {
+        "id": "94205bf9-74f2-4658-800c-b76ecee8077b",
+        "text": "Mitchell"
+      }
+    ],
+    "correct_answer_id": "24a8bf1e-4b5f-4f1f-a27a-87047e00447a",
+    "photo_url": null,
+    "text": "What is the name of Emily's brother?"
+  },
+  "a553c9ff-c7bd-46dd-a12d-549ae69ef8a5": {
+    "answers": [
+      {
+        "id": "be1ef87a-b7db-43a2-a23b-5745f6608240",
+        "text": "Eric Green"
+      },
+      {
+        "id": "a7d79e7b-af29-4f86-877b-a9cdeffb1c45",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "4886ad4f-3eb2-4e41-b4c7-d27b3aee953d",
+        "text": "Jake Green"
+      },
+      {
+        "id": "960e1334-5cb5-4a31-854d-557f4b2dea12",
+        "text": "Stanley Richmond"
+      }
+    ],
+    "correct_answer_id": "be1ef87a-b7db-43a2-a23b-5745f6608240",
+    "photo_url": null,
+    "text": "Which character did Kenneth Mitchell play?"
+  },
+  "a5c5cc04-b499-41ff-8260-fc8197d57b27": {
+    "answers": [
+      {
+        "id": "83ca3fed-6a47-4113-9975-e5c147a52502",
+        "text": "Cheyenne"
+      },
+      {
+        "id": "2d7f5654-c8c7-4daf-8d72-42bdd6cd56c7",
+        "text": "Columbus"
+      },
+      {
+        "id": "b26a5adc-5a93-4dd9-86fe-8c9c0febc4e9",
+        "text": "Washington"
+      },
+      {
+        "id": "1a303059-de48-4164-8172-6fcee8311635",
+        "text": "New York"
+      }
+    ],
+    "correct_answer_id": "83ca3fed-6a47-4113-9975-e5c147a52502",
+    "photo_url": null,
+    "text": "Where was the capitol of the new Allied States of America?"
+  },
+  "ade20dac-7695-4d8e-997c-bfa2ce34d368": {
+    "answers": [
+      {
+        "id": "da518dfc-7f84-4af7-983c-35ee8c7ad81e",
+        "text": "Michael Gaston"
+      },
+      {
+        "id": "61fe6fbe-9fba-41ee-8929-28f21fa10367",
+        "text": "Shiloh Fernandez"
+      },
+      {
+        "id": "dc844528-99bd-4ded-aad1-f3f05d2fd93c",
+        "text": "Clayne Crawford"
+      },
+      {
+        "id": "79622a4b-5955-43ba-bac4-71d4e356c0b1",
+        "text": "Erik Knudsen"
+      }
+    ],
+    "correct_answer_id": "79622a4b-5955-43ba-bac4-71d4e356c0b1",
+    "photo_url": null,
+    "text": "Who played Dale Turner?"
+  },
+  "aea3d72d-409a-4312-b26a-1deae0a2b5a1": {
+    "answers": [
+      {
+        "id": "be6ee7be-a2ad-4f1f-ba60-f8b4dc5c57ee",
+        "text": "San Diego, CA"
+      },
+      {
+        "id": "c3ea5457-ed00-4b19-b73d-e2139a19c318",
+        "text": "Oakland, CA"
+      },
+      {
+        "id": "f9bc415d-369d-4275-b123-e61a91efa54e",
+        "text": "San Francisco, CA"
+      },
+      {
+        "id": "76a82b3b-29c6-4f6b-bb6b-79d7ad1b4586",
+        "text": "Los Angeles, CA"
+      }
+    ],
+    "correct_answer_id": "be6ee7be-a2ad-4f1f-ba60-f8b4dc5c57ee",
+    "photo_url": null,
+    "text": "Where did Jake live before coming home to Jericho?"
+  },
+  "b2428bed-2980-4321-b931-adf6f68f30e6": {
+    "answers": [
+      {
+        "id": "f3e17a79-00d3-4672-ac72-8e8b3ef161ca",
+        "text": "Jake Green"
+      },
+      {
+        "id": "2b102a51-14f4-4a33-b4e8-9ce94aa00c07",
+        "text": "Gray Anderson"
+      },
+      {
+        "id": "45828894-e6d5-4f77-a4c6-b7cd22a5c6df",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "714aedd9-e58f-474c-b2c4-3be399740ed3",
+        "text": "Johnston Green"
+      }
+    ],
+    "correct_answer_id": "45828894-e6d5-4f77-a4c6-b7cd22a5c6df",
+    "photo_url": null,
+    "text": "Who said: \"If It was an attack and there's chaos out there you might not want the wrong people to know that Jericho is still here\""
+  },
+  "ba078437-7d6e-4fba-a2a3-ccc34df8de4a": {
+    "answers": [
+      {
+        "id": "17e88a3b-90b0-42f9-9a3b-2c131dc05214",
+        "text": "10 years"
+      },
+      {
+        "id": "95c4210c-41df-4cea-a84d-90cce470aa04",
+        "text": "3 years"
+      },
+      {
+        "id": "b65db1af-5919-4752-8537-954119c9385e",
+        "text": "1 year"
+      },
+      {
+        "id": "b9fe6b0e-a4d9-4f6a-b002-370db6116810",
+        "text": "5 years"
+      }
+    ],
+    "correct_answer_id": "b9fe6b0e-a4d9-4f6a-b002-370db6116810",
+    "photo_url": null,
+    "text": "How long had Jake been gone before the Pilot episode?"
+  },
+  "bf51a206-706c-4065-8cbc-bbb4ca50c674": {
+    "answers": [
+      {
+        "id": "ca2f2d33-8a1c-47d7-9111-cb960dd43c58",
+        "text": "Gray Anderson"
+      },
+      {
+        "id": "8a8c907a-bfe7-4cd8-bec9-651b3ecbbb44",
+        "text": "Jake Green"
+      },
+      {
+        "id": "dc168f7f-a186-4eb8-95e4-f30ad92a0d7f",
+        "text": "Eric Green"
+      },
+      {
+        "id": "021b894b-9c47-4fb4-a897-14bcb04cbe25",
+        "text": "Johnston Green"
+      }
+    ],
+    "correct_answer_id": "dc168f7f-a186-4eb8-95e4-f30ad92a0d7f",
+    "photo_url": null,
+    "text": "Which character held the position of Deputy Mayor?"
+  },
+  "bf818b4b-25f1-4fb9-bbba-383d63cad7e6": {
+    "answers": [
+      {
+        "id": "d966e32c-0cec-47a0-9250-d50753ec4a99",
+        "text": "Jimmy Taylor"
+      },
+      {
+        "id": "ed033a32-61d1-4de0-96ad-7f04c4786c31",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "f1d794da-7dbe-49ae-bcbf-ca8080abbe1b",
+        "text": "Gray Anderson"
+      },
+      {
+        "id": "774eb6fa-1250-46fa-a619-ab7f6b4575d2",
+        "text": "Dale Turner"
+      }
+    ],
+    "correct_answer_id": "f1d794da-7dbe-49ae-bcbf-ca8080abbe1b",
+    "photo_url": null,
+    "text": "Who beat Johnston Green in the race for Mayor?"
+  },
+  "c17ebae5-967d-47ec-9fbe-a78903dd654e": {
+    "answers": [
+      {
+        "id": "2b00c65f-5f20-4920-a6ec-e84d37574179",
+        "text": "the Navy"
+      },
+      {
+        "id": "a12b2a17-c9b0-47ce-b2da-beeec17ca0c8",
+        "text": "Racecar driver"
+      },
+      {
+        "id": "fb4355b9-69a5-4a6e-8dc3-05d310302274",
+        "text": "Minor league baseball player"
+      },
+      {
+        "id": "fe1c58bb-2b94-482c-b6a5-e9ba2159f1dd",
+        "text": "the Army"
+      }
+    ],
+    "correct_answer_id": "a12b2a17-c9b0-47ce-b2da-beeec17ca0c8",
+    "photo_url": null,
+    "text": "Where did Jake NOT say he had been the previous five years?"
+  },
+  "c42ac150-cdec-4865-81c8-57ffd0bd4af9": {
+    "answers": [
+      {
+        "id": "02699964-9e3b-4f87-9c3a-cf0d426af7b6",
+        "text": "Erik Knudsen"
+      },
+      {
+        "id": "35d93db2-37c8-41f5-8bb9-a4edc376e448",
+        "text": "Brad Beyer"
+      },
+      {
+        "id": "ce5ffce9-77c6-4809-90f1-024606ab3ec3",
+        "text": "Skeet Ulrich"
+      },
+      {
+        "id": "976de0ff-a39c-4b47-9d14-fbb6ae437907",
+        "text": "Kenneth Mitchell"
+      }
+    ],
+    "correct_answer_id": "976de0ff-a39c-4b47-9d14-fbb6ae437907",
+    "photo_url": null,
+    "text": "Who played Eric Green?"
+  },
+  "caf2bf5a-0ada-4186-a725-6b85f02ea43b": {
+    "answers": [
+      {
+        "id": "c10335e3-5ea8-4096-94fd-8670f43f10bc",
+        "text": "Dale"
+      },
+      {
+        "id": "2b970c96-45f6-43c0-80af-0f1516d5ca5e",
+        "text": "Sean"
+      },
+      {
+        "id": "6f67cf55-4856-43a7-bf09-1586e21d456f",
+        "text": "Sam"
+      },
+      {
+        "id": "20b996a6-3cdd-4a0b-8e34-697eb7aa3af0",
+        "text": "Mitchell"
+      }
+    ],
+    "correct_answer_id": "2b970c96-45f6-43c0-80af-0f1516d5ca5e",
+    "photo_url": null,
+    "text": "What was the name of Bonnie's boyfriend?"
+  },
+  "cf20a969-64cc-441a-aa6f-4767c03fc9b2": {
+    "answers": [
+      {
+        "id": "6fa4124a-8903-4337-afce-fb7609245d83",
+        "text": "Lennie James"
+      },
+      {
+        "id": "e49350f2-82f0-4d2e-8912-be5dfe8f4b71",
+        "text": "Brad Beyer"
+      },
+      {
+        "id": "b13f95d6-f943-4e7b-9d83-58ed6f6050ad",
+        "text": "Skeet Ulrich"
+      },
+      {
+        "id": "0255eeb0-efea-4ede-8b13-66df26df839f",
+        "text": "Kenneth Mitchell"
+      }
+    ],
+    "correct_answer_id": "b13f95d6-f943-4e7b-9d83-58ed6f6050ad",
+    "photo_url": null,
+    "text": "Who played Jake Green?"
+  },
+  "e0cefb8c-da3f-4b3e-8457-cfdcd6442afe": {
+    "answers": [
+      {
+        "id": "941722f3-9bf3-4301-9e44-0869c36ac69b",
+        "text": "Denver"
+      },
+      {
+        "id": "9cfd4dbe-ac64-4262-99bc-dfe6fd734211",
+        "text": "Cheyenne"
+      },
+      {
+        "id": "8166e212-b850-4b8c-aaba-3bcb75a6a4b7",
+        "text": "New Bern"
+      },
+      {
+        "id": "b00f89de-22d9-4341-937b-dc143f6615d8",
+        "text": "Rogue River"
+      }
+    ],
+    "correct_answer_id": "b00f89de-22d9-4341-937b-dc143f6615d8",
+    "photo_url": null,
+    "text": "Where did Jake and Eric go to get medicine for Johnston?"
+  },
+  "e25105e8-57a7-4e79-b1bb-b4144328a8b3": {
+    "answers": [
+      {
+        "id": "37810ee1-ad6f-40d0-9abd-24b3f9405282",
+        "text": "Johnston Green"
+      },
+      {
+        "id": "4fa0f5fb-9e43-4405-8b79-52cb1579728b",
+        "text": "Russell"
+      },
+      {
+        "id": "9f9827cd-6ce6-418d-8d11-149cf7d3ba94",
+        "text": "Phil Constantino"
+      },
+      {
+        "id": "d9f7ff60-56a8-4921-9a97-c5c5d7cb9d25",
+        "text": "Gray Anderson"
+      }
+    ],
+    "correct_answer_id": "9f9827cd-6ce6-418d-8d11-149cf7d3ba94",
+    "photo_url": null,
+    "text": "Who is the leader of New Bern?"
+  },
+  "e2cc6d39-005c-4c6c-8f36-7d45b6a7fa32": {
+    "answers": [
+      {
+        "id": "62f37dea-eb8d-4915-b42c-ae862fbfff89",
+        "text": "Valente"
+      },
+      {
+        "id": "5c65d466-594a-4522-98c1-b16aaccf0caa",
+        "text": "Victor"
+      },
+      {
+        "id": "e64dafa7-5b6d-49f1-8d4b-bbdfa74c85c0",
+        "text": "Chavez"
+      },
+      {
+        "id": "6cef189e-f8ec-4ea2-813e-b6ea3dcb6359",
+        "text": "Sarah"
+      }
+    ],
+    "correct_answer_id": "5c65d466-594a-4522-98c1-b16aaccf0caa",
+    "photo_url": null,
+    "text": "Which member of Hawkins team was the first to make it to Jericho?"
+  },
+  "e2e17685-f091-4e36-92af-0d6b87c18c7a": {
+    "answers": [
+      {
+        "id": "01baf20f-a2d2-47a8-bf7e-a3f7d90ff6d3",
+        "text": "Gail"
+      },
+      {
+        "id": "e811163e-14dc-4213-a0f9-f6c690eadff6",
+        "text": "Mary"
+      },
+      {
+        "id": "4c977b03-e390-4f2e-beab-4a8a76b9d732",
+        "text": "Darcy"
+      },
+      {
+        "id": "2adad692-e499-463b-907e-0b487e882240",
+        "text": "Sarah"
+      }
+    ],
+    "correct_answer_id": "4c977b03-e390-4f2e-beab-4a8a76b9d732",
+    "photo_url": null,
+    "text": "Who was Robert Hawkins wife?"
+  },
+  "e334fa10-1935-4c82-b2ac-b1d25e14b9bf": {
+    "answers": [
+      {
+        "id": "944986a7-105c-4ff2-bfcb-16e5768f792a",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "b57faac9-3c21-4254-9de6-2df56069d1da",
+        "text": "Allison Hawkins"
+      },
+      {
+        "id": "03c6998d-f405-4e99-a365-b39f2181b960",
+        "text": "Darcy Hawkins"
+      },
+      {
+        "id": "a6c229aa-525e-4c75-be4b-650196962be9",
+        "text": "Sam Hawkins"
+      }
+    ],
+    "correct_answer_id": "b57faac9-3c21-4254-9de6-2df56069d1da",
+    "photo_url": null,
+    "text": "Who killed Sarah Mason?"
+  },
+  "e643d186-9a0e-47b3-b650-6bf65181d1b4": {
+    "answers": [
+      {
+        "id": "7367cc43-e5a5-4475-97d0-d416703bdb2d",
+        "text": "Mitchell Cafferty"
+      },
+      {
+        "id": "e811a760-b5e6-48e7-bcf6-67af3a4f4060",
+        "text": "Robert Hawkins"
+      },
+      {
+        "id": "0441335e-013c-4cbd-be3c-ba04f4e97b70",
+        "text": "Jonah Prowse"
+      },
+      {
+        "id": "082c451a-796c-4764-9e41-d2eb505d075a",
+        "text": "Dale Turner"
+      }
+    ],
+    "correct_answer_id": "7367cc43-e5a5-4475-97d0-d416703bdb2d",
+    "photo_url": null,
+    "text": "Who killed Gracie Leigh?"
+  },
+  "eca4ad59-3dc0-4137-a79b-ceff77cf435b": {
+    "answers": [
+      {
+        "id": "3a6cb2fa-0a4e-49b1-a1f1-53a0f9ae969d",
+        "text": "Skeet Ulrich"
+      },
+      {
+        "id": "d2dfbc3c-d9c6-4219-9cc1-fe7725334ee3",
+        "text": "Lennie James"
+      },
+      {
+        "id": "b6e71f9a-32a6-4c21-ab82-36f2113afed4",
+        "text": "Michael Gaston"
+      },
+      {
+        "id": "7a683f82-b2a4-4a3f-ae93-5a3d565c6eac",
+        "text": "Gerald McRaney"
+      }
+    ],
+    "correct_answer_id": "7a683f82-b2a4-4a3f-ae93-5a3d565c6eac",
+    "photo_url": null,
+    "text": "Who played Johnston Green?"
+  },
+  "edb48e0a-ed12-4f61-8a6b-17872331b278": {
+    "answers": [
+      {
+        "id": "c821b17e-7208-4327-a546-99ee21813e87",
+        "text": "The Day Before"
+      },
+      {
+        "id": "62398a53-a761-4a2c-99a6-e3bda2e5b342",
+        "text": "Red Flag"
+      },
+      {
+        "id": "b2bbbb2c-c750-4d3b-8ac4-133cb0785bea",
+        "text": "Black Jack"
+      },
+      {
+        "id": "3f7caac1-b2d6-4b9a-8129-b9bd20956d30",
+        "text": "Vox Populi"
+      }
+    ],
+    "correct_answer_id": "3f7caac1-b2d6-4b9a-8129-b9bd20956d30",
+    "photo_url": null,
+    "text": "In what episode does Emily's fianc\u00e9 Roger first return to Jericho?"
+  },
+  "eec37f6a-2272-4d37-914f-4bd2e6021c12": {
+    "answers": [
+      {
+        "id": "e6e5e98a-edb6-47e5-81e3-7d7f32df7b79",
+        "text": "Michael Gaston"
+      },
+      {
+        "id": "844ff4c8-9f53-4d19-8447-7f1cf745af6c",
+        "text": "Gerald McRaney"
+      },
+      {
+        "id": "6e0eab50-d855-4e13-83b2-bdd13d71af9c",
+        "text": "RIchard Speight Jr"
+      },
+      {
+        "id": "44a85829-f1ef-4b71-a49f-9b21cd48a763",
+        "text": "Lennie James"
+      }
+    ],
+    "correct_answer_id": "e6e5e98a-edb6-47e5-81e3-7d7f32df7b79",
+    "photo_url": null,
+    "text": "Who played Gray Anderson?"
+  },
+  "ef2e868b-4d7a-4272-8385-f0b87ba61024": {
+    "answers": [
+      {
+        "id": "fdc0bd9c-85f1-4365-953f-0084df275b51",
+        "text": "Gracie"
+      },
+      {
+        "id": "a3a8b0b8-8492-46c6-ad8d-760089420014",
+        "text": "Sara"
+      },
+      {
+        "id": "641b7e34-a571-4333-a475-653a7d089444",
+        "text": "Heather"
+      },
+      {
+        "id": "594ced0c-257c-4058-8a11-ea4d9f126f14",
+        "text": "Johnston"
+      }
+    ],
+    "correct_answer_id": "fdc0bd9c-85f1-4365-953f-0084df275b51",
+    "photo_url": null,
+    "text": "Who was killed in the episode \"Red Flag\"?"
+  },
+  "f026d98b-8d62-4b73-baf4-30b27e0037ce": {
+    "answers": [
+      {
+        "id": "2eef7bb0-eff3-47d1-897b-8083370df151",
+        "text": "Atlanta, GA"
+      },
+      {
+        "id": "ab35b21f-f3da-4281-bfe7-c9faba9abf31",
+        "text": "Washington, DC"
+      },
+      {
+        "id": "a000a995-9534-410b-9a3a-5d099b93507c",
+        "text": "New York, NY"
+      },
+      {
+        "id": "b2946004-4ade-46a5-837a-1fc3f9ab8302",
+        "text": "Denver, CO"
+      }
+    ],
+    "correct_answer_id": "2eef7bb0-eff3-47d1-897b-8083370df151",
+    "photo_url": null,
+    "text": "Where was Dale's mother when she was killed?"
+  },
+  "f21fb6b9-ec70-4761-a48e-71304d59be5b": {
+    "answers": [
+      {
+        "id": "cfd1f30a-0cf0-4691-9b66-3894e88c2b68",
+        "text": "Phil Constantino"
+      },
+      {
+        "id": "247f302e-294d-4ff4-94d3-f86939a393b3",
+        "text": "Jonah Prowse"
+      },
+      {
+        "id": "0c04892e-b5fd-4cc9-a40f-99699fceeba1",
+        "text": "Mitchell Cafferty"
+      },
+      {
+        "id": "a5378032-78e0-44c2-9c94-db15f835953b",
+        "text": "John Goetz"
+      }
+    ],
+    "correct_answer_id": "247f302e-294d-4ff4-94d3-f86939a393b3",
+    "photo_url": null,
+    "text": "Which character did James Remar play?"
+  },
+  "f2a1e162-0ef4-4dcb-82fe-b334b08e2dc2": {
+    "answers": [
+      {
+        "id": "ae3f9c25-7006-4572-ad61-475dfb944c22",
+        "text": "Eric and Hawkins"
+      },
+      {
+        "id": "b5b505f2-d75a-4f5a-90e6-832fe5f6473c",
+        "text": "Eric and Johnston"
+      },
+      {
+        "id": "a21a6716-6e8e-45db-a8dd-5cd7e0be4445",
+        "text": "Jake and Hawkins"
+      },
+      {
+        "id": "7b054f7f-8884-42fe-89ae-ba9387efb5ff",
+        "text": "Eric and Jake"
+      }
+    ],
+    "correct_answer_id": "7b054f7f-8884-42fe-89ae-ba9387efb5ff",
+    "photo_url": null,
+    "text": "Who does Constantino hold captive to get information about Jericho?"
+  },
+  "f59bf5a4-40be-458c-b5b9-1631aaf603d1": {
+    "answers": [
+      {
+        "id": "90e437a1-b6cd-4ea0-a9b1-bf5b62a3ea59",
+        "text": "Mimi Clark"
+      },
+      {
+        "id": "014e44a7-135b-4608-ac47-ce32eb09fe8e",
+        "text": "Mary Bailey"
+      },
+      {
+        "id": "dd293bba-b105-4313-86ed-039f079f7291",
+        "text": "Emily Sullivan"
+      },
+      {
+        "id": "48aa25e1-a3a3-4b1f-8aa8-d0fc5f210dde",
+        "text": "Heather Lisinski"
+      }
+    ],
+    "correct_answer_id": "014e44a7-135b-4608-ac47-ce32eb09fe8e",
+    "photo_url": null,
+    "text": "Who does Eric Green have an affair with?"
+  },
+  "f7eeb839-4fd0-4ae5-adea-b2af2b64f416": {
+    "answers": [
+      {
+        "id": "05713ac7-a524-4c89-bd7e-810bc88a91b6",
+        "text": "Reconstruction"
+      },
+      {
+        "id": "32ff728f-77fd-4791-b224-99e57fbebe61",
+        "text": "Jennings & Rall"
+      },
+      {
+        "id": "a67dec13-db1d-456d-b418-13759475a246",
+        "text": "Patriots and Tyrants"
+      },
+      {
+        "id": "b8f347ee-7614-4d2f-8b15-63aeea302834",
+        "text": "Why We Fight"
+      }
+    ],
+    "correct_answer_id": "05713ac7-a524-4c89-bd7e-810bc88a91b6",
+    "photo_url": null,
+    "text": "In what episode do Stanley and Mimi get engaged?"
+  },
+  "fa428810-49fd-4893-9f6b-370a6ce218c4": {
+    "answers": [
+      {
+        "id": "d86db915-6f4d-4415-90a4-0b8ff6e955f5",
+        "text": "Eric and Mary"
+      },
+      {
+        "id": "6aa974ec-fa5f-40dc-9007-8097c40ebf9d",
+        "text": "Jake and Mimi"
+      },
+      {
+        "id": "eb76a63f-6253-40e8-ba27-1a6b68ffa8f6",
+        "text": "Stanley and Mary"
+      },
+      {
+        "id": "0f41ddb4-bb05-4e58-9ea7-1fb62cb82cd8",
+        "text": "Eric and Emily"
+      }
+    ],
+    "correct_answer_id": "d86db915-6f4d-4415-90a4-0b8ff6e955f5",
+    "photo_url": null,
+    "text": "Which of the following WAS a couple on the show?"
+  },
+  "fe68a2b5-f847-4c65-b698-5efc3176db78": {
+    "answers": [
+      {
+        "id": "ad078f6f-a13b-4e83-9517-f23ccf6a34a1",
+        "text": "Wrangler"
+      },
+      {
+        "id": "e6294e47-fab2-4126-bd70-38e339ca1b81",
+        "text": "Levi"
+      },
+      {
+        "id": "f63d87ed-d7a8-4003-acc1-2f895ff90b4f",
+        "text": "Calvin Klein"
+      },
+      {
+        "id": "0ba8f122-82d3-45a4-9f0a-2504b8e189ce",
+        "text": "Carhartt"
+      }
+    ],
+    "correct_answer_id": "ad078f6f-a13b-4e83-9517-f23ccf6a34a1",
+    "photo_url": null,
+    "text": "Finish the quote: \"Sometimes, I forget that the biggest designer in your closet is _________\""
+  },
+  "ffe83e1a-7996-45b8-86ad-046cbd92c1e1": {
+    "answers": [
+      {
+        "id": "38c99e77-9544-4e38-be0d-ce27f4e84bc6",
+        "text": "Eric"
+      },
+      {
+        "id": "e4fa94cc-90d2-46b0-b3d5-34f069d3c9ff",
+        "text": "Stanley"
+      },
+      {
+        "id": "5bd59d40-58bb-4253-99b7-2bdae0707108",
+        "text": "Jimmy"
+      },
+      {
+        "id": "285d4872-792f-4c9c-b533-bc03e0928d8a",
+        "text": "Bill"
+      }
+    ],
+    "correct_answer_id": "285d4872-792f-4c9c-b533-bc03e0928d8a",
+    "photo_url": null,
+    "text": "Who did Richard Speight Jr play?"
+  }
+}

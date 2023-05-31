@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1               Danielle      BE  1,172  48,263,868
+2                     GG      FR  1,077  40,764,870
+3          Nancy mleczko      US  1,039  37,887,485
+4                     vw      DE    948  31,594,963
+5      Christel Gehlhaar      DE    791  22,026,541
+6   Roberto SAVE THE APP      AU    663  15,478,469
+7     SlashDev SlashNull      US    580  11,847,961
+8         Chantal Lecocq      FR    564  11,206,256
+9               Kukuvija      RS    511   9,203,624
+10                   Val      GB    497   8,706,799
+11         Sandra Miller      US    451   7,183,599
+12     Christel Gehlhaar      DE    436   6,706,328
+13                  Ghys      FR    425   6,366,373
+14              Gabriela      DE    396   5,543,506
+15         Olaf Reismann      DE    377   5,019,580

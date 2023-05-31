@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1              Renee      US   401  5,673,628
+2   Jonathan O'Meara      US   336  4,000,950
+3        barndance33      GB   335  3,976,046
+4        Zur-En-Arrh      US   268  2,549,486
+5              Kerem      TR   260  2,398,602
+6        funkysi2013      GB   190  1,288,514
+7             Scotch      US   188  1,256,132
+8       Shawn Larson      US   180  1,151,442
+9           Ed Gregg      US   174  1,087,247
+10       Adam Chippa      CA   173  1,069,558
+11             zzdoc      GB   168  1,015,038
+12         Mary  Kuz      RU   166    987,275
+13           Mallory      US   165    976,965
+14     Drew Walraven      US   160    913,116
+15                M.      TR   152    833,094

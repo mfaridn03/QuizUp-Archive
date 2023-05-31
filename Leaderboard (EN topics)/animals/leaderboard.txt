@@ -1,0 +1,16 @@
+                            Player     Country  Level     Total XP
+1                 maureen#NoTopUps          GB  2,043  146,283,468
+2           Freddi Brown Galbraith          US  1,612   91,169,423
+3                            ATLAN          FR  1,133   45,107,240
+4              Peggy Riffle #E-ILA          US    898   28,327,897
+5                   Unknown PLAY3R          US    834   24,464,659
+6                              Raz          BD    806   22,852,831
+7                       Bart White          US    726   18,534,547
+8                            Silke          DE    720   18,252,904
+9                            David          GB    648   14,792,688
+10  MrGrumpyKat -JWP- SAVE THE APP          US    590   12,243,159
+11                            Anne          ZW    570   11,434,962
+12                  Isabelle Vital          FR    544   10,431,828
+13               Dorothy G. #L~ILA          US    542   10,339,131
+14                       Nikemboka          US    541   10,327,600
+15                     Steve Moore  QU_ENGLAND    537   10,156,659

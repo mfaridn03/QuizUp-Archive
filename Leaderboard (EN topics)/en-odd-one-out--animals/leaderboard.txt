@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                     Dado      HR   587  12,128,259
+2                       DD      IN   566  11,305,392
+3                      Ray      GB   508   9,102,527
+4           DadoP LE ZEBRE      HR   398   5,594,874
+5                Birdbrain      US   375   4,973,996
+6                   jonesy      US   367   4,762,852
+7                      Ann      GB   355   4,462,622
+8   nicky :) #FREEG$LDBERG      BR   346   4,246,470
+9             Balan Satish      IN   266   2,509,504
+10                Londoner      GB   210   1,575,190
+11                Tiny Tim      US   169   1,022,929
+12                    Quin      ZA   165     971,073
+13             man of Kent      GB   164     959,053
+14                    John      GB   157     886,394
+15             Kathy Manor      US   152     831,349

@@ -1,0 +1,16 @@
+                  Player     Country  Level    Total XP
+1              BABY-ROCK          US  1,552  84,482,759
+2                  Dslux          LU  1,518  80,816,751
+3                     PJ          US  1,224  52,579,678
+4                  Cassy          CA  1,001  35,210,955
+5   'Nikita Sabharwal' ✪          IN    886  27,567,838
+6                  Ankur          IN    750  19,807,721
+7               Ninedart          GB    603  12,789,656
+8                   Jean          US    549  10,633,001
+9           Srinjoy Meta          US    532   9,972,318
+10            Tinkerbell          US    511   9,195,603
+11             Mark Gray          GB    494   8,620,563
+12             ᑕᗩᖇᒪ  ₹ɘȵ  QU_ENGLAND    449   7,099,932
+13              Todd ᴵᴸᴬ          AU    444   6,968,368
+14         Anirudh Sinha          IN    444   6,948,175
+15               Jigyasa          IN    433   6,611,759

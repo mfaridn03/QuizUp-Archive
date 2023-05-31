@@ -1,0 +1,16 @@
+                    Player      Country Level   Total XP
+1                    Gibby  QU_SCOTLAND   456  7,345,085
+2               Fall Mario     QU_WALES   374  4,939,848
+3   nicky :) #FREEG$LDBERG           BR   336  4,001,775
+4                  twevski           CH   318  3,587,876
+5                     Zman           US   260  2,401,162
+6               el ausente           MX   208  1,535,628
+7                  Francki           FR   190  1,292,630
+8                    Waldo           US   156    873,086
+9                  Shwoddy           GB   155    864,237
+10                 Coralie           FR   144    745,579
+11            Comboio Azul           PT   121    523,831
+12                   Vince           NL   115    479,906
+13                  Thrawn           US   113    463,519
+14                  Kal-El           CO   111    449,250
+15                Todd ᴵᴸᴬ           AU   111    447,049

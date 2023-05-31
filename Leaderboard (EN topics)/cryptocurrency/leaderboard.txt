@@ -1,0 +1,16 @@
+                       Player Country Level   Total XP
+1           CHRIS  Goodbye!!!      DE   338  4,034,177
+2            NATHALIE SAVANT.      LB   246  2,145,733
+3                     Jade 19      GB   111    447,030
+4   Miss Nomer - Save the App      US   103    382,042
+5                  Loxodontoc      US   103    381,362
+6                  Usha L-ILA      IN   102    377,238
+7                Anisha Verma      IN   101    370,038
+8                    DrAgnich      SI   100    360,160
+9                     Karann-      IN    94    320,192
+10             Leon Ohene-Adu      ZA    93    313,748
+11                          .      US    87    277,335
+12         Sabyasachi Mahanta      IN    84    259,808
+13                      Anita      US    84    258,733
+14                     Binzee      IN    81    240,698
+15                     Aashna      IN    80    234,706

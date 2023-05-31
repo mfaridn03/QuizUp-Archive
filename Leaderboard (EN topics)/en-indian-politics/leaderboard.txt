@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1    Oriflame Amway      IN   219  1,702,150
+2             Umesh      IN   206  1,510,123
+3     Sandeep Sinha      IN   160    920,150
+4      Dr.Jegadisan      IN   153    834,525
+5                SH      IN   152    829,455
+6           dheer S      US   146    762,735
+7               Ace      IN   145    756,471
+8   KAMLESH KAPADIA      IN   143    733,618
+9               Dee      IN   141    712,242
+10      Vijay Malik      IN   126    569,011
+11        Renu Goel      IN   116    486,472
+12   Anita Mehrotra      IN   115    475,226
+13              Ali      IN   113    460,665
+14     KULDEEP RANA      IN   113    459,507
+15   Pratima Tandon      IN   105    398,794

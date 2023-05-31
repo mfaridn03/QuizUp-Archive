@@ -1,0 +1,16 @@
+                       Player Country Level   Total XP
+1               Player tv-doc      DE   354  4,424,168
+2                     Gruschu      DE   243  2,104,113
+3              Christine Merl      AT   225  1,801,116
+4          Christel Silkenath      DE   172  1,052,667
+5     Hanna LXIV Save the App      CH   169  1,020,996
+6                     1111111      DE   149    793,406
+7          Hillebrand Michael      DE   147    779,598
+8                     ElaLuna      DE   130    609,754
+9                        KaZe      DE   129    599,692
+10                 Mirimitsch      DE   128    587,331
+11                   Moerscho      DE   124    558,514
+12                    Marlies      DE   123    548,992
+13  Sabine -JWP-Save the App-      DE   112    449,657
+14                     Ämmeli      CH   111    446,614
+15  Miss Nomer - Save the App      US   110    437,492

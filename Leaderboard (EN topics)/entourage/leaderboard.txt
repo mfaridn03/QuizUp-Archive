@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1              Nikeduck      US   578  11,756,031
+2             Sean Sean      US   149     796,769
+3                   Tom      DE   135     653,033
+4                 Micah      US   124     554,121
+5          Diamond Dave      US   115     479,456
+6                 David      GB   113     460,324
+7       Brittney Boysen      US   105     397,512
+8                astrix      IN    93     312,436
+9   Tass Thorlu-Bangura      NL    92     307,813
+10          Rohit Singh      IN    89     287,024
+11             Aparajit      IN    85     261,168
+12           Sean Foley      IE    84     257,798
+13                  Ali      CA    81     241,170
+14          Rohil Kesri      GB    81     237,563
+15         Gabriel Pope      CA    80     235,067

@@ -1,0 +1,16 @@
+                            Player Country Level    Total XP
+1                         Meowstro      US   616  13,344,931
+2      Juan Jose Martinez Grajales      CO   462   7,520,055
+3           nicky :) #FREEG$LDBERG      BR   343   4,151,404
+4                      Ghost horse      CL   294   3,054,238
+5   Bernardino Hernandez Rodriguez      ES   267   2,532,268
+6                       DotDashDot      US   235   1,955,646
+7                          Pantera      CL   229   1,871,513
+8                           Gene D      US   224   1,784,203
+9                    Germen Roding      NL   222   1,755,434
+10                    Robbie Pratt      IE   211   1,586,710
+11                        Reza Ali      US   199   1,407,910
+12                             Ajm      US   182   1,176,677
+13                        Diogenes      BA   178   1,133,084
+14       Harshvardhan Singhchauhan      IN   177   1,120,338
+15                          Vashti      TT   174   1,080,080

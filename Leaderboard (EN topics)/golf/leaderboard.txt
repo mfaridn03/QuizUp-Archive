@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1                     ....      US  1,250  54,812,742
+2                  Chrissy      US  1,012  35,980,463
+3                     Cara      GB    867  26,398,889
+4              MarkSwanson      US    812  23,197,172
+5                Sinka Dan      US    730  18,771,303
+6                    Ken O      GB    680  16,283,245
+7            Superior 'Tun      TH    518   9,448,945
+8                    Bobby      US    499   8,766,365
+9               Gingersdad      AU    408   5,881,108
+10                     Ben      US    405   5,782,498
+11                Bababuny      IE    385   5,224,587
+12                     Tom      US    352   4,385,326
+13                Graham S      ZA    340   4,087,690
+14  nicky :) #FREEG$LDBERG      BR    338   4,052,431
+15        Titanic Thompson      US    322   3,673,906

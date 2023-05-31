@@ -1,0 +1,16 @@
+                   Player     Country Level    Total XP
+1                       8          US   631  14,038,094
+2       Marissa Robbertze          ZA   615  13,314,880
+3                   Lindy          AU   297   3,128,389
+4               Karen4755          US   294   3,058,670
+5                    Rick          CA   289   2,961,506
+6                   Ken O          GB   253   2,279,601
+7                itchy365          US   183   1,201,228
+8                      Al          GB   171   1,047,551
+9   Jenne Cordon Stephens          US   155     857,218
+10    Robert-Save the App          GB   153     840,248
+11              Pixie5163          US   152     825,558
+12         littledork_789          US   149     801,048
+13                Blueboo  QU_ENGLAND   146     762,311
+14                 Abbott          US   139     690,253
+15         Nicole Griffin          US   138     680,104

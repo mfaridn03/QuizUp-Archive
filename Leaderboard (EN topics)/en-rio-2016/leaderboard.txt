@@ -1,0 +1,16 @@
+                          Player   Country Level    Total XP
+1                      slaydeRjE        DK   749  19,712,940
+2                       Catindep        GY   361   4,615,961
+3   BlueGirl #C-ILA Save the App        US   319   3,604,303
+4                     Bertolucci        DE   180   1,160,729
+5                            Owz  QU_WALES   150     806,710
+6                  Fadi Makaroun        LB   147     776,340
+7                         KishaK        JM   144     742,522
+8                   THE AVENGERS        SG   135     659,002
+9                 Dario Pokrivač        HR   127     579,484
+10                        ashley        GB   123     541,800
+11       Recep Nezir JWP-BROTHER        GR   122     538,436
+12                Trish Williams        US   121     529,005
+13                        RLarcs        US   121     525,512
+14                       talents        FR   114     467,499
+15                        kxmani        JM   109     427,847

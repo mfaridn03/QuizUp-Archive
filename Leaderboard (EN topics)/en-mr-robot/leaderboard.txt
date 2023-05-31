@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1          Todd ᴵᴸᴬ      AU   333  3,923,881
+2   Elliot Alderson      DE   223  1,765,620
+3                 .      US   217  1,678,460
+4              Jean      IN   175  1,095,250
+5       deeplookman      US   153    839,055
+6       King Minion      ZA   139    696,587
+7            Shivam      IN   115    479,230
+8            K. Man      CA   103    385,677
+9   Florián • JWP •      FR   100    362,104
+10           Ștefan      RO   100    359,765
+11          Ancolie      CH    96    333,518
+12         Flipadee      GB    95    330,029
+13    JP Cristancho      US    87    276,385
+14            Emily      GB    80    231,637
+15          silvana      DE    77    220,026

@@ -1,0 +1,16 @@
+                   Player Country Level   Total XP
+1            Invoker™ ₹ɘȵ      IN   295  3,075,416
+2              Meena Soti      IN   270  2,582,439
+3                  Adarsh      AE   200  1,419,966
+4              Yash Verma      IN   187  1,252,384
+5          Nivedita Sinha      IN   156    877,417
+6                  eragon      IN   112    453,841
+7                    Ravi      IN   109    426,821
+8        Sudip Ranjan Das      IN   102    374,560
+9   Kiran narayana murthy      IN   101    368,131
+10                   Sona      IN   100    366,050
+11          Munira Shoaib      IN   100    364,930
+12                  Ruchi      IN   100    362,447
+13             Rohit Giri      IN    95    325,002
+14              Atul Ekka      IN    94    323,621
+15                Ayaan C      NL    94    321,301

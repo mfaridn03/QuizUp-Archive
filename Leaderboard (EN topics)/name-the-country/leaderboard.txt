@@ -1,0 +1,16 @@
+            Player Country  Level    Total XP
+1            Veyso      TR  1,000  35,106,741
+2         Colorado      SK    869  26,538,707
+3    ctbffm | ҜΞ 〽      DE    713  17,873,358
+4            Laura      RO    572  11,529,621
+5             Carl      NL    528   9,836,812
+6          Planter      US    495   8,644,688
+7          LPSilva      PT    403   5,733,853
+8     GégéLeBreton      FR    392   5,430,433
+9     Rafael Kanai      BR    383   5,184,878
+10         Farrukh      PK    380   5,106,944
+11          Sigfús      IS    374   4,935,395
+12      Otylia 𝔖🔱𝔑      CO    350   4,321,162
+13         PhilNat      CH    318   3,581,683
+14          Violet      ES    315   3,506,368
+15  Nathan Huffman      US    314   3,497,339

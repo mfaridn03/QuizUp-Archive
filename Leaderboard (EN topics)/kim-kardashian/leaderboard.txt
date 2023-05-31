@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1                   Lisa      CA   352  4,381,719
+2                    N&M      FR   334  3,945,191
+3        Alissa Gonzalez      US   178  1,126,772
+4             Cathy 🌎UT💫      CA   161    930,872
+5         Deanna Duemmel      US   135    654,786
+6            zararafiqxo      GB   132    626,591
+7              livv shaw      GB   118    503,881
+8               Khaleesi      GB   110    440,121
+9            Monique Gin      IN   110    433,895
+10                  Lobo      AU   104    390,350
+11  Bente Anett Antonsen      NO   101    368,961
+12                 Sarah      GB   100    360,187
+13                   Ami      GB    94    322,163
+14                  Jess      US    92    309,058
+15      Annie Medina Mtz      MX    90    298,059

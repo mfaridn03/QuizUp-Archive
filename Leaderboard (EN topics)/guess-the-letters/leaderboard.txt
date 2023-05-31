@@ -1,0 +1,16 @@
+                   Player     Country  Level    Total XP
+1                 Shirley          US  1,468  75,657,509
+2             Manju Sheel          IN  1,166  47,731,456
+3               Voyagerza          ZA  1,083  41,188,501
+4              semi-colon          AU    794  22,142,556
+5          the undertaker          GB    747  19,632,846
+6                Jouevite          US    622  13,600,521
+7                  Gramps          GB    565  11,236,328
+8    JimG 🌎UT💫 SaveTheApp          US    564  11,189,120
+9   Randhir ⚡ AVANT 💡 👉 🐋          IN    563  11,174,567
+10                   35mm          CA    546  10,491,599
+11                 Zephyr  QU_ENGLAND    535  10,099,122
+12                   Roxy          PH    497   8,705,908
+13                  Jyoti          IN    496   8,658,198
+14                   Andy  QU_ENGLAND    434   6,661,706
+15                  Vicki          GB    432   6,579,182

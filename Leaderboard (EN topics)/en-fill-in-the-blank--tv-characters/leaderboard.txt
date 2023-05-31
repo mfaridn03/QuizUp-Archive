@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1             Todd ᴵᴸᴬ      AU   333  3,924,175
+2      Mudguts #C- ILA      GB   223  1,762,117
+3              Candice      US   187  1,245,566
+4             Frenchie      US   155    864,216
+5                    L      US   120    516,426
+6       Mario Pokrivač      HR   120    515,638
+7                Ashok      IN   118    500,144
+8    Dorothy G. #L~ILA      US   112    450,080
+9       Dario Pokrivač      HR   100    366,458
+10              Beamer      US   100    359,846
+11           Pixie5163      US   100    359,566
+12               Jbird      US    85    262,962
+13  Tenacious D    In*      US    78    221,270
+14                EJOR      IE    76    213,134
+15             DChangy      CA    74    202,725

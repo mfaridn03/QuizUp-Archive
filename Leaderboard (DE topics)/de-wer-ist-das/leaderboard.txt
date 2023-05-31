@@ -1,0 +1,16 @@
+                      Player Country Level    Total XP
+1                       Pepe      DE   563  11,173,624
+2                   RIA ROSE      DE   540  10,261,940
+3                      Erwin      DE   331   3,867,232
+4                    Schütze      DE   314   3,497,501
+5                   Sea Cove      DE   247   2,160,834
+6                  Tüdelüüüü      CH   239   2,032,094
+7              Olaf Reismann      DE   237   1,991,069
+8                Mediasurfer      DE   220   1,719,438
+9                      Jadoh      DE   149     792,614
+10              Galgenmüller      DE   147     776,499
+11                Rock Dossi      AT   145     750,681
+12               Maggy_Mouse      AT   139     697,137
+13              Andre Menzel      DE   126     571,473
+14                    merryN      DE   125     559,188
+15  Big L - Gonna miss y’all      CA   124     552,572

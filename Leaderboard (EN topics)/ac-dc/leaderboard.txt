@@ -1,0 +1,16 @@
+                             Player      Country Level    Total XP
+1                         Pixie5163           US   637  14,302,175
+2                    Jamie Houghton           GB   541  10,306,293
+3                               WJD           US   352   4,385,988
+4                               Jem   QU_ENGLAND   324   3,726,139
+5                         HOTEL 112  QU_SCOTLAND   305   3,303,514
+6                           Candice           US   213   1,615,426
+7                      María Camila           CO   205   1,502,830
+8                         hooterman           US   182   1,176,668
+9                               rdg           US   176   1,111,272
+10                       Rhiannon90           US   173   1,075,329
+11                Whole Lotta Rosie           DE   166     990,429
+12  Chillin' ... “Savant Community”   QU_ENGLAND   156     869,796
+13                           Habguy           CA   152     825,378
+14                        Alexandra           DE   143     729,194
+15                               JH           US   140     700,726

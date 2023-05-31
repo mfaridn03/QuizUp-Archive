@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1               ajm      ZA   380  5,101,843
+2     Budi Soemargo      ID   380  5,095,136
+3          jaxonlex      NZ   277  2,714,359
+4           DrTocan      US   194  1,341,083
+5             Jared      AU   178  1,137,169
+6              Cony      US   162    936,513
+7            Kono K      US   143    739,152
+8   Nikita Sevakram      ZA   103    387,223
+9          MadChild      AU   101    371,380
+10               AŔ      NR   100    361,988
+11        Bigreddog      NZ    99    355,482
+12      Conor Freel      GB    96    338,198
+13               KT      US    90    297,356
+14       Lucca #ILA      US    90    292,990
+15          Anggara      ID    85    263,799

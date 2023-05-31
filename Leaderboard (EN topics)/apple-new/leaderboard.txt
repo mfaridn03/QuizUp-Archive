@@ -1,0 +1,16 @@
+                        Player Country Level    Total XP
+1                            -      US   612  13,199,413
+2                  Yerba Buena      MY   329   3,831,112
+3                 Vinz | ҜΞ 〽️      ID   265   2,483,769
+4                   Adeel 🌍UT💫      PK   262   2,440,580
+5                          nil      TR   246   2,144,640
+6                        Lance      NZ   228   1,845,264
+7                     Mr.Lukas      NO   208   1,539,785
+8   Thakur Ujjawal Kumar Singh      IN   193   1,327,551
+9                        JoBdo      US   183   1,198,358
+10                   Cobra.net      DE   169   1,017,341
+11                     Roberto      US   160     912,140
+12                       Tones      AU   154     854,091
+13                    Krishnan      IN   147     774,864
+14                Madhan Kumar      IN   146     761,017
+15                  Victor Tan      SG   145     753,857

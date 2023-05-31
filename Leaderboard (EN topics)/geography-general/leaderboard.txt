@@ -1,0 +1,16 @@
+                       Player Country  Level    Total XP
+1             EDSON ELI Stein      BR  1,267  56,375,459
+2                   alain3112      FR  1,123  44,253,565
+3                   Thinker48      US  1,001  35,177,250
+4             Christos Toulas      GR    935  30,711,806
+5                  🤖m๏ɭɭʏere🤖      US    844  25,022,881
+6                         Ian      BR    842  24,915,149
+7        Herby1516  ⚡avant 💡🦈      CH    838  24,669,093
+8                     Margaux      FR    714  17,949,904
+9   Donatelli  "save the app"      CH    697  17,075,966
+10                       Kate      GB    695  17,019,492
+11                       Mama      DE    691  16,803,070
+12                  Old troll      CA    649  14,808,353
+13                    EliBlue      US    608  12,998,375
+14               Diego Rivera      DE    591  12,294,897
+15                       Andy      RU    557  10,922,059

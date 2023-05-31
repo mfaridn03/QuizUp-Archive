@@ -1,0 +1,16 @@
+                              Player      Country Level   Total XP
+1                  Helmut Qualtinger           AT   398  5,591,430
+2                          aloe vera           DE   320  3,629,527
+3                             UFausB           DE   289  2,966,994
+4                               MeIn           AT   270  2,592,225
+5                 BKM51 save the app           DE   267  2,535,910
+6   Marlies Forster 100+Save the App           DE   243  2,100,543
+7                         HarrySmart           DE   241  2,058,053
+8                            Doriane           FR   229  1,858,897
+9                         ShaunMcMäh  QU_SCOTLAND   208  1,547,293
+10                       Birgit Graf           DE   181  1,174,798
+11                      diavolorocho           AT   176  1,112,154
+12                          Godspeed           IT   173  1,070,680
+13                            abuelo           AT   171  1,043,364
+14                        PrinzEugen           DE   170  1,032,195
+15                             Aleko           CH   166    985,435

@@ -1,0 +1,16 @@
+                 Player     Country Level   Total XP
+1                Malrom          CH   457  7,359,450
+2                Yannis          GR   273  2,644,035
+3                Sharon          US   270  2,584,236
+4   Debbie Save The App  QU_ENGLAND   251  2,233,922
+5                Mike L          US   247  2,167,464
+6          ROGER HARRIS          GB   228  1,847,137
+7                   ej6          AU   226  1,816,461
+8         scott wallace          GB   223  1,764,233
+9      Cleva treva 100+          GB   185  1,223,675
+10                  Ken          IN   182  1,183,384
+11           Earl Vince          GB   178  1,130,709
+12               Norman          GB   166    991,668
+13            Slbunnies          CA   162    942,700
+14              Candice          US   161    929,906
+15               Tjodda          SE   161    922,854

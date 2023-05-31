@@ -1,0 +1,16 @@
+                        Player     Country Level    Total XP
+1                      Nicki 🥞          CA   954  31,946,961
+2                  Cathy Leoni          US   723  18,367,694
+3                  Speed Demon          US   700  17,217,173
+4                    Reggaeman          JM   679  16,227,086
+5                BizSchoolKyle          US   674  15,997,910
+6                      Kasturi          IN   559  10,989,826
+7   # Fr@nj@ # ₹ɘȵSave the App          DE   441   6,878,546
+8                  Jaja Bethel          CA   431   6,545,367
+9                        Steve          GB   430   6,520,565
+10                       Sissy          US   429   6,490,243
+11                   ᑕᗩᖇᒪ  ₹ɘȵ  QU_ENGLAND   390   5,387,303
+12                      KoiKoi          TH   360   4,575,540
+13                   Jadas Dad          US   307   3,345,428
+14             Qavione Goodson          US   306   3,313,829
+15                        Kurt          US   304   3,266,816

@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1                     Adi      AU   636  14,229,834
+2                    Dani      RO   580  11,836,224
+3              B.C. White      CA   550  10,652,542
+4                    Rick      US   439   6,802,597
+5                      JM      GB   336   4,000,975
+6            Comboio Azul      PT   329   3,821,275
+7                HannahBF      US   317   3,558,891
+8                     Liz      GB   312   3,444,250
+9            JaxNole Marc      US   285   2,869,947
+10                Shelley      US   230   1,876,071
+11                   Eric      GB   224   1,781,865
+12          JeannieBeanie      US   214   1,637,120
+13                   Shaz      AU   205   1,493,982
+14    Jperi11@verizon.net      US   202   1,458,150
+15  nysports save the app      US   200   1,432,567

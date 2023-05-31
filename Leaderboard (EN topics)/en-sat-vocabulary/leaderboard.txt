@@ -1,0 +1,16 @@
+                            Player Country Level    Total XP
+1        Gumption#Nameless Warrior      PH   726  18,527,893
+2                            Kitty      US   661  15,379,382
+3                       La Chancla      US   573  11,574,598
+4                   Haluk Demirtaş      TR   551  10,695,864
+5               道法自然 #SAVE THE APP      CN   448   7,076,496
+6                     Jaya Lakshmi      US   448   7,068,378
+7                 Arvind Kumar ₹ɘȵ      IN   446   7,022,248
+8                            MLMMD      US   432   6,573,540
+9                             Nina      RU   408   5,889,176
+10  Copperdome Bodhi #Save The App      IN   403   5,726,063
+11                          Andrew      US   392   5,439,674
+12                         Najdorf      US   378   5,041,250
+13                          Zeebra      US   378   5,038,823
+14                   BlackElectrum      EG   375   4,959,376
+15                             RDM      CA   374   4,944,641

@@ -1,0 +1,16 @@
+                   Player   Country  Level    Total XP
+1                   Chuck        US  1,237  53,749,518
+2      Nelly#Save The App        AU  1,120  44,036,848
+3   Raffat # Save The App        PK    744  19,485,078
+4              Jo  Ldubuk        GB    720  18,228,641
+5                     Tom        US    707  17,583,448
+6                   Mr. P        CA    615  13,328,117
+7         David Woodhouse        GB    611  13,148,600
+8                Vinnyeck        GB    600  12,666,789
+9                  Lariel        US    522   9,596,694
+10            Delme Palms  QU_WALES    494   8,605,145
+11                One Sun        US    401   5,679,002
+12                     Zz        US    348   4,286,293
+13                 Poorya        IR    341   4,112,794
+14                    Zoe        GB    285   2,882,499
+15                Joltboy        US    277   2,726,704

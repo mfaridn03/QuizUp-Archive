@@ -1,0 +1,16 @@
+                  Player      Country Level   Total XP
+1                  Sunil           IN   261  2,418,803
+2            Subir Ghosh           IN   239  2,028,934
+3                 Shaila           IN   216  1,655,153
+4           Invoker™ ₹ɘȵ           IN   164    959,692
+5                Archana           IN   136    669,232
+6        Tarandeep Singh           IN   127    581,637
+7            Jolly Roger  QU_SCOTLAND   123    547,721
+8            Vg (Bakula)           IN   120    515,716
+9     Ajit Kumar Trivedi           IN   110    438,001
+10  Lilly - Save the App           IN   101    367,065
+11         Kanchan Joshi           IN   101    366,532
+12                 Vijay           IN   100    361,985
+13          Kuntal Kumar           IN   100    361,118
+14  Maverick #Legend-ILA           IN   100    360,003
+15          Bharti Sawai           IN    99    353,830

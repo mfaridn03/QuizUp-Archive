@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1         [HBK]K--DAWG      US   532  9,956,360
+2            Sean Sean      US   347  4,252,180
+3           Amy EuDaly      US   235  1,956,302
+4                Jenna      US   220  1,716,577
+5           ZakInBlack      US   213  1,612,729
+6   Jarrett Tortorella      US   207  1,522,891
+7           PittFanIAm      US   186  1,228,928
+8               Callum      GB   183  1,198,884
+9             Lars2893      US   153    835,572
+10     Anthony Levaggi      US   142    725,804
+11          pirate_joe      GB   141    712,840
+12                 Moo      RU   139    690,585
+13                 J^2      US   138    680,831
+14                 Law      US   138    679,923
+15          Matt Simms      GB   135    654,571

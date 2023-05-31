@@ -1,0 +1,16 @@
+                   Player     Country Level    Total XP
+1                  Debbie          GB   806  22,833,957
+2               (MUTTLEY)  QU_ENGLAND   806  22,818,264
+3   BN (No game boosters)          RO   719  18,167,941
+4        Subeer Bharadwaj          IN   667  15,644,555
+5     Aileshmaa Bharadwaj          IN   616  13,344,472
+6               Aileshmaa          IN   487   8,360,410
+7       Svkriti Bharadwaj          IN   485   8,279,360
+8               Cuvac Mom          US   354   4,429,627
+9               Edelweiss          AT   339   4,072,305
+10                   Leah          US   332   3,901,831
+11                     Tj          CA   322   3,662,174
+12               Heike B.          DE   316   3,532,548
+13               NShubert          AU   305   3,288,076
+14                 MNanci          US   282   2,818,224
+15        Aslan Pekingese          US   278   2,745,013

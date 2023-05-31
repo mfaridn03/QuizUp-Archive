@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1             Mike J.      US   444  6,965,976
+2              groovy      US   236  1,982,176
+3   Bobby Mulkern III      US   222  1,752,165
+4           Damir Ćuk      HR   221  1,737,481
+5                Dave      US   219  1,706,315
+6         Greg Mankin      US   213  1,608,279
+7   Oregon cheesehead      US   203  1,465,457
+8        Bob Neuville      US   185  1,215,657
+9            MK Davis      US   175  1,088,871
+10              Bob K      US   174  1,079,367
+11       Sharon Chase      US   173  1,064,547
+12       Ralph Oldham      US   152    831,709
+13        Chris Mitch      US   146    766,844
+14   Zeke J Contreras      US   143    737,408
+15         Casual Bob      US   143    733,304

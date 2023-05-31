@@ -1,0 +1,16 @@
+                          Player      Country Level   Total XP
+1                          Shain           MY   283  2,830,961
+2                         Porter           DE   245  2,130,867
+3                   Glenn Siegel           US   213  1,614,378
+4                   Comboio Azul           PT   205  1,490,342
+5                 Suicyde Blonde           US   204  1,486,296
+6                        Maestro           CA   183  1,201,505
+7   Phillip Davies Saves the App           GB   181  1,170,969
+8                         Tjodda           SE   158    894,682
+9                Bordercolliemom           US   154    845,132
+10                    LarryBud88           US   152    826,740
+11                  BeatrixKiddo           US   139    692,999
+12                         Gibby  QU_SCOTLAND   137    671,792
+13                           Vio           FR   135    655,898
+14                       Winston           US   135    652,680
+15                     Gregger 9           US   133    640,341

@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1          Gareth Bowden      GB  1,074  40,500,957
+2             aindow JWP      GB    781  21,438,092
+3                  DenGe      DE    726  18,563,302
+4                  kbear      US    635  14,212,295
+5      Big Muddy Monster      US    479   8,102,000
+6      ButterflyBrewster      US    422   6,287,331
+7   The Great Squadouche      US    406   5,828,808
+8                  bosSa      BA    405   5,779,621
+9           Joan Halbery      GB    376   4,992,569
+10            StraycatJP      FR    287   2,917,094
+11              KristofL      BE    286   2,906,972
+12   tree42 SAVE THE APP      AU    270   2,577,470
+13             Joe Zydel      US    260   2,390,937
+14                  TazT      GB    256   2,323,106
+15                  Toby      US    240   2,054,909

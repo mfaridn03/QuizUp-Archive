@@ -1,0 +1,16 @@
+                                   Player Country Level   Total XP
+1                                      IM      MX   469  7,753,992
+2                          CaptainStevieG      US   402  5,699,473
+3                                   Lefty      CA   283  2,840,537
+4                         Elaine Saunders      GB   279  2,756,108
+5                           Lynsey Neyrey      US   261  2,426,257
+6                           Richard Casey      GB   220  1,720,433
+7                                  Mr FiL      US   220  1,719,422
+8                                  Granny      US   215  1,651,152
+9                                    Eden      CA   213  1,610,266
+10                               Courtney      US   211  1,586,572
+11                                  Mbk29      US   204  1,477,073
+12                       Melissa Bousquet      US   200  1,423,125
+13  Carrie Kohner aka Squeegie Beckenkeim      US   196  1,367,815
+14                          SchwesterAnja      DE   196  1,363,086
+15                         Karen Kingsley      US   189  1,269,604

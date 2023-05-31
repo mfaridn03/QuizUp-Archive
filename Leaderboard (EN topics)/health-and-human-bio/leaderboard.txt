@@ -1,0 +1,16 @@
+                           Player Country  Level    Total XP
+1        Chocolate (save the app)      GB  1,133  45,045,782
+2                    Mollies game      US  1,081  41,066,730
+3                       EF9-Z-MP9      CA  1,072  40,379,010
+4                             *H*      AT    900  28,498,151
+5                           Elias      AT    880  27,201,407
+6                        Jennifer      CA    790  21,964,465
+7                            ....      IN    775  21,101,521
+8                       Rose d'Or      DE    758  20,189,918
+9                      Schokogirl      AT    741  19,317,421
+10  🏃🏻D🏄‍♂️A🏂N🚴N⛹🏼‍♂️Y 🤜🏼🤛🏼 BYE 🤗      AU    711  17,761,625
+11                        PAloduz      ES    707  17,569,385
+12                  jannotlapin74      FR    696  17,045,029
+13                         Andrea      AT    671  15,832,338
+14                        Leandro      AR    653  15,025,539
+15                          Aries      CO    631  14,006,753

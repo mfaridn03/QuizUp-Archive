@@ -1,0 +1,16 @@
+                       Player Country Level   Total XP
+1   Benedetta - Save the App!      IT   506  9,034,255
+2                     Leyla Z      TR   380  5,090,576
+3               Finn Malmgren      SE   362  4,621,476
+4                       Oxana      UA   313  3,465,855
+5                       winko      BE   287  2,918,332
+6                        TESS      FR   266  2,511,666
+7         Manuel- No boosters      NC   257  2,341,881
+8                         Fer      ES   225  1,807,224
+9                     Natalia      RU   218  1,691,678
+10                     Elaine      GB   193  1,328,268
+11                     Prutik      RU   187  1,245,810
+12                 Loxodontoc      US   176  1,105,602
+13                      Chuck      US   174  1,080,790
+14      David Ewing Armstrong      GB   165    972,591
+15              Monique Mateo      GB   164    960,237

@@ -1,0 +1,16 @@
+            Player   Country Level   Total XP
+1         Todd ᴵᴸᴬ        AU   333  3,914,206
+2              Ian        GB   190  1,290,242
+3   Todd Patterson        US   188  1,265,896
+4            Laura        US   182  1,177,079
+5     Primas Black        US   167  1,002,166
+6   Drop Dead Fred        NZ   166    990,134
+7    Betty Crocker        US   166    989,738
+8      King Minion        ZA   154    850,052
+9          Wrexham  QU_WALES   137    676,405
+10            Rick        US   134    646,041
+11        King KB3        US   133    640,030
+12        NeumannH        US   127    577,598
+13             Tom        DE   123    544,338
+14    Simon Patton        GB   123    541,292
+15    Stringabella        US   122    538,984

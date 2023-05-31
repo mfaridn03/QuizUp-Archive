@@ -1,0 +1,16 @@
+            Player Country  Level    Total XP
+1             Matt      US  1,258  55,546,496
+2     Gary Gardner      US    930  30,372,076
+3   Silent Witness      US    900  28,460,360
+4    Wreatha Mills      US    885  27,505,136
+5           Kansli      SE    880  27,188,543
+6             Dave      US    730  18,764,787
+7           Marlon      US    628  13,900,584
+8       Belle Boyd      US    590  12,240,103
+9      Greg Arnold      US    448   7,072,324
+10          14erer      US    446   7,030,305
+11          Digger      US    442   6,898,751
+12         nlc1937      US    407   5,855,333
+13       Traveller      US    407   5,853,799
+14    Jack Gerster      US    403   5,733,191
+15           Nimue      US    400   5,663,759

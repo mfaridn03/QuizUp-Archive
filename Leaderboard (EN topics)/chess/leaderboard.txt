@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1              Rybkaz      JP  1,166  47,724,584
+2    Roberto Tanimoto      BR    690  16,774,096
+3   666Super Mario666      ES    511   9,190,372
+4             J l C F      CL    503   8,931,095
+5            Leader M      FR    371   4,854,433
+6      michilou#M-ILA      FR    357   4,505,793
+7     Fridtjof Nansen      PL    350   4,330,131
+8            Junghans      AR    325   3,729,128
+9             Rekkles      US    322   3,668,007
+10            joefont      FR    314   3,490,770
+11              Panus      DE    267   2,531,934
+12                Kaa      DE    256   2,326,008
+13             azazel      FR    243   2,098,139
+14          Capitaine      FR    232   1,913,762
+15          Andrea H.      DE    231   1,896,031

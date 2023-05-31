@@ -1,0 +1,16 @@
+                    Player     Country Level    Total XP
+1                    Jilly  QU_ENGLAND   997  34,932,951
+2            Julie Ledgard  QU_ENGLAND   582  11,915,297
+3                      AML          CA   577  11,731,052
+4                Georgiana          US   555  10,834,091
+5                        M          IE   402   5,710,731
+6                  Haymart  QU_ENGLAND   389   5,341,970
+7            Muriel Heaton          AU   387   5,283,264
+8              Davey Wavey          GB   367   4,751,507
+9                    Eddie          AU   367   4,749,310
+10  nicky :) #FREEG$LDBERG          BR   366   4,733,920
+11           Blue Aksobhya          MY   354   4,432,765
+12                 Bueller          US   342   4,135,744
+13               Vairochan          MY   313   3,472,842
+14            myles scully          IE   288   2,945,324
+15             KillerQueen          ZA   271   2,598,804

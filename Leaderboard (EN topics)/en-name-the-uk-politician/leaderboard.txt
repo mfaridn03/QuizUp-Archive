@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1                     Halp           IE   715  17,964,548
+2            Simon Redwood           GB   590  12,266,277
+3                    Barry           GB   308   3,367,992
+4                    Eagle           GB   249   2,207,414
+5             EmmyD #L-ILA           GB   217   1,676,097
+6                  Lindsay           GB   185   1,220,511
+7   Phil Ferguson ⚡Avant 💡  QU_SCOTLAND   175   1,100,561
+8   Kater ₹ɘȵ Save the App           PL   174   1,077,763
+9             Chris Jordan           GB   170   1,033,844
+10                   Sandy           GB   163     945,685
+11      Autumn # No Boosts  QU_SCOTLAND   160     920,505
+12             Andy Gemini           GB   150     810,705
+13             Peter Baird   QU_ENGLAND   146     764,126
+14               Mick Pitt           GB   143     733,490
+15  Protector Of Democracy           RU   139     697,952

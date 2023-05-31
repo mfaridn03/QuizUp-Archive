@@ -1,0 +1,16 @@
+                 Player      Country Level    Total XP
+1          John Krygier           US   871  26,680,834
+2           JohnniePolo           US   731  18,777,027
+3               Morty07           CA   676  16,063,721
+4             Coachman3           US   651  14,932,745
+5         Norm Berliant           US   618  13,449,211
+6         kind of magic           FR   602  12,768,973
+7           Ken MacLeod  QU_SCOTLAND   553  10,774,171
+8                  Joan           US   542  10,360,077
+9          Ironwoman 45           US   527   9,776,470
+10         Art Takahara           CA   505   8,975,742
+11  Alex R save the app           IE   464   7,605,928
+12              Mayoman           IE   425   6,369,952
+13         Bruce Hallum           NZ   423   6,319,305
+14               Steven           DE   418   6,163,731
+15                 Tony           CA   388   5,332,994

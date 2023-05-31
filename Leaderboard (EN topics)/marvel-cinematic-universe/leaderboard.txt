@@ -1,0 +1,16 @@
+          Player Country Level    Total XP
+1      Lee Inman      GB   618  13,426,087
+2        gimli14      FR   546  10,523,103
+3     J B Barnes      CA   445   6,976,933
+4        kaitlyn      GB   415   6,073,732
+5         Justin      US   356   4,477,674
+6        BIGIDIN      FR   352   4,394,204
+7            LRT      US   347   4,256,331
+8       Agent 13      AR   328   3,811,882
+9        vanessa      US   324   3,707,930
+10  Sara Merrill      US   282   2,828,158
+11         Wanda      MA   282   2,818,575
+12   Gray Knight      ID   281   2,794,168
+13  Tranquillity      GB   280   2,783,312
+14     Marvelord      IL   265   2,495,295
+15  Parker Nebel      AQ   244   2,115,797

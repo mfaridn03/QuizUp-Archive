@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1                Notella      CH   582  11,921,074
+2         Michael Scharf      US   561  11,074,554
+3                  Roger      GB   478   8,054,845
+4                Bramski      US   425   6,387,867
+5   KatGer- Save the App      US   388   5,320,813
+6          Finn Malmgren      SE   257   2,352,529
+7                Leyla Z      TR   251   2,238,905
+8            Rogge-Gotha      IO   204   1,487,144
+9              <Deleted>      GB   200   1,430,064
+10                  Eric      GB   196   1,373,622
+11                  Paul      FR   179   1,139,644
+12           UMBERTO Eco      GR   168   1,014,592
+13               Trishie      NZ   166     981,715
+14                   PiK      PL   165     975,388
+15               Planter      US   162     935,665

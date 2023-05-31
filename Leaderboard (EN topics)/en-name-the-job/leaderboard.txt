@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1       Tracy Jacques      GB   640  14,426,988
+2   Fernando Espinosa      ES   501   8,839,434
+3            manibalu      DE   458   7,413,717
+4              LouAnn      US   381   5,135,069
+5          Lucas Melo      BR   295   3,079,582
+6                  Ro      US   284   2,853,690
+7          Kaarst2008      DE   278   2,732,256
+8            ozrick33      AU   268   2,556,338
+9               Pluto      CO   261   2,423,199
+10       Jazzy | ҜΞ 〽      AZ   261   2,409,454
+11                Raj      IN   260   2,405,837
+12          nyma khan      PK   238   2,012,546
+13               Coop      US   230   1,886,387
+14            Kurt 59      AT   227   1,830,239
+15       Marie France      FR   208   1,545,628

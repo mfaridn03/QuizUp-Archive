@@ -1,0 +1,16 @@
+                        Player Country Level    Total XP
+1                      steve p      US   539  10,227,307
+2                          IkR      FR   365   4,706,821
+3                 TheWilsonDuo      GB   360   4,590,434
+4            Kate-save the app      US   343   4,169,901
+5                     Revbucco      US   305   3,285,622
+6         KatGer- Save the App      US   304   3,273,435
+7                           EK      NL   291   3,008,216
+8        Terancha von Bredikis      LT   252   2,252,612
+9                   Olle Solem      NO   237   1,990,248
+10                    comanche      NO   230   1,883,338
+11                  Belle Boyd      US   210   1,565,144
+12               Steve Conners      US   208   1,534,221
+13  Radford Lad - Save the App      GB   201   1,436,066
+14                      bülent      TR   191   1,308,285
+15                    Augustus      GB   190   1,286,355

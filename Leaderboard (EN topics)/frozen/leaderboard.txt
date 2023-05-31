@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1                Luke      GB   428  6,462,334
+2             Tempest      GB   350  4,329,027
+3       Colton Krukow      US   341  4,125,742
+4   Kelsey#Golden-ILA      US   330  3,863,958
+5      veni vidi vici      US   327  3,792,682
+6    Lord Crystalus ♚      FR   326  3,770,012
+7      Camila Jacober      BR   324  3,713,774
+8          Winnerster      CA   322  3,665,254
+9               divya      IN   316  3,533,777
+10      Ethan Council      US   298  3,146,095
+11           ALEXANDR      FR   294  3,058,927
+12               Narg      BE   293  3,042,772
+13         Enora Luna      FR   293  3,035,278
+14              Raven      IN   292  3,020,247
+15      Luna mi angel      AT   253  2,268,265

@@ -1,0 +1,16 @@
+                    Player      Country  Level    Total XP
+1                   drsmak           CA  1,174  48,364,279
+2                 Mac Eoin           IE  1,016  36,251,318
+3                    Jim B           US    701  17,304,139
+4                 pepper67           GB    694  16,945,121
+5           Trojan Warrior           MY    626  13,784,476
+6       Daddio # No boosts           GB    624  13,694,686
+7                 Jim Hall           US    603  12,801,425
+8                    Chris           GB    579  11,790,654
+9                Glenn5172           US    536  10,118,478
+10             John Feeney  QU_SCOTLAND    533  10,029,660
+11       Widdowfield Linda           GB    528   9,828,798
+12  Brenda..Save the App!!           US    517   9,436,091
+13                  Eccles           AU    506   9,016,539
+14    Davie Moran "Iceman"  QU_SCOTLAND    476   8,007,217
+15              Dave twist           GB    437   6,752,121

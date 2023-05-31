@@ -1,0 +1,16 @@
+                      Player Country  Level    Total XP
+1             Avelino #L-ILA      PA  1,662  96,860,706
+2                       Rich      US  1,472  76,044,201
+3              jean-philippe      FR  1,348  63,800,536
+4                   NAVANINA      IN  1,260  55,708,100
+5               Tarık #L-ILA      TR  1,153  46,649,871
+6            Mircinon Júnior      BR  1,045  38,374,132
+7   Carsten Savant Community      DE    969  32,975,056
+8              Imraan Essack      ZA    966  32,802,366
+9                   Fm Burgh      US    927  30,227,710
+10                   ThomasC      FR    846  25,131,964
+11                The Wizard      ZA    843  24,963,817
+12           🛡️Glradiator®🗡️      US    805  22,769,746
+13            Yashwant Pawar      IN    767  20,687,800
+14                     Terry      GB    763  20,494,215
+15                haleema123      BH    720  18,250,281

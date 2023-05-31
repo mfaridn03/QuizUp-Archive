@@ -1,0 +1,16 @@
+               Player Country Level   Total XP
+1              Alan S      GB   341  4,121,139
+2       Str8 Boredman      US   333  3,918,569
+3                 Rob      US   260  2,402,099
+4              Dink24      US   247  2,172,675
+5                Quin      ZA   230  1,883,092
+6   Dorothy G. #L~ILA      US   209  1,554,246
+7      Tony Ditommaso      CA   181  1,170,082
+8        Chris Jordan      GB   160    911,466
+9                Ross      US   155    863,127
+10             Dink23      US   155    858,957
+11      Da Vaughnster      US   145    758,586
+12        Raging Paul      CA   144    747,065
+13            Candice      US   144    745,988
+14           Tagger57      US   138    685,125
+15              Linda      US   130    611,319

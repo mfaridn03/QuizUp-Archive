@@ -1,0 +1,16 @@
+               Player Country Level Total XP
+1                Aqsa      PK   155  862,862
+2                 P.P      IN   107  411,636
+3        Invoker™ ₹ɘȵ      IN   104  393,766
+4        Kuntal Kumar      IN   103  384,805
+5                Sona      IN   100  359,390
+6   MOHAMMAD MODASSIR      IN    82  248,510
+7                isha      IN    78  222,436
+8               Ashok      IN    76  212,249
+9      Kalpona Moitra      IN    74  201,956
+10        Varun Sahni      IN    73  197,538
+11                 SR      IN    72  192,375
+12              Vin C      IN    69  175,841
+13     Kishan Agrawal      IN    69  173,316
+14       Udit Taksali      IN    68  172,374
+15      Kanchan Joshi      IN    67  166,853

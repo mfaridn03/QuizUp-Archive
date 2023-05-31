@@ -1,0 +1,16 @@
+            Player Country Level    Total XP
+1    The Mahonster      GB   927  30,213,209
+2            Harps      US   705  17,492,978
+3            Steve      US   643  14,553,652
+4             Greg      US   459   7,425,695
+5           Raptic      FI   400   5,652,626
+6            Rocky      US   329   3,833,094
+7           Gerfff      US   275   2,673,105
+8    Marc Mitchell      US   240   2,055,455
+9       Coy Fields      US   218   1,683,960
+10       Comic guy      US   217   1,678,930
+11     Mrmojorisin      US   208   1,545,980
+12    Jeff O'Neill      CA   200   1,430,351
+13    Nurul Basher      GB   180   1,154,584
+14  lunatic sanity      US   179   1,138,509
+15       comicfoil      US   174   1,081,999

@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1        Dorothy G. #L~ILA      US  1,000  35,097,622
+2   Jay S. Harris, Esquire      US    532   9,987,752
+3          Christine *ICON      AU    500   8,821,627
+4                    Brews      CA    437   6,744,212
+5            faduma adulle      CA    414   6,059,075
+6                     Ivan      ZA    349   4,303,644
+7                  Maya Lo      ZA    338   4,050,651
+8              Victoria A.      PH    301   3,208,192
+9            Parveen Kader      IN    281   2,807,054
+10                   Heena      CA    236   1,982,078
+11       Laurence Bergeret      BE    220   1,722,351
+12             princess 73      FR    214   1,633,393
+13                    Meka      US    210   1,572,290
+14           Meredith Wolf      GB    209   1,562,025
+15                 Lorelei      US    208   1,544,410

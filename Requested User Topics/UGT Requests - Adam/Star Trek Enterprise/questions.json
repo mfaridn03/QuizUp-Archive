@@ -1,0 +1,5591 @@
+{
+  "01020abb-1cc5-4fbd-9cf5-d6d83c0f5281": {
+    "answers": [
+      {
+        "id": "7cfcb49a-0a1f-4938-9e10-1b85586d96b6",
+        "text": "H. G. Wells"
+      },
+      {
+        "id": "dbd8fa61-74bd-4be7-8458-8c56839384cd",
+        "text": "T. J. Hooker"
+      },
+      {
+        "id": "26a05dc6-b08d-4971-a8b9-a13129ac1c6f",
+        "text": "C. S. Lewis"
+      },
+      {
+        "id": "725fb5ef-97ac-47fe-be25-b37a131ad8aa",
+        "text": "A. G. Robinson"
+      }
+    ],
+    "correct_answer_id": "725fb5ef-97ac-47fe-be25-b37a131ad8aa",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/49/e7/ca/49e7ca175c133f5f819fd0c9b5fcdebd46d61d57/content?h=360&q=95&w=360",
+    "text": "Keith Carradine played the role of Archer's friend named...?"
+  },
+  "015a7398-1298-47d2-a801-5dd7c194ee2b": {
+    "answers": [
+      {
+        "id": "3dd60dec-3539-4821-a23b-e1ffa1f92d34",
+        "text": "V'Ger"
+      },
+      {
+        "id": "c7b85d1e-27d4-46ad-bb02-4368a0751da0",
+        "text": "V'Las"
+      },
+      {
+        "id": "b5e4e1c1-4244-400c-9e0c-3d1f8fa98958",
+        "text": "T'Les"
+      },
+      {
+        "id": "8c7dd60c-f5eb-414b-a498-ef46d57af763",
+        "text": "T'Pring"
+      }
+    ],
+    "correct_answer_id": "b5e4e1c1-4244-400c-9e0c-3d1f8fa98958",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/3c/b1/55/3cb155b2febec407b6a9fe0c6bc00d4312cf91f9/content?h=360&q=95&w=360",
+    "text": "T'Pol's mother is named...?"
+  },
+  "01d9f59d-9ebf-405c-a4ed-28f1989400bf": {
+    "answers": [
+      {
+        "id": "cd26df78-0e73-4d00-9159-ab2651d33c32",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "151e2a8e-7be7-4b50-a425-08de01c0ba38",
+        "text": "Corporal Palmer"
+      },
+      {
+        "id": "3ab918b3-7341-467b-8c1c-f3b9db234326",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "f1a15ee7-98c3-45c9-b9da-4f0f61e1bd6f",
+        "text": "Jonathan Archer"
+      }
+    ],
+    "correct_answer_id": "cd26df78-0e73-4d00-9159-ab2651d33c32",
+    "photo_url": null,
+    "text": "Who put the first scratch on the Enterprise?"
+  },
+  "0377823f-5f23-47fb-9293-5697990068d4": {
+    "answers": [
+      {
+        "id": "68305210-da28-4858-a0ac-9ff08ea1b23e",
+        "text": "73"
+      },
+      {
+        "id": "2f463c80-9d3f-4bea-9ad7-97ea0a8faa8c",
+        "text": "173"
+      },
+      {
+        "id": "ad4df7b2-706b-47c6-b0d8-6fabb19b18f7",
+        "text": "473"
+      },
+      {
+        "id": "6b4ae80a-4a92-496d-aff4-8e57b2562990",
+        "text": "673"
+      }
+    ],
+    "correct_answer_id": "2f463c80-9d3f-4bea-9ad7-97ea0a8faa8c",
+    "photo_url": null,
+    "text": "How many Ferengi rules of acquisition are there?"
+  },
+  "07bd9e4c-dd2f-4d33-b6d7-e844dc2061ed": {
+    "answers": [
+      {
+        "id": "5a4f91e6-03b0-4d17-b529-201af29c83f9",
+        "text": "D'Artagnan"
+      },
+      {
+        "id": "87dbe9f4-9043-437e-8120-ffaeee069392",
+        "text": "Aramis"
+      },
+      {
+        "id": "b4b255f4-1d22-457c-bb72-d005d9ba5a23",
+        "text": "Porthos"
+      },
+      {
+        "id": "efb8215c-eb3d-495b-9e2a-ced2290f3a43",
+        "text": "Athos"
+      }
+    ],
+    "correct_answer_id": "b4b255f4-1d22-457c-bb72-d005d9ba5a23",
+    "photo_url": null,
+    "text": "What was the name of Captain Archer's beagle?"
+  },
+  "0b9eb099-fac3-46d2-b3ed-73e52eaee3aa": {
+    "answers": [
+      {
+        "id": "e3cdbefc-8027-48ff-a75b-204eda1b043a",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "01d56cde-0b9d-47bc-8390-4e2187c70563",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "b9369225-4b25-411d-a7d8-c480bc823c33",
+        "text": "Jonathan Archer"
+      },
+      {
+        "id": "2ca2d5e9-b067-4051-823b-4d717bf2659f",
+        "text": "Hoshi Sato"
+      }
+    ],
+    "correct_answer_id": "2ca2d5e9-b067-4051-823b-4d717bf2659f",
+    "photo_url": null,
+    "text": "Who was trapped in the transporter's pattern buffer for a few seconds?"
+  },
+  "0d329799-72fe-47f9-b866-d75cf5d5a121": {
+    "answers": [
+      {
+        "id": "3f7ea0f7-0406-49e3-8514-9fa6fc929c3f",
+        "text": "Tucker"
+      },
+      {
+        "id": "ffeb7fc4-3688-4bbc-a6e8-5ae2280cd1ae",
+        "text": "Mayweather"
+      },
+      {
+        "id": "002cc22d-7fb2-4301-8079-cb1acc8a9930",
+        "text": "Jossen"
+      },
+      {
+        "id": "5cf08ea4-1de8-45ca-8a35-20e80fc1ecdc",
+        "text": "Menos"
+      }
+    ],
+    "correct_answer_id": "ffeb7fc4-3688-4bbc-a6e8-5ae2280cd1ae",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/3b/e8/d2/3be8d2852a0d10be97b0db31e76fbd6efc7c6934/content?h=360&q=95&w=360",
+    "text": "Who was NOT shot by T'Pol?"
+  },
+  "0df958a8-9c65-4137-8577-3062695bde54": {
+    "answers": [
+      {
+        "id": "cb0ccd2a-b1ce-49c3-9017-988f2f1cc567",
+        "text": "Technology Road"
+      },
+      {
+        "id": "29274c1b-53bf-410e-88e3-672cb3001b11",
+        "text": "Carpenter Street"
+      },
+      {
+        "id": "9938b8c4-a61d-4781-ac48-d2b1ecc7f893",
+        "text": "Mechanics Boulevard"
+      },
+      {
+        "id": "150649e4-7479-41c6-bf61-14cc301cd470",
+        "text": "Sailors Street"
+      }
+    ],
+    "correct_answer_id": "29274c1b-53bf-410e-88e3-672cb3001b11",
+    "photo_url": null,
+    "text": "Where did time-traveling Xindi-Reptilians try to build a bio-weapon?"
+  },
+  "0f291322-ce9c-425f-852c-829c380290ff": {
+    "answers": [
+      {
+        "id": "ab76d1f0-f209-4029-b5d1-ad21eb2b110c",
+        "text": "118"
+      },
+      {
+        "id": "c7f6a152-a662-4518-a7d1-b60c240681e1",
+        "text": "94"
+      },
+      {
+        "id": "e40f3b91-e68b-4d9c-8a94-4899986dad9b",
+        "text": "0"
+      },
+      {
+        "id": "66271355-ceed-4711-a4e8-30d27247a428",
+        "text": "26"
+      }
+    ],
+    "correct_answer_id": "66271355-ceed-4711-a4e8-30d27247a428",
+    "photo_url": null,
+    "text": "How many Eagle Scout merit badges does Archer have?"
+  },
+  "0f6c755e-c7d5-43ec-a566-2c31566dfc74": {
+    "answers": [
+      {
+        "id": "9a924cb9-772e-48aa-b771-4840168ed4a4",
+        "text": "Shilat"
+      },
+      {
+        "id": "421f76d3-8fdb-49e9-8756-a67f8d740113",
+        "text": "Sarin"
+      },
+      {
+        "id": "5d45506e-a5e3-4c40-94b4-58e7067dc588",
+        "text": "Seleya"
+      },
+      {
+        "id": "f5c8c41a-cafe-4021-8f5e-903833f200b9",
+        "text": "Sajen"
+      }
+    ],
+    "correct_answer_id": "421f76d3-8fdb-49e9-8756-a67f8d740113",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/a1/5c/2a/a15c2a0ef08c7bc50e824322bbe9632eaa2c1153/content?h=360&q=95&w=360",
+    "text": "Who is this Suliban female and former Cabal member?"
+  },
+  "0fb34dd0-42ad-490d-9fed-955692adf061": {
+    "answers": [
+      {
+        "id": "f17a3401-7746-4631-bdd5-c911d4875d6a",
+        "text": "Columbia"
+      },
+      {
+        "id": "f735d5f9-2a7b-475b-a2c0-90813d98948b",
+        "text": "Intrepid"
+      },
+      {
+        "id": "8c3989c2-5cbe-4781-aa53-8bc78ac242d1",
+        "text": "Shenandoah"
+      },
+      {
+        "id": "f5e9df3c-cfd2-4268-94cb-ae550f0829c9",
+        "text": "Avenger"
+      }
+    ],
+    "correct_answer_id": "f17a3401-7746-4631-bdd5-c911d4875d6a",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/bd/b3/58/bdb358c1b5b9322d14ddcb191fcc3b289d1b5e7a/content?h=360&q=95&w=360",
+    "text": "What ship merges warp fields with the Enterprise to transfer Tucker?"
+  },
+  "103126ef-d483-4204-8a82-85014822aa06": {
+    "answers": [
+      {
+        "id": "d8e5265e-b417-4d7a-a9df-e075bdde03a6",
+        "text": "32"
+      },
+      {
+        "id": "0956fd07-b499-49cc-8e11-332058d999b4",
+        "text": "113"
+      },
+      {
+        "id": "308e25fe-4b16-485e-bf2e-d3f07c90117e",
+        "text": "106"
+      },
+      {
+        "id": "1ad9a7df-3eb2-4f15-aba5-0e97f5b45411",
+        "text": "54"
+      }
+    ],
+    "correct_answer_id": "d8e5265e-b417-4d7a-a9df-e075bdde03a6",
+    "photo_url": null,
+    "text": "At the end of the series, how many planets had Malcolm Reed stood on?"
+  },
+  "10efc675-a7c3-4744-b5f9-a9be6560f23e": {
+    "answers": [
+      {
+        "id": "d790f50d-8507-4de8-9e72-e04c5ec1aa03",
+        "text": "Three"
+      },
+      {
+        "id": "40de155c-3f28-48e6-b076-cfadd29bc407",
+        "text": "Five"
+      },
+      {
+        "id": "527914c2-b121-47d4-b799-e21968b8b46f",
+        "text": "One"
+      },
+      {
+        "id": "9f82a377-9145-4495-abc1-3eddaafcc19b",
+        "text": "Four"
+      }
+    ],
+    "correct_answer_id": "d790f50d-8507-4de8-9e72-e04c5ec1aa03",
+    "photo_url": null,
+    "text": "How many Orion females were brought onto the Enterprise?"
+  },
+  "11119347-f0e7-4984-aa66-98f00c0774ba": {
+    "answers": [
+      {
+        "id": "2cfec795-6d3b-498e-b672-c713750c43df",
+        "text": "Rostov"
+      },
+      {
+        "id": "d2267e23-835a-480f-8b2a-070599f3a00c",
+        "text": "Mayweather"
+      },
+      {
+        "id": "a15f0cfe-aa34-48b1-b004-b7c7ac6383f4",
+        "text": "Reed"
+      },
+      {
+        "id": "32d7d5e8-5180-41b4-939c-080a98a9c688",
+        "text": "Shran"
+      }
+    ],
+    "correct_answer_id": "a15f0cfe-aa34-48b1-b004-b7c7ac6383f4",
+    "photo_url": null,
+    "text": "Who impersonated Tucker by saying \"Keep your shirt on lieutenant.\"?"
+  },
+  "117e71e2-a995-4ac8-8689-6b9ddc7b479f": {
+    "answers": [
+      {
+        "id": "2290c6a0-3875-4627-adc6-7996032ab7ad",
+        "text": "Vulcan lute"
+      },
+      {
+        "id": "5a3c05e9-aa91-4a79-9885-455b4b03af02",
+        "text": "Guitar"
+      },
+      {
+        "id": "88e3abf1-da57-449b-bbe5-405f9f675fef",
+        "text": "Piano"
+      },
+      {
+        "id": "5d5ed862-753b-420a-ae67-020cc426f482",
+        "text": "Harmonica"
+      }
+    ],
+    "correct_answer_id": "5d5ed862-753b-420a-ae67-020cc426f482",
+    "photo_url": null,
+    "text": "What musical instrument does Trip Tucker play?"
+  },
+  "12b46940-7b52-4844-a45b-e67abf8eed31": {
+    "answers": [
+      {
+        "id": "a5699304-1b30-4bae-b2de-edbea8e6e32c",
+        "text": "Travis Mayweather"
+      },
+      {
+        "id": "b7cc6623-c713-4d9c-8df9-fcef7e4f0c8b",
+        "text": "Ensign Hart"
+      },
+      {
+        "id": "e19f415b-3257-43f7-8711-0a49b7b576f4",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "b142a011-81ed-44b1-894c-8547d60b106e",
+        "text": "Elizabeth Cutler"
+      }
+    ],
+    "correct_answer_id": "b142a011-81ed-44b1-894c-8547d60b106e",
+    "photo_url": null,
+    "text": "Who was the exobiologist serving on the Enterprise NX-01?"
+  },
+  "147296a1-ee52-4396-9a9c-a1d9065ac5dd": {
+    "answers": [
+      {
+        "id": "20717320-4110-49d4-99a0-43681a7149c3",
+        "text": "The Five Pennies"
+      },
+      {
+        "id": "a67f0d32-895f-4a2b-b410-780f32cef134",
+        "text": "The Court Jester"
+      },
+      {
+        "id": "b1eec942-533d-4feb-91a3-9c0c77c86278",
+        "text": "Knock on Wood"
+      },
+      {
+        "id": "756d8ab9-06cd-4b1b-b068-a95efb009a90",
+        "text": "The Inspector General"
+      }
+    ],
+    "correct_answer_id": "a67f0d32-895f-4a2b-b410-780f32cef134",
+    "photo_url": null,
+    "text": "Which Danny Kaye film did Dr. Phlox watch while the rest of the crew was in stasis?"
+  },
+  "17bbc395-f5b0-4b6d-97e1-75bca74c10eb": {
+    "answers": [
+      {
+        "id": "a19bb9e6-74ac-4324-bbeb-2a5c67601376",
+        "text": "Tellarites"
+      },
+      {
+        "id": "826406b8-8f72-4af5-93fc-3f12be9142e5",
+        "text": "Tesnians"
+      },
+      {
+        "id": "ff149b5a-08ef-4dbc-88ef-1ba0c91b4385",
+        "text": "Andorians"
+      },
+      {
+        "id": "4d2d6a64-850c-413f-8ebe-dce4be23e7a6",
+        "text": "Mazarites"
+      }
+    ],
+    "correct_answer_id": "4d2d6a64-850c-413f-8ebe-dce4be23e7a6",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/e7/0b/4c/e70b4c1e39e1c5f8b40122f259e20620e8306d77/content?h=360&q=95&w=360",
+    "text": "Who was trying to assassinate Ambassador V'Lar?"
+  },
+  "17d9b708-dc79-42ec-a1cc-cbf4f9d56d75": {
+    "answers": [
+      {
+        "id": "684ba974-d383-4298-aa5f-ee390bc81fd1",
+        "text": "MACOs"
+      },
+      {
+        "id": "d3f5b390-92b7-41de-b225-6bd74f6e57ec",
+        "text": "The Aenar"
+      },
+      {
+        "id": "c86b0180-456f-457f-94b4-c3a58edaa301",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "53b7fb33-036e-444a-898f-d6fb84b850ef",
+        "text": "Malcolm Reed"
+      }
+    ],
+    "correct_answer_id": "c86b0180-456f-457f-94b4-c3a58edaa301",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/c0/b2/ed/c0b2ed9005eff342fa7ca2d79f7a7224247ec92c/content?h=360&q=95&w=360",
+    "text": "Who saved the life of the First Monarch of the Sovereign Dynasty of Krios Prime?"
+  },
+  "185ca9b8-435a-4d27-b288-36203fef248a": {
+    "answers": [
+      {
+        "id": "a99d1ea0-b496-4e13-912c-d755f3d782e6",
+        "text": "Three"
+      },
+      {
+        "id": "67e9078a-16bc-4356-ba32-14efd0d589e7",
+        "text": "Six"
+      },
+      {
+        "id": "1b760da5-a23d-41e0-bfd0-506ccf283fa9",
+        "text": "Eight"
+      },
+      {
+        "id": "fb7ffefa-fb44-49a9-b68e-88a9b1f9e3b8",
+        "text": "Two"
+      }
+    ],
+    "correct_answer_id": "a99d1ea0-b496-4e13-912c-d755f3d782e6",
+    "photo_url": null,
+    "text": "How many phase cannons are on Enterprise?"
+  },
+  "1b120b89-08b1-475e-a0b5-fb0f88020764": {
+    "answers": [
+      {
+        "id": "97cec7b4-7fe2-4b7b-ba5c-daf46bbc195d",
+        "text": "Hernandez"
+      },
+      {
+        "id": "439a46a4-6c3a-4d85-89dc-5f6cfbaae10e",
+        "text": "Shelby"
+      },
+      {
+        "id": "7325bd3f-61ee-441c-aca8-ae1a1cc5ee33",
+        "text": "Duval"
+      },
+      {
+        "id": "dc56f6e4-f3ae-4a7c-9a75-91065fa871b2",
+        "text": "Black"
+      }
+    ],
+    "correct_answer_id": "7325bd3f-61ee-441c-aca8-ae1a1cc5ee33",
+    "photo_url": null,
+    "text": "Who was the captain of the Shenandoah?"
+  },
+  "1c150675-fd3b-450b-b73d-14e48d5afc18": {
+    "answers": [
+      {
+        "id": "6e7c8ac8-569a-41b0-823f-699603041a95",
+        "text": "Eisilium"
+      },
+      {
+        "id": "3d4b2560-f01a-4935-bbc6-cf946f3e2471",
+        "text": "Trellium"
+      },
+      {
+        "id": "3c33bed6-0144-472e-aee1-503477a05aae",
+        "text": "Kemocite"
+      },
+      {
+        "id": "e631bf30-e8ea-4974-957b-ab9d0c436676",
+        "text": "Triglobulin"
+      }
+    ],
+    "correct_answer_id": "6e7c8ac8-569a-41b0-823f-699603041a95",
+    "photo_url": null,
+    "text": "Mayweather and Reed go to the biggest comet humans have ever seen to extract samples of what rare mineral?"
+  },
+  "1c64908f-867c-4e43-9f5a-2dfb1b381d4a": {
+    "answers": [
+      {
+        "id": "fc39c867-106f-47fc-961e-ebd042b59975",
+        "text": "Life in prison"
+      },
+      {
+        "id": "d8755e41-d142-4cf4-b9f4-9bd97624dd8f",
+        "text": "Death"
+      },
+      {
+        "id": "0a4c230d-260b-4411-b277-e30e1ab266dc",
+        "text": "Probation"
+      },
+      {
+        "id": "490c83f3-0daf-44ae-a2c5-c1407db4f7c0",
+        "text": "7 years in prison"
+      }
+    ],
+    "correct_answer_id": "fc39c867-106f-47fc-961e-ebd042b59975",
+    "photo_url": null,
+    "text": "At trial, what is Archer's sentence when charged with conspiring against the Klingon Empire?"
+  },
+  "1c78f3d7-dc85-41a1-91ed-e075e2bc7968": {
+    "answers": [
+      {
+        "id": "afccd5e1-2467-4b92-a329-fb171834c04c",
+        "text": "Olivia"
+      },
+      {
+        "id": "faac9111-2760-4674-ab4d-424ba064660b",
+        "text": "Elizabeth"
+      },
+      {
+        "id": "c1254ae4-f2fb-480f-b50e-4718024ed217",
+        "text": "Carolyn"
+      },
+      {
+        "id": "6995c029-0ee2-4821-b648-272750679a2e",
+        "text": "Heather"
+      }
+    ],
+    "correct_answer_id": "faac9111-2760-4674-ab4d-424ba064660b",
+    "photo_url": null,
+    "text": "What is the name of Trip Tucker's sister?"
+  },
+  "1cc9a225-3073-4214-8d82-14da4747f1ed": {
+    "answers": [
+      {
+        "id": "2eabfcc1-7144-48a3-90b7-a1b4d74174fe",
+        "text": "V'Lar"
+      },
+      {
+        "id": "debcd9c2-9815-4e54-b927-5a9372a8f499",
+        "text": "Voris"
+      },
+      {
+        "id": "782ded94-b2d3-4567-ac80-a6e9041c16b7",
+        "text": "V'Las"
+      },
+      {
+        "id": "fca140a5-6272-4359-944f-4968c221aa4c",
+        "text": "Velik"
+      }
+    ],
+    "correct_answer_id": "fca140a5-6272-4359-944f-4968c221aa4c",
+    "photo_url": null,
+    "text": "Who was Trip Tucker's Vulcan 10th grade biology teacher?"
+  },
+  "1f643bdd-1eaf-4dd2-baf1-cd80541a0cd6": {
+    "answers": [
+      {
+        "id": "83248dc1-57e5-4586-861e-3244d0068f08",
+        "text": "The  Delphic Expanse"
+      },
+      {
+        "id": "98146b77-fa0b-4e62-a89d-7252e71e8514",
+        "text": "The Empty Void"
+      },
+      {
+        "id": "d8539c99-286e-44fd-8879-1196b45fcaef",
+        "text": "The Round Helix"
+      },
+      {
+        "id": "57afef3f-2bab-4ddf-a4ed-fc37407257a7",
+        "text": "The Deep Forge"
+      }
+    ],
+    "correct_answer_id": "83248dc1-57e5-4586-861e-3244d0068f08",
+    "photo_url": null,
+    "text": "What is the name of the transformed space between Earth and the Xindi?"
+  },
+  "1fcda0a2-b841-4d0c-bfbe-d5b45266fc56": {
+    "answers": [
+      {
+        "id": "f8cc6d63-5bcd-4f59-8883-0f09a16cfad8",
+        "text": "No one"
+      },
+      {
+        "id": "b8a81b08-d570-4f48-af07-16bf0056487a",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "10cba4e9-07f6-4150-8a3a-b3e346760843",
+        "text": "Dr. Phlox"
+      },
+      {
+        "id": "2346ea9b-47ca-4dfc-8c5b-c7722a679e5f",
+        "text": "Travis Mayweather"
+      }
+    ],
+    "correct_answer_id": "f8cc6d63-5bcd-4f59-8883-0f09a16cfad8",
+    "photo_url": null,
+    "text": "Who was renowned for saying to Captain Archer \"He's dead, Jon.\"?"
+  },
+  "202dec9b-7b62-4ef2-8776-79f55adbceda": {
+    "answers": [
+      {
+        "id": "8c2a7374-db7a-44b7-9edd-02e3725a7a7b",
+        "text": "Shockwave"
+      },
+      {
+        "id": "19b0ffbc-0b00-4d60-a628-16afcf14537d",
+        "text": "Storm Front"
+      },
+      {
+        "id": "87bbc85f-a2f0-4045-b0db-aaf5b711a59f",
+        "text": "Countdown"
+      },
+      {
+        "id": "3a1069cb-ad65-4c9d-b6e2-22c119718b01",
+        "text": "In a Mirror, Darkly"
+      }
+    ],
+    "correct_answer_id": "87bbc85f-a2f0-4045-b0db-aaf5b711a59f",
+    "photo_url": null,
+    "text": "Which is NOT a two-part episode?"
+  },
+  "2096b02a-d93f-4273-9d79-8520f8f4aaea": {
+    "answers": [
+      {
+        "id": "b1f15177-06d6-4758-82cf-7fa3bdc89379",
+        "text": "Danik"
+      },
+      {
+        "id": "fff4e0fa-9e74-480d-b0fe-4909e8566527",
+        "text": "Dolim"
+      },
+      {
+        "id": "ed0f9781-8f54-427f-9f43-b6d1ebb1fcd6",
+        "text": "Durr"
+      },
+      {
+        "id": "50e7257b-4f74-41ec-ab8f-28342a5a4ba7",
+        "text": "Degra"
+      }
+    ],
+    "correct_answer_id": "fff4e0fa-9e74-480d-b0fe-4909e8566527",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/2a/02/cb/2a02cb785ad3a927e209cd9722b6b75b6853acd4/content?h=360&q=95&w=360",
+    "text": "Who was the Xindi Reptilian commander?"
+  },
+  "2148f15d-d591-4f7f-a999-5cd1b06b9b1a": {
+    "answers": [
+      {
+        "id": "8fc8596b-5dcd-4120-8ec2-1390b79dcf1f",
+        "text": "Pris and Zhora"
+      },
+      {
+        "id": "1c78f9db-1588-43ab-a064-e050970a0ca1",
+        "text": "Moe and Curly"
+      },
+      {
+        "id": "9582dad6-a23f-44d5-b463-2cf341e23f12",
+        "text": "Darmok and Jalad"
+      },
+      {
+        "id": "198b6dc1-205b-4387-9e65-c839ae9dea2c",
+        "text": "Latia and Dee'Ahn"
+      }
+    ],
+    "correct_answer_id": "198b6dc1-205b-4387-9e65-c839ae9dea2c",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/82/83/3c/82833cc573c2f1f91b57cdbc77531ed78ca1c57f/content?h=360&q=95&w=360",
+    "text": "Who do they claim to be?"
+  },
+  "2372ab5f-cbe9-4ead-83b3-1265e120517a": {
+    "answers": [
+      {
+        "id": "13be8593-2220-415e-8eb0-0b9eb10ede89",
+        "text": "In a Mirror, Darkly"
+      },
+      {
+        "id": "754690ca-36e0-458d-b378-dd48dc3a6f79",
+        "text": "These are the Voyages..."
+      },
+      {
+        "id": "ac34bc92-d801-48a8-84e0-5f6c8460faa0",
+        "text": "Stormfront"
+      },
+      {
+        "id": "b2e8931c-1cd5-4522-b944-dec08fa1a996",
+        "text": "Shockwave"
+      }
+    ],
+    "correct_answer_id": "13be8593-2220-415e-8eb0-0b9eb10ede89",
+    "photo_url": null,
+    "text": "Which episode is noted for having a very different opening sequence?"
+  },
+  "2800580b-aefb-4fbc-ba3a-a37ca6f057ce": {
+    "answers": [
+      {
+        "id": "3558348d-c253-4ab9-b4bd-6a4202039171",
+        "text": "Travis Mayweather"
+      },
+      {
+        "id": "a017f2ad-7159-40d4-bae0-a40ee2f76ae6",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "6e1c6ccc-4f77-4409-930e-bca34d1adc81",
+        "text": "Jonathan Archer"
+      },
+      {
+        "id": "e9c93e06-b417-498c-af52-ebd04f3905ac",
+        "text": "Phlox"
+      }
+    ],
+    "correct_answer_id": "a017f2ad-7159-40d4-bae0-a40ee2f76ae6",
+    "photo_url": null,
+    "text": "Which crew member came from a long family line of Navy members?"
+  },
+  "281a3488-2faa-4959-91ae-7e3c52c52125": {
+    "answers": [
+      {
+        "id": "5a4eba81-cec3-4f09-b303-6c5ce8307e66",
+        "text": "A.G. Robinson"
+      },
+      {
+        "id": "513d7733-3c01-4528-88ce-304ae2ef1a43",
+        "text": "Daniels"
+      },
+      {
+        "id": "a8282497-2f4a-4692-b7c4-0244e7d611b2",
+        "text": "Dr. Jeremy Lucas"
+      },
+      {
+        "id": "a3e97d70-d557-40f8-beda-fa1541d12190",
+        "text": "Nathan Samuels"
+      }
+    ],
+    "correct_answer_id": "513d7733-3c01-4528-88ce-304ae2ef1a43",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/4d/73/65/4d73655456e93dc90942a19072be3e9cad057ce4/content?h=360&q=95&w=360",
+    "text": "Who is this?"
+  },
+  "2863f3a3-d80d-4404-b128-f28ede37db06": {
+    "answers": [
+      {
+        "id": "f7d43b0c-87a0-4cbe-b272-86a0799d19a7",
+        "text": "Colonel Green"
+      },
+      {
+        "id": "03cf69e7-7310-4a2d-a535-91c042413c46",
+        "text": "Harrad-Sar"
+      },
+      {
+        "id": "fd589488-15ab-4047-9952-e84f8945d299",
+        "text": "Valkris"
+      },
+      {
+        "id": "3ca2d49c-412f-4195-bdba-0620ab870a7d",
+        "text": "Brunt"
+      }
+    ],
+    "correct_answer_id": "03cf69e7-7310-4a2d-a535-91c042413c46",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/ae/56/2b/ae562b84f8efbe2a26874359f822d439372cf093/content?h=360&q=95&w=360",
+    "text": "Who is this Orion?"
+  },
+  "294fa62d-dfa9-45d9-9a7f-48ab0857c0bc": {
+    "answers": [
+      {
+        "id": "f28a82a0-0e4b-4d84-b090-9508fcfdc7a1",
+        "text": "Deborah"
+      },
+      {
+        "id": "f3f3864c-6d0e-4863-a04f-060416f2a674",
+        "text": "Catelin"
+      },
+      {
+        "id": "476e9cf0-e202-4e84-a2f8-a485de4f0c49",
+        "text": "Rochelle"
+      },
+      {
+        "id": "d3407f19-4598-4f5c-946e-10b3d1cf97bc",
+        "text": "Riaan"
+      }
+    ],
+    "correct_answer_id": "d3407f19-4598-4f5c-946e-10b3d1cf97bc",
+    "photo_url": null,
+    "text": "Who did Captain Archer kiss when his universal translator failed?"
+  },
+  "2ce44d11-0320-4f08-b3d6-7b4c2e2ad061": {
+    "answers": [
+      {
+        "id": "8f7a5b2c-09da-47d4-81c6-f19147212972",
+        "text": "Hoshi Sato"
+      },
+      {
+        "id": "62c2faf7-a536-4c21-a719-1dab805b66c6",
+        "text": "Captain Archer"
+      },
+      {
+        "id": "d8e3bd67-1a94-4890-8191-e322f284d40b",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "4481c682-908b-43ab-bc34-fc3f984533e1",
+        "text": "T'Pol"
+      }
+    ],
+    "correct_answer_id": "d8e3bd67-1a94-4890-8191-e322f284d40b",
+    "photo_url": null,
+    "text": "Who is the chess champion on board the Enterprise?"
+  },
+  "2d41e8ee-0f5e-4a7f-ab52-4bca4f1a9c7d": {
+    "answers": [
+      {
+        "id": "7e57039d-3742-42fe-a28b-0f63f6d91a73",
+        "text": "Spock"
+      },
+      {
+        "id": "dbca74ae-bc60-4c22-9412-4b687f8c285b",
+        "text": "Solkar"
+      },
+      {
+        "id": "ab4d5583-67be-42fa-a733-09221adc8c90",
+        "text": "Sarek"
+      },
+      {
+        "id": "53a34b53-cbec-43af-82c2-1714d8da9048",
+        "text": "T'Pol"
+      }
+    ],
+    "correct_answer_id": "dbca74ae-bc60-4c22-9412-4b687f8c285b",
+    "photo_url": null,
+    "text": "Who was the first Vulcan ambassador to Earth?"
+  },
+  "2ed4e6be-5b77-45a7-adcf-b4c22c0bff4b": {
+    "answers": [
+      {
+        "id": "01281c7e-ef2e-4867-ad87-4fc3670fa788",
+        "text": "Darmok"
+      },
+      {
+        "id": "4742776e-b4a0-4b5b-8998-e933ae7e5d9e",
+        "text": "Daystrom"
+      },
+      {
+        "id": "85dcdc6b-f1fd-4bf9-8da8-c624deb90a5a",
+        "text": "Droxine"
+      },
+      {
+        "id": "c63cb78f-3a8a-4a5f-97ae-7bab631d3f52",
+        "text": "Degra"
+      }
+    ],
+    "correct_answer_id": "c63cb78f-3a8a-4a5f-97ae-7bab631d3f52",
+    "photo_url": null,
+    "text": "Who designed the planet-killing weapon that the Xindi Council intended to use against Earth?"
+  },
+  "2f2ecce7-eda2-40d7-983b-18e395c7dcee": {
+    "answers": [
+      {
+        "id": "8a2d99c4-7091-4c6c-9a1f-179603ed8375",
+        "text": "Deltan and Gorn"
+      },
+      {
+        "id": "14846d21-4c40-4799-bfbb-4b0090b38b7b",
+        "text": "Klingon and Romulan"
+      },
+      {
+        "id": "136b48b4-4533-4037-969b-501b06ab88ad",
+        "text": "Suliban and Tholian"
+      },
+      {
+        "id": "ab5ff826-6f51-485c-9431-6f357bc3c366",
+        "text": "Borg and Breen"
+      }
+    ],
+    "correct_answer_id": "136b48b4-4533-4037-969b-501b06ab88ad",
+    "photo_url": null,
+    "text": "Which two species laid claim for possession of the time ship in \"Future Tense\"?"
+  },
+  "2f700e7d-3b28-42e0-af80-a49f8117cf11": {
+    "answers": [
+      {
+        "id": "172c8555-1582-4ae3-95b3-0bd479596b4c",
+        "text": "Seleya"
+      },
+      {
+        "id": "13cac279-ce46-414a-aa8b-264dc16ddd0c",
+        "text": "North Star"
+      },
+      {
+        "id": "d8a319b8-4f9b-4859-b7cb-d7fe7c5fd148",
+        "text": "Y-500 class freighter"
+      },
+      {
+        "id": "c299e410-97ef-4fa0-a54b-98424fc0db7e",
+        "text": "Somraw"
+      }
+    ],
+    "correct_answer_id": "172c8555-1582-4ae3-95b3-0bd479596b4c",
+    "photo_url": null,
+    "text": "Which Vulcan ship was found in the Delphic Expanse?"
+  },
+  "2f78448d-ba1a-4e29-a25f-c805faaeb0ad": {
+    "answers": [
+      {
+        "id": "a0040b33-d447-407b-97ba-2f8cee851596",
+        "text": "Paul"
+      },
+      {
+        "id": "0d636c9c-281c-4367-b043-676c305702c1",
+        "text": "John"
+      },
+      {
+        "id": "c5feff96-50a8-4641-a257-6d7a8a02dd37",
+        "text": "Henry"
+      },
+      {
+        "id": "553f237f-5f83-4e01-a0c9-20f086473090",
+        "text": "George"
+      }
+    ],
+    "correct_answer_id": "c5feff96-50a8-4641-a257-6d7a8a02dd37",
+    "photo_url": null,
+    "text": "Who was Jonathan Archer's father?"
+  },
+  "325ce04d-0cad-4359-84bb-3bebacc0fc64": {
+    "answers": [
+      {
+        "id": "69a3840a-41db-42f5-9c2f-8d04df6999f3",
+        "text": "Romulan"
+      },
+      {
+        "id": "def50ccf-10d5-40a5-8ceb-0fc90e6b47cd",
+        "text": "Suliban"
+      },
+      {
+        "id": "a4d04039-335e-4ed0-9174-067a9fb20bf1",
+        "text": "Xindi Aquatic"
+      },
+      {
+        "id": "1494b80b-6cce-4339-a545-350fb11e6d0e",
+        "text": "Arkonian"
+      }
+    ],
+    "correct_answer_id": "1494b80b-6cce-4339-a545-350fb11e6d0e",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/a4/77/8b/a4778bd477a848bec30981f1299e1dbd6e9335b5/content?h=360&q=95&w=360",
+    "text": "What species is this fellow?"
+  },
+  "32d22735-530e-4160-b2d2-16c96badb68c": {
+    "answers": [
+      {
+        "id": "8f83af90-7e3d-4520-b0b2-17f489411d22",
+        "text": "Dr. Arik Soong"
+      },
+      {
+        "id": "f5ee986b-de0b-4142-9a16-f862c985a04d",
+        "text": "Lore"
+      },
+      {
+        "id": "0183bacb-e137-43e2-8079-b9b6c6099026",
+        "text": "Data"
+      },
+      {
+        "id": "d4a6d871-6ee9-4000-b19d-70f13783d9a6",
+        "text": "Dr. Noonian Soong"
+      }
+    ],
+    "correct_answer_id": "8f83af90-7e3d-4520-b0b2-17f489411d22",
+    "photo_url": null,
+    "text": "Brent Spiner played which character on Enterprise?"
+  },
+  "340da231-72ef-4f94-946b-2ea5c33ad7b1": {
+    "answers": [
+      {
+        "id": "2e861845-1161-40b3-8e85-e4ba2a066080",
+        "text": "Ruby's"
+      },
+      {
+        "id": "92537465-c3b6-4285-8551-f97e9f88c5e8",
+        "text": "StarBar"
+      },
+      {
+        "id": "35041ae0-e8e0-4036-876a-96f82ef1f56b",
+        "text": "602 Club"
+      },
+      {
+        "id": "bacdc250-f1b3-4351-8d53-778b05831b94",
+        "text": "Club 'Frisco"
+      }
+    ],
+    "correct_answer_id": "35041ae0-e8e0-4036-876a-96f82ef1f56b",
+    "photo_url": null,
+    "text": "What was the name of the bar frequented by Starfleet trainees?"
+  },
+  "3552b7d6-ca19-4b6a-88cb-6d896778fb10": {
+    "answers": [
+      {
+        "id": "402ee0de-d2b0-4063-9864-cf6b1b027623",
+        "text": "Defiant"
+      },
+      {
+        "id": "1c88d708-1379-4cd3-ac03-81e085547949",
+        "text": "Excalibur"
+      },
+      {
+        "id": "f0d6b65a-fac3-4f4e-b2a7-3c790ead5f45",
+        "text": "Republic"
+      },
+      {
+        "id": "2964240c-a728-48f4-a40a-9813d6206030",
+        "text": "Vengeance"
+      }
+    ],
+    "correct_answer_id": "402ee0de-d2b0-4063-9864-cf6b1b027623",
+    "photo_url": null,
+    "text": "What is the name of the Federation ship being held by the Tholians in the Mirror Universe?"
+  },
+  "364c2927-963c-4400-ad74-416be5045063": {
+    "answers": [
+      {
+        "id": "2849eb14-92fb-48bd-a401-d035a4d5aabc",
+        "text": "Nazi soldier"
+      },
+      {
+        "id": "606f3410-6b2b-46fb-ab7c-a6730e0e4db4",
+        "text": "New York gangsters"
+      },
+      {
+        "id": "9ff9e5bf-8cb7-492b-987b-d2175198dafc",
+        "text": "Daniels"
+      },
+      {
+        "id": "ae8b8430-abae-4260-adbe-6d46bfc357b8",
+        "text": "Degra"
+      }
+    ],
+    "correct_answer_id": "2849eb14-92fb-48bd-a401-d035a4d5aabc",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/36/9f/38/369f385bfffdf1c2eddc92c7cc7c1a31d79a52ef/content?h=360&q=95&w=360",
+    "text": "Who killed Silik?"
+  },
+  "3778eb6b-2d67-4c8f-bead-46f5b67e3d31": {
+    "answers": [
+      {
+        "id": "ae254395-7b34-411d-9ffc-e84652250f61",
+        "text": "John Belushi"
+      },
+      {
+        "id": "e5275c4a-37f1-45ed-8d8c-e222a47413c1",
+        "text": "John Schuck"
+      },
+      {
+        "id": "3037a94f-60dc-48dd-b775-a921f9b2768b",
+        "text": "Peter Billingsley"
+      },
+      {
+        "id": "4a492c87-ca5c-4400-9f27-347e3d2f0b54",
+        "text": "John Billingsley"
+      }
+    ],
+    "correct_answer_id": "4a492c87-ca5c-4400-9f27-347e3d2f0b54",
+    "photo_url": null,
+    "text": "What actor played Dr. Phlox?"
+  },
+  "39370666-f907-4424-aded-0461634f56ef": {
+    "answers": [
+      {
+        "id": "24920d49-6ee4-4caa-8fb9-0a48e2e82da6",
+        "text": "Burgerland"
+      },
+      {
+        "id": "f6e0a05a-2eb9-4a9a-afcb-619af2ea54a2",
+        "text": "King Donalds"
+      },
+      {
+        "id": "8ea2d6c9-518e-45a5-b444-8752f51569a4",
+        "text": "Fries 'n Such"
+      },
+      {
+        "id": "9372e1fa-e515-4138-a92b-b4e226680365",
+        "text": "Snack Shack"
+      }
+    ],
+    "correct_answer_id": "24920d49-6ee4-4caa-8fb9-0a48e2e82da6",
+    "photo_url": null,
+    "text": "What was the name of the fast food restaurant Archer and T'Pol visited on Earth in 2004?"
+  },
+  "39b4aa5b-c1f4-456e-a1af-49477559b746": {
+    "answers": [
+      {
+        "id": "93886417-472f-42e2-8fb4-c724dc7eaddb",
+        "text": "All winter"
+      },
+      {
+        "id": "46a8f4e2-54c7-4475-8025-efca1e7eb7a8",
+        "text": "3 weeks"
+      },
+      {
+        "id": "3886bfb5-76a8-4de2-8d3f-741bb0e65d32",
+        "text": "8 days"
+      },
+      {
+        "id": "b2887b05-5557-489a-967f-0e308f41c8b7",
+        "text": "18 hours"
+      }
+    ],
+    "correct_answer_id": "3886bfb5-76a8-4de2-8d3f-741bb0e65d32",
+    "photo_url": null,
+    "text": "To avoid a neutronic wavefront's radiation the entire crew hides in a catwalk for how long?"
+  },
+  "3bb57f32-1c88-4cff-ab12-c913c10e04fb": {
+    "answers": [
+      {
+        "id": "0e9dd6e0-fb5c-46ab-a0e7-89040ae2bbc9",
+        "text": "Blue"
+      },
+      {
+        "id": "233a0cdf-52c7-4c41-aa99-2f37ba9c96da",
+        "text": "Red"
+      },
+      {
+        "id": "62355872-b777-4e4c-8e46-b8be17217116",
+        "text": "Gold"
+      },
+      {
+        "id": "bb3a4b45-2268-49b5-be32-5294fa8675ee",
+        "text": "Green"
+      }
+    ],
+    "correct_answer_id": "bb3a4b45-2268-49b5-be32-5294fa8675ee",
+    "photo_url": null,
+    "text": "What color are the energy beams from Vulcan ships' weapons?"
+  },
+  "3c3c97c9-7de8-42cd-8315-a3b9593ace91": {
+    "answers": [
+      {
+        "id": "584b6f5c-d127-4566-9283-31515cd2a422",
+        "text": "EM-33"
+      },
+      {
+        "id": "ef5f7370-22d1-481f-ab7f-ee9a67c2166f",
+        "text": "Rura Penthe"
+      },
+      {
+        "id": "27bbb3a8-925c-435e-a5a9-e1ba44e0a0fe",
+        "text": "Verteron Array"
+      },
+      {
+        "id": "50df63be-5e87-4394-a93c-c511583a6134",
+        "text": "Vega Reticuli"
+      }
+    ],
+    "correct_answer_id": "27bbb3a8-925c-435e-a5a9-e1ba44e0a0fe",
+    "photo_url": null,
+    "text": "What is the name of the comet deflection system on Mars?"
+  },
+  "3cb6bfa5-b330-499f-ab44-e9006369390d": {
+    "answers": [
+      {
+        "id": "9de25c7c-f4cf-41cb-ba4d-524fb3110fea",
+        "text": "Koss"
+      },
+      {
+        "id": "1e02bf6f-6e1d-49d0-b9de-731779673617",
+        "text": "T'Pring"
+      },
+      {
+        "id": "22cfcf34-866d-405b-9a9d-cf6b7c6edbc0",
+        "text": "Spock"
+      },
+      {
+        "id": "116f377b-b691-4484-9a5e-f5293beaa5b4",
+        "text": "Kes"
+      }
+    ],
+    "correct_answer_id": "9de25c7c-f4cf-41cb-ba4d-524fb3110fea",
+    "photo_url": null,
+    "text": "Who was T'Pol's fianc\u00e9?"
+  },
+  "3d9efced-2d2b-424d-85fb-1c511de6c06d": {
+    "answers": [
+      {
+        "id": "2f8b0872-4bd7-4715-a203-d82ad7ab4cd4",
+        "text": "Admiral Black"
+      },
+      {
+        "id": "f7f6a7c1-266b-4ee7-8b42-ca9e6bfeee45",
+        "text": "Colonel Grat"
+      },
+      {
+        "id": "d32aa342-b77c-456e-bf22-54650443bb07",
+        "text": "Daniels"
+      },
+      {
+        "id": "4acabd14-469a-440d-9d03-6582d89f384f",
+        "text": "Henry Archer"
+      }
+    ],
+    "correct_answer_id": "4acabd14-469a-440d-9d03-6582d89f384f",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/a8/3f/10/a83f109db5dcfad2b8156ea7edb7ba915b7167a3/content?h=360&q=95&w=360",
+    "text": "Who is this?"
+  },
+  "3db4196d-290c-4d08-afa0-3d894cb170b2": {
+    "answers": [
+      {
+        "id": "0ee27074-552d-4117-906b-a63e491ae5e4",
+        "text": "Kemocite"
+      },
+      {
+        "id": "90ae94d3-38a0-48df-b274-b9cb64f65f9b",
+        "text": "Draxxan Cloud Viper"
+      },
+      {
+        "id": "e59a59cd-101b-4074-96d5-61c0d24bfcdb",
+        "text": "Bore Worms"
+      },
+      {
+        "id": "5e29932f-654f-453b-81e9-f9f381350680",
+        "text": "Vox Sola"
+      }
+    ],
+    "correct_answer_id": "5e29932f-654f-453b-81e9-f9f381350680",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/1b/b0/f2/1bb0f21b2a20dce3ee91d6ce726782f08a3b58bd/content?h=360&q=95&w=360",
+    "text": "What is holding onto Trip Tucker?"
+  },
+  "3e4d7997-25e2-404a-87e8-c291bde6ea76": {
+    "answers": [
+      {
+        "id": "9eec4f41-0108-44d9-b04d-559f09806fd1",
+        "text": "Warp 4.5"
+      },
+      {
+        "id": "454754ec-869e-4a8f-9a3d-994fdd7b076f",
+        "text": "Warp 7"
+      },
+      {
+        "id": "1ae1dd60-19e6-4d80-b251-aa51467ec94b",
+        "text": "Warp 10"
+      },
+      {
+        "id": "4028558b-b5c8-46b9-8700-3927beaabbda",
+        "text": "Warp 5"
+      }
+    ],
+    "correct_answer_id": "4028558b-b5c8-46b9-8700-3927beaabbda",
+    "photo_url": null,
+    "text": "The Enterprise was the first Starfleet ship to go how fast?"
+  },
+  "40d48be0-08ae-4957-8781-a41edb62d5cf": {
+    "answers": [
+      {
+        "id": "a66f26f7-aaad-474a-8c99-02e3cae721c2",
+        "text": "Cyrano Jones"
+      },
+      {
+        "id": "716bbe2a-c19d-4e00-af92-e6d35e2ca7d3",
+        "text": "Cyrus Ramsey"
+      },
+      {
+        "id": "96420eca-c09d-4f95-9544-dcf82a2a45d9",
+        "text": "Henry Archer"
+      },
+      {
+        "id": "ddfcc559-4790-42a6-8d02-7c6f0e7e3ecd",
+        "text": "Harry Mudd"
+      }
+    ],
+    "correct_answer_id": "716bbe2a-c19d-4e00-af92-e6d35e2ca7d3",
+    "photo_url": null,
+    "text": "In \"Vanishing Point\" who was the so-called test subject for the first long-range transport?"
+  },
+  "40f8e9eb-a99f-426b-b1a6-2be5e247b0af": {
+    "answers": [
+      {
+        "id": "8ec00688-e183-4ed1-a257-23c954fe1201",
+        "text": "LeVar Burton"
+      },
+      {
+        "id": "1f88306b-a7c9-4052-87b1-a792f05d7948",
+        "text": "Robert Duncan McNeill"
+      },
+      {
+        "id": "29c4f7ca-1a4d-464e-b64e-69e28425d60c",
+        "text": "Dwight Schultz"
+      },
+      {
+        "id": "004e1dee-0fe3-41cf-9008-42fd6fed70bc",
+        "text": "Roxann Dawson"
+      }
+    ],
+    "correct_answer_id": "29c4f7ca-1a4d-464e-b64e-69e28425d60c",
+    "photo_url": null,
+    "text": "Which Star Trek alumni did NOT direct an Enterprise episode?"
+  },
+  "434e6495-6112-42d5-bfa3-68b9b9067f17": {
+    "answers": [
+      {
+        "id": "804d43b1-032b-41ed-9d3f-57014ddf3faa",
+        "text": "Andorians"
+      },
+      {
+        "id": "762f3700-01f2-4987-bf4c-6e24ea29d7fa",
+        "text": "Breen"
+      },
+      {
+        "id": "1fe00994-78eb-403e-8531-a3f20facf17e",
+        "text": "Tellarites"
+      },
+      {
+        "id": "25ae8de6-7067-4456-8c8a-1b8f50607c43",
+        "text": "Vulcans"
+      }
+    ],
+    "correct_answer_id": "25ae8de6-7067-4456-8c8a-1b8f50607c43",
+    "photo_url": null,
+    "text": "Which species hid a long-range sensor array inside a Vulcan monastery?"
+  },
+  "44fca6c3-5fb3-463d-b705-d925fff4afcf": {
+    "answers": [
+      {
+        "id": "f4c7142e-aab2-4ce2-b697-f48cdd91ac40",
+        "text": "Earthers"
+      },
+      {
+        "id": "e70a5ec2-c1aa-44ee-b129-a3decd234ba3",
+        "text": "Terranites"
+      },
+      {
+        "id": "2fab349b-5fea-4e9f-8de6-d53460cb9e7a",
+        "text": "Humans"
+      },
+      {
+        "id": "1a5328c5-c4d2-42e5-a40d-6581b7a27b25",
+        "text": "Novans"
+      }
+    ],
+    "correct_answer_id": "1a5328c5-c4d2-42e5-a40d-6581b7a27b25",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/48/c3/77/48c37772410ce5b0d542e8f53cc252fd380019df/content?h=360&q=95&w=360",
+    "text": "What did the human colonists of Terra Nova call themselves?"
+  },
+  "4510ca6e-c286-46d8-8611-a04b7067d2b2": {
+    "answers": [
+      {
+        "id": "f5e37afc-b316-4daa-883c-47672b3bbcda",
+        "text": "Impossible"
+      },
+      {
+        "id": "54d6de46-6ee2-496a-bbbe-9fa13ee945c8",
+        "text": "Dangerous"
+      },
+      {
+        "id": "1f98117b-006f-47b4-92e7-e9c994f595ce",
+        "text": "Illogical"
+      },
+      {
+        "id": "b94724f3-0fe3-469b-87ef-251716d8eff4",
+        "text": "Unlikely"
+      }
+    ],
+    "correct_answer_id": "f5e37afc-b316-4daa-883c-47672b3bbcda",
+    "photo_url": null,
+    "text": "The Vulcan Science Directorate has determined that time travel is...."
+  },
+  "46c99dbc-ee7a-441d-94c3-f39866b421ca": {
+    "answers": [
+      {
+        "id": "707077e2-c0cd-4211-9b54-20bbb58cee20",
+        "text": "Voo-Sinteel"
+      },
+      {
+        "id": "46586365-bd0b-4e49-a9df-46da8b706f44",
+        "text": "Tatooine"
+      },
+      {
+        "id": "ba9736c3-82a3-4e1a-8ab9-bffe0ea8d324",
+        "text": "The Forge"
+      },
+      {
+        "id": "52f9ef18-1dc6-410b-9be2-515ca97fa1c7",
+        "text": "Vox Sola"
+      }
+    ],
+    "correct_answer_id": "ba9736c3-82a3-4e1a-8ab9-bffe0ea8d324",
+    "photo_url": null,
+    "text": "What is the name of the treacherous desert expanse on Vulcan?"
+  },
+  "481fdcb9-9b8c-49a5-8109-35841b8128de": {
+    "answers": [
+      {
+        "id": "b58fa544-a099-46e0-a5ad-480fd1446c4b",
+        "text": "German Stuka"
+      },
+      {
+        "id": "b5163499-2093-41bb-ad10-1d41928a280f",
+        "text": "North American P-51 Mustang"
+      },
+      {
+        "id": "6734831f-ef0e-4b3c-a683-ebfc4f9fe3cc",
+        "text": "Soviet Yak-3"
+      },
+      {
+        "id": "1e2fc630-1b5b-4149-8bf6-14639d65115e",
+        "text": "Japanese Zero"
+      }
+    ],
+    "correct_answer_id": "b58fa544-a099-46e0-a5ad-480fd1446c4b",
+    "photo_url": null,
+    "text": "What type of airplane attacked the Enterprise using advanced energy weapons when it went back in time to Earth in 1944?"
+  },
+  "48875796-f521-4eb4-9de9-b94e421ee55a": {
+    "answers": [
+      {
+        "id": "7e8d0173-5b9c-4917-892b-8aac2562b470",
+        "text": "Plomeek Soup"
+      },
+      {
+        "id": "d4e3baa0-7d62-48ec-b284-ce053731be4d",
+        "text": "Pineapple"
+      },
+      {
+        "id": "40e84433-c79e-4659-a90f-c1f96eba4f68",
+        "text": "Fish"
+      },
+      {
+        "id": "61e9e939-49c7-4e91-bdff-8b3e93a72fd6",
+        "text": "Shepherd's Pie"
+      }
+    ],
+    "correct_answer_id": "d4e3baa0-7d62-48ec-b284-ce053731be4d",
+    "photo_url": null,
+    "text": "What is Malcolm Reed's favorite food?"
+  },
+  "48f2c53e-aaca-41cf-97d0-a3aed6d4cd6a": {
+    "answers": [
+      {
+        "id": "b64e7766-3e18-4efa-b911-83080c8f263d",
+        "text": "Pathogen"
+      },
+      {
+        "id": "de23fa5d-086f-4850-8612-30772a9f785c",
+        "text": "Vulcan ship"
+      },
+      {
+        "id": "e7aa2ba2-59ab-4936-8553-c016f7cf7ff1",
+        "text": "Liquor"
+      },
+      {
+        "id": "c5cc2289-1715-46a3-a2bb-050f1039ead9",
+        "text": "Asteroid"
+      }
+    ],
+    "correct_answer_id": "e7aa2ba2-59ab-4936-8553-c016f7cf7ff1",
+    "photo_url": null,
+    "text": "What is Voo-Sinteel?"
+  },
+  "493c9098-151a-45a9-ac58-53c00d7974c9": {
+    "answers": [
+      {
+        "id": "71a5fae2-d23c-49f4-933d-739c8f988796",
+        "text": "Borg"
+      },
+      {
+        "id": "ada57521-17d4-48ca-9371-2f01b0390026",
+        "text": "Osaarian"
+      },
+      {
+        "id": "9e623349-b4bf-459c-948f-815e841a8a37",
+        "text": "Geonosian"
+      },
+      {
+        "id": "898866ef-6f70-4da9-88d9-e4afeea52a18",
+        "text": "Vulcan"
+      }
+    ],
+    "correct_answer_id": "ada57521-17d4-48ca-9371-2f01b0390026",
+    "photo_url": null,
+    "text": "Members of what species stored stolen goods inside a sphere?"
+  },
+  "49cc902a-a91e-49fd-9bb5-4be5ddcb75fd": {
+    "answers": [
+      {
+        "id": "01bcf805-aec5-4dfe-be94-11619dc29505",
+        "text": "Deputy Bennings"
+      },
+      {
+        "id": "ef3f9ae5-13df-4f9c-b2ec-0fc2dc5f6445",
+        "text": "Sheriff MacReady"
+      },
+      {
+        "id": "1432b610-6901-45a4-9022-6a03d322f7b3",
+        "text": "Deputy Hawkins"
+      },
+      {
+        "id": "2318f848-2c85-4782-996b-cad86c86f4dd",
+        "text": "Sheriff Loomis"
+      }
+    ],
+    "correct_answer_id": "01bcf805-aec5-4dfe-be94-11619dc29505",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/5b/12/48/5b1248fceed835fc39d211c5dd88b068e9d10aae/content?h=360&q=95&w=360",
+    "text": "Who is this?"
+  },
+  "4b43a749-2968-499f-b5cb-726f44b82ee1": {
+    "answers": [
+      {
+        "id": "c32c857e-082d-482b-9802-68d89ff12cf7",
+        "text": "104"
+      },
+      {
+        "id": "84b60e01-0353-4ebd-b374-f3fdcf43b7fe",
+        "text": "79"
+      },
+      {
+        "id": "6307ab07-84b9-4aa2-8b28-91274e2ae463",
+        "text": "89"
+      },
+      {
+        "id": "c95635ec-50f1-4769-9bdb-9760c1048fa0",
+        "text": "98"
+      }
+    ],
+    "correct_answer_id": "c95635ec-50f1-4769-9bdb-9760c1048fa0",
+    "photo_url": null,
+    "text": "How many episodes of Enterprise are there?"
+  },
+  "4b872e98-f8ef-4830-b1a6-b9cf7bc35994": {
+    "answers": [
+      {
+        "id": "31b1b2ad-511d-479c-b028-db0bc06c8bb6",
+        "text": "NCC-74656"
+      },
+      {
+        "id": "d09c908c-e780-400b-8f2d-e6f9c591f412",
+        "text": "NX-2"
+      },
+      {
+        "id": "5443fa3e-9d64-49b3-8e20-5f9892b63613",
+        "text": "NX-02"
+      },
+      {
+        "id": "4bdc176e-4b2d-4456-8e71-24fc6606afdb",
+        "text": "NCC-02"
+      }
+    ],
+    "correct_answer_id": "5443fa3e-9d64-49b3-8e20-5f9892b63613",
+    "photo_url": null,
+    "text": "What is the Columbia's registration number?"
+  },
+  "4d041018-923c-4b7f-8518-faeebc81f8c7": {
+    "answers": [
+      {
+        "id": "db7c8ff1-cab2-49a6-81c0-1335041d1ebe",
+        "text": "Forrest"
+      },
+      {
+        "id": "cdb518b8-f03c-4ae0-8ac2-fe6e0d3ebcd6",
+        "text": "Shran"
+      },
+      {
+        "id": "b1349b73-61f6-47d6-9a10-48e74d308d9e",
+        "text": "Daniels"
+      },
+      {
+        "id": "6a94c69b-797d-4839-b812-352aa2ea4904",
+        "text": "Hernandez"
+      }
+    ],
+    "correct_answer_id": "6a94c69b-797d-4839-b812-352aa2ea4904",
+    "photo_url": null,
+    "text": "Who was the captain of the Columbia?"
+  },
+  "4dc28296-1161-4f63-a85d-0b9f5045319c": {
+    "answers": [
+      {
+        "id": "9d77d573-ea7b-4675-bb0c-d78d38122fe8",
+        "text": "Garrett Wang"
+      },
+      {
+        "id": "01edd78a-3a59-4397-bfbe-3589950602d7",
+        "text": "Tim Russ"
+      },
+      {
+        "id": "dc754f3a-78cb-4d7c-b359-804285ba1090",
+        "text": "Robert Beltran"
+      },
+      {
+        "id": "d0243661-f3b2-4924-a136-f42a317a911f",
+        "text": "Ethan Phillips"
+      }
+    ],
+    "correct_answer_id": "d0243661-f3b2-4924-a136-f42a317a911f",
+    "photo_url": null,
+    "text": "Which Voyager cast member has a role in the episode \"Acquisition\"?"
+  },
+  "4e82f162-d3bd-4da6-ab02-a6fd9d8a3b46": {
+    "answers": [
+      {
+        "id": "24560eab-0d96-4559-8996-c01cb91f528b",
+        "text": "Sputnik"
+      },
+      {
+        "id": "b746765c-3a3a-4073-92bb-d2510143f60f",
+        "text": "a nuclear missile"
+      },
+      {
+        "id": "46740c21-07d9-4711-905c-79c30a0129f1",
+        "text": "Apollo 11"
+      },
+      {
+        "id": "592d5be7-28b4-4b53-ac92-bca0a774fd73",
+        "text": "the new iPhone"
+      }
+    ],
+    "correct_answer_id": "24560eab-0d96-4559-8996-c01cb91f528b",
+    "photo_url": null,
+    "text": "T'Pol's great-grandmother, T'Mir, was on a survey ship investigating the launch of...?"
+  },
+  "4ef71709-4316-476d-a38f-60587deaa658": {
+    "answers": [
+      {
+        "id": "b3b5d497-4601-4215-a6ef-13e215ce5044",
+        "text": "Starfleet Security Division"
+      },
+      {
+        "id": "2893bd33-f390-458c-82a9-ca9795a1157e",
+        "text": "Andorian Imperial Guard"
+      },
+      {
+        "id": "6b36eaa9-52de-4f6e-aa28-04c7d9071652",
+        "text": "Andorian Mining Consortium"
+      },
+      {
+        "id": "bbaa7f5c-8b24-4952-9d9a-dbe441b1ab5e",
+        "text": "Orion Trade Syndicate"
+      }
+    ],
+    "correct_answer_id": "6b36eaa9-52de-4f6e-aa28-04c7d9071652",
+    "photo_url": null,
+    "text": "Who did Shran claim to be working for when he first met Degra?"
+  },
+  "4efcaf66-4fc8-416a-ba12-8f9259b3903d": {
+    "answers": [
+      {
+        "id": "ba280f27-522a-4a67-9fc0-781f163ad88b",
+        "text": "Broken Dreams"
+      },
+      {
+        "id": "2e2980f9-8d0c-4b97-85ec-7f98ac3b358f",
+        "text": "Broken Heart"
+      },
+      {
+        "id": "6638eed8-bae0-4051-8f9a-24508ce3e034",
+        "text": "Broken Trust"
+      },
+      {
+        "id": "ccb1353c-7c53-4a5a-b625-2d7edb52546c",
+        "text": "Broken Bow"
+      }
+    ],
+    "correct_answer_id": "ccb1353c-7c53-4a5a-b625-2d7edb52546c",
+    "photo_url": null,
+    "text": "What is the name of the pilot episode?"
+  },
+  "4f0f2416-8eec-4338-aa68-b1f9782d554b": {
+    "answers": [
+      {
+        "id": "81af4063-d202-4576-9737-71566a2121c0",
+        "text": "Sato"
+      },
+      {
+        "id": "d9861518-c5f6-4c70-9bfc-e2541b8a6561",
+        "text": "Phlox"
+      },
+      {
+        "id": "13a649cb-1e86-4d25-a4ad-64f7e7a2fe64",
+        "text": "Tucker"
+      },
+      {
+        "id": "cbbf8f20-ed5f-4caf-8cf0-4e09871a8a84",
+        "text": "Mayweather"
+      }
+    ],
+    "correct_answer_id": "cbbf8f20-ed5f-4caf-8cf0-4e09871a8a84",
+    "photo_url": null,
+    "text": "Which crew member was known as a \"space boomer\"?"
+  },
+  "4fb87d4e-b42e-4b3e-9a98-6b74150bb719": {
+    "answers": [
+      {
+        "id": "a2575f5f-a99f-44e6-865c-1f1c1b67d330",
+        "text": "Dolim"
+      },
+      {
+        "id": "bd41c64d-a0b1-42d3-9a1d-87ef3c031742",
+        "text": "Loomis"
+      },
+      {
+        "id": "285774d2-89e7-4a47-977e-a5fa18f4347e",
+        "text": "Rajiin"
+      },
+      {
+        "id": "e20c38c0-a152-42d7-9c9a-03d5a551190c",
+        "text": "Tarah"
+      }
+    ],
+    "correct_answer_id": "e20c38c0-a152-42d7-9c9a-03d5a551190c",
+    "photo_url": null,
+    "text": "Who did NOT aid in the development of the Xindi bio-weapon?"
+  },
+  "4fc84552-5977-494d-b95a-cf8b150251b4": {
+    "answers": [
+      {
+        "id": "6a405168-1bd0-4cb4-a143-2c963e3a165a",
+        "text": "Suliban"
+      },
+      {
+        "id": "6b8e2b29-5f54-4974-84bf-9b5d67ffe3e5",
+        "text": "Romulans"
+      },
+      {
+        "id": "880f0ee5-4cfa-4b19-95e9-9d1d7b7dceb9",
+        "text": "Xyrillians"
+      },
+      {
+        "id": "0ce2ba4d-3620-44a9-8d0b-d676929795c4",
+        "text": "Klingons"
+      }
+    ],
+    "correct_answer_id": "0ce2ba4d-3620-44a9-8d0b-d676929795c4",
+    "photo_url": null,
+    "text": "Which species does NOT have cloaking technology during the series?"
+  },
+  "508146f7-6a83-4d5c-8334-5eb174169e2b": {
+    "answers": [
+      {
+        "id": "15012104-7a5b-4660-94f3-11e75df174c4",
+        "text": "7"
+      },
+      {
+        "id": "1a4ed7c4-53d5-4a62-b719-f802b27a8cb6",
+        "text": "21"
+      },
+      {
+        "id": "fd38af57-8198-4115-af5d-aa6d18b4eed7",
+        "text": "14"
+      },
+      {
+        "id": "8dd7a037-e4c0-4a32-8f62-2d2887c8f530",
+        "text": "16"
+      }
+    ],
+    "correct_answer_id": "fd38af57-8198-4115-af5d-aa6d18b4eed7",
+    "photo_url": null,
+    "text": "How many weapons lockers are on the Enterprise?"
+  },
+  "512f6b6b-a51c-48e4-b193-c73509a6f7ae": {
+    "answers": [
+      {
+        "id": "de89a768-0368-47f7-b0a7-c15a808880fc",
+        "text": "Phase cannons"
+      },
+      {
+        "id": "3455b6a6-26bf-44f7-ae54-def206324a85",
+        "text": "Plasma conduits"
+      },
+      {
+        "id": "47a603ed-6049-4b50-9f58-c9c00d3a58f9",
+        "text": "Captain's chair"
+      },
+      {
+        "id": "4944a8f9-cdf5-454b-ae45-837d16dd158c",
+        "text": "Medical biochamber"
+      }
+    ],
+    "correct_answer_id": "47a603ed-6049-4b50-9f58-c9c00d3a58f9",
+    "photo_url": null,
+    "text": "Tucker was affected by a black hole's radiation and became obsessed with fixing the...?"
+  },
+  "5308cddd-7cff-4f29-a446-7ba7245c1dcd": {
+    "answers": [
+      {
+        "id": "447ee41b-2c9f-4c58-85d0-69397f52b290",
+        "text": "2001-2005"
+      },
+      {
+        "id": "0ee78df6-bdac-41d9-beda-2bb0a53c0574",
+        "text": "2005-2010"
+      },
+      {
+        "id": "6b934e1a-7a14-4d2b-9811-468d3840a5c9",
+        "text": "1995-2000"
+      },
+      {
+        "id": "aa237da2-ab09-45e3-9265-6d53a8141a11",
+        "text": "1998-2003"
+      }
+    ],
+    "correct_answer_id": "447ee41b-2c9f-4c58-85d0-69397f52b290",
+    "photo_url": null,
+    "text": "Enterprise was originally released during what years?"
+  },
+  "53b13243-fc12-4ed5-ac7b-10ed30283723": {
+    "answers": [
+      {
+        "id": "05d220a3-ff8b-44f9-b8a4-f9c9a6a9c5f5",
+        "text": "Xindi"
+      },
+      {
+        "id": "7c5f1029-d8fd-4163-8b4b-99250b5e27a4",
+        "text": "Suliban"
+      },
+      {
+        "id": "e61318e8-a84b-4d3e-a7e7-de19d7af8a8f",
+        "text": "Klingon"
+      },
+      {
+        "id": "afdd5022-6b08-48c4-b702-abe553cd7fa7",
+        "text": "Borg"
+      }
+    ],
+    "correct_answer_id": "afdd5022-6b08-48c4-b702-abe553cd7fa7",
+    "photo_url": null,
+    "text": "The debris of which alien's vessel was found in a glacier in Earth's Arctic Circle?"
+  },
+  "545efef7-3b6f-443a-bf52-f1e2da4377e5": {
+    "answers": [
+      {
+        "id": "61378132-5e36-4ca7-aefa-70ae4dea9ffc",
+        "text": "Kreetassan"
+      },
+      {
+        "id": "aa2ffa71-bf9a-45aa-be30-b137886d35d2",
+        "text": "Vulcan"
+      },
+      {
+        "id": "b57a978d-9a9b-4e53-a51a-bcc5fd90b94a",
+        "text": "Tellarite"
+      },
+      {
+        "id": "bf4e112f-069f-42fe-b600-683e6f686067",
+        "text": "Suliban"
+      }
+    ],
+    "correct_answer_id": "bf4e112f-069f-42fe-b600-683e6f686067",
+    "photo_url": null,
+    "text": "What species is Silik?"
+  },
+  "54df3635-5ac9-4ee3-8a94-cad1e45192da": {
+    "answers": [
+      {
+        "id": "4727dbb3-fb41-405f-a626-17759fea10f0",
+        "text": "Xindi"
+      },
+      {
+        "id": "ada5809d-93a4-495c-9f34-2ff5c79a0acc",
+        "text": "Axanar"
+      },
+      {
+        "id": "a4093b01-ddc8-4a20-a4d0-540ad63afd14",
+        "text": "Romulans"
+      },
+      {
+        "id": "4db0fdb0-3c85-4105-a6e4-0d73f0cd7468",
+        "text": "Suliban"
+      }
+    ],
+    "correct_answer_id": "4db0fdb0-3c85-4105-a6e4-0d73f0cd7468",
+    "photo_url": null,
+    "text": "Colonel Grat, a Tandaran officer, was in charge of an internment camp for whom?"
+  },
+  "5513da7f-d63f-476b-8f13-98b290ad6243": {
+    "answers": [
+      {
+        "id": "c65b0d1a-de2e-47b0-9b43-a174a63b7060",
+        "text": "Miri"
+      },
+      {
+        "id": "5505b015-9181-48e6-aa11-91c2a5d43a3d",
+        "text": "Balok"
+      },
+      {
+        "id": "a351ee49-76b5-470c-9137-83f407a4e004",
+        "text": "Trelane"
+      },
+      {
+        "id": "3fa8bdd9-f906-42f7-9c6a-4ce703b0feae",
+        "text": "Zobral"
+      }
+    ],
+    "correct_answer_id": "3fa8bdd9-f906-42f7-9c6a-4ce703b0feae",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/91/78/00/917800720b0ca3c674fd43ddd41cea6b98b0edd5/content?h=360&q=95&w=360",
+    "text": "Archer and Trip escape across a desert wasteland after being welcomed guests of a supposed terrorist named...?"
+  },
+  "55364cf2-90ab-4fd6-b2e2-61c847a41ebc": {
+    "answers": [
+      {
+        "id": "4403cc00-770b-4619-8769-2d5739c2d06b",
+        "text": "Garos"
+      },
+      {
+        "id": "09e4e502-8630-4539-b27b-f2a2d466f3b5",
+        "text": "Malik"
+      },
+      {
+        "id": "6397d719-b93c-4e6f-a015-aacefb2bf1af",
+        "text": "Persis"
+      },
+      {
+        "id": "54e407f4-c8e6-4998-be71-9629384efcb3",
+        "text": "Klaang"
+      }
+    ],
+    "correct_answer_id": "09e4e502-8630-4539-b27b-f2a2d466f3b5",
+    "photo_url": null,
+    "text": "Who considered himself the Augments' true leader?"
+  },
+  "572d686f-84f2-4272-a5bf-3e482b594cfe": {
+    "answers": [
+      {
+        "id": "48fad570-7b43-43c8-8cd4-0e350373c2ec",
+        "text": "Ice"
+      },
+      {
+        "id": "2cdba775-22ee-4d4d-8d0c-6ec4000af24d",
+        "text": "Forest"
+      },
+      {
+        "id": "a669ff8f-b250-4941-bae2-5f6161af25e1",
+        "text": "Oceanic"
+      },
+      {
+        "id": "f36a9256-096b-43cc-b83d-fcc384b2bacf",
+        "text": "Desert"
+      }
+    ],
+    "correct_answer_id": "a669ff8f-b250-4941-bae2-5f6161af25e1",
+    "photo_url": null,
+    "text": "The planet Azati Prime is largely...?"
+  },
+  "59b2826a-aaf6-42a6-8a6b-09b0dfc73757": {
+    "answers": [
+      {
+        "id": "b3fb853b-daed-4016-9481-6a9f2c26ade5",
+        "text": "Twelve days"
+      },
+      {
+        "id": "0e1f66b4-f05c-4e6d-aa63-c02d3c08849a",
+        "text": "Ten days"
+      },
+      {
+        "id": "0967f665-6162-4d6d-8e66-f7b159d19da8",
+        "text": "Eight days"
+      },
+      {
+        "id": "e821ff26-f68a-46e2-bc07-d038d906368c",
+        "text": "Six days"
+      }
+    ],
+    "correct_answer_id": "e821ff26-f68a-46e2-bc07-d038d906368c",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/de/74/0f/de740f8fb013cff80424600f8be5f6b940456dd5/content?h=360&q=95&w=360",
+    "text": "Dr. Phlox normally hibernates for how many days per year?"
+  },
+  "59d39142-5c54-4317-9cb1-e4405c545d10": {
+    "answers": [
+      {
+        "id": "fcbb0c03-5756-4f7f-9284-d365bf7afaef",
+        "text": "Risa"
+      },
+      {
+        "id": "6ff3bb9e-804a-4633-9118-7e8758236144",
+        "text": "Vulcan"
+      },
+      {
+        "id": "59921de3-ce5f-48bf-879b-3828c4322a51",
+        "text": "Earth"
+      },
+      {
+        "id": "be023f7b-174d-4028-8c94-fefa2306c07a",
+        "text": "Wrigley's Pleasure Planet"
+      }
+    ],
+    "correct_answer_id": "fcbb0c03-5756-4f7f-9284-d365bf7afaef",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/69/a0/d8/69a0d85ea49b760f9c48a4f8ce6f0c91e1104606/content?h=360&q=95&w=360",
+    "text": "Where would you find Suraya Bay?"
+  },
+  "5c327f33-bc8f-4a82-9435-fa36337b18c0": {
+    "answers": [
+      {
+        "id": "ee73425d-6ac3-46f1-a990-d1abc1503cea",
+        "text": "Cutler"
+      },
+      {
+        "id": "e9e7c16c-e0cd-4b6b-bec2-3f917447da07",
+        "text": "Sato"
+      },
+      {
+        "id": "20fca978-a927-44db-a366-2dc46b6542bf",
+        "text": "Tucker"
+      },
+      {
+        "id": "5eb3fbbc-0fe5-4097-903b-8b092ac1081e",
+        "text": "T'Pol"
+      }
+    ],
+    "correct_answer_id": "20fca978-a927-44db-a366-2dc46b6542bf",
+    "photo_url": null,
+    "text": "Which crew member becomes pregnant?"
+  },
+  "5e6ce599-4aa7-4475-a196-bf14ecef6629": {
+    "answers": [
+      {
+        "id": "9b92c20f-6f1b-4dae-ac25-03944f704a12",
+        "text": "Enterprise"
+      },
+      {
+        "id": "fa352224-d968-4904-b5ac-0aa5786b03fc",
+        "text": "Suliban"
+      },
+      {
+        "id": "98ed8f5f-171c-4882-944b-29ac290f3225",
+        "text": "Romulan"
+      },
+      {
+        "id": "02455061-2b81-465e-af75-3904418abee2",
+        "text": "Klingon"
+      }
+    ],
+    "correct_answer_id": "fa352224-d968-4904-b5ac-0aa5786b03fc",
+    "photo_url": null,
+    "text": "Who was responsible for the destruction of a Paraagan colony?"
+  },
+  "5ec5d71b-ad6a-4043-bcee-d4c57e46b078": {
+    "answers": [
+      {
+        "id": "ae80dc87-7adb-42ea-87ba-8763fed1435f",
+        "text": "Arboreals"
+      },
+      {
+        "id": "e6a4ae0f-4683-4b4e-99fe-ce65e89a14b3",
+        "text": "Insectoids"
+      },
+      {
+        "id": "36224d94-41ee-4181-bed7-619b09e22c66",
+        "text": "Primates"
+      },
+      {
+        "id": "d0f70392-c6f7-4007-b0c6-e9aa3f3b9735",
+        "text": "Aquatics"
+      }
+    ],
+    "correct_answer_id": "d0f70392-c6f7-4007-b0c6-e9aa3f3b9735",
+    "photo_url": null,
+    "text": "The Xindi-Reptilians kidnapped Hoshi Sato to decipher whose launch code?"
+  },
+  "5f422541-0998-4d24-ac08-2fc0277e41bc": {
+    "answers": [
+      {
+        "id": "d6ef254d-0fd4-46e0-92fb-99f8a5aa6dcc",
+        "text": "Larynx"
+      },
+      {
+        "id": "7420aa9a-ff2a-4ffd-97f4-0778ed32a12e",
+        "text": "Pituitary gland"
+      },
+      {
+        "id": "510703de-be41-48d9-99f2-7a6a4b4a34e6",
+        "text": "Spleen"
+      },
+      {
+        "id": "72c44960-3b53-4eb5-b457-0208868038e2",
+        "text": "Pancreas"
+      }
+    ],
+    "correct_answer_id": "7420aa9a-ff2a-4ffd-97f4-0778ed32a12e",
+    "photo_url": null,
+    "text": "Captain Archer's dog had an operation to replace what?"
+  },
+  "5f4f600e-428d-4b23-9e2e-8608fe2073be": {
+    "answers": [
+      {
+        "id": "eb830a76-0376-436f-b7df-37c85a0ade76",
+        "text": "Utopia Planitia"
+      },
+      {
+        "id": "b27e06ea-251e-406d-9778-7449410dffd9",
+        "text": "Regula One"
+      },
+      {
+        "id": "af824d7b-8ef3-478b-ac5f-e401c82ae0e2",
+        "text": "Delta Vega"
+      },
+      {
+        "id": "c8524b3b-dcbc-424b-95ec-96672d270f3c",
+        "text": "Warp Five Complex"
+      }
+    ],
+    "correct_answer_id": "c8524b3b-dcbc-424b-95ec-96672d270f3c",
+    "photo_url": null,
+    "text": "What is the name of Starfleet's center for constructing the propulsion system?"
+  },
+  "614b46c6-8ca7-41d6-9d41-62d880002028": {
+    "answers": [
+      {
+        "id": "36409f63-cc58-4cc0-9da9-9bb9814bb856",
+        "text": "Trellium-D"
+      },
+      {
+        "id": "a05992dd-1e48-4e5f-aef8-1bd03901cb67",
+        "text": "Warp plasma"
+      },
+      {
+        "id": "50156740-63b6-4ed0-bc5b-73b1d30abd73",
+        "text": "Trilithium"
+      },
+      {
+        "id": "f96ddfcd-9476-491a-9f90-45fcf0681db1",
+        "text": "Vitamin-D"
+      }
+    ],
+    "correct_answer_id": "36409f63-cc58-4cc0-9da9-9bb9814bb856",
+    "photo_url": null,
+    "text": "What protects the Enterprise from the effects of the Expanse?"
+  },
+  "615ce2ec-6c1f-446a-b7c8-872f821b271f": {
+    "answers": [
+      {
+        "id": "6329e911-600d-46bc-9166-192771312e54",
+        "text": "Scott Bakula"
+      },
+      {
+        "id": "7d5a34f7-f51e-45ce-ad9d-aa9b7d60cc03",
+        "text": "Scott Baio"
+      },
+      {
+        "id": "3a15b772-d72a-435d-b217-239b25fd9454",
+        "text": "George C. Scott"
+      },
+      {
+        "id": "99629a24-98c2-4f06-8176-5d216f43fed5",
+        "text": "Ridley Scott"
+      }
+    ],
+    "correct_answer_id": "6329e911-600d-46bc-9166-192771312e54",
+    "photo_url": null,
+    "text": "What actor played Jonathan Archer?"
+  },
+  "6312fbfe-df01-4587-8ac0-f806b80d4dec": {
+    "answers": [
+      {
+        "id": "9d7a80c6-1136-4dd5-bd9e-05d7965fe746",
+        "text": "2251-2255"
+      },
+      {
+        "id": "2ef3f11b-9be7-4d37-8682-5b76ee7e6baf",
+        "text": "2051-2055"
+      },
+      {
+        "id": "5129126f-2897-47fc-9450-9d0cccaf75f4",
+        "text": "2201-2205"
+      },
+      {
+        "id": "7479b469-3be6-43dd-a1fb-1ce74b2d2d58",
+        "text": "2151-2155"
+      }
+    ],
+    "correct_answer_id": "7479b469-3be6-43dd-a1fb-1ce74b2d2d58",
+    "photo_url": null,
+    "text": "In what years does Enterprise take place?"
+  },
+  "656f0975-1a74-41e1-a3f1-ef7682978fd2": {
+    "answers": [
+      {
+        "id": "8a4e8c46-9b25-4d74-9cdb-3410af2b3816",
+        "text": "Qo'noS Station"
+      },
+      {
+        "id": "b27c8a96-47b5-4bb6-afcd-8414ffac541a",
+        "text": "Farpoint Station"
+      },
+      {
+        "id": "5186ec94-c4d4-4443-8733-8efc336f951a",
+        "text": "Rigel Station"
+      },
+      {
+        "id": "a0d5cb2a-6c3e-46e2-9570-adb79b7266a1",
+        "text": "Yosemite Station"
+      }
+    ],
+    "correct_answer_id": "a0d5cb2a-6c3e-46e2-9570-adb79b7266a1",
+    "photo_url": null,
+    "text": "What orbital Earth station was destroyed by the Xindi?"
+  },
+  "667bec36-6cfe-4a36-828c-b452cf67232b": {
+    "answers": [
+      {
+        "id": "ac076d7f-7762-4695-8e85-046092fc2bf1",
+        "text": "Three"
+      },
+      {
+        "id": "a82efaaa-7be0-44c2-b7a8-6c817712c742",
+        "text": "Five"
+      },
+      {
+        "id": "72f14916-2676-4c73-8d15-804fcc77c153",
+        "text": "Seven"
+      },
+      {
+        "id": "287ab901-6ca7-43f0-9621-3ffd2b6beb3f",
+        "text": "Four"
+      }
+    ],
+    "correct_answer_id": "a82efaaa-7be0-44c2-b7a8-6c817712c742",
+    "photo_url": null,
+    "text": "How many Xindi species exist in Archer's time?"
+  },
+  "669d92f7-b02a-4ce6-b209-4ed3571890d5": {
+    "answers": [
+      {
+        "id": "66767557-7594-4d97-ba49-b7f6d77ddb45",
+        "text": "Humanoids and Reptilians"
+      },
+      {
+        "id": "13840a21-8e17-4ad5-9454-f96d4c61dc9d",
+        "text": "Reptilians and Insectoids"
+      },
+      {
+        "id": "5f88e18c-2609-44bd-994f-5d7122f3a353",
+        "text": "Aquatics and Avians"
+      },
+      {
+        "id": "8a4c2dce-d697-40b4-8fe6-a331ca0869ec",
+        "text": "Insectoids and Arboreals"
+      }
+    ],
+    "correct_answer_id": "13840a21-8e17-4ad5-9454-f96d4c61dc9d",
+    "photo_url": null,
+    "text": "Which two Xindi species developed a bio-weapon?"
+  },
+  "69921cac-384c-4d25-a43b-e10c92cc7390": {
+    "answers": [
+      {
+        "id": "5c56a89b-542e-448c-a196-daea3953e575",
+        "text": "Hayes and Rostov"
+      },
+      {
+        "id": "41524714-b227-4a14-9583-ff2564ffb8e2",
+        "text": "Phlox and Archer"
+      },
+      {
+        "id": "f726341a-c21f-46d9-b618-119af10cfdc8",
+        "text": "Reed and Tucker"
+      },
+      {
+        "id": "a2e5349a-26ca-46e7-a3ec-52bac570377b",
+        "text": "T'Pol and Mayweather"
+      }
+    ],
+    "correct_answer_id": "f726341a-c21f-46d9-b618-119af10cfdc8",
+    "photo_url": null,
+    "text": "Which crew members were invited to visit subterranean gardens on Risa?"
+  },
+  "6adf6117-d80e-4ec7-bb6d-a51058c5157a": {
+    "answers": [
+      {
+        "id": "b6af0266-a4ad-4fcc-b63d-a3efaca62fac",
+        "text": "Harry Connick"
+      },
+      {
+        "id": "8df5918d-2e67-47d5-aef6-22f20c77a983",
+        "text": "Harry Kim"
+      },
+      {
+        "id": "ca9ff7ba-77a6-46c1-8f9b-3dabfa0d5d30",
+        "text": "Harry Potter"
+      },
+      {
+        "id": "305f362f-5221-49fa-84d4-521ba0fd05f8",
+        "text": "Harry Groener"
+      }
+    ],
+    "correct_answer_id": "305f362f-5221-49fa-84d4-521ba0fd05f8",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/d3/1f/6f/d31f6fd0a35dab412eb8e38f6985deb796e7d7dc/content?h=360&q=95&w=360",
+    "text": "What actor played the role of the high-ranking Earth official Nathan Samuels?"
+  },
+  "6b7e6305-f5bf-4b22-b090-e2ba234a5a0b": {
+    "answers": [
+      {
+        "id": "b77e7704-da25-41b1-aa55-c9b5f6872db8",
+        "text": "Connor MacLeod"
+      },
+      {
+        "id": "08336647-8ea9-4ea1-a4e9-c62aaaee0f3b",
+        "text": "Connor Trinneer"
+      },
+      {
+        "id": "40f816fb-86e6-421c-a61f-12ccf7b59098",
+        "text": "John Connor"
+      },
+      {
+        "id": "54765664-db84-46f6-9772-16dd9afc4ad5",
+        "text": "Chuck Connors"
+      }
+    ],
+    "correct_answer_id": "08336647-8ea9-4ea1-a4e9-c62aaaee0f3b",
+    "photo_url": null,
+    "text": "What actor played Trip Tucker?"
+  },
+  "6be1a906-8914-42ab-8552-330c1270dc7b": {
+    "answers": [
+      {
+        "id": "cdffebff-c206-4c95-8bd2-00ee1f622cd5",
+        "text": "27"
+      },
+      {
+        "id": "469ae97e-0aac-46b6-9dbf-f6c0da387aa0",
+        "text": "117"
+      },
+      {
+        "id": "4dd43336-5f39-4a6e-8ffb-ee5f8110f316",
+        "text": "71"
+      },
+      {
+        "id": "2aec701a-1a96-4cee-a672-f2ff56a14072",
+        "text": "246"
+      }
+    ],
+    "correct_answer_id": "4dd43336-5f39-4a6e-8ffb-ee5f8110f316",
+    "photo_url": null,
+    "text": "According to William Riker, how many people died on the Pegasus?"
+  },
+  "6db05ccc-aaae-40d9-bd3d-e9107c7468ba": {
+    "answers": [
+      {
+        "id": "7a6a34d7-5a7f-41ad-bd9d-4365e89d4c78",
+        "text": "Pa'nar Syndrome"
+      },
+      {
+        "id": "51006677-302f-44f3-a831-ac809884bd10",
+        "text": "P'Jem Syndrome"
+      },
+      {
+        "id": "3fc207f6-bf2c-434d-80ec-c4e00c91f6de",
+        "text": "Par'tay Syndrome"
+      },
+      {
+        "id": "c0e724f8-c97a-4346-a736-8b79e5bab1f9",
+        "text": "Pon'Farr Syndrome"
+      }
+    ],
+    "correct_answer_id": "7a6a34d7-5a7f-41ad-bd9d-4365e89d4c78",
+    "photo_url": null,
+    "text": "T'Pol was infected with what seemingly incurable Vulcan disease?"
+  },
+  "6e75f81a-7892-4a01-b46e-6b7707cfbdaa": {
+    "answers": [
+      {
+        "id": "5630382a-a938-4f8f-b2aa-89bf0916a05d",
+        "text": "Tellarites"
+      },
+      {
+        "id": "7be36b11-e597-4d7f-bfc0-fac832ab6b13",
+        "text": "Romulans"
+      },
+      {
+        "id": "90f6410a-8a08-42ee-aaca-1b4e6c390dfd",
+        "text": "Humans"
+      },
+      {
+        "id": "e7f6fefe-e3c2-41e1-8c09-710955c82bf2",
+        "text": "Klingons"
+      }
+    ],
+    "correct_answer_id": "7be36b11-e597-4d7f-bfc0-fac832ab6b13",
+    "photo_url": null,
+    "text": "Who destroyed Shran's ship?"
+  },
+  "6ec4a9b3-d8cc-4c79-b2cf-7591a35dfc36": {
+    "answers": [
+      {
+        "id": "23d76d2e-3047-41c5-abe6-8a4c7d720a74",
+        "text": "Colonel West"
+      },
+      {
+        "id": "718243e8-4fd3-4642-9637-18bbe32500af",
+        "text": "Colonel Grat"
+      },
+      {
+        "id": "4df27d18-9ebf-4c9c-a4bc-7b12c29708f1",
+        "text": "Colonel Sanders"
+      },
+      {
+        "id": "a0d15cfe-5b7e-49ba-995b-abe180f436c2",
+        "text": "Colonel Corn"
+      }
+    ],
+    "correct_answer_id": "718243e8-4fd3-4642-9637-18bbe32500af",
+    "photo_url": null,
+    "text": "Who ran Suliban Detention Complex #26?"
+  },
+  "7030b43f-6fa5-4138-92bd-622f587be9a6": {
+    "answers": [
+      {
+        "id": "d628bd77-0f94-4168-8bea-a7a39c93026c",
+        "text": "Canamar"
+      },
+      {
+        "id": "08ab1f97-5c04-47bf-b071-4e893e0a75c1",
+        "text": "Rura Penthe"
+      },
+      {
+        "id": "bf85ba10-799c-45a4-b371-eedbd9f3466c",
+        "text": "Cold Station 12"
+      },
+      {
+        "id": "8c1ea682-d8f7-4804-8e59-735630dba9fa",
+        "text": "Qo'NoS"
+      }
+    ],
+    "correct_answer_id": "d628bd77-0f94-4168-8bea-a7a39c93026c",
+    "photo_url": null,
+    "text": "What is the name of the Enolian prison colony Archer and Tucker were being taken to?"
+  },
+  "70a07fdb-2dfc-441d-a833-3b6c763f10a2": {
+    "answers": [
+      {
+        "id": "aaf05d19-a7ad-4631-94e4-afddd68fd9f7",
+        "text": "Desk"
+      },
+      {
+        "id": "b636f185-6fdd-4042-8557-52053e7ddb56",
+        "text": "Mess Hall"
+      },
+      {
+        "id": "d4dd3420-dea9-4c95-8b58-a89a0b85bbb8",
+        "text": "Shower"
+      },
+      {
+        "id": "2940dfab-12bb-48a3-8542-7a318b804603",
+        "text": "Bridge"
+      }
+    ],
+    "correct_answer_id": "d4dd3420-dea9-4c95-8b58-a89a0b85bbb8",
+    "photo_url": null,
+    "text": "Where is Captain Archer when the artificial gravity fails on the Enterprise?"
+  },
+  "718e5e4e-adf5-40fa-b575-8ff3a12bc4eb": {
+    "answers": [
+      {
+        "id": "8d705e17-8668-4028-89f6-6a4de7653d57",
+        "text": "Phaser"
+      },
+      {
+        "id": "fd727c79-3a1d-4edc-a5fd-86482c9914e2",
+        "text": "Bomb"
+      },
+      {
+        "id": "a277ee7c-c09f-4750-8725-1b1d1d5f7974",
+        "text": "Pathogen"
+      },
+      {
+        "id": "9a2e0015-7e1c-4852-ac60-5ba64ccf2919",
+        "text": "Bat'leth"
+      }
+    ],
+    "correct_answer_id": "fd727c79-3a1d-4edc-a5fd-86482c9914e2",
+    "photo_url": null,
+    "text": "What kills Admiral Forrest?"
+  },
+  "7264de0d-850b-48c4-8966-1900007934a3": {
+    "answers": [
+      {
+        "id": "7ead89e6-93b5-4024-b83f-8418c5de08a3",
+        "text": "Trip and Sato"
+      },
+      {
+        "id": "9c4a9876-c0f8-44e5-90f3-30713af2cff6",
+        "text": "Trip and T'Pol"
+      },
+      {
+        "id": "3c6ce81f-b183-4ae5-b306-e41306b2a8b8",
+        "text": "Reed and Sato"
+      },
+      {
+        "id": "a9743791-6b3d-426c-b718-708c65417537",
+        "text": "Archer and T'Pol"
+      }
+    ],
+    "correct_answer_id": "9c4a9876-c0f8-44e5-90f3-30713af2cff6",
+    "photo_url": null,
+    "text": "Terra Prime's leader, John Frederick Paxton, created a binary clone from the DNA of whom?"
+  },
+  "7a477a19-378f-4d82-a78c-8da685094017": {
+    "answers": [
+      {
+        "id": "0380cefa-df44-4a2d-a7dd-a44af2472973",
+        "text": "Four"
+      },
+      {
+        "id": "fac306f0-7205-49db-923b-2d9daac4b329",
+        "text": "None"
+      },
+      {
+        "id": "11b23679-1aa0-49da-917d-4b565efc1924",
+        "text": "Three"
+      },
+      {
+        "id": "e357b0f6-4c25-4ded-8ae6-daabce0c23a2",
+        "text": "Two"
+      }
+    ],
+    "correct_answer_id": "e357b0f6-4c25-4ded-8ae6-daabce0c23a2",
+    "photo_url": null,
+    "text": "How many shuttlepods are on the Enterprise?"
+  },
+  "7a7405f5-3b0c-4017-bcf4-096a23cb524b": {
+    "answers": [
+      {
+        "id": "dbfb2f64-6b3e-4c70-ba5a-713f97a46f32",
+        "text": "Jalad"
+      },
+      {
+        "id": "98b31cf1-a578-4f65-94d1-5da4b9ad2aa6",
+        "text": "Tavin"
+      },
+      {
+        "id": "aed3a61a-5dce-44a1-abaa-30429a2a3a42",
+        "text": "Tolaris"
+      },
+      {
+        "id": "75ddb0a4-de3f-4e01-bab6-aec696895d8e",
+        "text": "Darmok"
+      }
+    ],
+    "correct_answer_id": "aed3a61a-5dce-44a1-abaa-30429a2a3a42",
+    "photo_url": null,
+    "text": "T'Pol has a disease contracted from her mind meld with whom?"
+  },
+  "7beb7630-99b5-437b-8f87-4d5094d63e71": {
+    "answers": [
+      {
+        "id": "13554a18-579a-4a18-8798-4f5a135f9019",
+        "text": "Krem"
+      },
+      {
+        "id": "f5b61504-9737-4525-81c7-1478413573cd",
+        "text": "Muk"
+      },
+      {
+        "id": "3fa54165-773d-4c88-bf6a-51773bc840f4",
+        "text": "Grish"
+      },
+      {
+        "id": "5ad26d94-a06b-4f52-8862-a8d73ebc6b4a",
+        "text": "Ulis"
+      }
+    ],
+    "correct_answer_id": "5ad26d94-a06b-4f52-8862-a8d73ebc6b4a",
+    "photo_url": null,
+    "text": "Who was the Ferengi leader of thieves that tried to plunder the Enterprise?"
+  },
+  "7d7fb05e-8dd1-49ea-8e0b-dbafd82c8792": {
+    "answers": [
+      {
+        "id": "bd052a23-43f9-407c-8ae8-67174271f02a",
+        "text": "Hoshi Sato"
+      },
+      {
+        "id": "b6baa0a7-dec1-40e2-9af0-f4ba8ad554e7",
+        "text": "Dr. Phlox"
+      },
+      {
+        "id": "8f169184-0d06-4683-8bf4-4a623b4e2f72",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "4915ec16-6c56-4280-8400-3c3e8921829e",
+        "text": "Travis Mayweather"
+      }
+    ],
+    "correct_answer_id": "4915ec16-6c56-4280-8400-3c3e8921829e",
+    "photo_url": null,
+    "text": "An automated station repairs the heavily damaged Enterprise, but also kidnaps whom to enhance its processing power?"
+  },
+  "7da90841-83b2-40bd-a115-d1a3f46b8a38": {
+    "answers": [
+      {
+        "id": "144f7c9d-c1e7-4156-b185-af75e0d988e6",
+        "text": "Menk"
+      },
+      {
+        "id": "426f1a68-be09-4129-873c-6ff0b8e7ba8d",
+        "text": "Kreetassan"
+      },
+      {
+        "id": "a6c82cb1-deda-4799-96a7-00fafc289428",
+        "text": "Klingon"
+      },
+      {
+        "id": "217edc5e-66a9-4f03-8134-b179c05a1e5d",
+        "text": "Bynar"
+      }
+    ],
+    "correct_answer_id": "426f1a68-be09-4129-873c-6ff0b8e7ba8d",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/b0/fe/60/b0fe60cf02897b8bd7bb7a15c725ca5242101ef7/content?h=360&q=95&w=360",
+    "text": "Which species are these guys?"
+  },
+  "7f50a011-c328-4886-9cc1-9f04d338ec0f": {
+    "answers": [
+      {
+        "id": "7441aa78-6be5-4111-ba70-b092182ca59e",
+        "text": "Xindi Primate"
+      },
+      {
+        "id": "8e0ce9bd-fe14-4ba0-8692-ae0beed5ec8d",
+        "text": "Orion"
+      },
+      {
+        "id": "42d2555b-a4f9-487c-a4cb-96bbb15e90b2",
+        "text": "Cardassian"
+      },
+      {
+        "id": "17f01cf7-a853-4096-97af-57236eb716ce",
+        "text": "Xindi Aquatic"
+      }
+    ],
+    "correct_answer_id": "17f01cf7-a853-4096-97af-57236eb716ce",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/7b/01/bf/7b01bf283d7ea9230baa7abf3e7d638e38f66f0e/content?h=360&q=95&w=360",
+    "text": "Which species would use this type of ship?"
+  },
+  "801ef2b9-a276-451e-a2c4-3786345d34a7": {
+    "answers": [
+      {
+        "id": "7603d718-85cb-48e2-9d26-b0c32963e7ff",
+        "text": "One"
+      },
+      {
+        "id": "5f688c7a-065a-4cb2-ad4b-204b6ccbda35",
+        "text": "Four"
+      },
+      {
+        "id": "66a8fe3c-60bc-43b3-9c1d-dcff1ee33841",
+        "text": "Two"
+      },
+      {
+        "id": "5cef14a1-0c71-4ed1-84ca-c0153eae637e",
+        "text": "Three"
+      }
+    ],
+    "correct_answer_id": "66a8fe3c-60bc-43b3-9c1d-dcff1ee33841",
+    "photo_url": null,
+    "text": "How many subspace amplifiers were destroyed by the unknown aliens in \"Silent Enemy\"?"
+  },
+  "80e221a2-69f4-4927-9742-62c07575eb95": {
+    "answers": [
+      {
+        "id": "4c735465-b651-4664-af4d-d827d04145f2",
+        "text": "Antarans"
+      },
+      {
+        "id": "07e5b346-8f8b-4abe-ba49-07dd23593be1",
+        "text": "Tellarites"
+      },
+      {
+        "id": "fe438852-277c-46a6-b16a-131380603e48",
+        "text": "Skagarans"
+      },
+      {
+        "id": "bc1229be-d146-4d90-8124-e3453742bc25",
+        "text": "Suliban"
+      }
+    ],
+    "correct_answer_id": "4c735465-b651-4664-af4d-d827d04145f2",
+    "photo_url": null,
+    "text": "The Denobulans used to be at war with whom?"
+  },
+  "82cc0257-bd4f-455e-8bfe-a91c0b303a33": {
+    "answers": [
+      {
+        "id": "244a45b1-e76a-46e1-871a-f042ec510c6f",
+        "text": "Sarin"
+      },
+      {
+        "id": "61a39d00-f9df-4bd5-81ec-6533f2537e3b",
+        "text": "Skalaar"
+      },
+      {
+        "id": "b6fdfb40-c1a9-4faa-af55-818500b564a8",
+        "text": "D'Jamat"
+      },
+      {
+        "id": "8b773c13-e39f-4151-8352-eb24d9210cdc",
+        "text": "Kessick"
+      }
+    ],
+    "correct_answer_id": "61a39d00-f9df-4bd5-81ec-6533f2537e3b",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/74/b2/61/74b261eea544383504f2c1bd0ffc0ef764c6ada4/content?h=360&q=95&w=360",
+    "text": "Who was the Tellarite bounty hunter that was to turn Archer over to the Klingons?"
+  },
+  "83029a86-5366-404d-abd2-8d3c0f52ed7c": {
+    "answers": [
+      {
+        "id": "8b427998-bdee-4d71-ba98-41eb232add03",
+        "text": "1012"
+      },
+      {
+        "id": "540e0ed1-7728-416b-b63e-29c3869e8919",
+        "text": "430"
+      },
+      {
+        "id": "fda3c79e-03a5-4bcf-868d-607097b44870",
+        "text": "216"
+      },
+      {
+        "id": "d9b0b3d1-1e7a-4995-a24b-ea65f301ec53",
+        "text": "83"
+      }
+    ],
+    "correct_answer_id": "d9b0b3d1-1e7a-4995-a24b-ea65f301ec53",
+    "photo_url": null,
+    "text": "How many people serve on the Enterprise?"
+  },
+  "83529a6d-3fa8-4db4-97b5-46f6c0b0b606": {
+    "answers": [
+      {
+        "id": "f14e5467-af6d-41dc-9180-7589493d2d76",
+        "text": "Water polo"
+      },
+      {
+        "id": "10c608c6-ea6a-4942-a384-86cb9931daf9",
+        "text": "Ice hockey"
+      },
+      {
+        "id": "a3236b9e-43e8-4028-bbae-1ea6ce0d98d3",
+        "text": "Football"
+      },
+      {
+        "id": "c8e449c8-956e-420e-bc55-5adc81c1866e",
+        "text": "Lawn darts"
+      }
+    ],
+    "correct_answer_id": "f14e5467-af6d-41dc-9180-7589493d2d76",
+    "photo_url": null,
+    "text": "What is Captain Archer's favorite sport?"
+  },
+  "83bf34ce-de54-45e6-a256-ef07dc4dc2bb": {
+    "answers": [
+      {
+        "id": "2a4314c1-5411-4bc5-8356-226af6f68b65",
+        "text": "Tholians"
+      },
+      {
+        "id": "c055faea-4622-4f8a-b136-e0fba43143ce",
+        "text": "Romulans"
+      },
+      {
+        "id": "2e831a74-b7eb-40bd-934d-4b85b8591308",
+        "text": "Klingons"
+      },
+      {
+        "id": "7f98f686-616a-4942-bf67-d402b1e830a6",
+        "text": "Xindi"
+      }
+    ],
+    "correct_answer_id": "2a4314c1-5411-4bc5-8356-226af6f68b65",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/93/70/4d/93704d9806469375828c2770ef17b7533b4cac28/content?h=360&q=95&w=360",
+    "text": "Who destroyed the I.S.S. Enterprise in the Mirror Universe?"
+  },
+  "845912ad-8114-48b8-b5d2-d07b12fb4d67": {
+    "answers": [
+      {
+        "id": "d4be8162-9f0b-4bdc-b675-8b896d124f8b",
+        "text": "201"
+      },
+      {
+        "id": "c1ecb9e3-7fee-4bb4-ab0d-0ed27defd0b2",
+        "text": "86"
+      },
+      {
+        "id": "3d0a19d1-1bf6-40e1-ade3-6413f1a74755",
+        "text": "184"
+      },
+      {
+        "id": "905090dd-40b1-4960-b438-23f7e6c5f856",
+        "text": "117"
+      }
+    ],
+    "correct_answer_id": "905090dd-40b1-4960-b438-23f7e6c5f856",
+    "photo_url": null,
+    "text": "The Enterprise met an identical Enterprise that had traveled how many years into the past?"
+  },
+  "854543e7-c83c-432d-b8a5-8d5e37d91b30": {
+    "answers": [
+      {
+        "id": "293b1425-0e4b-4193-a848-a0ca42e6c7f6",
+        "text": "Sheldon Cooper"
+      },
+      {
+        "id": "9dbc45cf-87b9-4de7-88a2-43acedeff800",
+        "text": "Cooper Jones"
+      },
+      {
+        "id": "a340adca-eaa0-483e-807c-ee805bb8088e",
+        "text": "Mini Cooper"
+      },
+      {
+        "id": "16d565dc-f0d8-4132-8b32-9b030966f6ca",
+        "text": "Cooper Smith"
+      }
+    ],
+    "correct_answer_id": "16d565dc-f0d8-4132-8b32-9b030966f6ca",
+    "photo_url": null,
+    "text": "Who was the leader of the human uprising on the Skagaran planet?"
+  },
+  "8591cd08-4e35-4fda-a190-a0140f36b796": {
+    "answers": [
+      {
+        "id": "d4447886-5d54-4d01-a2b5-903799c33127",
+        "text": "Ceta Alpha 5"
+      },
+      {
+        "id": "795b43b9-df15-450b-b0d4-be9f162d1638",
+        "text": "Betazed"
+      },
+      {
+        "id": "e246384c-f62d-442d-bb7e-04ca6dc04c21",
+        "text": "Vulcan"
+      },
+      {
+        "id": "f5455572-88f7-4943-9d70-524135b1f84b",
+        "text": "Rigel 10"
+      }
+    ],
+    "correct_answer_id": "d4447886-5d54-4d01-a2b5-903799c33127",
+    "photo_url": null,
+    "text": "What planet did Archer and T'Pol hide on after the Xindi destroyed Earth in the episode \"Twilight\"?"
+  },
+  "86f9ed32-da03-4dc9-82c7-af6cf5317f67": {
+    "answers": [
+      {
+        "id": "31069d57-93c6-4a16-ae2d-6c0496990079",
+        "text": "Tesnian"
+      },
+      {
+        "id": "b0acb7f5-9b58-40eb-a729-65e76b5ceb0d",
+        "text": "Xyrillian"
+      },
+      {
+        "id": "a8b65b2b-2e47-4488-b313-e1f8baf4c303",
+        "text": "Human"
+      },
+      {
+        "id": "f93871c8-4015-442d-9a84-790a27a66b9a",
+        "text": "Vulcan"
+      }
+    ],
+    "correct_answer_id": "f93871c8-4015-442d-9a84-790a27a66b9a",
+    "photo_url": null,
+    "text": "Chris Pine's father, Robert Pine, guest starred in one episode as a member of what species?"
+  },
+  "87301ed0-8025-4a99-ad91-04610e4953da": {
+    "answers": [
+      {
+        "id": "2daa1d7a-745f-4504-b0e6-26a5b921fe27",
+        "text": "Chews loudly"
+      },
+      {
+        "id": "4649e45a-52a5-4897-a80e-2c5906fadfde",
+        "text": "Smells bad"
+      },
+      {
+        "id": "4ce4ffa8-fc87-4c10-b4d8-8f11f94c37be",
+        "text": "Snorts when laughing"
+      },
+      {
+        "id": "805e76d7-a713-4e78-b66c-06523f0b0240",
+        "text": "Never shuts up"
+      }
+    ],
+    "correct_answer_id": "805e76d7-a713-4e78-b66c-06523f0b0240",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/64/fb/c9/64fbc93ada30ab8645bc319f6315c8442d1546e2/content?h=360&q=95&w=360",
+    "text": "Trip doesn't like this fellow because he...?"
+  },
+  "893cdad4-9dd5-4584-8386-18590735a67d": {
+    "answers": [
+      {
+        "id": "00226fa7-54d7-4ecf-94de-e6acd630efa1",
+        "text": "Roy Orbison"
+      },
+      {
+        "id": "5812517e-0db0-4661-a500-4057dde5175b",
+        "text": "Eminem"
+      },
+      {
+        "id": "03582f00-6663-4e6a-8028-43aecdacf88e",
+        "text": "Kenny Chesney"
+      },
+      {
+        "id": "405114e3-ff08-4e5b-9df2-3e848c143b1c",
+        "text": "Russell Watson"
+      }
+    ],
+    "correct_answer_id": "405114e3-ff08-4e5b-9df2-3e848c143b1c",
+    "photo_url": null,
+    "text": "Who performed the theme song?"
+  },
+  "899f71f5-ae2d-47d5-8501-b446a465cc67": {
+    "answers": [
+      {
+        "id": "cd7dd12a-ba58-49cb-8575-606915ba2018",
+        "text": "Suliban"
+      },
+      {
+        "id": "4d264bd2-0589-4302-9c24-24db142d689d",
+        "text": "Tellarite"
+      },
+      {
+        "id": "4379fd31-b696-42e2-a035-263bb1144633",
+        "text": "Vulcan"
+      },
+      {
+        "id": "12b463b2-0d13-452c-bb72-9a6cd1927c77",
+        "text": "Andorian"
+      }
+    ],
+    "correct_answer_id": "cd7dd12a-ba58-49cb-8575-606915ba2018",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/a0/32/de/a032de1e23ef4851ecfe802ee2e70d5b3cd1255e/content?h=360&q=95&w=360",
+    "text": "Which species uses this single-person ship?"
+  },
+  "89fbfb45-9413-4287-866f-16cd20181545": {
+    "answers": [
+      {
+        "id": "f1223fe8-864d-467c-ae22-f49c595c026e",
+        "text": "Mike Hammer"
+      },
+      {
+        "id": "af1526aa-03e1-4170-8743-a423650fa6bf",
+        "text": "A. G. Robinson"
+      },
+      {
+        "id": "0418b4bb-bddc-41e3-b688-db657a02c9d7",
+        "text": "Vic Fontaine"
+      },
+      {
+        "id": "85660e29-22e9-4f10-bba8-7b3bce20c31f",
+        "text": "Ensign Masaro"
+      }
+    ],
+    "correct_answer_id": "85660e29-22e9-4f10-bba8-7b3bce20c31f",
+    "photo_url": null,
+    "text": "Who was the Terra Prime spy on board the Enterprise?"
+  },
+  "8ed92d2f-c398-42d7-ad4c-7d840bd41c63": {
+    "answers": [
+      {
+        "id": "9ab0a49d-47b3-45ca-b05d-323004c35008",
+        "text": "Nausicaan"
+      },
+      {
+        "id": "2571f291-d272-4a8b-8468-49b4d86400d7",
+        "text": "Vulcan"
+      },
+      {
+        "id": "896243d2-af18-437e-8cc4-36ea2ddd8542",
+        "text": "Human"
+      },
+      {
+        "id": "f465655e-5225-467a-a6b6-8ca420dcee73",
+        "text": "Denobulan"
+      }
+    ],
+    "correct_answer_id": "f465655e-5225-467a-a6b6-8ca420dcee73",
+    "photo_url": null,
+    "text": "What species is Doctor Phlox?"
+  },
+  "8f338c0c-76b5-4102-a040-d7fd51a554b1": {
+    "answers": [
+      {
+        "id": "ee56200d-5c3c-45b8-ad92-1ea9cbe5835d",
+        "text": "Nausicaan"
+      },
+      {
+        "id": "30e7871c-1cc0-4c6d-b392-839811388e6b",
+        "text": "Orion"
+      },
+      {
+        "id": "4096a557-51b6-4c4f-857c-a2540b38af8b",
+        "text": "Human"
+      },
+      {
+        "id": "d81347a9-c939-4e56-a6df-e88ebd531b61",
+        "text": "Xindi"
+      }
+    ],
+    "correct_answer_id": "ee56200d-5c3c-45b8-ad92-1ea9cbe5835d",
+    "photo_url": null,
+    "text": "Which species of pirates attacked the freighter Fortunate?"
+  },
+  "91799fa3-b60a-4b4e-8a3e-91c67df2fa1d": {
+    "answers": [
+      {
+        "id": "e0cdef9a-d518-42e4-a944-2d6ddb6d403c",
+        "text": "Jeremy Lucas"
+      },
+      {
+        "id": "a618b8b7-776a-4694-b836-1649fbd24f33",
+        "text": "Tristan Adams"
+      },
+      {
+        "id": "a547fc8b-2c3a-4535-a395-855e34c0fd22",
+        "text": "Ben Childress"
+      },
+      {
+        "id": "c48de674-335d-487e-97c5-2a901cdd1252",
+        "text": "Mel Apgar"
+      }
+    ],
+    "correct_answer_id": "e0cdef9a-d518-42e4-a944-2d6ddb6d403c",
+    "photo_url": null,
+    "text": "Who is the medical director of Cold Station 12?"
+  },
+  "9223f369-6531-4058-a3dd-7ebd8fe39870": {
+    "answers": [
+      {
+        "id": "5f16a855-2382-4352-960e-3c77f251fd64",
+        "text": "T'Pol and Mayweather"
+      },
+      {
+        "id": "b5d91879-7d9f-4954-bcc9-0f0b04c19c4e",
+        "text": "Tucker and Sato"
+      },
+      {
+        "id": "b5b44d68-193c-47b2-a183-17d33926191b",
+        "text": "Cutler and Rostov"
+      },
+      {
+        "id": "b576f3bc-320f-43d5-a65c-e3c8e4d81d1a",
+        "text": "Archer and Reed"
+      }
+    ],
+    "correct_answer_id": "b5d91879-7d9f-4954-bcc9-0f0b04c19c4e",
+    "photo_url": null,
+    "text": "Which two members became fatally ill in the episode \"Observer Effect\"?"
+  },
+  "923cc454-fc84-4de7-b7ba-5a52e9decd7a": {
+    "answers": [
+      {
+        "id": "78fd5992-7b41-4c82-b197-e94868d1860b",
+        "text": "Klingon"
+      },
+      {
+        "id": "6cb75cd9-c8a9-43f1-96e3-d845a33fa5a3",
+        "text": "Andorian"
+      },
+      {
+        "id": "2188e8a2-8ea4-4b61-b914-e74fcf6f2aa0",
+        "text": "Xindi Primate"
+      },
+      {
+        "id": "c6d9ec5c-a633-44ce-9025-f378f34501e9",
+        "text": "Tellerite"
+      }
+    ],
+    "correct_answer_id": "6cb75cd9-c8a9-43f1-96e3-d845a33fa5a3",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/46/36/1a/46361a7b58cecf443be83427bffba49e657a379d/content?h=360&q=95&w=360",
+    "text": "Which species would you see using a Ushaan-Tor blade?"
+  },
+  "929614a9-bb8a-4942-a957-f1473d024dde": {
+    "answers": [
+      {
+        "id": "7adc8895-2bc8-4fcf-92c7-a9b2563ea942",
+        "text": "The Communications Console"
+      },
+      {
+        "id": "31c3e036-7752-40e4-9e33-fa28766aeed5",
+        "text": "Her Hair"
+      },
+      {
+        "id": "faac7e90-984a-43a5-ab2f-518f386425f1",
+        "text": "Porthos"
+      },
+      {
+        "id": "a48ba405-64d9-4b35-8e63-031ff0f56ba9",
+        "text": "Lunch"
+      }
+    ],
+    "correct_answer_id": "a48ba405-64d9-4b35-8e63-031ff0f56ba9",
+    "photo_url": null,
+    "text": "Hoshi Sato was affected by a black hole's radiation and became obsessed with fixing...?"
+  },
+  "9534cada-c519-4589-92ed-03a90fa3f50a": {
+    "answers": [
+      {
+        "id": "db54e1a7-8b1b-48cb-a1d6-a53284411895",
+        "text": "Breen"
+      },
+      {
+        "id": "f9559d9c-fdac-484c-b533-31dd5f80b5a0",
+        "text": "Xindi Insectoid"
+      },
+      {
+        "id": "e44ab442-502d-434d-93c5-1650e11a8e37",
+        "text": "Cardassian"
+      },
+      {
+        "id": "b42d73c9-4183-4ca0-91e3-d7a38436f9c2",
+        "text": "Vorta"
+      }
+    ],
+    "correct_answer_id": "f9559d9c-fdac-484c-b533-31dd5f80b5a0",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/5e/b5/72/5eb5725d35ffedbe6e463e69f24dd16859fc70af/content?h=360&q=95&w=360",
+    "text": "What species uses this ship?"
+  },
+  "954fb7cd-cf68-45d9-acf0-dce58bb846be": {
+    "answers": [
+      {
+        "id": "acdf8ba9-0864-4a32-98cb-9bca176a0f71",
+        "text": "T'Pol"
+      },
+      {
+        "id": "40181674-84af-4644-bb65-8ee798a62ebc",
+        "text": "Solin"
+      },
+      {
+        "id": "4e7d387e-1d35-4816-a70d-1869264ab13d",
+        "text": "Lorian"
+      },
+      {
+        "id": "bd97ef91-3dfc-4885-be6a-8c3c09405e22",
+        "text": "Latrelle"
+      }
+    ],
+    "correct_answer_id": "4e7d387e-1d35-4816-a70d-1869264ab13d",
+    "photo_url": null,
+    "text": "Who was the captain of the Enterprise from the past that traversed a subspace corridor?"
+  },
+  "958880d6-d129-4d29-b695-3a8859175b4a": {
+    "answers": [
+      {
+        "id": "61d95410-fcba-4237-9e11-2853f5c29da9",
+        "text": "Flux capacitor"
+      },
+      {
+        "id": "11cc5985-2642-4acf-ba91-d4c6d3d27c4d",
+        "text": "Plasma injector"
+      },
+      {
+        "id": "7cc398f2-e59b-4d94-a965-296c0472233c",
+        "text": "EPS conduits"
+      },
+      {
+        "id": "cbe97079-f557-4ddf-934c-33aa23b9bd20",
+        "text": "Dilithium crystals"
+      }
+    ],
+    "correct_answer_id": "11cc5985-2642-4acf-ba91-d4c6d3d27c4d",
+    "photo_url": null,
+    "text": "In the episode \"A Night in Sickbay\" Archer must apologize to the Kreetassans in order to acquire what item?"
+  },
+  "95abbdf9-2a02-49dd-960d-f4fc4221517e": {
+    "answers": [
+      {
+        "id": "6e1de627-7c8b-4f9b-981b-a01abd3fce30",
+        "text": "Gold-pressed Latinum"
+      },
+      {
+        "id": "052f5ae3-6918-40db-acad-f95f409695bc",
+        "text": "Beresium Ore"
+      },
+      {
+        "id": "2aad1441-5bf5-47d2-a647-2d686aac7b11",
+        "text": "Tetrazine"
+      },
+      {
+        "id": "1ae22633-59af-4edc-981c-a84214f7c0e4",
+        "text": "Archerite"
+      }
+    ],
+    "correct_answer_id": "1ae22633-59af-4edc-981c-a84214f7c0e4",
+    "photo_url": null,
+    "text": "What did Shran tell Degra he was searching for while scanning the Xindi test weapon?"
+  },
+  "97c7ba46-6ec3-4c07-bfeb-7c7ef24f44a3": {
+    "answers": [
+      {
+        "id": "8c5f48be-e43d-429e-9d4d-db13a665ed61",
+        "text": "Florida"
+      },
+      {
+        "id": "3406ba53-7c8a-466b-9a60-05ba1b7f1cf1",
+        "text": "Montana"
+      },
+      {
+        "id": "c3ed3f03-e6b4-4bfc-9b62-991503726add",
+        "text": "Pennsylvania"
+      },
+      {
+        "id": "83863b3d-78bf-4c3d-809b-eb99ef0a5178",
+        "text": "Iowa"
+      }
+    ],
+    "correct_answer_id": "c3ed3f03-e6b4-4bfc-9b62-991503726add",
+    "photo_url": null,
+    "text": "The episode \"Carbon Creek\" takes place in which U.S. state?"
+  },
+  "9a1dbc5d-9d54-42ba-846b-32cd929cd6e3": {
+    "answers": [
+      {
+        "id": "2b5b411a-8f26-414b-829e-1b5f73270aca",
+        "text": "Tellarite"
+      },
+      {
+        "id": "2a36f78d-722e-498e-b9b4-78f3bc1de12b",
+        "text": "Klingon"
+      },
+      {
+        "id": "15ccb78e-8ff8-4370-a00d-2ce4a2987779",
+        "text": "Xindi"
+      },
+      {
+        "id": "42888aa9-0c75-42c3-9ae4-71c556bd1552",
+        "text": "Romulan"
+      }
+    ],
+    "correct_answer_id": "42888aa9-0c75-42c3-9ae4-71c556bd1552",
+    "photo_url": null,
+    "text": "Which species placed an orbiting minefield using cloaked mines?"
+  },
+  "9a915d33-8647-4c16-b72d-6ba4095552d2": {
+    "answers": [
+      {
+        "id": "d2826f7a-14d7-43d7-8f1b-7776649e04ac",
+        "text": "Andorian liquor"
+      },
+      {
+        "id": "abd28e1d-fec9-4661-97a7-03a0673e2ce7",
+        "text": "Phlox's bat"
+      },
+      {
+        "id": "d789036c-c5b6-4280-aeba-3f237ffd1fab",
+        "text": "Multiphasic isotope"
+      },
+      {
+        "id": "255a1859-3340-417f-a072-5565f237f2c5",
+        "text": "Vulcan city"
+      }
+    ],
+    "correct_answer_id": "d789036c-c5b6-4280-aeba-3f237ffd1fab",
+    "photo_url": null,
+    "text": "What is Kemocite?"
+  },
+  "9d93ceac-9b3b-47a3-97c9-7b1c97874cac": {
+    "answers": [
+      {
+        "id": "26179705-a562-4ca0-84bb-6833bc349c95",
+        "text": "Improbability drive"
+      },
+      {
+        "id": "489ed63f-4330-43d1-bd8e-37e13fbebe85",
+        "text": "Temporal displacement drive"
+      },
+      {
+        "id": "e0454fb9-608a-407c-8c1e-a73a59376735",
+        "text": "Warp drive"
+      },
+      {
+        "id": "95b1088e-2358-4079-bd94-2f309bfe2cd8",
+        "text": "Impulse drive"
+      }
+    ],
+    "correct_answer_id": "489ed63f-4330-43d1-bd8e-37e13fbebe85",
+    "photo_url": null,
+    "text": "What type of engine powered the time ship in the episode \"Future Tense?\""
+  },
+  "9fe7ecfc-83eb-4acf-82a5-07bc9ffaf1f6": {
+    "answers": [
+      {
+        "id": "213b4242-7ca8-4031-9b6a-155dbd27b7ff",
+        "text": "Dominic Cooper"
+      },
+      {
+        "id": "3f6e739b-e605-44c9-abb4-d13cb823ac9d",
+        "text": "Dominic Toretto"
+      },
+      {
+        "id": "4d50aa0e-cb26-4cde-aa9b-ca4cbe2f13b1",
+        "text": "Dominic Monaghan"
+      },
+      {
+        "id": "09757ae3-acaf-4be9-9997-caafe3d78653",
+        "text": "Dominic Keating"
+      }
+    ],
+    "correct_answer_id": "09757ae3-acaf-4be9-9997-caafe3d78653",
+    "photo_url": null,
+    "text": "What actor played Malcolm Reed?"
+  },
+  "a016a123-5b26-4245-a316-1839d86e0682": {
+    "answers": [
+      {
+        "id": "2089ee36-08ec-47ae-87ba-b86e8965a891",
+        "text": "Jolene Blalock"
+      },
+      {
+        "id": "0bb63aeb-484a-4ba9-8745-6e4b87b47efe",
+        "text": "Jolene Babcock"
+      },
+      {
+        "id": "c2220aac-4b08-46d2-83e6-ca3af998216c",
+        "text": "Jolene Andretti"
+      },
+      {
+        "id": "0960faa7-3406-48d1-8eb4-76739634f5fe",
+        "text": "Jolene Turner"
+      }
+    ],
+    "correct_answer_id": "2089ee36-08ec-47ae-87ba-b86e8965a891",
+    "photo_url": null,
+    "text": "What actress played Sub-commander T'Pol?"
+  },
+  "a1a104bb-7288-4367-b6dd-55b38af4aecf": {
+    "answers": [
+      {
+        "id": "459f77a7-ad36-4420-848d-1e7d27092080",
+        "text": "Kumari"
+      },
+      {
+        "id": "447ab31d-39a5-423c-994f-8327ab5d3c1d",
+        "text": "Defiant"
+      },
+      {
+        "id": "2e0313c2-481f-45e5-af5c-520ba44e492e",
+        "text": "Galatica"
+      },
+      {
+        "id": "277c2975-cc78-49b5-b367-28b4b704520b",
+        "text": "Phoenix"
+      }
+    ],
+    "correct_answer_id": "459f77a7-ad36-4420-848d-1e7d27092080",
+    "photo_url": null,
+    "text": "What is the name of Shran's Andorian ship?"
+  },
+  "a34b351e-fe43-42d8-93af-c5bf3947bbf2": {
+    "answers": [
+      {
+        "id": "27112775-2dc0-4fee-9fc2-d9d381ed85e0",
+        "text": "3 days and 3 nights"
+      },
+      {
+        "id": "fff678d8-a9f8-45b3-adcd-f2170e0f9e83",
+        "text": "7 days and 7 nights"
+      },
+      {
+        "id": "4271e556-a1c0-4b23-9453-8e5c42f8bd88",
+        "text": "2 days and 2 nights"
+      },
+      {
+        "id": "33392475-d4e3-44e0-995d-e97937407cf2",
+        "text": "4 days and 4 nights"
+      }
+    ],
+    "correct_answer_id": "4271e556-a1c0-4b23-9453-8e5c42f8bd88",
+    "photo_url": null,
+    "text": "How long did the Enterprise crew have to vacation on Risa?"
+  },
+  "a390003e-bf0e-4988-95be-d94a84ae45e5": {
+    "answers": [
+      {
+        "id": "eb138fc5-93e7-4611-b6eb-8b2c49d01afc",
+        "text": "Anthony Hopkins"
+      },
+      {
+        "id": "6ad55336-f1c6-4085-9173-7e1dc6fcf8c3",
+        "text": "Anthony Montgomery"
+      },
+      {
+        "id": "9f1abedb-fdb6-48b0-9249-1d8d0832e2c9",
+        "text": "Anthony Edwards"
+      },
+      {
+        "id": "7f1384d1-5bc7-4048-9013-c973201cc13e",
+        "text": "Anthony Bourdain"
+      }
+    ],
+    "correct_answer_id": "6ad55336-f1c6-4085-9173-7e1dc6fcf8c3",
+    "photo_url": null,
+    "text": "What actor played Travis Mayweather?"
+  },
+  "a564d6ff-0fd3-4d19-8295-182534eca8e3": {
+    "answers": [
+      {
+        "id": "d4ce80f9-755f-4ca1-8c2e-526d2291ee2c",
+        "text": "Gorkon"
+      },
+      {
+        "id": "6d2c5569-1546-4ec9-82eb-beab1ef6aee8",
+        "text": "Loomis"
+      },
+      {
+        "id": "efbd55ba-4bc4-49bd-b535-13525c4eccf6",
+        "text": "Icheb"
+      },
+      {
+        "id": "3a1d8c5f-6657-46d6-8af9-fb676e4fec73",
+        "text": "Draysik"
+      }
+    ],
+    "correct_answer_id": "6d2c5569-1546-4ec9-82eb-beab1ef6aee8",
+    "photo_url": null,
+    "text": "Who was the blood bank worker that became entangled in the Xindi plot to build a bio-weapon in 2004?"
+  },
+  "a72764ad-38d9-4667-9151-e00dbbc6f027": {
+    "answers": [
+      {
+        "id": "a8f02823-79d6-4d14-81af-dade76ac7d0b",
+        "text": "No one"
+      },
+      {
+        "id": "1de04115-de67-4b70-8ca9-4d3cfecb09a9",
+        "text": "Deputy Bennings"
+      },
+      {
+        "id": "58ca5aac-32aa-475c-a875-ee4d153db9f7",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "4f4e9098-825c-496e-9b08-0d88531a2897",
+        "text": "Unnamed Gunslinger"
+      }
+    ],
+    "correct_answer_id": "58ca5aac-32aa-475c-a875-ee4d153db9f7",
+    "photo_url": null,
+    "text": "Who shot T'Pol on the Skagaran planet?"
+  },
+  "a79329b4-b475-4ae9-8d6e-4da39c47d7e8": {
+    "answers": [
+      {
+        "id": "87db40a5-9acd-4a37-8adb-de3083c7b986",
+        "text": "Nausicaan"
+      },
+      {
+        "id": "863b968a-2e6b-4ab7-b5ff-52058df78e5e",
+        "text": "Denobulan"
+      },
+      {
+        "id": "b82e2fb0-5dfb-4d5a-bebe-960edbfa2887",
+        "text": "Axanar"
+      },
+      {
+        "id": "582d129a-6e3a-4bf0-bedc-7d86bcd9cec6",
+        "text": "Tellarite"
+      }
+    ],
+    "correct_answer_id": "b82e2fb0-5dfb-4d5a-bebe-960edbfa2887",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/2e/a9/12/2ea91272f7df8046d8f3324ed5bc1fbe0cfedead/content?h=360&q=95&w=360",
+    "text": "This captain is a member of which species?"
+  },
+  "a9f29049-a46f-4c4f-aa7e-2297c1575679": {
+    "answers": [
+      {
+        "id": "c259a089-3bfe-4397-86f2-d933413c446a",
+        "text": "Paraagan"
+      },
+      {
+        "id": "ffff2203-0ede-4134-b539-3b57996356a0",
+        "text": "Xyrillian"
+      },
+      {
+        "id": "5a5bdca3-959f-4ec2-acfc-d40c58dac6f5",
+        "text": "Tesnian"
+      },
+      {
+        "id": "e4dcade3-7c04-4cdc-a7fc-0ab111c776d1",
+        "text": "Xarantine"
+      }
+    ],
+    "correct_answer_id": "ffff2203-0ede-4134-b539-3b57996356a0",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/8a/e5/e2/8ae5e279939e5612aff753cee57697f065ba5e97/content?h=360&q=95&w=360",
+    "text": "What species grew their food on their ship's walls?"
+  },
+  "aab092f6-683e-4d94-afaf-435e311de963": {
+    "answers": [
+      {
+        "id": "e8df4da2-5931-4618-84a9-4bdd031e7194",
+        "text": "T'Pol and Archer"
+      },
+      {
+        "id": "c7beb67c-0471-4b53-9d49-7efa4d8cb0fe",
+        "text": "Archer and Daniels"
+      },
+      {
+        "id": "5364338f-a66c-4f79-b4bd-dea697d97c45",
+        "text": "Mayweather and Trip"
+      },
+      {
+        "id": "a0cecc1b-fba4-43d2-b7a3-1ffe1496dd10",
+        "text": "Reed and Hayes"
+      }
+    ],
+    "correct_answer_id": "5364338f-a66c-4f79-b4bd-dea697d97c45",
+    "photo_url": null,
+    "text": "Who flys a stolen Xindi shuttle to Azati Prime to scan the superweapon?"
+  },
+  "aae78f82-4bf8-40f9-abc8-72932ec49ab4": {
+    "answers": [
+      {
+        "id": "965e8ae1-55bc-4ff8-97fc-49f7764570b8",
+        "text": "5,000 kellicams"
+      },
+      {
+        "id": "7095fd8f-a37b-4da1-9e36-7534229bdf02",
+        "text": "120,000 miles"
+      },
+      {
+        "id": "1067227b-1bd9-4095-823b-ad64d3eda060",
+        "text": "40,000 kilometers"
+      },
+      {
+        "id": "87f60138-f522-4247-b7c6-60dc0127cd02",
+        "text": "82 astronomical units"
+      }
+    ],
+    "correct_answer_id": "1067227b-1bd9-4095-823b-ad64d3eda060",
+    "photo_url": null,
+    "text": "What is maximum range of the Enterprise's transporter?"
+  },
+  "ab6e9b3a-9e8b-4fd2-9ab0-a97c12ba1bfc": {
+    "answers": [
+      {
+        "id": "63ad0dff-299e-43c0-b357-e4d73ae6733a",
+        "text": "Surak"
+      },
+      {
+        "id": "9a2dd506-7367-402a-983e-330817b07a2d",
+        "text": "Vanik"
+      },
+      {
+        "id": "cd584976-d8c6-46a1-a22e-c8b3e152e186",
+        "text": "V'Las"
+      },
+      {
+        "id": "f5a8d979-4191-40cf-bcf3-c0ac0ad37c72",
+        "text": "T'Pring"
+      }
+    ],
+    "correct_answer_id": "cd584976-d8c6-46a1-a22e-c8b3e152e186",
+    "photo_url": null,
+    "text": "Who was the Administrator of the Vulcan High Command until his political downfall?"
+  },
+  "abe00c1e-779e-4c26-b651-0a1671a8b9e8": {
+    "answers": [
+      {
+        "id": "b0088743-c497-47bb-ab0d-5ab7cc9d0fda",
+        "text": "Duras"
+      },
+      {
+        "id": "dc24f009-d948-4228-b3cd-7b83a76dd19e",
+        "text": "Degra"
+      },
+      {
+        "id": "4bec309b-6405-4e7c-958b-46ee6a214d78",
+        "text": "Danik"
+      },
+      {
+        "id": "2c33c8cd-a902-42dd-b8b0-fcd87e56b466",
+        "text": "Draylan"
+      }
+    ],
+    "correct_answer_id": "b0088743-c497-47bb-ab0d-5ab7cc9d0fda",
+    "photo_url": null,
+    "text": "Who attacked the Enterprise as it entered the Delphic Expanse?"
+  },
+  "abe51df9-cfe2-45f2-8ca6-9e933182b5b4": {
+    "answers": [
+      {
+        "id": "30e833dc-dab3-46e0-a47d-c7aae62f1f28",
+        "text": "Sheriff MacReady"
+      },
+      {
+        "id": "6dff836d-d839-4f09-97e2-145a2811519a",
+        "text": "Sheriff Bennings"
+      },
+      {
+        "id": "902bfca2-3416-4b26-9ab1-529a2c466250",
+        "text": "Sheriff Strickland"
+      },
+      {
+        "id": "d0143ab9-4f04-4750-8474-ec2e13880551",
+        "text": "Sheriff Woody"
+      }
+    ],
+    "correct_answer_id": "30e833dc-dab3-46e0-a47d-c7aae62f1f28",
+    "photo_url": null,
+    "text": "Who was the human sheriff on the Skagaran planet?"
+  },
+  "acc87c1c-6043-40a3-8557-902f93c6338f": {
+    "answers": [
+      {
+        "id": "10dfe875-d635-4f09-bbe7-c587c75260b5",
+        "text": "Commander Shran"
+      },
+      {
+        "id": "ef59933f-04cc-44d5-99e7-5f9484d2ccfc",
+        "text": "Travis Mayweather"
+      },
+      {
+        "id": "1280b584-4a40-45ac-b54b-16d50be30700",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "467cc1d4-b668-438d-9455-58a39a5e2d10",
+        "text": "Captain Archer"
+      }
+    ],
+    "correct_answer_id": "10dfe875-d635-4f09-bbe7-c587c75260b5",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/ea/6e/37/ea6e37e421d54cd23212f35dbee2ced7b8ac613e/content?h=360&q=95&w=360",
+    "text": "Whose was NOT shot by Trip Tucker in the episode \"Bound\"?"
+  },
+  "accb78ad-28d1-4815-88b5-14f84e6086e5": {
+    "answers": [
+      {
+        "id": "fe5ddffb-4e13-4898-940e-7cc3fc6b39f3",
+        "text": "Three"
+      },
+      {
+        "id": "c27721a7-90a1-45e4-ac35-b6529b179f05",
+        "text": "One"
+      },
+      {
+        "id": "4c4ccf6a-42f7-4f8e-818b-e46127e107f1",
+        "text": "None"
+      },
+      {
+        "id": "f50155ff-a999-4167-a6f5-7c9e4ab77389",
+        "text": "Nine"
+      }
+    ],
+    "correct_answer_id": "fe5ddffb-4e13-4898-940e-7cc3fc6b39f3",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/76/f7/99/76f79976aac4b387f976329e72c0accd8ca5fb64/content?h=360&q=95&w=360",
+    "text": "How many wives does Dr. Phlox have?"
+  },
+  "aebb9eb5-f2c3-4335-9ab2-cad8dd9d5100": {
+    "answers": [
+      {
+        "id": "e88c0702-d0b7-406e-acd6-bb815fb476b9",
+        "text": "Nadet"
+      },
+      {
+        "id": "b4b3d877-84bf-417a-8375-92255c4dd2c9",
+        "text": "Garos"
+      },
+      {
+        "id": "3059e7e0-69c3-411e-a6f0-25a130fdb056",
+        "text": "Ezral"
+      },
+      {
+        "id": "f1cc6f6a-d908-4d87-8e7f-988f3b5724e4",
+        "text": "Loomis"
+      }
+    ],
+    "correct_answer_id": "3059e7e0-69c3-411e-a6f0-25a130fdb056",
+    "photo_url": null,
+    "text": "Who created holographic versions of his crewmembers to keep his daughter company after his vessel was disabled?"
+  },
+  "aec7c66b-aae5-4d01-8a02-71307604c5d5": {
+    "answers": [
+      {
+        "id": "02487ae0-e163-4a92-b87e-124c07368a06",
+        "text": "Romulan"
+      },
+      {
+        "id": "9fea6fbb-ecce-44b3-b4a3-8fc831ee6d7f",
+        "text": "Tellarite"
+      },
+      {
+        "id": "29c929e6-1cae-4494-ba3d-162cccf16394",
+        "text": "Human"
+      },
+      {
+        "id": "5c358f86-ab3b-4e05-9192-d62cf8f491cf",
+        "text": "Rigelian"
+      }
+    ],
+    "correct_answer_id": "02487ae0-e163-4a92-b87e-124c07368a06",
+    "photo_url": null,
+    "text": "Admiral Valdore is a member of what species?"
+  },
+  "b1ba310a-d819-4d58-b42a-49c27df4b2a2": {
+    "answers": [
+      {
+        "id": "f98d558a-1b79-42b0-be1f-7eacf8b46dda",
+        "text": "Belar"
+      },
+      {
+        "id": "135a25fe-7cfe-401c-9d9d-e65dc92ae309",
+        "text": "Joe-Anna"
+      },
+      {
+        "id": "8246d1e1-c314-4d13-add8-b08b585c9e18",
+        "text": "Trip"
+      },
+      {
+        "id": "b1e395f1-24a4-4e70-823a-2d4cd927b9aa",
+        "text": "Adin"
+      }
+    ],
+    "correct_answer_id": "8246d1e1-c314-4d13-add8-b08b585c9e18",
+    "photo_url": null,
+    "text": "What did the Cogenitor choose for a name?"
+  },
+  "b2098965-4fab-4820-9831-dae4bebd79a3": {
+    "answers": [
+      {
+        "id": "34dbf2fc-1895-489a-bf91-bf7db5a82d57",
+        "text": "Vulcan"
+      },
+      {
+        "id": "4ff4b877-db65-4036-a286-c027f03202ef",
+        "text": "Romulan"
+      },
+      {
+        "id": "faa23eb0-13f2-4009-a3b4-4b423be5f2e7",
+        "text": "Klingon"
+      },
+      {
+        "id": "492a109b-3b06-43ab-9aa5-479ed11be3a1",
+        "text": "Andorian"
+      }
+    ],
+    "correct_answer_id": "faa23eb0-13f2-4009-a3b4-4b423be5f2e7",
+    "photo_url": null,
+    "text": "Which species made the Raptor-class scout ship?"
+  },
+  "b231ac6a-c363-44d7-aba0-a69e09c0cdd2": {
+    "answers": [
+      {
+        "id": "08845b76-ed6b-41e5-8571-033c54ad1a48",
+        "text": "Vulcan Forge"
+      },
+      {
+        "id": "22e486a1-9eb0-4386-acea-b3198c2e3246",
+        "text": "P'Jem"
+      },
+      {
+        "id": "5da21cf1-9788-41e2-be04-70ab7a5a12c6",
+        "text": "Earth's Moon"
+      },
+      {
+        "id": "38bfd615-48d7-4643-ab1e-873bbe01fb17",
+        "text": "Risa"
+      }
+    ],
+    "correct_answer_id": "22e486a1-9eb0-4386-acea-b3198c2e3246",
+    "photo_url": null,
+    "text": "Where could the Stone of J'Kah be seen?"
+  },
+  "b24aa9ea-7c82-426d-8c75-f61b44385d1c": {
+    "answers": [
+      {
+        "id": "b5a1d766-eb49-4012-8dc7-4aa4522c780c",
+        "text": "The Shuttle Deck"
+      },
+      {
+        "id": "2cbbcae4-3c4f-49cf-9d82-8dcf4cb862cf",
+        "text": "Cargo Bay Two"
+      },
+      {
+        "id": "1bc07ebc-0e60-4b71-a77f-d465e3166df9",
+        "text": "The Bridge"
+      },
+      {
+        "id": "3f062fd0-68f3-4035-a001-2413d833204b",
+        "text": "The Armory"
+      }
+    ],
+    "correct_answer_id": "2cbbcae4-3c4f-49cf-9d82-8dcf4cb862cf",
+    "photo_url": null,
+    "text": "The effects of the Expanse were first noticed in what part of the Enterprise?"
+  },
+  "b38c156a-e229-427d-b774-653b20a61241": {
+    "answers": [
+      {
+        "id": "9a492627-0af7-47c4-ba42-0e8388012543",
+        "text": "Maxwell Forrest"
+      },
+      {
+        "id": "61b770ce-647a-4a4b-a24b-855d6d077f68",
+        "text": "Forest Whitaker"
+      },
+      {
+        "id": "a7ef49c2-72b3-4254-865f-531ea2c6b739",
+        "text": "DeForest Kelley\n"
+      },
+      {
+        "id": "acd29533-01ff-48a2-9965-9460940bd01b",
+        "text": "Maxwell Hammer"
+      }
+    ],
+    "correct_answer_id": "9a492627-0af7-47c4-ba42-0e8388012543",
+    "photo_url": null,
+    "text": "What admiral did Captain Archer report to?"
+  },
+  "b45f0883-cbcc-4783-b355-f18f2b245b10": {
+    "answers": [
+      {
+        "id": "ab4c24f7-daa0-49b8-82c6-2f36cdf08af9",
+        "text": "Imperial Guard"
+      },
+      {
+        "id": "d1926101-01fa-45aa-a539-52cbbfb7c705",
+        "text": "MACO"
+      },
+      {
+        "id": "815adffe-c570-46ee-986d-ee1e72d90123",
+        "text": "Justice League"
+      },
+      {
+        "id": "31155967-a621-4043-927f-3dd2ec178a61",
+        "text": "Section 31"
+      }
+    ],
+    "correct_answer_id": "d1926101-01fa-45aa-a539-52cbbfb7c705",
+    "photo_url": null,
+    "text": "What was the name of the military unit assigned to the Enterprise?"
+  },
+  "b55eeeb1-f179-4c53-b413-e8c32ab3721e": {
+    "answers": [
+      {
+        "id": "960174da-c229-4b10-914a-1c628eb9e8d4",
+        "text": "65"
+      },
+      {
+        "id": "9c51e9f7-5000-4789-ba55-d51e901b2e03",
+        "text": "27"
+      },
+      {
+        "id": "ffbc4a85-d757-4e30-bef4-d3e2b07ea27d",
+        "text": "74"
+      },
+      {
+        "id": "20ed67c9-a502-4d93-a2a9-ca889a81dcab",
+        "text": "32"
+      }
+    ],
+    "correct_answer_id": "960174da-c229-4b10-914a-1c628eb9e8d4",
+    "photo_url": null,
+    "text": "What age did T'Pol admit to being?"
+  },
+  "b5d04b9a-587f-482b-b24e-338f84cf37d7": {
+    "answers": [
+      {
+        "id": "09d28ad5-17c8-4b5b-bf2a-97dd089ee86d",
+        "text": "23 miles"
+      },
+      {
+        "id": "88800a6e-e38d-4c49-872c-24ccb4dd3cf5",
+        "text": "84 kilometers"
+      },
+      {
+        "id": "0c2a2f44-00d7-4bec-b963-ac58e36da9fa",
+        "text": "12,500 feet"
+      },
+      {
+        "id": "d5a31d8a-1a24-439d-8a80-65d6d170d136",
+        "text": "19 kilometers"
+      }
+    ],
+    "correct_answer_id": "d5a31d8a-1a24-439d-8a80-65d6d170d136",
+    "photo_url": null,
+    "text": "What is the diameter of a sphere found in the Expanse?"
+  },
+  "b6fc1232-2566-4cba-a217-b18b06961ae8": {
+    "answers": [
+      {
+        "id": "5b6852ce-b08f-4389-adac-096cd6566267",
+        "text": "Season Two"
+      },
+      {
+        "id": "420104a5-e468-49ed-a916-f69405d9204f",
+        "text": "Season Four"
+      },
+      {
+        "id": "434477e7-abf2-4c39-8662-9c815f56f4e2",
+        "text": "Season Three"
+      },
+      {
+        "id": "7ab2d97b-2606-4668-97b1-5eb32b29cfd5",
+        "text": "Season Five"
+      }
+    ],
+    "correct_answer_id": "434477e7-abf2-4c39-8662-9c815f56f4e2",
+    "photo_url": null,
+    "text": "In which season does the series name and opening sequence change from \"Enterprise\" to \"Star Trek: Enterprise\"?"
+  },
+  "b79ad702-e939-4131-8676-5933e4409a93": {
+    "answers": [
+      {
+        "id": "92f2102e-ee0f-4a05-8024-97346c3e15ee",
+        "text": "Griphook"
+      },
+      {
+        "id": "68f882af-5808-4bd3-94b9-03f901b86e71",
+        "text": "Grappler"
+      },
+      {
+        "id": "857c3615-fdf8-4930-adf0-4e0f0a2b47b9",
+        "text": "MegaMagnet"
+      },
+      {
+        "id": "4ea5eb2a-48c3-470c-8f23-412b75e1d8a8",
+        "text": "UltraWire"
+      }
+    ],
+    "correct_answer_id": "68f882af-5808-4bd3-94b9-03f901b86e71",
+    "photo_url": null,
+    "text": "The Enterprise used what device instead of a tractor beam?"
+  },
+  "b83c1e36-ca8a-464b-9aea-109d2fc0e891": {
+    "answers": [
+      {
+        "id": "b46d4976-a253-4850-a0b6-9656ff13892a",
+        "text": "Canamar"
+      },
+      {
+        "id": "621a0e82-824f-4761-8679-405813c178a0",
+        "text": "Seleya"
+      },
+      {
+        "id": "e1f94abf-16ce-4fd4-9fd6-32f07c1e6b05",
+        "text": "J'Pem"
+      },
+      {
+        "id": "d61bd880-62ac-4b18-8579-748200606020",
+        "text": "P'Jem"
+      }
+    ],
+    "correct_answer_id": "d61bd880-62ac-4b18-8579-748200606020",
+    "photo_url": null,
+    "text": "What is the name of the Vulcan sanctuary destroyed by the Andorians?"
+  },
+  "b9f621fb-8502-4298-8276-3c6e85559490": {
+    "answers": [
+      {
+        "id": "cde3fbc5-71e5-4999-accb-255983eef17f",
+        "text": "Daniels"
+      },
+      {
+        "id": "d8561fe3-34f5-4505-9052-1c975f600ece",
+        "text": "The Traveler"
+      },
+      {
+        "id": "21cd8874-0f7f-477d-9359-8558099878d1",
+        "text": "The Doctor"
+      },
+      {
+        "id": "762e3025-2448-43dc-ab17-021542882426",
+        "text": "Captain Mattox"
+      }
+    ],
+    "correct_answer_id": "cde3fbc5-71e5-4999-accb-255983eef17f",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/21/6c/f0/216cf01940dfe480dfe7bf50caf5ccaf2ee796dd/content?h=360&q=95&w=360",
+    "text": "What time traveler helped the Enterprise on several occasions?"
+  },
+  "ba74bf97-ce9a-4d3c-b930-5aa43b8339a2": {
+    "answers": [
+      {
+        "id": "025675c6-0d04-423a-96d0-117489348bb1",
+        "text": "Holosuite"
+      },
+      {
+        "id": "c3c3f0d6-e3b6-41b4-af9d-0a80dc7e9f99",
+        "text": "Phaser bank"
+      },
+      {
+        "id": "c4f58130-0f04-426b-98b2-e2c03995fd47",
+        "text": "Transporter"
+      },
+      {
+        "id": "5c4ff926-740e-46fb-b536-db069eb68c1a",
+        "text": "Warp Reactor"
+      }
+    ],
+    "correct_answer_id": "5c4ff926-740e-46fb-b536-db069eb68c1a",
+    "photo_url": null,
+    "text": "The Gravimetric Field Displacement Manifold is commonly known as the..."
+  },
+  "bcf3339f-8b61-4025-89c5-f6118d9ac442": {
+    "answers": [
+      {
+        "id": "99de2e9b-de45-435e-a8bd-53b9918cb2b2",
+        "text": "Six"
+      },
+      {
+        "id": "d6296c13-996c-4b6e-a9cf-9882a89bb2ea",
+        "text": "Five"
+      },
+      {
+        "id": "84af7a68-1d7a-4aab-8cbc-00b910d0f028",
+        "text": "Three"
+      },
+      {
+        "id": "f97ca0b4-58eb-4405-8d0d-c6ff52d6635c",
+        "text": "Four"
+      }
+    ],
+    "correct_answer_id": "f97ca0b4-58eb-4405-8d0d-c6ff52d6635c",
+    "photo_url": null,
+    "text": "How many seasons did Enterprise run?"
+  },
+  "bd8ba3fb-965f-4bf3-9272-cb5c1400fc71": {
+    "answers": [
+      {
+        "id": "0d471ec5-015e-4134-94bb-83bd69bc2ce1",
+        "text": "Phlox"
+      },
+      {
+        "id": "41ab67b1-bfa9-4617-9f9f-fb97a52521ca",
+        "text": "Sato"
+      },
+      {
+        "id": "76be4259-da95-44e2-a58e-fd17ccea21b2",
+        "text": "Mayweather"
+      },
+      {
+        "id": "929e5f54-1789-4f15-acd6-dc49899e4f6a",
+        "text": "Reed"
+      }
+    ],
+    "correct_answer_id": "76be4259-da95-44e2-a58e-fd17ccea21b2",
+    "photo_url": null,
+    "text": "Which crew member had been to Trillius Prime before joining Enterprise?"
+  },
+  "c04c783b-b388-429a-915f-1963d1e677be": {
+    "answers": [
+      {
+        "id": "8991a89e-8a63-4bb1-b8a7-30e85961ab81",
+        "text": "T'Pol"
+      },
+      {
+        "id": "c6ae58c5-af29-4340-92ba-704de4fae098",
+        "text": "Jonathan Archer"
+      },
+      {
+        "id": "cbf32f17-2f28-4684-9bd0-31f888ed3198",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "f8d45060-1c1e-4d90-99a2-2a3e26f374d2",
+        "text": "Hoshi Sato"
+      }
+    ],
+    "correct_answer_id": "f8d45060-1c1e-4d90-99a2-2a3e26f374d2",
+    "photo_url": null,
+    "text": "Who becomes ruler of the Terran Empire in the Mirror Universe?"
+  },
+  "c15806e6-b28d-4aca-9e59-e4feb1e54d0e": {
+    "answers": [
+      {
+        "id": "54a188f4-d366-484f-8aa5-cd6b84bbb502",
+        "text": "Pathogen"
+      },
+      {
+        "id": "9e0dc478-545e-4aa1-9da6-ab83f286e5f8",
+        "text": "Bomb"
+      },
+      {
+        "id": "894d85b9-35fe-4df4-af41-482a88c57fc5",
+        "text": "Phaser"
+      },
+      {
+        "id": "59672d92-cb9b-4e54-857e-61c8418babe5",
+        "text": "Knife"
+      }
+    ],
+    "correct_answer_id": "59672d92-cb9b-4e54-857e-61c8418babe5",
+    "photo_url": null,
+    "text": "What kills the Augment named Persis?"
+  },
+  "c49f4801-781a-436f-ad0c-7b9b12cbd749": {
+    "answers": [
+      {
+        "id": "75f2e1a6-4a8d-4030-80ed-f33b313173b2",
+        "text": "It's never said"
+      },
+      {
+        "id": "f7ed3f40-818e-4880-8004-836568285818",
+        "text": "Cutler"
+      },
+      {
+        "id": "87648441-bd93-4bbc-9c76-880402d84434",
+        "text": "Massaro"
+      },
+      {
+        "id": "83abc6ef-b9da-4c90-a217-db0f89558c83",
+        "text": "Daniels"
+      }
+    ],
+    "correct_answer_id": "75f2e1a6-4a8d-4030-80ed-f33b313173b2",
+    "photo_url": null,
+    "text": "What is the name of the chef on the Enterprise?"
+  },
+  "c64fe4db-5797-47e1-a84b-ed4e9a233379": {
+    "answers": [
+      {
+        "id": "d27d48c4-58ca-4934-821e-4377cd1d0562",
+        "text": "599"
+      },
+      {
+        "id": "bf30b1ec-ae00-4e8d-8688-c6ee25bdeab0",
+        "text": "206"
+      },
+      {
+        "id": "d034e97f-37ea-4a6f-8e62-e35cd770c2c9",
+        "text": "1701"
+      },
+      {
+        "id": "3c5df365-8e38-4692-ab1f-c56321599066",
+        "text": "89"
+      }
+    ],
+    "correct_answer_id": "3c5df365-8e38-4692-ab1f-c56321599066",
+    "photo_url": null,
+    "text": "How many Suliban were in the detention camp?"
+  },
+  "c65b75d8-ac1d-4843-a8f6-7d4b90a01902": {
+    "answers": [
+      {
+        "id": "faa21c26-2a3e-4286-aed2-8bbf4e691a1c",
+        "text": "T'Pol"
+      },
+      {
+        "id": "2f0ba0d7-a193-43be-b43d-d6f3d4cc5174",
+        "text": "Lieutenant Reed"
+      },
+      {
+        "id": "14e2760f-01ed-43d7-8c3a-f6a9dfb80e75",
+        "text": "Captain Archer"
+      },
+      {
+        "id": "aa105f5b-925e-4beb-97f8-9c14318883da",
+        "text": "Ensign Sato"
+      }
+    ],
+    "correct_answer_id": "faa21c26-2a3e-4286-aed2-8bbf4e691a1c",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/5e/6c/7a/5e6c7a6c6ea8eabac69b313d5ffde3fa2b5ee321/content?h=360&q=95&w=360",
+    "text": "Which crew member was NOT transformed into a different species by the Loque'eque virus?"
+  },
+  "c66c3649-4818-425e-82e2-76f72a784d27": {
+    "answers": [
+      {
+        "id": "bd27eef0-f0bf-4231-9fdf-c0bdd8abd5e2",
+        "text": "Corporal Chang"
+      },
+      {
+        "id": "0d058762-edc9-4f17-9264-60d47631a046",
+        "text": "Major Hayes"
+      },
+      {
+        "id": "c38a1856-54cf-4cf7-bf4d-a737ed8c68f3",
+        "text": "Major Hawk"
+      },
+      {
+        "id": "d9cc9c36-d3c0-4755-a766-d7a1640ce4bb",
+        "text": "Corporal Hawkins"
+      }
+    ],
+    "correct_answer_id": "0d058762-edc9-4f17-9264-60d47631a046",
+    "photo_url": null,
+    "text": "Who commanded the MACO detachment assigned to the Delphic Expanse mission?"
+  },
+  "c76f0689-c182-49f4-8b8f-a5a17870762a": {
+    "answers": [
+      {
+        "id": "28cd02f2-0179-4e5f-a63e-381ada10f77c",
+        "text": "German Stuka"
+      },
+      {
+        "id": "b5a28bd9-b4e5-474e-95ae-6cfb924d176d",
+        "text": "Soviet Yak-3"
+      },
+      {
+        "id": "bd002cbd-1963-41be-a91e-affd661ace71",
+        "text": "Japanese Zero"
+      },
+      {
+        "id": "14a2593c-4139-4228-8cd8-75575a35d2fc",
+        "text": "North American P-51 Mustang"
+      }
+    ],
+    "correct_answer_id": "14a2593c-4139-4228-8cd8-75575a35d2fc",
+    "photo_url": null,
+    "text": "What type of airplane attacked the shuttlepod when it went back in time to Earth in 1944?"
+  },
+  "c798dcab-60bf-4a39-b1e7-22c33fd16cfe": {
+    "answers": [
+      {
+        "id": "8c4fffa6-4a91-46fc-90bd-481916710609",
+        "text": "NCC-1700"
+      },
+      {
+        "id": "70c92301-1b90-41c2-aa07-a8db721da2d1",
+        "text": "NX-1"
+      },
+      {
+        "id": "2ec5f053-b3ef-469e-b204-bec6688356ad",
+        "text": "NCC-01"
+      },
+      {
+        "id": "236f722a-b2a9-4fbc-a979-00f0cae2c45a",
+        "text": "NX-01"
+      }
+    ],
+    "correct_answer_id": "236f722a-b2a9-4fbc-a979-00f0cae2c45a",
+    "photo_url": null,
+    "text": "What is the Enterprise's registry number?"
+  },
+  "caa23029-b02c-4054-8dc0-a0dc2560054d": {
+    "answers": [
+      {
+        "id": "4aa393a0-8bb6-4157-acbc-3a47c3e57992",
+        "text": "Sarin"
+      },
+      {
+        "id": "d09c1f26-10a9-4e29-9f79-0fd52108b2be",
+        "text": "Krem"
+      },
+      {
+        "id": "f22723a8-35c1-42fc-a097-0e55856a30d0",
+        "text": "D'Jamat"
+      },
+      {
+        "id": "cfc57922-ce4e-4d85-8e44-69fa64151cff",
+        "text": "Haadok"
+      }
+    ],
+    "correct_answer_id": "f22723a8-35c1-42fc-a097-0e55856a30d0",
+    "photo_url": null,
+    "text": "Who was the leader of the deeply religious people that used suicide bombs to commandeer the Enterprise?"
+  },
+  "cac2fa96-e939-4a92-9b5d-8c4125f195df": {
+    "answers": [
+      {
+        "id": "d66015d7-3199-4472-b967-6fde1304bdae",
+        "text": "Green"
+      },
+      {
+        "id": "d7b37950-6dbe-472d-b4e6-0bb90ad8995f",
+        "text": "Gold"
+      },
+      {
+        "id": "955e7a20-4e9f-4cc3-a2ef-6e1206205c9c",
+        "text": "Red"
+      },
+      {
+        "id": "157c5bc6-d2be-47be-97e4-6f5d1063f717",
+        "text": "Blue"
+      }
+    ],
+    "correct_answer_id": "157c5bc6-d2be-47be-97e4-6f5d1063f717",
+    "photo_url": null,
+    "text": "What color are the energy beams from Andorian ships' weapons?"
+  },
+  "cc120b51-49b1-4667-a702-93837ac64440": {
+    "answers": [
+      {
+        "id": "5bb26a44-23ab-48f7-a26c-6161fe5e828e",
+        "text": "Klingon"
+      },
+      {
+        "id": "443f2f14-42c6-469b-ab5a-81b6b5462413",
+        "text": "Vulcan"
+      },
+      {
+        "id": "d1eadf7a-b141-4de4-bb0e-525bc2787199",
+        "text": "Malurian"
+      },
+      {
+        "id": "19d7739c-79ae-4caa-95e1-320d46745218",
+        "text": "Xindi"
+      }
+    ],
+    "correct_answer_id": "d1eadf7a-b141-4de4-bb0e-525bc2787199",
+    "photo_url": null,
+    "text": "Members of which species were poisoning an Akaali city?"
+  },
+  "cd4a0682-aae5-44fd-b349-3732d4f272d9": {
+    "answers": [
+      {
+        "id": "42e322fe-8c1d-41f9-9112-e6e3bfc579c4",
+        "text": "Radiation poisoning"
+      },
+      {
+        "id": "f54fdb24-2641-47bb-8ce8-27d27a43e846",
+        "text": "Stabbed by knife"
+      },
+      {
+        "id": "754ef775-136b-4462-bad5-9c0bf3fed76b",
+        "text": "Natural causes"
+      },
+      {
+        "id": "2158520e-06ba-4a78-ac01-58bd8087debf",
+        "text": "Shot by phaser"
+      }
+    ],
+    "correct_answer_id": "f54fdb24-2641-47bb-8ce8-27d27a43e846",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/36/e6/8b/36e68b6f486afc30b2402d540dcb120b13995ccf/content?h=360&q=95&w=360",
+    "text": "How does Degra die?"
+  },
+  "ceff5ebf-5edc-4f3f-933a-4e1f56a6bc27": {
+    "answers": [
+      {
+        "id": "a33da30f-f444-423c-9184-9be54437c1f8",
+        "text": "Klingon"
+      },
+      {
+        "id": "f6925e3a-7f38-4184-bf06-7ae5fb777762",
+        "text": "Tellorite"
+      },
+      {
+        "id": "7c08c5f2-dc92-4c01-a069-dca770b90d10",
+        "text": "Andorian"
+      },
+      {
+        "id": "a4391e56-dac8-4b56-8c38-74cd0d92bbb0",
+        "text": "Romulan"
+      }
+    ],
+    "correct_answer_id": "a33da30f-f444-423c-9184-9be54437c1f8",
+    "photo_url": null,
+    "text": "The Somraw is a scout ship of what species?"
+  },
+  "cf07bd7b-ee70-42d8-afdb-138d7384e2b9": {
+    "answers": [
+      {
+        "id": "6926686f-09cf-489c-8d0c-d98210cb6ed4",
+        "text": "Terra Prime"
+      },
+      {
+        "id": "789aefea-6733-46cf-8a4e-32973881fc56",
+        "text": "Vox Sola"
+      },
+      {
+        "id": "4cb19ccd-7ab2-4c00-bf76-a92bdb78b428",
+        "text": "Terra Nova"
+      },
+      {
+        "id": "bb691666-2bef-4a67-b6ef-729ccfe59f55",
+        "text": "Delta Vega"
+      }
+    ],
+    "correct_answer_id": "4cb19ccd-7ab2-4c00-bf76-a92bdb78b428",
+    "photo_url": null,
+    "text": "What was the first human colony outside the solar system called?"
+  },
+  "cf6e00a0-885d-45e3-a855-429ca17bed6f": {
+    "answers": [
+      {
+        "id": "6ab3f63f-295b-41ea-a07d-3a62aed737fd",
+        "text": "Dr. Phlox"
+      },
+      {
+        "id": "81639888-ee50-423f-8250-66112189ae27",
+        "text": "Malcolm Reed"
+      },
+      {
+        "id": "771c7724-3745-4e9b-9d97-4c9e5ef47304",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "43551cac-4b78-4d57-a11e-d028456c6161",
+        "text": "Travis Mayweather"
+      }
+    ],
+    "correct_answer_id": "43551cac-4b78-4d57-a11e-d028456c6161",
+    "photo_url": null,
+    "text": "Which crew member is injured while evacuating Denobulan geologists from underground caverns?"
+  },
+  "d1a91b25-20f4-4e85-bbe6-625e927ab529": {
+    "answers": [
+      {
+        "id": "52fc5d3b-3eeb-40f3-bb56-60961c9a1a0a",
+        "text": "Crewman Kelly"
+      },
+      {
+        "id": "0fe2a27e-aeaf-460c-b503-8b3859b73c09",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "f3484dc1-301e-49da-80bc-abec1be68d8c",
+        "text": "Crewman Rostov"
+      },
+      {
+        "id": "05c3eb48-41ef-4c35-be36-1472f722c22f",
+        "text": "Jonathan Archer"
+      }
+    ],
+    "correct_answer_id": "f3484dc1-301e-49da-80bc-abec1be68d8c",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/76/29/b6/7629b6cbba597a08ae443fc7de2b9852b1db57c6/content?h=360&q=95&w=360",
+    "text": "Who was the first crewman captured by the Vox Sola?"
+  },
+  "d26a6eaa-22e2-4431-a90d-44a38b3fd57c": {
+    "answers": [
+      {
+        "id": "160ab96b-63d8-4898-b308-329a52ca5787",
+        "text": "Pok Tar"
+      },
+      {
+        "id": "0005f134-434f-45b3-b82b-e22479d3fc41",
+        "text": "Green-blooded hobgoblins"
+      },
+      {
+        "id": "9934f846-4e37-4388-a79e-6b2ed5b1a6b1",
+        "text": "Hajjlaran"
+      },
+      {
+        "id": "1863a3eb-8b2b-41e7-b3cf-c21b241cbbca",
+        "text": "V'tosh ka'tur"
+      }
+    ],
+    "correct_answer_id": "1863a3eb-8b2b-41e7-b3cf-c21b241cbbca",
+    "photo_url": null,
+    "text": "Vulcans without logic are known as what?"
+  },
+  "d2a64c45-f438-4fb1-9655-86ce46e1903e": {
+    "answers": [
+      {
+        "id": "f1a63263-a976-420f-ba3e-4a71a6fae7fb",
+        "text": "His arm vanishes"
+      },
+      {
+        "id": "fbe43cda-5f97-486c-b0e9-91fa0a22b5ba",
+        "text": "He becomes telepathic"
+      },
+      {
+        "id": "673b5fc6-b905-4c08-93bc-efb3eda391d4",
+        "text": "He sees into the future"
+      },
+      {
+        "id": "b74b4ce3-e48b-486e-9fb9-4429b36c496c",
+        "text": "His strength triples"
+      }
+    ],
+    "correct_answer_id": "f1a63263-a976-420f-ba3e-4a71a6fae7fb",
+    "photo_url": null,
+    "text": "What happens to Trip after receiving high doses of radiation from a Suliban cell-ship?"
+  },
+  "d60381e9-8b64-4250-a6a9-0bea076ee526": {
+    "answers": [
+      {
+        "id": "20cdf358-2ec0-42b6-8cce-932891cfbdb5",
+        "text": "Tellarite"
+      },
+      {
+        "id": "a03e8f16-b731-4754-834b-4f49099f57ae",
+        "text": "Vulcan"
+      },
+      {
+        "id": "b67f678a-5096-4230-9d14-69359b73a0ef",
+        "text": "Orion"
+      },
+      {
+        "id": "05d45ad4-6f1a-433c-b72f-dd5a49350ddb",
+        "text": "Andorian"
+      }
+    ],
+    "correct_answer_id": "a03e8f16-b731-4754-834b-4f49099f57ae",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/a2/f8/e0/a2f8e0baa9cf1c1b2ceb201127f19a77b95e0147/content?h=360&q=95&w=360",
+    "text": "Which species would use this type of ship?"
+  },
+  "d6b0b738-9da1-438a-aee5-cb7f48492c26": {
+    "answers": [
+      {
+        "id": "18966fd0-ddf7-4919-b653-f434b5687b0b",
+        "text": "Texas"
+      },
+      {
+        "id": "bfe12526-b437-4bb9-87f6-13f6666ff927",
+        "text": "Florida"
+      },
+      {
+        "id": "9619da0d-d262-4cfa-b7e0-a670c1780db9",
+        "text": "Iowa"
+      },
+      {
+        "id": "a0977a75-1ce4-4e37-9221-15c8fbb66b06",
+        "text": "California"
+      }
+    ],
+    "correct_answer_id": "bfe12526-b437-4bb9-87f6-13f6666ff927",
+    "photo_url": null,
+    "text": "The Xindi prototype weapon cuts a trench through which U.S. state?"
+  },
+  "daed0b0c-c7b8-4757-9d81-abfa35465e89": {
+    "answers": [
+      {
+        "id": "82c0811d-bac6-425e-b9de-c345fdcca0fd",
+        "text": "Fortunate"
+      },
+      {
+        "id": "750d59f3-5f58-4a05-9f80-8736bc6cab21",
+        "text": "Horizon"
+      },
+      {
+        "id": "ef49731d-9ad0-429e-b5c8-8e11b1aaef9e",
+        "text": "North Star"
+      },
+      {
+        "id": "bcabe120-5788-43ab-80d9-482cc1a35cca",
+        "text": "Archon"
+      }
+    ],
+    "correct_answer_id": "750d59f3-5f58-4a05-9f80-8736bc6cab21",
+    "photo_url": null,
+    "text": "What was the name of the ship Travis Mayweather was raised on?"
+  },
+  "db7491fb-a24c-454d-be2b-56aa4e289ff7": {
+    "answers": [
+      {
+        "id": "2a97477f-07e2-4735-885d-d7d0aeb75a34",
+        "text": "Archer"
+      },
+      {
+        "id": "738072cb-1b42-4a0f-9af2-19a5c8066cdc",
+        "text": "Mayweather"
+      },
+      {
+        "id": "6e8bcb96-7b04-4482-afa4-e1b63ea30209",
+        "text": "Tucker"
+      },
+      {
+        "id": "3a07be33-a343-48af-a422-50fb09f10053",
+        "text": "Reed"
+      }
+    ],
+    "correct_answer_id": "6e8bcb96-7b04-4482-afa4-e1b63ea30209",
+    "photo_url": null,
+    "text": "Who does Dr. Phlox make a clone of?"
+  },
+  "dcb303df-c441-4eb1-bb7a-c76eda199364": {
+    "answers": [
+      {
+        "id": "12db0d38-9a78-4e87-a34f-3b9b754d95a4",
+        "text": "Maximilian Forrest"
+      },
+      {
+        "id": "0e751be2-7301-4d36-8530-bca173c3e722",
+        "text": "Ambassador Soval"
+      },
+      {
+        "id": "9fb31a65-2662-4c11-a1d0-264a89f8fe27",
+        "text": "Admiral Black"
+      },
+      {
+        "id": "8f131a48-6708-4e0f-916e-5c6454e0db73",
+        "text": "Jonathan Archer"
+      }
+    ],
+    "correct_answer_id": "12db0d38-9a78-4e87-a34f-3b9b754d95a4",
+    "photo_url": null,
+    "text": "Who was the captain of the I.S.S. Enterprise in the Mirror Universe?"
+  },
+  "dd5f1e43-571f-4453-b4cc-6084bc6e366e": {
+    "answers": [
+      {
+        "id": "6c2e8d0a-49dc-4d9c-9547-d2f6b06327cf",
+        "text": "J class"
+      },
+      {
+        "id": "00113843-da30-4d89-9a65-4222488a2d4f",
+        "text": "Y class"
+      },
+      {
+        "id": "3ed8fd3f-edef-452b-9ef1-608880b58a0c",
+        "text": "BLT class"
+      },
+      {
+        "id": "4f6551be-3b2e-46c3-9636-05466de50b79",
+        "text": "PBJ class"
+      }
+    ],
+    "correct_answer_id": "00113843-da30-4d89-9a65-4222488a2d4f",
+    "photo_url": null,
+    "text": "The freighter Fortunate was what class of vessel?"
+  },
+  "ddfb75f0-6572-4307-8cc1-3f6afba2ac17": {
+    "answers": [
+      {
+        "id": "41d74be8-9fe4-425b-88c5-cd93aadd5caa",
+        "text": "Pan fried catfish"
+      },
+      {
+        "id": "1911b3ae-f39c-494f-9721-c89daeb8a9f4",
+        "text": "Pepperoni pizza"
+      },
+      {
+        "id": "065dfbef-3a46-49ab-b2b1-3d36b1b4fc77",
+        "text": "Strawberry cheesecake"
+      },
+      {
+        "id": "606c3ac8-3b84-4906-9cbc-175ef66fa479",
+        "text": "Pecan pie"
+      }
+    ],
+    "correct_answer_id": "41d74be8-9fe4-425b-88c5-cd93aadd5caa",
+    "photo_url": null,
+    "text": "What is Tucker's favorite food?"
+  },
+  "de436634-6c88-4144-8c78-f92ae5284d99": {
+    "answers": [
+      {
+        "id": "2e7c0842-238e-4399-b945-342cd01e54d9",
+        "text": "82 astronomical units"
+      },
+      {
+        "id": "cd8487a4-f179-42ed-86ca-16ad0c536b5f",
+        "text": "70,000 kilometers"
+      },
+      {
+        "id": "fb4df391-0de6-4d09-aac9-9c6f4516bf59",
+        "text": "14 miles"
+      },
+      {
+        "id": "7a2fbbc4-a22b-49b5-8401-98a6666b0dd6",
+        "text": "5000 kellicams"
+      }
+    ],
+    "correct_answer_id": "cd8487a4-f179-42ed-86ca-16ad0c536b5f",
+    "photo_url": null,
+    "text": "How wide is a sphere's surrounding cloaking field?"
+  },
+  "df084813-9323-44f6-b616-0f4686b66ee0": {
+    "answers": [
+      {
+        "id": "319636e3-3e5c-44af-83d7-c46e408f839c",
+        "text": "Danube University"
+      },
+      {
+        "id": "24028d1e-5d66-40eb-a0db-f6e81ab6f247",
+        "text": "Amazon University"
+      },
+      {
+        "id": "0df7d07a-a6e2-4c8b-962a-0afbeb8c1107",
+        "text": "Mekong University"
+      },
+      {
+        "id": "28de4022-e78a-4f0b-ab7e-6ccef4ec5846",
+        "text": "Nile University"
+      }
+    ],
+    "correct_answer_id": "24028d1e-5d66-40eb-a0db-f6e81ab6f247",
+    "photo_url": null,
+    "text": "Before joining the crew of the Enterprise, where did Hoshi Sato teach exo-linguistics?"
+  },
+  "e02f9bae-1c2f-4dba-ba96-3ff0b739b233": {
+    "answers": [
+      {
+        "id": "170a7b2c-ed8b-4ce3-8121-eebbd648bebf",
+        "text": "Linda Larkin"
+      },
+      {
+        "id": "3ad8c099-41a3-4440-8299-2056bd52de02",
+        "text": "Lynda Carter"
+      },
+      {
+        "id": "d88207af-ec18-4de5-b3e7-d034042b2cd7",
+        "text": "Linda Ronstadt"
+      },
+      {
+        "id": "1fe0f69c-ff6a-4c23-a540-2dcaede0b6be",
+        "text": "Linda Park"
+      }
+    ],
+    "correct_answer_id": "1fe0f69c-ff6a-4c23-a540-2dcaede0b6be",
+    "photo_url": null,
+    "text": "What actress played Hoshi Sato?"
+  },
+  "e11d3661-11dc-4a76-9e23-394407fc5f36": {
+    "answers": [
+      {
+        "id": "c275f103-bf3e-4eb7-beeb-3bbe6858d28f",
+        "text": "Twelve"
+      },
+      {
+        "id": "d19025ab-25ed-45ae-90b6-688798906102",
+        "text": "Seven"
+      },
+      {
+        "id": "2b4c7e53-e353-40f0-8706-74e7cb4d6b73",
+        "text": "Three"
+      },
+      {
+        "id": "2ac2cea5-efae-4007-b64e-306052299141",
+        "text": "Four"
+      }
+    ],
+    "correct_answer_id": "2b4c7e53-e353-40f0-8706-74e7cb4d6b73",
+    "photo_url": null,
+    "text": "How many species serve on board the Enterprise?"
+  },
+  "e18ca039-1161-4f6b-b27e-ce447bff1644": {
+    "answers": [
+      {
+        "id": "c8137502-79fe-4cf0-b941-df8582d8bbb9",
+        "text": "Tret"
+      },
+      {
+        "id": "ae21009a-1123-4c8a-b646-e3fd76f8a16a",
+        "text": "Zho'Kaan"
+      },
+      {
+        "id": "67a9dd8f-552e-40ab-8d25-4af9b2d89d91",
+        "text": "Zobral"
+      },
+      {
+        "id": "81c02c50-9668-4d79-9da6-6e4efcfc98d2",
+        "text": "Vanik"
+      }
+    ],
+    "correct_answer_id": "ae21009a-1123-4c8a-b646-e3fd76f8a16a",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/e6/1a/67/e61a678b3ded03e854967e1727d52d529a80ca63/content?h=360&q=95&w=360",
+    "text": "Who does Trip fight with then work with to leave an extremely hot moon?"
+  },
+  "e2493828-a17d-4192-bc2b-5df3dd7a6867": {
+    "answers": [
+      {
+        "id": "ba153891-be76-4da0-9c5a-db2259f1fc72",
+        "text": "Archer and Porthos"
+      },
+      {
+        "id": "ac6d70ca-fc31-45dc-82d4-076368c00a56",
+        "text": "T'Pol and Sato"
+      },
+      {
+        "id": "9af3836b-5bc1-4e51-9597-bfe8b026febb",
+        "text": "Reed and Tucker"
+      },
+      {
+        "id": "a58ff657-5ad8-4d02-a456-a7edb1b44973",
+        "text": "Phlox and his bat"
+      }
+    ],
+    "correct_answer_id": "9af3836b-5bc1-4e51-9597-bfe8b026febb",
+    "photo_url": null,
+    "text": "Which two crew members were stranded together in a shuttlepod after micro-singularity impact?"
+  },
+  "e435af81-ad08-42e7-9f47-b4236996ac0b": {
+    "answers": [
+      {
+        "id": "ed064e70-e1f7-46b1-9d45-eac8b079b29a",
+        "text": "Phasers"
+      },
+      {
+        "id": "d6d1f3c9-a83f-4753-9d0b-be28786628cd",
+        "text": "Deflector Shields"
+      },
+      {
+        "id": "f08eab17-cc5d-477c-920a-622c9d96b698",
+        "text": "Photon Torpedoes\n"
+      },
+      {
+        "id": "0201fbf1-e73f-4d76-8434-bbd5b1039662",
+        "text": "Transporter"
+      }
+    ],
+    "correct_answer_id": "0201fbf1-e73f-4d76-8434-bbd5b1039662",
+    "photo_url": null,
+    "text": "Which was installed on the Enterprise at the time of her launch?"
+  },
+  "e49dd919-cafe-4b1d-a8d4-61465c3462fa": {
+    "answers": [
+      {
+        "id": "534c8be5-fb6a-428c-9d05-442eca11bf74",
+        "text": "Axanar"
+      },
+      {
+        "id": "4e824c39-99be-474f-b21f-a795ed1aa251",
+        "text": "Akaali"
+      },
+      {
+        "id": "f63c5ca9-ec5f-4202-91c0-c12ebb841dc9",
+        "text": "Aenar"
+      },
+      {
+        "id": "d6dd4451-7a16-40da-bf19-ed7665635843",
+        "text": "Andorites"
+      }
+    ],
+    "correct_answer_id": "f63c5ca9-ec5f-4202-91c0-c12ebb841dc9",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/25/e8/33/25e8339825a5871a20b92f4e48908e961d47eb0b/content?h=360&q=95&w=360",
+    "text": "What is the blind and reclusive Andorian subspecies called?"
+  },
+  "e4add214-79dd-4ee6-8c4d-29fc920c69c6": {
+    "answers": [
+      {
+        "id": "69bb1557-5afa-40e3-973a-cf291b44f794",
+        "text": "D'Marr"
+      },
+      {
+        "id": "99236b81-39ff-4f48-ab03-e58c76e580f7",
+        "text": "D'Nesh"
+      },
+      {
+        "id": "4f1f54b5-e78a-4f26-808e-c0e29b36f663",
+        "text": "D'Jarras"
+      },
+      {
+        "id": "ad1b0afd-dea0-49be-ae68-1c33f42f8eb0",
+        "text": "D'Jamat"
+      }
+    ],
+    "correct_answer_id": "69bb1557-5afa-40e3-973a-cf291b44f794",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/02/4e/e0/024ee08956e93480bf4dcb148b7bad5332ec8855/content?h=360&q=95&w=360",
+    "text": "Who is this trader who informed Archer about a crashed ship in exchange for 10 kilos of coffee?"
+  },
+  "e53423c7-bca6-489d-9258-2e1c6415e179": {
+    "answers": [
+      {
+        "id": "30447739-d5bb-4244-bf3b-ad26a865f030",
+        "text": "Hoshi Sato"
+      },
+      {
+        "id": "20c63fad-0356-4815-8e4a-0db6112eef3d",
+        "text": "Jonathan Archer"
+      },
+      {
+        "id": "85c52b88-f082-4f05-bf81-f69ec66f7b64",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "e0726e27-e5a5-4639-b168-5c24a8180282",
+        "text": "Malcolm Reed"
+      }
+    ],
+    "correct_answer_id": "e0726e27-e5a5-4639-b168-5c24a8180282",
+    "photo_url": null,
+    "text": "Who loses a communicator in an alien tavern?"
+  },
+  "e5b29940-05d1-4bfc-9097-3325d014f19a": {
+    "answers": [
+      {
+        "id": "506a67f9-a958-4dcb-92fe-fb1578538154",
+        "text": "Insectoids"
+      },
+      {
+        "id": "511d6935-f4bc-4609-9b41-cd795a53f917",
+        "text": "Avians"
+      },
+      {
+        "id": "af6d6f85-0f3c-45a7-b30c-128291e9163c",
+        "text": "Aquatics"
+      },
+      {
+        "id": "1698c419-4532-470d-a713-b3d02b0f8baa",
+        "text": "Arboreals"
+      }
+    ],
+    "correct_answer_id": "511d6935-f4bc-4609-9b41-cd795a53f917",
+    "photo_url": null,
+    "text": "Which Xindi species is extinct?"
+  },
+  "e5e3105d-9e73-4aca-8f9d-b8953909626a": {
+    "answers": [
+      {
+        "id": "05bb1f77-01c6-42cb-9798-840c0ba975cb",
+        "text": "Calindra"
+      },
+      {
+        "id": "b72dec9e-3adb-4b52-875f-8295e859b9f0",
+        "text": "Dakala"
+      },
+      {
+        "id": "f797a5f1-3e83-449b-9f78-ca9d477a24d9",
+        "text": "Urquat"
+      },
+      {
+        "id": "f48d2d0e-1393-42e7-898d-586287714b1b",
+        "text": "Azati"
+      }
+    ],
+    "correct_answer_id": "b72dec9e-3adb-4b52-875f-8295e859b9f0",
+    "photo_url": null,
+    "text": "What did the hunters name the rogue planet where they hunted shape-shifting wraiths?"
+  },
+  "e6a57650-860f-48bb-9e8f-0f6c10931174": {
+    "answers": [
+      {
+        "id": "06baea39-3594-4170-aa44-022621ec655a",
+        "text": "Senator Pardek"
+      },
+      {
+        "id": "50d856b3-ee25-42d7-8143-79268294d5ea",
+        "text": "John Frederick Paxton"
+      },
+      {
+        "id": "0702e5ca-ca3c-422e-99e5-ed6fb9b13477",
+        "text": "Admiral Owen Paris"
+      },
+      {
+        "id": "7bf96ec6-3ab8-486d-ab87-d24e8558db84",
+        "text": "Christopher Pike"
+      }
+    ],
+    "correct_answer_id": "50d856b3-ee25-42d7-8143-79268294d5ea",
+    "photo_url": null,
+    "text": "Who served as the leader of Terra Prime?"
+  },
+  "e6bd9a6a-3462-46c0-878c-c7d0f3b4bd2f": {
+    "answers": [
+      {
+        "id": "03b12960-f505-472f-90d3-45c5a5ca94b7",
+        "text": "Scotch"
+      },
+      {
+        "id": "6a7ff7fc-d00c-40fa-99a9-5a8f5f183cba",
+        "text": "Isopropyl"
+      },
+      {
+        "id": "d47b8e23-c2f3-49de-b195-d21e5dba02a1",
+        "text": "Kentucky Bourbon"
+      },
+      {
+        "id": "a1916010-5b01-40bc-b8e4-c428c7653d0c",
+        "text": "Gin"
+      }
+    ],
+    "correct_answer_id": "d47b8e23-c2f3-49de-b195-d21e5dba02a1",
+    "photo_url": null,
+    "text": "What kind of alcohol was found in Shuttle Pod One?"
+  },
+  "e9b153a1-2c4d-443a-9cda-884d7d98ca95": {
+    "answers": [
+      {
+        "id": "802a88b8-c5c6-4023-b146-296763587626",
+        "text": "Susan"
+      },
+      {
+        "id": "3bee781c-14fe-470c-a4c8-84b6eb7d8293",
+        "text": "Ruby"
+      },
+      {
+        "id": "057dc246-2854-43c8-920c-c651e64b33d0",
+        "text": "Hoshi"
+      },
+      {
+        "id": "d53a0cf9-e6fa-4cd9-8b7c-240d9a65372c",
+        "text": "Jewel"
+      }
+    ],
+    "correct_answer_id": "3bee781c-14fe-470c-a4c8-84b6eb7d8293",
+    "photo_url": null,
+    "text": "Tucker and Reed both dated a waitress named...?"
+  },
+  "ece0ba66-2a2f-4726-9348-87e021dee77b": {
+    "answers": [
+      {
+        "id": "878127ec-821f-451c-aa09-14c528caa4e3",
+        "text": "Menos"
+      },
+      {
+        "id": "958e81ce-f44d-4097-ae88-d51ca2c825a5",
+        "text": "Garos"
+      },
+      {
+        "id": "36f81d0d-ad4e-432f-b76f-bc54ef8ba27d",
+        "text": "Sopek"
+      },
+      {
+        "id": "f1dad969-50d9-4bb3-ad7b-15bcbe61805d",
+        "text": "Rajiin"
+      }
+    ],
+    "correct_answer_id": "878127ec-821f-451c-aa09-14c528caa4e3",
+    "photo_url": null,
+    "text": "Who was pursued by T'Pol and charged by the Vulcans for smuggling synthetic bio-toxins?"
+  },
+  "ee709968-9678-4bc8-9795-42cf292b15f6": {
+    "answers": [
+      {
+        "id": "2f1d7bdf-f42b-4e54-893e-ab4557c03a6a",
+        "text": "Avenger"
+      },
+      {
+        "id": "1d7bf881-0082-4549-911e-50a2ee1787fa",
+        "text": "Pioneer"
+      },
+      {
+        "id": "9a5eda86-4649-47bd-8df9-874c378e6fb1",
+        "text": "Enterprise"
+      },
+      {
+        "id": "5beaae3c-f5d5-4cd9-bb63-f7f5edcab945",
+        "text": "Repulse"
+      }
+    ],
+    "correct_answer_id": "2f1d7bdf-f42b-4e54-893e-ab4557c03a6a",
+    "photo_url": null,
+    "text": "Admiral Black commanded which starship in the Mirror Universe?"
+  },
+  "efa946e6-dd5d-459a-b76d-109c32a13964": {
+    "answers": [
+      {
+        "id": "014498f7-1c9f-4009-83f5-14de1696c606",
+        "text": "Amanda Cole"
+      },
+      {
+        "id": "c5aef096-59ee-4708-ac84-9043fa2b18ca",
+        "text": "Hoshi Sato"
+      },
+      {
+        "id": "11b1520e-3f37-467f-9cec-b74a841d2276",
+        "text": "Elizabeth Cutler"
+      },
+      {
+        "id": "cfe111de-53d8-4fe5-897e-43b347def6e2",
+        "text": "T'Pol"
+      }
+    ],
+    "correct_answer_id": "c5aef096-59ee-4708-ac84-9043fa2b18ca",
+    "photo_url": null,
+    "text": "Which crew member was lured to a telepathic admirer's planet in hopes to become his companion?"
+  },
+  "efe4ce22-bb52-49ba-a829-7b76ddd554d7": {
+    "answers": [
+      {
+        "id": "bc5af282-4212-4ba0-ace6-976c3343185e",
+        "text": "Oklahoma"
+      },
+      {
+        "id": "bd309667-4d03-4cf9-9fc2-d4c2fbee33ba",
+        "text": "Iowa"
+      },
+      {
+        "id": "ec6f2d4f-b2f7-4202-a982-e0ade6c2b7f9",
+        "text": "Wyoming"
+      },
+      {
+        "id": "59c06124-ff0a-4426-ab22-3de681e213bd",
+        "text": "Montana"
+      }
+    ],
+    "correct_answer_id": "bc5af282-4212-4ba0-ace6-976c3343185e",
+    "photo_url": null,
+    "text": "In which U.S. state was the Klingon named Klaang found?"
+  },
+  "f0082b12-da4d-476c-b49c-15c98248cff9": {
+    "answers": [
+      {
+        "id": "2eaee6ca-c2de-4f0f-9a2d-911f9cf3956b",
+        "text": "Rick Berman"
+      },
+      {
+        "id": "1dded9de-72e0-4f35-b783-a31dbca8a549",
+        "text": "Russell Watson"
+      },
+      {
+        "id": "bee002ae-123e-499f-b802-980d6f02f235",
+        "text": "Brannon Braga"
+      },
+      {
+        "id": "b598c066-f741-42c1-afb2-4ad4ad68327d",
+        "text": "Manny Coto"
+      }
+    ],
+    "correct_answer_id": "1dded9de-72e0-4f35-b783-a31dbca8a549",
+    "photo_url": null,
+    "text": "Who was NOT a producer for the Enterprise series?"
+  },
+  "f183a3bf-186e-47b4-b57d-9709352b5e11": {
+    "answers": [
+      {
+        "id": "9f8a0f21-f146-41b6-9aac-7b6974e8ba62",
+        "text": "Erick Rowan"
+      },
+      {
+        "id": "facd5e4e-9af5-4df3-88da-ccee60f1c8b6",
+        "text": "Emory Erickson"
+      },
+      {
+        "id": "5e163074-cb8c-4377-b93f-f084f1656848",
+        "text": "Emily Dickinson"
+      },
+      {
+        "id": "045abeec-0364-4bb9-8167-1d302804d9b1",
+        "text": "M. Emmet Walsh"
+      }
+    ],
+    "correct_answer_id": "facd5e4e-9af5-4df3-88da-ccee60f1c8b6",
+    "photo_url": null,
+    "text": "Who invented the transporter?"
+  },
+  "f3206412-edec-41b2-b8b9-114a0972c906": {
+    "answers": [
+      {
+        "id": "e9ed6c27-4b00-4a14-a81b-800dd541b108",
+        "text": "The Paraagans"
+      },
+      {
+        "id": "4deee167-12a5-400b-b70b-90a817018df7",
+        "text": "The Klingons"
+      },
+      {
+        "id": "f6cf1112-949f-4a2d-a447-77f20f44c277",
+        "text": "The Vulcans"
+      },
+      {
+        "id": "78867c6e-007e-4051-9b3c-61729f3c56b4",
+        "text": "The Tellarites"
+      }
+    ],
+    "correct_answer_id": "78867c6e-007e-4051-9b3c-61729f3c56b4",
+    "photo_url": null,
+    "text": "Romulans used drone ships to start a war between the Andorians and whom?"
+  },
+  "f3d10e77-eab1-4094-ba16-6b62ffb0ca15": {
+    "answers": [
+      {
+        "id": "616f8836-a017-4b96-8819-a7b452e61ed6",
+        "text": "Arboreal"
+      },
+      {
+        "id": "e95622e9-a850-4d4c-b455-b645c5d40f46",
+        "text": "Insectoid"
+      },
+      {
+        "id": "f45b8c1f-c710-48c8-93b5-69a5a8550077",
+        "text": "Reptilian"
+      },
+      {
+        "id": "6a8f8c74-3fc5-414f-8d4e-0716e62ed9ba",
+        "text": "Aquatic"
+      }
+    ],
+    "correct_answer_id": "e95622e9-a850-4d4c-b455-b645c5d40f46",
+    "photo_url": null,
+    "text": "Which Xindi species transferred their ship's life support to a hatchery in an attempt to save their offspring?"
+  },
+  "f530f798-9570-40c2-ac5e-58864fcd10a7": {
+    "answers": [
+      {
+        "id": "b84863c1-d635-457b-a5cc-1ac151fcd943",
+        "text": "9"
+      },
+      {
+        "id": "aebbe65b-1172-4233-be4b-f80cc872f155",
+        "text": "7"
+      },
+      {
+        "id": "b0dad5f6-722c-451c-8215-96e1ed6fd526",
+        "text": "5"
+      },
+      {
+        "id": "2ce0486d-8c32-493f-94c6-086352827862",
+        "text": "12"
+      }
+    ],
+    "correct_answer_id": "aebbe65b-1172-4233-be4b-f80cc872f155",
+    "photo_url": null,
+    "text": "How many decks does the Enterprise have?"
+  },
+  "f568cb6c-7e3a-4710-a63e-d41fb43845ba": {
+    "answers": [
+      {
+        "id": "9f205cd3-d3af-4bfc-abee-b239181149f1",
+        "text": "Seven"
+      },
+      {
+        "id": "328247cd-bafc-4bfd-bdc0-00220e87444b",
+        "text": "Two"
+      },
+      {
+        "id": "ca4dd464-29d5-4d2c-995f-87bead8c43b2",
+        "text": "None"
+      },
+      {
+        "id": "207a48c2-8106-4ecd-b7bf-b2b0bf06f7b0",
+        "text": "Four"
+      }
+    ],
+    "correct_answer_id": "328247cd-bafc-4bfd-bdc0-00220e87444b",
+    "photo_url": null,
+    "text": "How many planets are named after Captain Archer?"
+  },
+  "f5e92e39-7a7f-460b-8b5f-aa2571dd62f4": {
+    "answers": [
+      {
+        "id": "020381c9-0959-40b5-9472-16024c4ffcfc",
+        "text": "Red"
+      },
+      {
+        "id": "9060fec1-4c8c-4a99-acf3-f8d9f84f6fe0",
+        "text": "Gold"
+      },
+      {
+        "id": "ebee3ab7-8ac4-4f27-a299-c6e92ee7e9d6",
+        "text": "Green"
+      },
+      {
+        "id": "f6778d71-bd0d-49e9-91be-ec339616f559",
+        "text": "Blue"
+      }
+    ],
+    "correct_answer_id": "020381c9-0959-40b5-9472-16024c4ffcfc",
+    "photo_url": null,
+    "text": "What color are the energy beams from the Enterprise's phase cannons?"
+  },
+  "f5fe70ff-fb1e-49d4-8577-43abc8ad3c28": {
+    "answers": [
+      {
+        "id": "33985175-aa6c-495c-bd9f-3e0fa439cc9e",
+        "text": "3"
+      },
+      {
+        "id": "03353243-f2d2-4beb-a5b8-2579b3cc1dd3",
+        "text": "12"
+      },
+      {
+        "id": "fe2f67c6-ebee-4484-900f-c798344320fa",
+        "text": "26"
+      },
+      {
+        "id": "5104da11-64f7-4be8-9643-c0f514183aa8",
+        "text": "7"
+      }
+    ],
+    "correct_answer_id": "33985175-aa6c-495c-bd9f-3e0fa439cc9e",
+    "photo_url": null,
+    "text": "How many Xindi Reptilians went to Earth's past to launch a bio-weapon?"
+  },
+  "f62bcb11-2cbd-458c-b0f4-75ef338726bf": {
+    "answers": [
+      {
+        "id": "d2765ff4-4f55-4526-87a4-17f24e16b265",
+        "text": "Football"
+      },
+      {
+        "id": "c44cac51-ba4d-46b4-b451-9d26c3033318",
+        "text": "Boxing"
+      },
+      {
+        "id": "d2960452-10be-4445-95b3-1932f69661f9",
+        "text": "Baseball"
+      },
+      {
+        "id": "a4d262be-7914-43ca-80c9-c3207654b816",
+        "text": "Quidditch"
+      }
+    ],
+    "correct_answer_id": "d2960452-10be-4445-95b3-1932f69661f9",
+    "photo_url": null,
+    "text": "What sporting event did the Vulcan named Mistral observe on Earth in 1957?"
+  },
+  "f6674a25-95ac-44b0-946f-28a6fa333a3b": {
+    "answers": [
+      {
+        "id": "f9d818f6-b08c-4682-876f-9502ecaefed1",
+        "text": "Sato"
+      },
+      {
+        "id": "d3c426fc-612d-48c3-a001-5f7b81783216",
+        "text": "Phlox"
+      },
+      {
+        "id": "4f98280f-0e5c-4fca-9759-36e95a0c324b",
+        "text": "Mayweather"
+      },
+      {
+        "id": "326e7661-967a-47a8-8731-33f65b0bdc68",
+        "text": "T'Pol"
+      }
+    ],
+    "correct_answer_id": "4f98280f-0e5c-4fca-9759-36e95a0c324b",
+    "photo_url": null,
+    "text": "Which crew member had previously met the Deltan species?"
+  },
+  "f7364d0a-b224-4cbb-a8d7-ba7add0f45bd": {
+    "answers": [
+      {
+        "id": "bdf997ed-8f87-4254-a7f7-d7ed4fb48443",
+        "text": "56"
+      },
+      {
+        "id": "8187cdc7-822f-4550-9b28-64ada9274a75",
+        "text": "248"
+      },
+      {
+        "id": "faa1c27a-d443-4850-a34e-92f718ee3c37",
+        "text": "111"
+      },
+      {
+        "id": "96079786-7101-420a-9e66-d346552f273a",
+        "text": "7"
+      }
+    ],
+    "correct_answer_id": "8187cdc7-822f-4550-9b28-64ada9274a75",
+    "photo_url": null,
+    "text": "At the end of the series, how many planets had Dr. Phlox stood on?"
+  },
+  "f8973985-2852-4bf5-8b6d-df78ac056da2": {
+    "answers": [
+      {
+        "id": "1ffd605d-1bcf-4d33-b9e8-5cec1a1e1e8d",
+        "text": "Haadok"
+      },
+      {
+        "id": "2ae0f865-95c1-48b0-addf-6831a816e870",
+        "text": "Liana"
+      },
+      {
+        "id": "90a84571-2753-4d28-a6e3-7c5c7b268545",
+        "text": "Ah'len"
+      },
+      {
+        "id": "0611381c-ef40-43c3-a2c7-c49677eee775",
+        "text": "Kaitaama"
+      }
+    ],
+    "correct_answer_id": "0611381c-ef40-43c3-a2c7-c49677eee775",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/ac/92/e0/ac92e073492443f43704ee056dc36378813265ca/content?h=360&q=95&w=360",
+    "text": "Who is the First Monarch of the Sovereign Dynasty of Krios Prime?"
+  },
+  "fada6d33-580b-4a59-81ef-d58fed0517b5": {
+    "answers": [
+      {
+        "id": "fc28944d-7df8-46af-baee-8e6a37e7ea9e",
+        "text": "Vosh"
+      },
+      {
+        "id": "2eea79c7-4e0a-4fbd-8f78-f2bfc3289322",
+        "text": "Tosk"
+      },
+      {
+        "id": "eb396db0-c1dc-4bed-b3a0-c4e1578ea227",
+        "text": "Vosk"
+      },
+      {
+        "id": "3b053e00-36ce-4dc5-8c38-c4ce8838b0d7",
+        "text": "Tasha"
+      }
+    ],
+    "correct_answer_id": "eb396db0-c1dc-4bed-b3a0-c4e1578ea227",
+    "photo_url": null,
+    "text": "What Temporal War faction leader was on Earth in 1944?"
+  },
+  "fafdb56d-aa1d-4fe2-add9-2da486b060de": {
+    "answers": [
+      {
+        "id": "e1e742ed-26fe-4a7e-9c12-87f29aa0d80b",
+        "text": "Phaser"
+      },
+      {
+        "id": "3f686025-e65b-40bf-bf25-df17de1716b5",
+        "text": "Bomb"
+      },
+      {
+        "id": "929a4364-1453-425f-9a78-5af24ae45fe9",
+        "text": "Pathogen"
+      },
+      {
+        "id": "6c2dd0ca-167f-494b-a6da-55d3129fc049",
+        "text": "Bat'leth"
+      }
+    ],
+    "correct_answer_id": "e1e742ed-26fe-4a7e-9c12-87f29aa0d80b",
+    "photo_url": null,
+    "text": "What kills the Augment named Malik?"
+  },
+  "fbad2a72-9430-49e5-9ba9-163b592e99a7": {
+    "answers": [
+      {
+        "id": "e879316d-f132-4c89-a428-ff01dd20c5d0",
+        "text": "Surak"
+      },
+      {
+        "id": "324b9b62-e860-48cd-b8bc-8db617beb64b",
+        "text": "V'Las"
+      },
+      {
+        "id": "3c956abe-fc93-4ebf-b10c-67c084e259b2",
+        "text": "Kov"
+      },
+      {
+        "id": "8f5b523e-bf48-4f23-a8b6-665b8fb41986",
+        "text": "Keval"
+      }
+    ],
+    "correct_answer_id": "e879316d-f132-4c89-a428-ff01dd20c5d0",
+    "photo_url": null,
+    "text": "Who taught Captain Archer how to use the Vulcan neck pinch?"
+  },
+  "fbc1dc0b-64c0-45b2-ac78-dd2363d2faf2": {
+    "answers": [
+      {
+        "id": "b43d4942-63b6-4e0a-9f70-8d04c955b733",
+        "text": "Orpheus"
+      },
+      {
+        "id": "44c314fa-cfa6-4f00-9f05-64a32d227b6e",
+        "text": "Delta Vega"
+      },
+      {
+        "id": "f706b783-a6fa-45be-b1bd-28fa0cf42279",
+        "text": "Beta Magellan"
+      },
+      {
+        "id": "1303c068-83a8-455e-884b-33db35ca126f",
+        "text": "Stameris"
+      }
+    ],
+    "correct_answer_id": "b43d4942-63b6-4e0a-9f70-8d04c955b733",
+    "photo_url": null,
+    "text": "What was the name of the mining colony/ship used by John Paxton, the leader of Terra Prime?"
+  },
+  "fcdc7182-1445-4134-822c-b2e932503f2e": {
+    "answers": [
+      {
+        "id": "0e71d780-c7e7-4021-9700-c64a05d79d80",
+        "text": "Shuttle Pod One"
+      },
+      {
+        "id": "1fc8223d-e7ab-4485-885c-a3ab23a2a2fa",
+        "text": "Planet Hoth"
+      },
+      {
+        "id": "cc3ab2ca-856c-4d79-b62d-5769a87b4238",
+        "text": "Warp reactor"
+      },
+      {
+        "id": "99362161-b666-424d-97d4-47e03a418bee",
+        "text": "Risan liquor cabnet"
+      }
+    ],
+    "correct_answer_id": "0e71d780-c7e7-4021-9700-c64a05d79d80",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/2d/90/2b/2d902b7ebf77ac7a2584ec676d699fd9fdbbf9ef/content?h=360&q=95&w=360",
+    "text": "Where are Reed and Tucker?"
+  },
+  "fd7e6853-6b7c-44fd-b20f-1e34286a8d75": {
+    "answers": [
+      {
+        "id": "f71c0fad-69f8-404a-9fd3-b01fe955a924",
+        "text": "Travis Mayweather"
+      },
+      {
+        "id": "08d4c522-45e9-453a-9c12-22dd81acf078",
+        "text": "Elizabeth Cutler"
+      },
+      {
+        "id": "e6a249ee-877a-47ea-9776-1b6c6c300464",
+        "text": "Trip Tucker"
+      },
+      {
+        "id": "81d587b2-e239-4c2e-97f3-347b0e9e5b92",
+        "text": "Hoshi Sato"
+      }
+    ],
+    "correct_answer_id": "81d587b2-e239-4c2e-97f3-347b0e9e5b92",
+    "photo_url": null,
+    "text": "Which crew member was kicked out of the academy?"
+  },
+  "fe6afce7-3556-4ced-9019-98e339930742": {
+    "answers": [
+      {
+        "id": "7ebfe937-0ff5-421e-8ed8-7ac8f51be1d3",
+        "text": "O positive"
+      },
+      {
+        "id": "23082491-1d2c-4cdd-94a9-e2a97437dac0",
+        "text": "AB negative"
+      },
+      {
+        "id": "5ee82b83-ec7a-4051-a4ed-dc1a6101d114",
+        "text": "B negative"
+      },
+      {
+        "id": "710675e8-e379-444b-802f-0a8987c8d9bb",
+        "text": "B positive"
+      }
+    ],
+    "correct_answer_id": "5ee82b83-ec7a-4051-a4ed-dc1a6101d114",
+    "photo_url": null,
+    "text": "What is Captain Jonathan Archer's blood type?"
+  },
+  "ff34f80c-5e01-4a63-87b9-103471ba62dd": {
+    "answers": [
+      {
+        "id": "80401efa-4af4-48b9-b179-5e22208d868d",
+        "text": "Tucker"
+      },
+      {
+        "id": "8b1cd33b-4e1e-48a9-92fc-426b60f77db3",
+        "text": "Reed"
+      },
+      {
+        "id": "9da907b0-1df7-40f9-9252-75e00a40ed6a",
+        "text": "Archer"
+      },
+      {
+        "id": "9aeac397-87cc-4415-b2b8-e71884756276",
+        "text": "Mayweather"
+      }
+    ],
+    "correct_answer_id": "9aeac397-87cc-4415-b2b8-e71884756276",
+    "photo_url": null,
+    "text": "Which crew member tricked Hoshi Sato in to trying to communicate with a bowl of strawberry \ngelatin?"
+  },
+  "ff5e343e-c4b4-44de-af9b-5c087846e951": {
+    "answers": [
+      {
+        "id": "9b8059b7-a997-4c74-b6b1-6001580ae08f",
+        "text": "Vissian"
+      },
+      {
+        "id": "957e640a-ab7f-4f3a-911c-d87a6a0aed1f",
+        "text": "Vulcan"
+      },
+      {
+        "id": "2fbc268d-0a20-4fe7-8a7f-3b6c489010fd",
+        "text": "Borg"
+      },
+      {
+        "id": "eb118bd9-a9d1-4cd1-a482-15fba84f145b",
+        "text": "Mazarite"
+      }
+    ],
+    "correct_answer_id": "9b8059b7-a997-4c74-b6b1-6001580ae08f",
+    "photo_url": null,
+    "text": "A cogenitor is an individual who makes pregnancies among what species possible?"
+  },
+  "ffec195b-2168-4b8d-8b09-93a5d87cb0f8": {
+    "answers": [
+      {
+        "id": "7161691d-e46e-4b0a-a924-2bdb2fee5b61",
+        "text": "2"
+      },
+      {
+        "id": "2f8076ef-3595-43ae-bd95-4b5db922b08c",
+        "text": "14"
+      },
+      {
+        "id": "bc24db2e-2357-4b98-bcef-11fd6def98f0",
+        "text": "0"
+      },
+      {
+        "id": "f17f5baf-f690-4dac-87bc-a6bd8d5d0aa8",
+        "text": "5"
+      }
+    ],
+    "correct_answer_id": "f17f5baf-f690-4dac-87bc-a6bd8d5d0aa8",
+    "photo_url": "https://quizup-media.imgix.net/photo/331080925478597933/2d/e4/51/2de451f6eb15d85c3b4601eef532e994bcba6f29/content?h=360&q=95&w=360",
+    "text": "How many children does Dr. Phlox have?"
+  },
+  "fff27cf9-816b-4433-a5cb-25c00e8273b1": {
+    "answers": [
+      {
+        "id": "b40dcd45-eac0-4f1d-a6c0-11b7526c1edd",
+        "text": "San Francisco"
+      },
+      {
+        "id": "8ce58a25-3694-48d1-8447-800d5468dcd0",
+        "text": "Cairo"
+      },
+      {
+        "id": "09441bb6-f619-4767-9f1d-1154b8d6eb6a",
+        "text": "Detroit"
+      },
+      {
+        "id": "8faaa249-e1ae-4bce-a8e1-b742b3ab4b04",
+        "text": "London"
+      }
+    ],
+    "correct_answer_id": "09441bb6-f619-4767-9f1d-1154b8d6eb6a",
+    "photo_url": null,
+    "text": "What city did Xindi Reptilians travel back in time to?"
+  }
+}

@@ -1,0 +1,16 @@
+                            Player      Country Level    Total XP
+1                                M           US   761  20,379,713
+2                           Sara B           US   583  11,991,813
+3                   Olga Surletoit           RU   394   5,482,403
+4               Autumn # No Boosts  QU_SCOTLAND   343   4,169,109
+5   C@roline #L-ILA - Save the App           DE   312   3,454,269
+6                         valentin           RO   309   3,388,005
+7                   Isabelle Fauŕé           FR   306   3,324,317
+8                             Luca           IT   270   2,585,260
+9                               Jh           NZ   270   2,582,198
+10               Alejandra Ricardo           DO   255   2,309,981
+11                             Joe           US   251   2,237,038
+12                         lethian           GB   216   1,664,976
+13                          birgit           CH   216   1,656,967
+14                        A. B. H.           DZ   213   1,621,403
+15               Luca Save The App           IT   210   1,576,386

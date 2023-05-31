@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1                   Bakepe           GB   704  17,413,335
+2         Eva Save the app           AU   669  15,740,206
+3   Bjørn Andre Ingolfsrud           NO   450   7,156,231
+4                  Sandeep           IN   435   6,689,527
+5                      RSK           US   414   6,062,405
+6                       AC           GB   333   3,935,751
+7                   Mayukh           IN   266   2,504,564
+8            Allison Carey           GB   236   1,985,537
+9                Mabelface  QU_SCOTLAND   210   1,573,491
+10                 Marlena           CA   186   1,230,174
+11                    Gail           GB   179   1,138,991
+12                     Jen           ZA   172   1,054,916
+13                 Dil Sen           AE   158     898,272
+14                  Glynis           ZA   155     862,439
+15                 ralip31           GB   152     831,157

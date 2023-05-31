@@ -1,0 +1,16 @@
+                     Player Country Level    Total XP
+1                       bee      FI   590  12,244,000
+2                         L      US   589  12,198,293
+3   Mel Zerbach Team Savant      DE   559  11,002,578
+4                     Pearl      US   395   5,500,959
+5            Teresa Hancock      GB   347   4,269,089
+6                     Vinny      IN   285   2,888,735
+7              Lady Summers      US   271   2,604,192
+8                  MiraiShu      DE   259   2,382,400
+9              Ivory Master      US   239   2,033,523
+10                   Shezza      FR   233   1,937,909
+11             Jim Moriarty      GB   225   1,800,350
+12                    Clg10      US   224   1,790,934
+13                  Onil678      FR   221   1,742,768
+14                    Falka      DE   210   1,565,236
+15             SYA Peggster      KR   206   1,514,258

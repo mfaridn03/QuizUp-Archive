@@ -1,0 +1,16 @@
+                                     Player Country  Level    Total XP
+1                                  Monhors0      DE  1,530  82,173,648
+2                             Tracy Jacques      GB  1,293  58,658,041
+3                                      Barb      US    976  33,469,490
+4                                  Velma Jo      US    928  30,235,690
+5                                   MariSol      ES    851  25,463,362
+6                                João Pires      BR    840  24,797,957
+7                                    Monika      DE    788  21,828,120
+8                                        ..      PH    762  20,397,598
+9   Marie French 🦖 Team Savant Save the app      IE    660  15,334,259
+10                          Smooth Criminal      US    607  12,988,869
+11                      Colourful Chocolate      AU    603  12,807,241
+12                       Queen of Flowers 🦋      US    583  11,953,759
+13                                    Nimue      US    535  10,102,513
+14                   Maria Helena Stigliano      BR    529   9,860,416
+15                                    Bliss      US    522   9,595,831

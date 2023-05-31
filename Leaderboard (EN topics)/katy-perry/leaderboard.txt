@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1       Captaincook Yu      CA   529  9,858,201
+2   Bob Morrisroe#100+      GB   229  1,862,874
+3    Gabriel Samaniego      MX   221  1,733,028
+4                 Mace      PH   216  1,658,653
+5                 Tony      US   208  1,533,926
+6     AzhleyTheKatycat      US   206  1,513,553
+7            Esmeralda      LB   201  1,439,680
+8             Henrique      BR   187  1,254,602
+9                Isaac      MX   179  1,144,020
+10            ännä Δ χ      BE   169  1,019,122
+11        Laura Torres      CO   158    892,831
+12                Elsa      IE   154    851,532
+13          Maria Faye      PH   134    648,923
+14        Denike lopez      MX   133    637,883
+15        King Sanbino      US   132    622,695

@@ -1,0 +1,16 @@
+                     Player Country Level   Total XP
+1           Smooth Criminal      US   291  2,996,664
+2                  Valentín      ES   160    913,082
+3             2EZ🏀NBAKINGs💯      US   156    874,782
+4           Jeffrey Strange      US   136    668,788
+5              Tupac Shakur      PH   109    430,154
+6                   Carlos_      US   108    425,772
+7            Dario Pokrivač      HR   100    366,146
+8            Mario Pokrivač      HR   100    360,092
+9   Archie Burdios Talictic      AE    94    322,685
+10        Chrisboss Bosango      ZA    85    262,173
+11                   Tazzzz      US    82    245,647
+12                Kervens.G      AU    81    241,726
+13           Karl Carandang      PH    80    234,555
+14              Jakey Wakey      US    78    222,666
+15             Mark Sanchez      CA    77    217,310

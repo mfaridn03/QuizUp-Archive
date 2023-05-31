@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1           MK Davis      US   500  8,799,531
+2   Douglas Squasoni      US   481  8,157,938
+3      Jeff Johnston      GB   383  5,181,993
+4     Gérald Ponthus      FR   368  4,780,314
+5              Josef      DE   350  4,325,378
+6               Ouch      US   317  3,547,336
+7      The Pensioner      GB   315  3,505,754
+8           Fernando      MX   276  2,707,490
+9          Bojana E.      CA   268  2,541,497
+10          Fernando      MX   255  2,311,412
+11             Nimue      US   242  2,087,358
+12       Alan Bracey      GB   241  2,061,230
+13        Bertolucci      DE   236  1,982,984
+14           Frank s      BE   232  1,909,572
+15   WJohn#Elite-ILA      US   212  1,593,259

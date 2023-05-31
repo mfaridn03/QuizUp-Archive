@@ -1,0 +1,16 @@
+                    Player     Country Level   Total XP
+1                  Candice          US   527  9,789,922
+2          Mudguts #C- ILA          GB   394  5,470,825
+3   nicky :) #FREEG$LDBERG          BR   366  4,746,160
+4          Sue Ellerington          GB   288  2,936,615
+5        susan ellerington          CY   281  2,797,871
+6                     Moon          FR   274  2,661,139
+7        Dorothy G. #L~ILA          US   260  2,398,048
+8          Blackpool Belle          GB   257  2,339,767
+9                    Kenco          GI   252  2,254,645
+10                 KLDough          US   211  1,592,753
+11                     ej6          AU   211  1,589,780
+12               Pixie5163          US   211  1,582,823
+13                Chisoxnj          US   208  1,539,634
+14     Debbie Save The App  QU_ENGLAND   207  1,521,168
+15                  KishaK          JM   195  1,356,046

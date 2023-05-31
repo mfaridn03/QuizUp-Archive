@@ -1,0 +1,16 @@
+                              Player      Country  Level    Total XP
+1                              Achai           AU  1,261  55,823,938
+2                 Gunter Marschellek           DE  1,167  47,792,037
+3                             R Lima           BR  1,157  46,999,860
+4   Tani #L-ILA"Please save the App"           DE  1,034  37,553,751
+5                Iain Cfc #Elite ILA  QU_SCOTLAND    857  25,816,819
+6                     Avelino #L-ILA           PA    832  24,315,897
+7      Rötli # C- ILA #Save the App#           DE    790  21,966,686
+8                          Bharat @U           IN    750  19,806,329
+9                       Susana Reyes           MX    736  19,054,915
+10                   Rui Tito Fontes           PT    731  18,772,288
+11                               Dri           BR    686  16,554,641
+12                        Birds Eggs           GB    675  16,038,421
+13                              Cici           CA    569  11,395,380
+14                           Schotti           DE    550  10,660,617
+15                    Jandyra Xavier           BR    550  10,660,119

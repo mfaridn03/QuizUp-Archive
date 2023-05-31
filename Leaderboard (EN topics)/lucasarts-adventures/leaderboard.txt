@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1           Cathy_G 🌎UT💫      US   267  2,521,062
+2                  Derpy      US   174  1,076,244
+3       Han Baldur. solo      LU   161    933,460
+4   JimG 🌎UT💫 SaveTheApp      US   156    874,151
+5      Faruk Tarık Şirin      TR   127    578,430
+6                  Greta      HK   117    495,356
+7         Laura🌎UT💫  QT✨      US   102    374,784
+8               Bot 🌎UT💫      LB   101    369,150
+9               Kristjan      EE   101    369,014
+10                NeoRej      NL   100    366,364
+11     Zero [Shin Sekai]      US    90    292,844
+12         gbouffard.com      FR    80    232,588
+13             Raven0402      DE    75    208,304
+14      Daniel Brännvall      SE    73    195,259
+15               Matthew      US    70    181,242

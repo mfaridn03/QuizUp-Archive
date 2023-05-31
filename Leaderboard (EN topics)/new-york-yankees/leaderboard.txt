@@ -1,0 +1,16 @@
+                     Player Country Level    Total XP
+1             bigdrummerboy      US   702  17,323,318
+2   Tony Dan Pasqua Doherty      US   397   5,576,478
+3          Rat Super Genius      US   392   5,430,474
+4                 Marc_tand      US   333   3,930,791
+5               Frank Rizzo      US   333   3,914,212
+6            # 1 Yankee Fan      US   304   3,283,404
+7        Boone-Save the App      US   300   3,185,623
+8                 Bella2"06      US   294   3,068,372
+9                Tony The C      US   289   2,964,345
+10                    Hub30      US   250   2,216,355
+11             Thomas Cooke      US   238   2,017,868
+12                 Lancelot      US   210   1,564,821
+13                      Bob      US   184   1,208,272
+14                     Gman      US   143     729,389
+15          Ted Capozziello      US   130     607,841

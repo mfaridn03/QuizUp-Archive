@@ -1,0 +1,16 @@
+                 Player Country  Level    Total XP
+1            Loxodontoc      US  1,000  35,154,970
+2     Peter van Zutphen      NL    967  32,848,495
+3                 Randy      IN    865  26,281,883
+4                  Kiki      FR    490   8,468,331
+5       Pygmée gourmand      FR    455   7,309,938
+6          Beryl Wright      GB    438   6,774,766
+7         Budi Soemargo      ID    409   5,908,920
+8                   Eno      ID    360   4,570,287
+9   Manuel- No boosters      NC    345   4,198,888
+10             Soon Beo      SG    338   4,047,824
+11        ctbffm | ҜΞ 〽      DE    300   3,181,153
+12          Anka | ҜΞ 〽      ID    300   3,178,571
+13             ✦ Memo G      MX    288   2,946,713
+14            Sugi #TSN      IN    286   2,890,240
+15       Kevin See Thou      MY    281   2,792,011

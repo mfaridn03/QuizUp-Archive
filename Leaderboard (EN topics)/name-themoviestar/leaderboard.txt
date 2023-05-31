@@ -1,0 +1,16 @@
+                 Player     Country  Level    Total XP
+1               Donny G          US  1,666  97,411,006
+2             Marlingar          ES  1,341  63,120,065
+3              Lol Lyle          GB  1,126  44,516,795
+4           Michael  67          DE    880  27,221,295
+5                   D.🦂          FR    853  25,556,116
+6            SYLVAIN 24          FR    778  21,295,056
+7             Music-Man          DE    718  18,144,327
+8   Bob 7 years playing          SE    638  14,315,856
+9           Fuck the EU  QU_ENGLAND    622  13,636,464
+10               Ämmeli          CH    565  11,237,941
+11              Mario24          FR    563  11,164,338
+12           VAINSYL 24          FR    546  10,520,330
+13                 adam          US    521   9,568,320
+14            PoppaBear          US    511   9,206,601
+15        Michael Neary          IE    501   8,849,368

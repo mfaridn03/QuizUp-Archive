@@ -1,0 +1,16 @@
+                              Player Country Level    Total XP
+1                              Debra      US   600  12,663,719
+2                               Niki      US   457   7,380,256
+3                   Ric Saatman 100+      US   410   5,947,472
+4   Marlies Forster 100+Save the App      DE   371   4,876,938
+5                           Raghav50      IN   342   4,126,889
+6                       Janet Howell      US   316   3,531,895
+7                               TedK      US   287   2,913,229
+8                       Marius Kurti      AL   284   2,869,346
+9       Petrapascale 59 Save the App      CH   269   2,573,042
+10                   Amina Azizuddin      PK   267   2,527,929
+11     Andy The Great - Save the App      AE   234   1,951,389
+12                              Mike      US   233   1,934,790
+13                     1dumsun•PLAU•      US   233   1,925,702
+14                              Mark      GB   229   1,865,412
+15                             RuthB      GB   213   1,622,468

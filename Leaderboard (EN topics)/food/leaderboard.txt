@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1                  alison      ZA   926  30,117,310
+2             Victoria A.      PH   823  23,805,793
+3           Shane Chaplin      MY   803  22,674,577
+4                   Marla      DE   739  19,207,969
+5        May-Save the App      TR   677  16,143,293
+6                    Ivan      ZA   611  13,155,451
+7                Levelino      CH   600  12,697,980
+8                   Susan      US   600  12,658,529
+9   One from the bad guys      DE   598  12,604,964
+10                   Elli      DE   574  11,599,997
+11            tiger tiger      IN   513   9,288,474
+12                   Lucy      US   511   9,195,956
+13        Grandsteak 🌍UT💫      FR   500   8,806,344
+14               Tom Daly      IE   495   8,651,526
+15                  Ariel      GB   491   8,486,299

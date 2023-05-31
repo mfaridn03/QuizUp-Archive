@@ -1,0 +1,16 @@
+                   Player     Country  Level    Total XP
+1           Dorothy Clark          GB  1,046  38,401,614
+2                    Maja          US    862  26,091,494
+3                      JM          GB    694  16,940,022
+4                  ENIGMA  QU_ENGLAND    614  13,280,120
+5                    Emma          CH    576  11,678,330
+6                HannahBF          US    551  10,680,884
+7                  Nathan          GB    550  10,668,638
+8          Judith Neiuber          US    465   7,614,764
+9                  Rich M          GB    463   7,565,285
+10                   Sand          US    440   6,825,585
+11               Karant23          US    418   6,156,515
+12          Carlos Ferrer          BR    381   5,119,706
+13   KatGer- Save the App          US    367   4,769,489
+14               No name!          US    359   4,549,895
+15  MightyMole#Golden ILA          GB    338   4,045,986

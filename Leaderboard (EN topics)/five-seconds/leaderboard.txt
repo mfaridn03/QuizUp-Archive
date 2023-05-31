@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1                zh      SG   500  8,797,500
+2              Andy      AU   446  7,008,423
+3   Crazy_for_5SOS3      CA   390  5,370,076
+4        tessa lynn      CA   335  3,977,561
+5             Reeya      PH   277  2,722,767
+6    Claire Bennett      GB   251  2,229,168
+7          Aleena97      GB   240  2,047,730
+8               tas      NL   235  1,955,383
+9            Alexus      US   232  1,908,952
+10               티아      GB   231  1,891,602
+11           Audrey      US   228  1,849,992
+12           Ventus      US   223  1,770,907
+13        gabriella      US   220  1,728,151
+14         brun_a__      BR   219  1,710,855
+15          _Ellie_      DE   211  1,590,946

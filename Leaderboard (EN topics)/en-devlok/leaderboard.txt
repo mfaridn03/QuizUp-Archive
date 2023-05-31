@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1           Snigdha Singh      IN   614  13,270,996
+2             Piyush Kant      IN   506   9,013,125
+3         Arati Choudhury      IN   355   4,465,746
+4   APARNA - Save the App      IN   241   2,068,924
+5                   Vijay      IN   218   1,691,856
+6                      PS      IN   180   1,163,694
+7       jayanthi s.murthy      IN   162     944,969
+8              Lakshmi.ch      IN   161     930,766
+9                 Kalpana      IN   131     616,888
+10        Himanshu Sharma      IN   128     589,163
+11        Sachinandan Das      IN   122     537,560
+12              - Ridhi -      IN   122     532,490
+13           Manju Jindal      US   120     518,530
+14               Keertana      IN   120     516,804
+15                 Monika      IN   114     469,614

@@ -1,0 +1,16 @@
+           Player Country Level   Total XP
+1    ****NANA****      CA   285  2,873,380
+2      Ann Miller      US   253  2,281,971
+3             jzt      US   205  1,491,699
+4        braddick      US   202  1,456,192
+5    Weston Young      US   187  1,248,974
+6             Jen      US   181  1,170,545
+7         Modesta      US   161    928,950
+8           Amber      GB   161    923,019
+9          Leonie      AU   158    896,478
+10       Cherie G      AU   151    814,335
+11       ChrissyB      US   142    722,033
+12     Maddy Cook      GB   124    553,704
+13           Lisa      CA   112    452,643
+14          Sarah      GB   112    451,732
+15  Lily Fanazini      US   111    446,438

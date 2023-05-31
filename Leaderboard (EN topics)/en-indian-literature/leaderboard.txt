@@ -1,0 +1,16 @@
+                     Player Country Level    Total XP
+1                 Geraldine      GB   552  10,726,455
+2                     Thora      RO   317   3,550,582
+3                  *Anamika      IN   178   1,133,373
+4                      Jean      IN   158     892,632
+5           Ranjith Haymana      RO   145     756,575
+6                   Kalpana      IN   135     654,152
+7                      saba      IN   134     641,367
+8                  ~Sheree~      US   133     640,314
+9                       Dun      NZ   133     637,843
+10                     AK47      AD   129     602,599
+11                    Ashok      IN   127     580,197
+12             Jaya Lakshmi      US   118     499,552
+13                       NS      IN   114     468,054
+14  Enigma ₹ɘȵ Save The App      SD   100     361,808
+15                Chandrika      IN   100     361,420

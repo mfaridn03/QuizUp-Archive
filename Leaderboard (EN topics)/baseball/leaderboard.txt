@@ -1,0 +1,16 @@
+              Player Country  Level    Total XP
+1              Hub30      US  1,110  43,230,952
+2   Rat Super Genius      US    755  20,025,168
+3        Art Widiger      US    711  17,794,874
+4             Stan H      US    701  17,305,966
+5            Scott M      US    638  14,324,789
+6        Art Widiger      US    584  12,003,857
+7           Steve E.      US    412   6,008,345
+8          Wade Cool      CA    400   5,664,370
+9               Jose      US    361   4,603,224
+10           Kamandi      DO    295   3,075,400
+11       Hawks 4ever      US    283   2,837,218
+12         Dr. Burns      US    280   2,784,198
+13        Mel Norton      CA    278   2,746,279
+14       Hondo Seats      US    272   2,633,373
+15       Mr. October      US    237   1,996,722

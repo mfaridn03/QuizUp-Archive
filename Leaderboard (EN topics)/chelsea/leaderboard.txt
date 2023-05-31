@@ -1,0 +1,16 @@
+            Player     Country Level   Total XP
+1      Chelsea Boy  QU_ENGLAND   519  9,501,639
+2         𝖖𝖚𝖎𝖖𝖚𝖊⋆✭          TZ   488  8,399,667
+3       Chelsea FC          GB   444  6,963,822
+4              MR7          MX   302  3,237,541
+5           Wilson          GB   302  3,235,180
+6        Paul Bird  QU_ENGLAND   231  1,898,109
+7       The Guvnor          GB   221  1,730,495
+8           Skazzy          NL   210  1,567,579
+9          Simon60          GB   208  1,534,974
+10      David Luiz          GB   193  1,323,189
+11           Pedro          GB   185  1,220,394
+12    N’Golo Kante          GB   180  1,151,159
+13   Alvaro Morata          GB   174  1,076,779
+14  Lana Mushahwar          AE   170  1,028,336
+15     Eden Hazard          GB   168  1,015,482

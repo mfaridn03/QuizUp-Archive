@@ -1,0 +1,16 @@
+                 Player     Country Level    Total XP
+1              Snickers          US   577  11,728,318
+2                Papa53          US   382   5,162,465
+3        lunatic sanity          US   301   3,220,666
+4         Son of Batman          US   266   2,501,980
+5                 Ghost          CA   230   1,882,517
+6                Gerfff          US   213   1,618,962
+7             Beast Boy  QU_ENGLAND   190   1,283,806
+8                   Jim          US   179   1,150,674
+9           W. Roy Gibb          CA   160     920,672
+10            Rorschach          IR   150     804,519
+11                Rahul          GB   143     734,369
+12             Andrea D          US   140     700,889
+13       Subatomic_Matt          US   136     667,611
+14  Saksham Gopal Yadav          IN   134     647,922
+15          YellowRonin          PH   127     581,574

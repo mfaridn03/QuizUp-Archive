@@ -1,0 +1,16 @@
+                        Player Country Level   Total XP
+1                 Guido Hatzis      AU   419  6,193,367
+2            Syed Askari Abbas      PK   298  3,156,781
+3                       Shaila      IN   124    556,500
+4                       Rob Ar      AU   109    426,314
+5                 Chris Jordan      GB   100    363,794
+6                          Sam      GB   100    359,900
+7               Jeson Flourish      IN    98    350,814
+8             Muhaiminul Islam      BD    96    331,992
+9                   ali hameed      PK    86    267,264
+10                       Tim H      ES    76    210,305
+11              Shubham Madaan      IN    73    197,129
+12          Abhishek Bhatnagar      IN    71    185,341
+13                Grant Mongan      AU    69    176,116
+14                       Waqar      PK    67    165,944
+15  Ruchir 'SACHINIST' Mundhra      IN    67    165,606

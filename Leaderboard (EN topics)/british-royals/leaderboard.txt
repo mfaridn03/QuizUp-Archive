@@ -1,0 +1,16 @@
+                 Player Country  Level    Total XP
+1                 Eagle      GB  1,097  42,266,296
+2                Ramona      US  1,078  40,812,610
+3                 Penny      GB  1,002  35,254,951
+4              Paulette      FR    550  10,666,206
+5                Barney      GB    540  10,257,666
+6        Marilyn Savant      GB    537  10,171,296
+7                jany51      FR    460   7,468,741
+8                  Lill      GB    398   5,602,571
+9             Christine      FR    390   5,377,516
+10                Ernie      GB    317   3,567,443
+11               Brenda      GB    289   2,951,146
+12            Paul Cove      GB    261   2,415,894
+13                 Erin      US    260   2,401,703
+14             Raffzahn      DE    256   2,319,327
+15  James Patrick McCoy      US    247   2,171,661

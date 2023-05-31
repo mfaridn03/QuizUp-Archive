@@ -1,0 +1,16 @@
+                                Player Country Level    Total XP
+1                                 Raja      IN   548  10,600,408
+2                      Arati Choudhury      IN   542  10,367,223
+3                          Road Runner      IN   505   8,993,099
+4                                  pkt      IN   411   5,957,027
+5                             Bharathi      IN   396   5,530,887
+6                      Dhurjati Sarkar      IN   394   5,485,084
+7                              Iyengar      IN   334   3,949,003
+8                         Rajesh Kumar      IN   322   3,678,467
+9                         imran bhutta      PK   303   3,259,099
+10                              Şhønit      IN   297   3,120,088
+11                           Raj Kamal      IN   278   2,735,592
+12                          Loxodontoc      US   260   2,405,731
+13                                 Roy      IN   255   2,304,916
+14  Akshat Bajpai Insta id akshat786__      IN   250   2,226,355
+15                         Subir Ghosh      IN   242   2,084,011

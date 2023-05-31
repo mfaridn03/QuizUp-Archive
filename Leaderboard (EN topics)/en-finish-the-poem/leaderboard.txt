@@ -1,0 +1,16 @@
+                    Player     Country Level   Total XP
+1                  Notella          CH   450  7,138,046
+2             Bärbel Lange          DE   436  6,697,825
+3     Jim09 - Save the App          US   375  4,966,052
+4              Collette A.          CA   337  4,018,043
+5   nicky :) #FREEG$LDBERG          BR   331  3,871,477
+6                    Fabri          US   305  3,286,592
+7     suzy - Save The App.          ID   298  3,145,192
+8      Pippilotta1313 🌏UT💫          DE   270  2,585,195
+9                   Grinch          US   270  2,582,791
+10          Judith Neiuber          US   256  2,330,158
+11                   Jilly  QU_ENGLAND   252  2,255,883
+12           Cliometrician          US   240  2,039,301
+13                 Anticat          US   225  1,801,339
+14                  DDMUMS          US   221  1,743,383
+15                      J3          US   212  1,601,669

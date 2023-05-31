@@ -1,0 +1,16 @@
+             Player     Country Level   Total XP
+1           Chris W          GB   382  5,166,468
+2             Kitty          US   358  4,538,414
+3         The Burgy          US   342  4,142,784
+4             DMart          US   239  2,038,293
+5          Taylor W          KR   234  1,940,588
+6             Laura          US   214  1,634,360
+7             ny2kc          US   208  1,542,726
+8          Wendy DT          US   159    902,601
+9              Avr3          US   150    804,960
+10          Russell          US   150    802,565
+11     Joe McGehrin          US   148    788,100
+12        DonDraper          US   145    750,546
+13  Michael Overend  QU_ENGLAND   145    749,749
+14        St Draper          US   140    700,200
+15            Erica    QU_WALES   137    670,836

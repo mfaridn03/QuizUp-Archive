@@ -1,0 +1,16 @@
+                 Player Country Level   Total XP
+1                jp7731      US   432  6,580,658
+2           Starry Eyed      GB   366  4,737,273
+3           Stuart Cary      US   324  3,723,144
+4                Fleety      AU   283  2,842,016
+5                John B      US   262  2,441,838
+6        Pepe Townsongs      GB   261  2,423,919
+7                Bernie      US   256  2,319,568
+8                Sharon      US   255  2,316,321
+9                 saffy      US   245  2,128,592
+10            <Deleted>      GB   224  1,789,548
+11           Hotshot147      GB   221  1,741,943
+12       WildwoodFlower      US   205  1,499,083
+13            Zimmerman      US   194  1,340,204
+14  _working class hero      US   191  1,298,276
+15            Tom Regan      NZ   186  1,239,259

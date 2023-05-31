@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1        Le Doc 5562      FR   827  24,027,303
+2     Yohann Calvary      FR   481   8,146,251
+3          Narboagen      FR   437   6,731,640
+4         Grognard52      FR   428   6,463,698
+5             Cedric      FR   341   4,106,297
+6   Gildor phlibotte      CA   333   3,921,108
+7         Jean-Luc51      FR   310   3,393,237
+8           Marie68M      CH   292   3,022,548
+9           Frank H.      DE   287   2,921,652
+10   Donat Decastiau      BE   285   2,877,341
+11              jluc      FR   278   2,734,079
+12         Christian      PN   259   2,384,624
+13         aloe vera      DE   236   1,974,212
+14    Alain Marchand      FR   224   1,786,936
+15           Ch' Doc      FR   223   1,768,711

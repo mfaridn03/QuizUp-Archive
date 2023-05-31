@@ -1,0 +1,16 @@
+                   Player      Country Level    Total XP
+1            Scribblenaut           US   638  14,308,575
+2             Kyel Galaxy  QU_SCOTLAND   535  10,078,001
+3                   Kant¹           FR   478   8,051,500
+4                    nerd           US   408   5,870,598
+5           Zeldabossomus           CA   358   4,533,954
+6             Penny Royal           US   313   3,473,934
+7             Kimchidream           US   308   3,359,396
+8       Totally Destroyed           US   306   3,325,082
+9              Maximilien           FR   290   2,976,348
+10  Caleb Buell Ω๗εgα|ֆȶო           US   275   2,674,492
+11            jabber nut.           US   267   2,522,294
+12                Lukevvv           US   255   2,300,150
+13                  Lino.           FR   254   2,283,505
+14                      A   QU_ENGLAND   246   2,153,642
+15                  Tatl.           US   238   2,010,637

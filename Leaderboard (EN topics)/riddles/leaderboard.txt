@@ -1,0 +1,16 @@
+                                      Player Country Level    Total XP
+1                                  Philomena      IE   650  14,856,884
+2                              Debi Beckwith      US   560  11,030,832
+3                                      Debra      US   528   9,807,803
+4                              Zachary Zikry      SG   381   5,120,741
+5   ₹ [̲̲̅̅E̲̲̅̅n̲̲̅̅i̲̲̅̅g̲̲̅̅m̲̲̅̅a̲̲̅̅] ₹      IS   372   4,879,347
+6                        Henrietta Rodriguez      US   363   4,657,772
+7                               Carmel Fitzs      IE   337   4,023,679
+8                        Henrietta rodriguez      OM   336   3,999,472
+9                               Sebrina Demp      IE   303   3,260,421
+10                                Sheila Jay      IE   301   3,211,166
+11                                      Kulu      HK   262   2,436,139
+12                              Asma Naghman      PK   241   2,064,525
+13                                     logan      IN   231   1,897,533
+14                                         Z      US   225   1,798,962
+15                                    Minami      US   223   1,771,111

@@ -1,0 +1,16 @@
+                         Player     Country Level   Total XP
+1                        Rob Ar          AU   400  5,644,944
+2                     ~ Liane ~  QU_ENGLAND   319  3,603,206
+3                    Sri Lankan          AE   254  2,296,061
+4                     wvwrythnq          US   243  2,100,229
+5                  Ran Bar Levi          IL   227  1,832,573
+6   Stig Legrand - Save the App          FR   217  1,669,030
+7                        Shaila          IN   215  1,640,884
+8                           nil          TR   194  1,340,920
+9                       Chielvl          NL   174  1,081,667
+10                  Omkar - #CS          IN   161    928,764
+11                   Peter Elst          GB   144    746,249
+12                     D. Dewan          BD   136    663,994
+13              Neeraj Majumdar          IN   135    659,270
+14                     Ice13urg          US   127    578,951
+15                    £ouisi@n@          US   126    571,726

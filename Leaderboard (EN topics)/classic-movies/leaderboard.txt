@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1                TGV      FR   703  17,412,291
+2         Smallville      ES   693  16,878,577
+3            Pam_Haw      GB   628  13,886,505
+4         Doug Craig      US   622  13,603,494
+5       myles scully      IE   564  11,187,385
+6              Jerry      US   551  10,705,679
+7       Diamond Girl      US   508   9,115,808
+8     Tote End Frank      GB   495   8,623,500
+9             Yajyaj      US   493   8,579,314
+10             Maite      ES   447   7,042,702
+11           Pam_Haw      GB   418   6,162,966
+12         English43      US   414   6,043,676
+13                JM      GB   397   5,569,091
+14           Andreas      DE   396   5,551,484
+15  Edward Lionheart      US   393   5,454,070

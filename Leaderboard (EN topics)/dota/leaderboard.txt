@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1          Neeraj 🌏UT💫      IN   747  19,616,020
+2                Meepo      US   475   7,975,024
+3            Ark #100+      ID   307   3,343,475
+4          Aaron Leong      MY   262   2,437,495
+5   Claire Farron #ILA      UA   226   1,813,688
+6      Doctor Spaceman      RO   223   1,768,067
+7       Uvin Ratnayake      LK   211   1,586,089
+8            Launchpad      US   167     998,064
+9           Andrei Pop      RO   162     944,439
+10          Justin Lee      SG   162     938,212
+11  Οδυσσεύς (Ulisses)      GR   161     925,239
+12              Nadeko      CA   155     858,522
+13       Bryn Lockwood      GB   151     822,197
+14                Nick      MY   150     804,243
+15      Zhen Yang Shen      SG   148     781,338

@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1                    D      US   834  24,457,933
+2     Rita Brace Mason      GB   498   8,750,746
+3              Big Pep      GB   431   6,555,377
+4        bigdrummerboy      US   346   4,233,667
+5           ReenieBeez      US   306   3,318,793
+6                TAYEE      US   284   2,850,007
+7              Carolee      AU   266   2,507,315
+8                roy m      US   257   2,341,181
+9                TAYEE      US   233   1,933,490
+10           Hughie IV      IE   226   1,815,321
+11           Rose Dion      AU   221   1,732,892
+12              Sheila      US   214   1,634,365
+13            Bossfan1      US   207   1,527,336
+14  FastJonney Griffin      GB   201   1,446,450
+15           Big Daddy      US   201   1,439,288

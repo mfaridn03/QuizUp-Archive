@@ -1,0 +1,16 @@
+            Player Country  Level    Total XP
+1           Jurgen      DE  1,522  81,243,681
+2            Sally      US  1,219  52,134,034
+3             Anji      GB  1,172  48,221,257
+4              den      GB  1,149  46,372,311
+5           Oper23      US    881  27,256,818
+6            keith      GB    789  21,864,556
+7            LEMMY      FR    732  18,866,980
+8            Vijay      IN    606  12,922,637
+9           TaBiTa      SG    579  11,825,641
+10              UG      PK    578  11,758,288
+11     Cathy Leoni      US    515   9,367,470
+12            Bill      GB    497   8,721,506
+13  Lorryann Whyte      AU    492   8,552,688
+14         Lynn407      US    491   8,501,681
+15             Jan      GD    485   8,283,302

@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1               Buchtitel      DE   674  15,963,896
+2                    Mabe      CL   634  14,141,820
+3                 Igor Š.      SI   592  12,323,488
+4                   Roles      FR   503   8,909,955
+5              bourcavier      FR   484   8,275,230
+6                   Jenny      ES   468   7,720,195
+7               Tayeb Dah      DZ   432   6,573,933
+8                  roles3      DE   428   6,462,092
+9            E. D'Icarahy      BR   424   6,353,310
+10                 Kristy      ES   422   6,285,083
+11                  Viper      NL   418   6,171,874
+12        Ternifi mascara      DZ   390   5,364,199
+13                 LaBren      MX   368   4,793,684
+14          Judith Glavas      US   353   4,395,474
+15  BN (No game boosters)      RO   325   3,735,342

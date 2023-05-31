@@ -1,0 +1,16 @@
+                    Player      Country Level   Total XP
+1                      Lgs           US   489  8,416,470
+2                  Baggins           GB   376  4,983,949
+3   nicky :) #FREEG$LDBERG           BR   340  4,082,338
+4                  Chris W           GB   277  2,713,993
+5                    Gibby  QU_SCOTLAND   258  2,356,416
+6             Jamshaid ₹ɘȵ           PK   187  1,244,894
+7             THE AVENGERS           SG   172  1,057,686
+8                 Wizard67           GB   170  1,039,135
+9           Brendan Hurley           GB   155    865,748
+10                  L_____           CA   146    764,709
+11    monika Team Savant 🐋           DE   138    680,772
+12                     WJD           US   135    655,492
+13              Joe Straub           US   133    639,112
+14               Pink Soda           PH   133    635,698
+15      Autumn # No Boosts  QU_SCOTLAND   122    538,130

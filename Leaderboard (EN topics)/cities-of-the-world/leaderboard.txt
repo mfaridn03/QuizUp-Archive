@@ -1,0 +1,16 @@
+                       Player Country  Level     Total XP
+1                       Veyso      TR  2,250  177,427,326
+2                Jose Machado      PT    657   15,186,905
+3               Gustavo Tarre      VE    642   14,508,309
+4                     David J      GB    613   13,230,432
+5                    jperezal      ES    609   13,050,455
+6                 superoma_42      AT    595   12,465,321
+7                     Santiak      PL    500    8,798,130
+8     Wespe Savant Community🐆      DE    466    7,654,321
+9                 Sanjay Jain      IN    441    6,860,073
+10            Javier Gonzalez      ES    424    6,350,884
+11                  nonoscool      GR    412    5,996,578
+12                mk dasgupta      IN    407    5,850,900
+13  Alessandro Ricardo Vieira      BR    403    5,742,780
+14                    David's      US    403    5,733,493
+15                Odair Rizzo      BR    385    5,234,560

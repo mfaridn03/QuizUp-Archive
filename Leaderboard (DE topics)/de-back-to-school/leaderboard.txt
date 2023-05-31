@@ -1,0 +1,16 @@
+                                 Player Country Level    Total XP
+1                               Bine-36      DE   575  11,631,785
+2                              Kai21244      DE   365   4,710,081
+3   Petra Gorgas "Please, save the App"      DE   295   3,086,484
+4                                Eisbär      CH   294   3,071,317
+5                               Eckhard      DE   290   2,982,542
+6                            Frontignan      DE   238   2,014,782
+7                               AlmUndI      DE   184   1,203,674
+8                         SanMarco 1990      DE   176   1,106,296
+9                              Alibar99      AT   172   1,061,483
+10                                Dori1      DE   167     995,475
+11                          Jacky Maier      AT   165     972,118
+12                             Godspeed      IT   165     970,708
+13                       Petra Kaiserin      DE   156     870,712
+14                                  IkR      FR   153     840,526
+15                               Kiradu      DE   149     796,440

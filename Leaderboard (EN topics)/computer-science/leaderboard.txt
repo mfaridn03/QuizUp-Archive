@@ -1,0 +1,16 @@
+                             Player Country  Level    Total XP
+1                      Ken Zalewski      US  1,233  53,389,933
+2                      Bill Klavoon      US    795  22,226,644
+3                   George Mitchell      US    604  12,834,241
+4                     99puzzles.com      PL    443   6,910,959
+5                      Patrick Dube      CA    410   5,932,556
+6                   Sujeet Varshney      IN    401   5,679,161
+7                              Babu      IN    384   5,212,726
+8                       Aamir Yunus      US    377   5,031,962
+9                         Lars Beck      DE    369   4,801,344
+10                          spandan      IN    341   4,110,436
+11                              D1B      US    339   4,054,635
+12                           LouAnn      US    338   4,031,606
+13  EugeneB #E-ILA <-Save The App->      ZA    333   3,916,803
+14                              nil      TR    330   3,843,904
+15                         Niavaran      US    304   3,271,033

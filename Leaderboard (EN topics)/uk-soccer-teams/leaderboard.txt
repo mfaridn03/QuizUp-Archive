@@ -1,0 +1,16 @@
+                                     Player      Country  Level    Total XP
+1   Marie French 🦖 Team Savant Save the app           IE  1,553  84,661,207
+2                    Phil Ferguson ⚡Avant 💡  QU_SCOTLAND    780  21,380,593
+3                             BabyCody PLAU           IE    741  19,306,665
+4                                Phil Lewis           GB    456   7,324,458
+5                        Daddio # No boosts           GB    454   7,274,426
+6                                 Sheila Dc   QU_ENGLAND    419   6,194,547
+7                                    Shelle   QU_ENGLAND    372   4,889,708
+8                                aindow JWP           GB    350   4,338,680
+9                                Ken Linton           IE    338   4,047,366
+10                                     Feeb           GB    332   3,890,264
+11                            Michael Roche           IE    325   3,741,976
+12                                     tony   QU_ENGLAND    309   3,386,151
+13                                   Trotty           GB    306   3,321,766
+14                                 Ian Ward   QU_ENGLAND    302   3,237,732
+15                             Steve Miller           GB    295   3,091,085

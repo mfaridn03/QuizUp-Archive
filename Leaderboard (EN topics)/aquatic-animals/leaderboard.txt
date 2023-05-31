@@ -1,0 +1,16 @@
+                                Player Country Level    Total XP
+1                            CrazyFish      CA   848  25,297,425
+2                            Alan John      GB   647  14,745,835
+3                           Steve Read      GB   573  11,566,570
+4                    Dorothy G. #L~ILA      US   543  10,378,441
+5                                 MELL      TT   423   6,304,637
+6                                Pedro      US   378   5,047,333
+7                      Rainer Wahnsinn      DE   365   4,708,876
+8                            Tomz dogs      US   309   3,387,947
+9                                Lucky      US   292   3,026,896
+10            Chocolate (save the app)      GB   286   2,903,023
+11  WorldConflictReport/Alan#NO£€$4EXP      GB   286   2,900,288
+12                           Birdbrain      US   278   2,744,084
+13                           Bob's Mom      US   273   2,644,907
+14                                 Kaa      DE   264   2,474,339
+15                                Neil      GB   262   2,441,795

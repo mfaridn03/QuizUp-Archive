@@ -1,0 +1,16 @@
+             Player Country  Level    Total XP
+1       Mana Reaver      US  1,531  82,195,092
+2           Insanuu      GB  1,098  42,322,669
+3             Wobbs      US  1,006  35,545,761
+4             Kevan      SG    963  32,554,300
+5            sk_555      US    916  29,494,226
+6        Meow_Donna      US    868  26,463,289
+7   Maki #TeamSleep      CA    864  26,231,747
+8   Rashaun | ҜΞ 〽️      US    810  23,041,191
+9               Jay      US    785  21,652,319
+10           Timson      US    778  21,305,335
+11             Bean      SG    771  20,898,270
+12              Ess      CA    770  20,857,964
+13               Xi      US    767  20,707,071
+14           whoosh      US    764  20,535,608
+15      Igør #C-ILA      BR    734  18,933,687

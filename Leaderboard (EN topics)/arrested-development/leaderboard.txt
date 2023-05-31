@@ -1,0 +1,16 @@
+            Player Country Level   Total XP
+1    Carolina Wren      US   400  5,663,087
+2          Hface84      US   353  4,398,212
+3         Chuckles      US   244  2,123,403
+4       Rohen Shah      US   236  1,988,130
+5        Sean Sean      US   229  1,860,411
+6   Jimmy The Fish      CA   220  1,719,976
+7              Ali      US   199  1,416,857
+8   spunkyjeanious      US   192  1,313,340
+9       Pharm_girl      US   186  1,239,060
+10             CAH      US   172  1,061,759
+11    Brianne Hunt      US   170  1,035,399
+12     Rory Howard      US   153    839,358
+13          Kimo J      US   149    795,767
+14           Billy      US   148    790,458
+15    Tim Lawrence      GB   144    739,857

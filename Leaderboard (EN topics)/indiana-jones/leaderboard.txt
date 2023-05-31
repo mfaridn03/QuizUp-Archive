@@ -1,0 +1,16 @@
+              Player   Country Level    Total XP
+1       The Dead Man        US   647  14,724,520
+2        Davey Wavey        GB   375   4,977,673
+3              Susan        US   326   3,764,427
+4             soph07        FR   261   2,416,010
+5             Mr Max        GB   224   1,791,594
+6             Jem241        US   224   1,788,617
+7            Matthew        US   222   1,749,657
+8             Thrawn        US   215   1,648,566
+9       Sorry, I Win        US   214   1,637,607
+10            Laurie        US   210   1,567,198
+11           Stephen  QU_WALES   200   1,420,290
+12            SAVAGE        ZA   189   1,268,915
+13  DarthFluffiBunny        US   186   1,235,160
+14           Kevster        NZ   174   1,081,337
+15          CJ Reyes        US   170   1,030,864

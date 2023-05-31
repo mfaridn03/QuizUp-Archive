@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                  Lenny H      US   656  15,149,857
+2            Robble Bobble      GB   530   9,895,110
+3               Luckyheart      US   403   5,735,576
+4                 Scouseex      GB   384   5,223,668
+5   nicky :) #FREEG$LDBERG      BR   366   4,733,920
+6                  Spotter      GB   322   3,661,425
+7                   Banzai      US   241   2,070,425
+8                Bigdaddy2      US   213   1,608,335
+9                 Nolamuse      US   195   1,349,679
+10            Steve foster      US   192   1,315,441
+11            Nigel Tufnel      US   189   1,277,150
+12                 Katalox      US   188   1,254,987
+13                   Guido      US   186   1,239,374
+14                   Mikeb      US   185   1,221,156
+15              Robert Lew      US   173   1,071,163

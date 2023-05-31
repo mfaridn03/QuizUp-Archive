@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1    Elaine Saunders      GB   178  1,132,931
+2         Hunter ₹ɘȵ      US   152    828,510
+3         Emma Young      US   149    798,228
+4               Izzy      US   149    794,853
+5               Andi      US   139    692,717
+6              Jenny      US   138    682,634
+7   Omar Shri Buddhu      US   131    617,615
+8             Jasper      BE   115    477,428
+9           Simone D      CA   114    466,165
+10    RitterRunkel76      DE   110    438,945
+11              Greg      HK   106    406,929
+12         Loki deus      FR   106    406,085
+13          courtney      AU   103    381,569
+14             Annie      US   102    376,968
+15              Katy      US   102    375,807

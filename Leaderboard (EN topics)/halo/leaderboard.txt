@@ -1,0 +1,16 @@
+               Player      Country Level    Total XP
+1            Joe Burt           GB   827  24,051,171
+2   Matthew Patterson           US   666  15,607,304
+3               Ghost           CA   550  10,640,656
+4        Therese Dyra           IE   427   6,448,969
+5             MC Kyle           US   373   4,908,848
+6                Rose           IT   360   4,582,930
+7             Compton           US   349   4,306,889
+8            MikeyCFC   QU_ENGLAND   317   3,557,251
+9        Truth's Bane           US   315   3,511,884
+10    Ammon Middleton           NZ   307   3,334,788
+11               Kait           US   254   2,296,308
+12       Rebel Friend           SE   243   2,098,799
+13       Schuey [ֆȶო]  QU_NIRELAND   227   1,839,096
+14      Matt Watts :)           AU   225   1,794,177
+15               kuro           IN   219   1,706,402

@@ -1,0 +1,16 @@
+                             Player     Country Level   Total XP
+1                   Scrumdog #C-ILA          US   502  8,874,186
+2                       Patch Boyle          GB   501  8,859,867
+3                           Bullett          US   349  4,308,290
+4           Wespe Savant Community🐆          DE   335  3,980,692
+5                     Armando Mazón          MX   303  3,252,870
+6                       Neil M'Hael          IN   241  2,068,567
+7                      Chris Jordan          GB   220  1,716,351
+8   Chillin' ... “Savant Community”  QU_ENGLAND   216  1,658,935
+9                    Nick Greenwood          AU   199  1,414,725
+10                     Robert Roach          US   197  1,377,372
+11            Timothy Kevin Barrett          US   196  1,372,275
+12                         Sue Sims          GB   183  1,196,926
+13                       Fenris Ulf          US   180  1,157,954
+14                                M          IE   180  1,151,000
+15                        beckseggi          DE   176  1,109,955

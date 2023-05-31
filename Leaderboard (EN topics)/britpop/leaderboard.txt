@@ -1,0 +1,16 @@
+                               Player      Country Level   Total XP
+1                           ᑕᗩᖇᒪ  ₹ɘȵ   QU_ENGLAND   346  4,225,168
+2                            Feldkamp           DE   230  1,874,663
+3        Phillip Davies Saves the App           GB   228  1,846,318
+4                           M F Luder           NZ   226  1,821,120
+5                          jazz dalek           US   210  1,575,226
+6                        Van Nostrand           DE   205  1,492,844
+7                               Drexl           CA   167    999,402
+8                               Chris           GB   160    919,901
+9                          Sarah Dawn           GB   153    843,862
+10                               Wolf           GB   141    712,830
+11                         Chad Hogan  QU_SCOTLAND   133    634,721
+12  Matt Brown (Retired from Britpop)           GB   125    567,167
+13                      Jade Checkley           GB   118    505,255
+14                           dunnocks           IE   118    499,579
+15                            Mad Dad           US   116    487,079

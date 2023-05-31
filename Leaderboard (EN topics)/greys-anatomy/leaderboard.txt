@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1            NickiNicole      US   914  29,337,801
+2                  nicou      FR   805  22,809,666
+3   Raymond Douglas Owen      US   684  16,446,550
+4                   Rose      FR   443   6,915,493
+5             Barb Barth      US   421   6,256,984
+6            Justyne S ✯      US   411   5,960,554
+7          Greyza Natomy      BR   391   5,390,910
+8        Meeshell Cortez      KE   347   4,264,237
+9            Born To Run      US   344   4,195,629
+10               szimaat      HU   338   4,037,161
+11                 Nimmy      GB   333   3,929,053
+12                    Ed      RO   310   3,409,368
+13              Justyne.      US   309   3,381,130
+14          chaosqueen49      DE   309   3,375,725
+15                 Patty      CL   308   3,353,996

@@ -1,0 +1,16 @@
+                           Player Country  Level    Total XP
+1           Tanera "Save the App"      ES  1,609  90,872,936
+2   brinick "Please save the App"      DE  1,080  40,986,158
+3                 Veronica Flores      MX  1,060  39,485,620
+4               Christel Gehlhaar      DE  1,012  35,999,404
+5                     King Creole      US  1,009  35,734,878
+6                  Howard Solomon      US    906  28,831,849
+7             Tanya”Save the App”      ES    834  24,458,743
+8               Christel Gehlhaar      DE    833  24,395,528
+9                     Vera Vieira      BR    773  21,000,990
+10                           Tuca      BR    740  19,282,713
+11                    Kérin Éilís      US    706  17,540,004
+12                           Gary      US    677  16,122,162
+13     Ratna Kumar "Save the App"      IN    629  13,928,242
+14                Rolando Bazzara      AR    602  12,771,155
+15                    Victoria A.      PH    598  12,593,051

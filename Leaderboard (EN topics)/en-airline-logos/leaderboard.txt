@@ -1,0 +1,16 @@
+              Player Country  Level    Total XP
+1   محمد الصيد إدريس      LY  1,001  35,165,606
+2           Colorado      SK    742  19,370,470
+3         twin otter      BE    566  11,272,067
+4   Mohammed El Said      LY    563  11,173,943
+5             Julien      FR    538  10,213,155
+6                Dan      RO    480   8,111,412
+7         This is me      MA    459   7,423,379
+8             KishaK      JM    378   5,041,179
+9    Süleyman Bilgen      TR    332   3,906,949
+10       Arnav Singh      AU    302   3,227,250
+11         Ray Halim      US    285   2,884,997
+12    Joseph Chh Chh      SG    270   2,593,328
+13                BJ      AU    248   2,182,364
+14        Mukta Goel      IN    237   2,002,863
+15   (˶‾᷄ ⁻̫ ‾᷅˵) TM      CH    232   1,915,160

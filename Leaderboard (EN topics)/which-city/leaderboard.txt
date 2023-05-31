@@ -1,0 +1,16 @@
+                     Player Country  Level    Total XP
+1                    Victor      US  1,214  51,716,334
+2                     Laura      RO    753  19,935,346
+3   Wespe Savant Community🐆      DE    484   8,275,494
+4               superoma_42      AT    472   7,859,094
+5                    Xinola      DO    394   5,493,665
+6        Jean-Claude Helman      BE    379   5,077,116
+7                      J--B      US    354   4,434,477
+8                     Betty      DE    317   3,557,313
+9           tête de linotte      FR    312   3,452,283
+10         Grazyna Pospiech      DE    306   3,318,635
+11                   Renato      NL    301   3,216,537
+12             Edval Rincon      BR    300   3,188,667
+13                  Credvid      ES    300   3,186,119
+14     Herby1516  ⚡avant 💡🦈      CH    284   2,855,014
+15                     Mike      GB    278   2,748,361

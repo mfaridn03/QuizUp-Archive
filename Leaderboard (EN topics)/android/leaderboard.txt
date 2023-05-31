@@ -1,0 +1,16 @@
+                    Player Country Level   Total XP
+1                      nil      TR   386  5,276,447
+2             Ran Bar Levi      IL   373  4,920,193
+3                DIANA MoM      US   355  4,454,725
+4                   Shaila      IN   309  3,392,162
+5                  BIGHOSS      IN   293  3,033,373
+6          HATERSGONNAHATE      US   262  2,437,832
+7                 Ice13urg      US   249  2,194,592
+8   Kanjūrō® •[Outsiders]•      ZA   236  1,978,859
+9             Marlon Payne      US   214  1,632,796
+10         Neeraj Majumdar      IN   203  1,462,486
+11                  Gomini      IN   201  1,436,835
+12                   Isaac      GB   193  1,331,484
+13           Prateek Yadav      IN   180  1,152,352
+14           Joey Campbell      US   173  1,071,537
+15              Deep Singh      IN   159    900,858

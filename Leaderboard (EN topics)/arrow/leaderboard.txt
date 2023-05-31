@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1                   L      US   625  13,738,929
+2           Anthony10      FR   547  10,552,096
+3            Lelantus      US   334   3,958,677
+4          Sean Reddy      IE   324   3,721,442
+5                Sara      GB   311   3,418,337
+6              Arkade      MX   301   3,214,540
+7             Waranka      FR   273   2,648,199
+8            The Hood      US   265   2,492,785
+9   Philippe Ducastel      FR   231   1,900,031
+10    B. Right Jacobs      BE   220   1,717,595
+11             Vatsal      IN   212   1,605,782
+12      Amber Drasher      US   205   1,498,362
+13                 XŔ      PK   200   1,422,176
+14       Kahlua's Mom      CA   197   1,387,154
+15            ANTONIN      IT   195   1,353,192

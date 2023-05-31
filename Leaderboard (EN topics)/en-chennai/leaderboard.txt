@@ -1,0 +1,16 @@
+               Player     Country Level   Total XP
+1               Thora          RO   260  2,393,400
+2   Satish Sreedharan          US   188  1,265,293
+3    British Longhair          RO   170  1,028,623
+4        suresh menon          SA   139    689,857
+5          Diddy Scot          GB   131    620,828
+6                Raja          IN   124    557,082
+7     Nick Sudhir#ILA          IN   116    484,791
+8          ABDUL QADI  QU_ENGLAND   115    473,956
+9               Ashok          IN   108    423,007
+10    Rithigha #G-ILA          IN   101    366,887
+11              Hasna  QU_ENGLAND    87    278,731
+12                B.A          IN    86    270,557
+13         Renu Mehta          IN    85    265,595
+14               Saba          IN    84    260,183
+15      ﻬ ɞΔɞʏ ɢıяʟ ﻬ          IN    76    209,543

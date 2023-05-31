@@ -1,0 +1,16 @@
+                      Player      Country Level    Total XP
+1                       Nick           GB   539  10,251,886
+2                  konharrik     QU_WALES   484   8,271,025
+3   Novem, First of His Name           DE   444   6,942,394
+4                     Jotaro           US   356   4,476,745
+5            NoSweatBobaFett           AU   335   3,977,928
+6                    Ray N.I  QU_NIRELAND   324   3,713,737
+7                        Zen           US   320   3,636,457
+8             ✦ᎶᎯ爪Ꭿ山ίʆʆ 100+           BR   310   3,407,037
+9    lllThronelll #MathIsFun           US   304   3,277,321
+10                    waleb1           US   298   3,148,318
+11                 Chemmyboi           US   290   2,974,441
+12                  Jyggalag           US   284   2,861,831
+13                     Dawgs           GE   276   2,706,793
+14               Denis Weber           DE   269   2,563,502
+15                        Tj           CA   255   2,316,945

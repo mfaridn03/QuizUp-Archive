@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1               Rob Ar      AU   188  1,256,113
+2        Paresh Mashru      IN   132    629,507
+3         Chris Jordan      GB   100    359,391
+4             PRAKASH.      IN    92    309,185
+5      Shubhang #Ω๗εgα      IN    92    306,032
+6        Shubham Singh      IN    82    245,965
+7                 JVSD      IN    81    237,207
+8   Ajit Kumar Trivedi      IN    79    229,235
+9       Kiran Vasudeva      IN    75    208,140
+10          ~Priyanka~      IN    73    197,282
+11       Sashanka Deka      IN    71    184,838
+12   Syed Askari Abbas      PK    68    172,984
+13              Sudeep      IN    62    143,584
+14       Akshay Thatte      IN    62    143,067
+15               Dylan      IN    57    119,837

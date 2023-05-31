@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1   Arati Choudhury      IN   409  5,895,996
+2            keshto      NZ   407  5,845,577
+3             Daisy      IN   387  5,280,256
+4    radhey  radhey      IN   376  4,997,916
+5             Taara      IN   367  4,770,692
+6                SN      IN   348  4,285,965
+7   Dhurjati Sarkar      IN   340  4,080,196
+8       Lily Moraes      IN   245  2,126,925
+9             kapil      IN   245  2,124,896
+10             Sang      IN   230  1,885,018
+11       Kundan Lal      CA   218  1,693,354
+12   Ashalatha Amul      IN   218  1,686,234
+13            Honda      US   195  1,358,015
+14      Rashid Khan      IN   194  1,336,967
+15     Gocher Tarun      IN   192  1,312,232

@@ -1,0 +1,16 @@
+                          Player Country Level    Total XP
+1                  GraziellaElle      IT   690  16,768,480
+2                        Chelsea      US   596  12,518,641
+3                    Lronhampton      US   355   4,448,058
+4            _working class hero      US   316   3,536,032
+5                    Roger Groff      US   310   3,409,866
+6                      Austinite      DE   239   2,023,446
+7                           Bert      US   238   2,015,467
+8                 Stalker”s Back      US   224   1,791,031
+9                           Barb      US   215   1,643,971
+10                             C      FR   211   1,588,093
+11  Gerry-La verità che fa male.      IT   201   1,443,168
+12                 Darren Closen      US   179   1,139,896
+13                        Husky9      CA   177   1,123,170
+14                      Der Lars      DE   168   1,013,362
+15                    Mark Johns      GB   160     921,297

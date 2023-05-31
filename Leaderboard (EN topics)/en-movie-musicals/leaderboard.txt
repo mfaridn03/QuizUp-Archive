@@ -1,0 +1,16 @@
+            Player Country Level    Total XP
+1     Daddy Doofus      US   538  10,189,564
+2    Balladeer # 1      US   494   8,597,509
+3           Callie      US   473   7,890,571
+4           gLinda      US   467   7,684,338
+5        Slrshrink      US   463   7,556,189
+6           Clairv      US   248   2,190,628
+7         Karula77      US   247   2,172,208
+8             Gigi      US   213   1,614,552
+9    St. Louis Gal      US   200   1,427,357
+10    pennylambeau      US   200   1,419,338
+11        Ann Ryan      IE   199   1,411,517
+12   Andrew Hunter      ZA   197   1,386,420
+13    Karen Hewett      GB   176   1,101,519
+14             Tom      US   175   1,092,214
+15  Nicole Griffin      US   166     980,338

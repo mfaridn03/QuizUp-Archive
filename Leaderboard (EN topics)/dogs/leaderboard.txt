@@ -1,0 +1,16 @@
+              Player     Country  Level    Total XP
+1      Richkras 🌍UT💫          US  1,015  36,158,965
+2          (MUTTLEY)  QU_ENGLAND    829  24,134,653
+3           Tiny Tim          US    774  21,062,462
+4     Georgianne Lee          US    740  19,261,233
+5           BenBingo          DE    706  17,515,358
+6               Mopi          DE    642  14,492,613
+7            ElaLuna          DE    572  11,531,814
+8       Lenora Dobbs          US    554  10,802,259
+9      Jddy Lattanzi          CH    512   9,226,304
+10  Stephan Phillips          CA    442   6,909,656
+11             Plume          FR    439   6,792,944
+12         Tacchella          CH    405   5,802,865
+13          rosicool          DE    394   5,479,449
+14                mj          FR    392   5,428,026
+15              Mike          CA    359   4,551,454

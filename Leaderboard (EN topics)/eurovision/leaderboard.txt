@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1         Nigel Cash Δ χ      GB   622  13,618,781
+2               It's Rob      NL   581  11,909,166
+3                Raskila      LT   387   5,293,634
+4                  Nando      CH   310   3,402,524
+5   Vichy Hannes | ҜΞ 〽️      EE   300   3,178,846
+6            Robin Pelle      NL   280   2,780,167
+7             MarkGalway      IE   235   1,955,256
+8          Ronald Glaser      CH   221   1,732,208
+9                 Declan      IE   212   1,598,742
+10        DarthVader2121      DE   211   1,590,043
+11   Karen Jóhannsdóttir      IS   204   1,482,258
+12             heliaspao      GR   202   1,454,498
+13              Christos      CY   200   1,422,842
+14           Dmitriy.RUS      UA   196   1,370,947
+15          Kamil Bogacz      PL   184   1,215,078

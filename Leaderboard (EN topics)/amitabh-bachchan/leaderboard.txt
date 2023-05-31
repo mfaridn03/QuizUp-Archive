@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1   Abhay Srivastava      IN   466  7,664,147
+2              Jazzy      GB   424  6,357,959
+3      Sarita Mangal      IN   331  3,877,826
+4       Shahzad Khan      GB   288  2,933,442
+5         Jazz Sieng      AS   249  2,201,255
+6        Syed Younus      IN   232  1,907,713
+7    afthab t hassan      IN   224  1,790,736
+8                jai      IN   224  1,789,975
+9                Raj      IN   221  1,741,261
+10           Kalpana      IN   213  1,622,304
+11             Vijay      IN   212  1,594,842
+12        Parul Seth      IN   210  1,575,909
+13              Sj19      IN   209  1,550,760
+14      Charu Tandon      CA   207  1,528,474
+15         P.S.Varma      IN   197  1,390,035

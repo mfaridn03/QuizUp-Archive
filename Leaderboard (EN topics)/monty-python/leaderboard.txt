@@ -1,0 +1,16 @@
+                Player     Country Level   Total XP
+1            Desi Claw          US   346  4,225,950
+2               Godwig          GB   340  4,084,585
+3   Corgi boy   | ҜΞ 〽          US   280  2,788,534
+4               Graeme          GB   211  1,587,927
+5            John Camp          GB   173  1,072,945
+6                Rik V          BE   173  1,070,535
+7              K. Arhu          FI   158    892,096
+8            Liontamer          US   146    762,137
+9            Phil Wood  QU_ENGLAND   141    710,362
+10             Riccled          GB   133    639,550
+11            Potemkin          US   133    639,163
+12         fredericbtl          FR   131    615,336
+13         sam Garisch          ZA   125    563,752
+14    Rohin Gillgallon  QU_ENGLAND   122    536,392
+15    Brendan Richards          AU   121    528,886

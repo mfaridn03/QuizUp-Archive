@@ -1,0 +1,16 @@
+                   Player Country Level    Total XP
+1                 Francki      FR   654  15,056,330
+2                    Jörg      DE   433   6,608,112
+3            Yves Dussapt      FR   422   6,302,441
+4              lime green      PH   397   5,559,137
+5                     Jak      US   346   4,224,065
+6   You'll be assimilated      CA   337   4,017,653
+7                     D.🦂      FR   314   3,501,799
+8        Stefaan Marichal      BE   284   2,865,407
+9                Hoffi777      DE   276   2,707,404
+10           Coyote.Waits      US   254   2,299,021
+11          rickngangster      US   250   2,211,880
+12                  Skate      FR   248   2,176,999
+13                 Smokey      AU   237   1,995,893
+14                 Pigpen      US   230   1,885,111
+15             Mim Erasmo      PH   227   1,826,381

@@ -1,0 +1,16 @@
+                   Player Country  Level    Total XP
+1         Arati Choudhury      IN  1,216  51,885,445
+2                  Razdan      IN  1,015  36,175,759
+3         Sujata Koppikar      IN  1,000  35,095,688
+4                    Amit      IN    770  20,850,114
+5    Legendary Skysquid 🦑      US    744  19,471,964
+6                 Vinpu21      IN    669  15,773,752
+7              Lakshmi.ch      IN    652  14,985,587
+8        Lalitha krishnan      IN    650  14,879,331
+9                   Koral      IN    643  14,564,446
+10           AMIT PRAKASH      IN    612  13,189,317
+11        Indu Bala Batra      US    580  11,846,322
+12                   Indu      IN    506   9,038,876
+13  APARNA - Save the App      IN    481   8,161,093
+14          Savita sharma      IN    481   8,160,020
+15                Iyengar      IN    480   8,110,366

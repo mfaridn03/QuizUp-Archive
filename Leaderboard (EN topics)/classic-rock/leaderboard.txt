@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1                  ElenF      RU  1,265  56,152,864
+2                Candice      US  1,224  52,594,167
+3                    ej6      AU    925  30,064,940
+4   Paul Ignatius Zofteé      AU    887  27,663,316
+5                Chris H      US    707  17,563,434
+6        Walter Hartauer      DE    669  15,756,415
+7           Whett Reiser      US    571  11,469,206
+8                Chris H      US    489   8,441,421
+9              Tony Keen      US    482   8,197,601
+10         Phillip Mayer      US    476   7,998,965
+11                 Jingo      GB    444   6,970,235
+12                   WJD      US    407   5,856,800
+13   tree42 SAVE THE APP      AU    378   5,048,125
+14               Grandpa      US    374   4,948,314
+15                Rowi51      DE    369   4,814,593

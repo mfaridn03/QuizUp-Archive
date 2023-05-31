@@ -1,0 +1,16 @@
+                 Player      Country Level   Total XP
+1   Alex R save the app           IE   488  8,405,672
+2              Gk Singh           IN   370  4,829,452
+3        Brendan Hurley           GB   280  2,776,805
+4       Alepo Beliavsky           US   228  1,842,972
+5               A Gupta           IN   211  1,587,539
+6              Hagar123           BE   182  1,179,138
+7        Jurica Kovačić           HR   170  1,036,417
+8                Kahana           US   168  1,013,284
+9               Adamson           US   163    945,518
+10                   JW           US   132    627,099
+11          Jolly Roger  QU_SCOTLAND   123    543,640
+12       Dario Pokrivač           HR   116    485,480
+13         THE AVENGERS           SG   114    467,740
+14             DrAgnich           SI   109    433,129
+15     Sonal Ranathunga           LK   102    377,729

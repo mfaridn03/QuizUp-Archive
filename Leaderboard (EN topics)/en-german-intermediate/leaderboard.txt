@@ -1,0 +1,16 @@
+             Player     Country Level    Total XP
+1             Viper          NL   775  21,097,123
+2         DontBeSad          GB   507   9,077,814
+3             Stier          ZA   470   7,795,248
+4        Flybernite          ES   390   5,385,111
+5      Siswanto Sr.          ID   338   4,048,034
+6         luckylady          GB   320   3,624,539
+7             Karin          GB   310   3,404,064
+8              Rock  QU_ENGLAND   300   3,186,552
+9             Jenny          ES   281   2,792,527
+10         Toddo 71          DE   275   2,681,021
+11         Martl 48          DE   269   2,562,384
+12  Laura Valtierra          US   257   2,349,722
+13     FrauBenjamin          US   255   2,305,762
+14             Babs          NL   251   2,238,910
+15      Martin Hill          IM   247   2,169,334

@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1              M F Luder      NZ   876  26,966,375
+2                 XPA300      US   716  18,011,295
+3       FOX.  ( F.B.I. )      PR   611  13,157,742
+4          Brightthehour      CA   480   8,111,968
+5     Lizzy Bennet (Ele)      US   371   4,864,965
+6                  Vicky      US   343   4,171,562
+7             Mehdi dims      FR   340   4,100,201
+8   Rusty - Save the App      US   335   3,974,360
+9                Anferny      AU   333   3,924,615
+10        Elodie Tardiff      FR   306   3,310,827
+11                 Becca      CA   213   1,613,280
+12    Zaida Quijada Ruiz      MX   210   1,571,921
+13         Cerulean Blue      GB   202   1,449,192
+14             Banjosmom      US   199   1,416,972
+15               Estelle      AU   199   1,411,174

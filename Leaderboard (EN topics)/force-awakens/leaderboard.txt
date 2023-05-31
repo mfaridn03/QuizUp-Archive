@@ -1,0 +1,16 @@
+                          Player Country Level   Total XP
+1                    The Warrior      GB   300  3,179,799
+2                   Psyduck 100+      US   283  2,836,875
+3            ✦Ballino Bradbury ⚡      FR   263  2,450,444
+4                           `ash      US   237  1,990,617
+5                             Uz      GB   196  1,368,889
+6                         nobody      US   193  1,335,455
+7                        ReBenge      GB   180  1,151,394
+8                           jess      US   165    970,060
+9                   Craig Weymes      US   156    867,884
+10            triviasloth #C-ILA      US   142    721,712
+11             Michele Tiscareno      US   142    719,529
+12                 Padmé Amidala      US   135    654,055
+13                         NPC24      RU   132    623,828
+14                        Rachel      US   127    583,098
+15  Stargazingprisc #ChampionILA      US   120    516,510

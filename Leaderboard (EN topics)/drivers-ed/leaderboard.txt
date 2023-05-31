@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1                   Mark      US   347  4,262,347
+2                   Jack      US   271  2,613,368
+3          Dave Williams      US   271  2,603,796
+4                   Joel      US   253  2,269,802
+5                      🦄      US   235  1,955,426
+6   TENACIOUS 100+ (M.S)      US   196  1,373,048
+7               NICK1984      AU   191  1,295,246
+8            Lebbinabina      US   180  1,151,628
+9                 RLarcs      US   175  1,094,320
+10              Noonmark      US   173  1,065,607
+11                 Deb15      US   167  1,002,348
+12            Diddy Scot      GB   161    932,272
+13                  Mark      US   160    917,674
+14                  Paul      US   155    860,782
+15          Manju Jindal      US   151    814,358

@@ -1,0 +1,16 @@
+                Player Country Level   Total XP
+1                David      US   382  5,143,961
+2    DSC Arminia Kafka      DE   333  3,935,960
+3   Mojtaba Roshanfekr      IR   259  2,377,948
+4        Deltamanni ⚽️      DE   250  2,211,787
+5      Michael Baumann      CH   215  1,650,580
+6           Phil Lewis      GB   200  1,418,947
+7                    m      CA   198  1,400,666
+8         Antonintirol      DE   177  1,121,523
+9       Dario Pokrivač      HR   164    967,372
+10  Gunter Marschellek      DE   161    922,494
+11           Daniel 43      DE   152    829,804
+12             Mömmsen      DE   143    731,643
+13           Christi@n      DE   132    629,764
+14        THE AVENGERS      SG   124    556,752
+15            Silke S.      DE   124    555,145

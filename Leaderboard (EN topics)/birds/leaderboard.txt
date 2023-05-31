@@ -1,0 +1,16 @@
+                                      Player     Country  Level    Total XP
+1                                        Ann          GB  1,361  65,025,074
+2                                 Scferguson          CA  1,307  59,930,611
+3                                      JONNO          GB  1,002  35,260,944
+4                           Abhijeet Mhaskar          IN    648  14,772,685
+5                                    Planter          US    628  13,881,593
+6                                      Anton          ZA    525   9,721,493
+7                           Ravi Dutt Wadhwa          IN    467   7,684,010
+8                             Bird Whisperer          US    440   6,832,243
+9                                 Akaduchess          US    410   5,923,560
+10                                        JB          US    394   5,474,019
+11  FOREVER! Navelgazer!! See my silly hair!  QU_ENGLAND    374   4,951,515
+12                                Billy Goat          US    359   4,553,697
+13                          Eva Save the app          AU    357   4,501,099
+14                              Janet Holmes  QU_ENGLAND    353   4,411,702
+15                                        MG          CA    353   4,403,903

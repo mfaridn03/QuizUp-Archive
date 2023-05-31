@@ -1,0 +1,16 @@
+                  Player Country Level   Total XP
+1                 Bonham      US   454  7,266,941
+2                    LJS      US   421  6,254,463
+3                  Janeo      US   325  3,739,817
+4          2EZ🏀NBAKINGs💯      US   221  1,731,084
+5               Valentín      ES   146    759,996
+6   Let's Happy Together      US   127    577,041
+7          Doğukan Diner      TR   110    441,531
+8               Bribcool      CA   104    393,514
+9       Guillaume Celton      FR   104    391,075
+10             TRUE BLUE      US   102    376,765
+11        Dario Pokrivač      HR   100    366,034
+12                   Mwn      US   100    364,114
+13        Mario Pokrivač      HR   100    363,664
+14                  Beef      US   100    359,987
+15            Alp Koltka      TR    97    343,243

@@ -1,0 +1,16 @@
+                     Player     Country  Level    Total XP
+1                    Bobski  QU_ENGLAND  1,124  44,332,649
+2                       AR7          ZA    806  22,848,934
+3            Higgs Particle          SG    801  22,533,634
+4                    WingKi          CA    582  11,912,867
+5              Martin Gibbs          GB    509   9,146,873
+6        Deevanshu R Sharma          IN    383   5,192,165
+7   Michael | ҜΞ 〽 Lansdell          AU    369   4,801,292
+8                Sid muffin          GB    338   4,030,648
+9                       Rob          AQ    327   3,779,050
+10          Humphrey I ҜΞ 〽          KE    316   3,534,452
+11                Kleberson          TZ    297   3,123,449
+12                   Bobski          GB    291   2,992,363
+13                kofidornu          GH    285   2,876,621
+14            Imraan Essack          ZA    268   2,545,898
+15                   Paul C          CA    240   2,053,145

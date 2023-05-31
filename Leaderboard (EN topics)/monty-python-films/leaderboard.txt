@@ -1,0 +1,16 @@
+                  Player      Country Level   Total XP
+1               porkchop           US   339  4,065,443
+2             Moti Orgad           IL   301  3,220,332
+3     Corgi boy   | ҜΞ 〽           US   272  2,630,825
+4                  Gibby  QU_SCOTLAND   258  2,368,250
+5           Comboio Azul           PT   198  1,390,883
+6              John Camp           GB   184  1,202,944
+7            James Lyons           US   167  1,002,132
+8   Rusty - Save the App           US   159    901,742
+9          David Woodman           GB   145    756,915
+10                Dennis           US   139    696,806
+11         Bob Alexander           CA   119    514,016
+12     Boliver Shagnasty           US   118    498,459
+13                  Doug           US   116    484,787
+14              Todd ᴵᴸᴬ           AU   111    447,601
+15         Smitty McGoat           US   109    432,312

@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1                     Roar      US   629  13,934,111
+2                 Lucky511      DE   557  10,933,755
+3            Nilton Keffer      BR   380   5,098,840
+4                ma.isabel      PH   343   4,159,353
+5   nicky :) #FREEG$LDBERG      BR   338   4,038,049
+6      _working class hero      US   168   1,012,670
+7                  Nitefly      US   163     946,584
+8             Micah Millet      US   156     876,304
+9        Irwin M. Fletcher      GB   145     759,448
+10    Paul Ignatius Zofteé      AU   140     702,788
+11             slambert266      US   133     638,726
+12                  Bernie      US   126     573,110
+13                    Soup      US   125     561,102
+14                Fillabol      US   125     559,940
+15           Steen Laursen      DK   124     551,711

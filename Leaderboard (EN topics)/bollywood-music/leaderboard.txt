@@ -1,0 +1,16 @@
+                        Player Country Level   Total XP
+1                           AD      US   377  5,029,815
+2                      daksh a      CA   355  4,446,351
+3                       Shirin      IN   349  4,303,228
+4                         tara      CA   284  2,852,572
+5                          Sri      IN   242  2,088,298
+6                       Aniket      IN   233  1,934,137
+7               Anshu Bhargava      IN   209  1,549,017
+8                 Black Forest      IN   208  1,546,996
+9   अनन्य कपूर (Ananya Kapoor)      IN   177  1,123,116
+10               Girish Madavi      IN   177  1,115,612
+11                     mridula      IN   176  1,103,958
+12                        Anni      NZ   161    923,665
+13          Ajit Kumar Trivedi      IN   142    729,149
+14                        Ampu      CA   127    581,704
+15               Leena Jayakar      IN   126    576,311

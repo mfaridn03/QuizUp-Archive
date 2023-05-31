@@ -1,0 +1,16 @@
+                    Player Country  Level    Total XP
+1          YMdF1954 #L-ILA      BE  1,015  36,207,018
+2                  ramtime      US    836  24,548,213
+3              Navy #Э-ИЛА      RU    810  23,049,503
+4                   andrea      DE    505   8,982,170
+5           Dik #Elite ILA      ES    502   8,878,920
+6   nicky :) #FREEG$LDBERG      BR    366   4,736,980
+7                  Wilsede      DE    352   4,378,189
+8                The Madre      US    349   4,300,341
+9     monika Team Savant 🐋      DE    348   4,291,832
+10                    Pepe      DE    304   3,279,370
+11            TheWilsonDuo      GB    303   3,244,893
+12     Jon Thor Johannsson      NO    302   3,234,760
+13                     APK      IE    277   2,718,915
+14     Arthur # Legend*ILA      ES    276   2,703,861
+15               Major Tom      IE    275   2,686,981

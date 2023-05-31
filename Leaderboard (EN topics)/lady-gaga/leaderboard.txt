@@ -1,0 +1,16 @@
+                         Player     Country Level    Total XP
+1                       Charles          US   948  31,594,261
+2                       Anthony          NZ   345   4,218,116
+3                      Boyvirgo          NZ   263   2,450,771
+4                   WhiteRain 🦋          CA   252   2,251,632
+5   🐲💣 ㄥᶤ𝔩เᵃή𝓃𝒶 𝕎ίⓁⓓ𝔢 ☢♣ #G-ILA          US   251   2,233,291
+6                    Lålirinskÿ          CA   216   1,656,044
+7                  Red Lion ֆȶო          AU   205   1,493,823
+8                         Dylan          GB   178   1,136,485
+9                Luke Hutchings  QU_ENGLAND   170   1,036,890
+10                  Lynn Conrad          US   170   1,029,764
+11                  joey stobbs          GB   166     987,646
+12                Baylee Bug 98          CA   165     975,632
+13                       Bojana          RS   153     844,361
+14                Budi Soemargo          ID   150     806,309
+15                         Kara          AU   150     802,911

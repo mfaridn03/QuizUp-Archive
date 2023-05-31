@@ -1,0 +1,16 @@
+                      Player Country Level   Total XP
+1                      Karan      BD   480  8,127,126
+2                Lily Moraes      IN   399  5,612,917
+3                      Daisy      IN   373  4,920,746
+4               Invoker™ ₹ɘȵ      IN   373  4,912,948
+5                        Dev      IN   316  3,534,885
+6                Manju Sheel      IN   315  3,511,060
+7                     Shirin      IN   296  3,100,869
+8                     shobha      IN   267  2,534,118
+9                  Gurwinder      CA   231  1,905,600
+10          Harpal Kaur Dham      IN   220  1,730,160
+11                   Shabana      US   210  1,564,765
+12  poonam Chitkara sachdeva      IN   201  1,437,855
+13                      Tina      GB   198  1,397,511
+14                 Ash Uppal      IN   195  1,350,012
+15            Baljit Bhinder      IN   176  1,112,367

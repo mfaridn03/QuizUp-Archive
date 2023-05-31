@@ -1,0 +1,16 @@
+                  Player      Country Level    Total XP
+1                    ej6           AU   756  20,098,551
+2                Candice           US   456   7,323,079
+3    Debbie Save The App   QU_ENGLAND   393   5,446,349
+4                 Yannis           GR   389   5,357,354
+5       Susan McAllister  QU_SCOTLAND   389   5,335,850
+6          GraziellaElle           IT   385   5,225,443
+7               Lucky511           DE   355   4,449,671
+8                RJBerry           US   296   3,113,287
+9   Starlight Starbright           US   275   2,674,747
+10           Fran Harris           GB   274   2,657,484
+11                Sharon           US   259   2,376,722
+12                  BAM!           US   226   1,811,990
+13            Godsgirl62           US   209   1,555,499
+14         Paula Pollock           GB   205   1,500,935
+15              Vinz 666           FR   196   1,369,166

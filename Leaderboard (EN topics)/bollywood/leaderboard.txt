@@ -1,0 +1,16 @@
+            Player Country  Level     Total XP
+1    Vinayak Nayak      IN  1,832  117,649,792
+2     Invoker™ ₹ɘȵ      IN  1,007   35,601,969
+3            Indie      GB    632   14,063,868
+4             Mimi      NZ    619   13,478,116
+5             saty      IN    528    9,817,542
+6            Атиш.      IN    512    9,241,344
+7       Amit Bhatt      IN    428    6,454,992
+8   Vijay Ranglani      IN    388    5,332,758
+9     Gocher Tarun      IN    372    4,889,181
+10        prjashsh      IN    347    4,263,796
+11   Poonam Kapoor      IN    346    4,231,671
+12      Mala Singh      IN    342    4,128,543
+13          Shirin      IN    340    4,079,633
+14        Mum of 3      US    326    3,771,612
+15   Sarita Mangal      IN    324    3,726,406

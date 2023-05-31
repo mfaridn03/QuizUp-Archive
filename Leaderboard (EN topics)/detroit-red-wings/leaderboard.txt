@@ -1,0 +1,16 @@
+                           Player      Country Level    Total XP
+1                   Victor Mature           CA   612  13,177,517
+2                            Jude           US   304   3,277,590
+3     Sommervillefred@hotmail.com           CA   180   1,155,389
+4   Princess Yue - Save this App!           DE   140     703,650
+5                        smichael           US   137     674,912
+6                         Phoenix           CZ   132     626,250
+7                        Aline V.           FR   114     467,383
+8                          Jude B           US   112     449,564
+9                        Robzilla           US   109     431,239
+10                Michael Skoboda           US   107     417,604
+11                     I am Groot           US   104     392,074
+12                       Kristine           US   103     383,192
+13                       Mr Mochi           US    86     267,006
+14                  Ross McMillan  QU_SCOTLAND    81     238,035
+15                        Thee Ox           US    76     214,601

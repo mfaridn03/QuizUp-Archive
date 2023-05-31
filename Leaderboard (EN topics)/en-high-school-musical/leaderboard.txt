@@ -1,0 +1,16 @@
+                         Player Country Level   Total XP
+1                           ajm      ZA   309  3,384,112
+2                    princess ღ      US   233  1,935,752
+3   #C-ILA Troy Bolton (Trevor)      GR   178  1,137,410
+4                        Kirito      US   176  1,108,453
+5                   s.incerelyy      US   171  1,041,008
+6                  Shawn Larson      US   170  1,035,819
+7                Anthony Bolton      US   154    848,069
+8                           tas      NL   142    721,102
+9                 Havish Asrani      IN   130    611,820
+10               Rimma Blokhina      RU   125    564,646
+11           Trip Heath Johnson      AU   125    561,265
+12                  Jillian Jay      CA   121    531,253
+13                Mike Ruggieri      US   121    528,172
+14                    Brashayaa      CA   115    474,678
+15                        Robin      US   114    470,124

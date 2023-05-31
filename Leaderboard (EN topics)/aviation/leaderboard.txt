@@ -1,0 +1,16 @@
+           Player Country Level    Total XP
+1   William Flint      AU   612  13,188,055
+2            Paul      US   548  10,570,354
+3        FastFred      US   528   9,834,686
+4             M.A      AE   473   7,899,484
+5          kief22      FR   447   7,043,526
+6         Rev Tim      GB   373   4,924,848
+7    Sean Holland      US   365   4,711,872
+8     Micky Evans      CA   337   4,017,694
+9             Zoe      GR   336   4,005,691
+10         Josh A      US   335   3,963,774
+11        Qhgiant      GB   334   3,955,521
+12         Hiddly      CY   299   3,167,228
+13       CJ Reyes      US   285   2,880,902
+14          usman      SN   277   2,720,875
+15     Tnflyguy81      US   276   2,707,237

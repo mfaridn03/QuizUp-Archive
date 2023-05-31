@@ -1,0 +1,16 @@
+                      Player     Country Level    Total XP
+1                   Karant23          US   629  13,927,039
+2                   Darren G  QU_ENGLAND   542  10,362,746
+3             Jean Sutcliffe          GB   338   4,050,596
+4                        MRB          DE   334   3,953,645
+5                  SteveMc12          AU   314   3,499,720
+6   Judith Havelock de Waele          GB   284   2,851,506
+7                     Jeanna          US   283   2,847,581
+8                      Anita          IN   278   2,745,279
+9                      Jilly          US   265   2,497,360
+10                    Marsha          US   261   2,426,652
+11      suzy - Save The App.          ID   250   2,227,411
+12                    stella          GR   242   2,072,900
+13           Sue Ellerington          GB   234   1,950,217
+14                 Lorrianne          NZ   220   1,726,796
+15                  Francois          US   216   1,661,458

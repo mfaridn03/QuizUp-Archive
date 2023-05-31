@@ -1,0 +1,16 @@
+            Player Country  Level    Total XP
+1      Michael  67      DE  1,092  41,880,953
+2      Jason Jolly      GB    576  11,679,242
+3       Michael V.      DE    561  11,095,731
+4      YellowRonin      PH    433   6,610,783
+5            Steve      US    420   6,218,857
+6           Carlos      ES    419   6,207,963
+7         Hannah L      US    369   4,804,287
+8   Stephen Fiskio      IT    328   3,797,199
+9           Gerfff      US    304   3,265,418
+10           opytz      SK    297   3,120,072
+11           pixel      ES    245   2,138,846
+12           Lucas      BR    239   2,026,879
+13         Lar-man      US    232   1,907,499
+14    Kev Liegeois      FR    224   1,780,102
+15      J B Barnes      CA    220   1,723,016

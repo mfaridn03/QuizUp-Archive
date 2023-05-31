@@ -1,0 +1,16 @@
+                   Player     Country  Level    Total XP
+1                   Ghost          US  1,216  51,936,831
+2                  Monika          DE  1,174  48,355,327
+3         Jakg100@youtube          FI    791  22,016,287
+4                 Bröserl          AT    647  14,716,568
+5                 Alk Alk          FR    614  13,286,015
+6                 Gnasher  QU_ENGLAND    608  13,015,228
+7       Rodolfo Ariel Coi          AR    582  11,932,241
+8              Schumi9495          DE    550  10,666,057
+9                Blue Sun          DE    490   8,481,814
+10           Peter Wetter          DE    483   8,216,250
+11                   Jake          GB    470   7,807,767
+12                 Julien          FR    422   6,280,982
+13  FastFred SAVE THE APP          US    418   6,173,604
+14           Katharina 55          DE    414   6,054,344
+15           Kevin Kung'u          KE    403   5,734,614

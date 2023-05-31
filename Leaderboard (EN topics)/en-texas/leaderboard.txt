@@ -1,0 +1,16 @@
+                      Player Country Level   Total XP
+1                   Julianna      US   445  6,999,013
+2                    Adamson      US   360  4,579,436
+3                     Kahana      US   352  4,391,443
+4               Craig Powell      US   306  3,313,579
+5          Boliver Shagnasty      US   284  2,852,610
+6              Willis Gordon      US   242  2,072,929
+7                  Austinite      DE   232  1,915,713
+8                    Shawn25      US   231  1,896,302
+9                      Error      US   229  1,862,369
+10                        JW      US   200  1,430,584
+11                 Pottydave      GB   200  1,420,157
+12  Bjornb🌍UT💫-save the app-      US   197  1,385,762
+13                      Mike      US   175  1,095,410
+14            R.L.Richardson      US   172  1,061,110
+15                  Longhorn      US   168  1,007,205

@@ -1,0 +1,16 @@
+                            Player Country  Level    Total XP
+1                            Rob G      US  1,446  73,396,617
+2                             BigE      US    940  31,058,001
+3                    Crusaders Tan      AU    855  25,722,321
+4                          Fred P.      CA    806  22,847,910
+5                            Manju      IN    800  22,510,778
+6                     Helen | ҜΞ 〽      IN    780  21,402,577
+7                          Martina      IE    771  20,930,292
+8                      Brawnytopia      US    730  18,769,504
+9                        SnowFlake      US    711  17,772,279
+10                            Babs      NL    685  16,520,223
+11                            35mm      CA    683  16,413,272
+12                         Shivani      IN    669  15,771,292
+13                    Ena Willmoth      GB    659  15,300,770
+14                     Richard 817      US    658  15,241,977
+15  Copperdome Bodhi #Save The App      IN    636  14,245,423

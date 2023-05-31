@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1                 ajm      ZA  1,038  37,857,384
+2           Bonnie C.      US  1,038  37,837,714
+3                  BC      US    873  26,776,912
+4               Brian      US    596  12,517,182
+5               Linda      US    512   9,245,830
+6              Royal5      US    502   8,878,988
+7   Shachorah Yehudah      US    498   8,735,059
+8                   S      IL    482   8,180,953
+9      Sonny Varghese      IN    481   8,173,584
+10              Doris      US    456   7,348,078
+11       Bunnies Snow      CA    417   6,148,937
+12          alperaihl      AU    414   6,041,849
+13            LaVolla      US    398   5,594,337
+14        McMoonraker      GB    363   4,651,732
+15              Sarah      GB    350   4,333,270

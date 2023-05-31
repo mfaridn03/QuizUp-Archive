@@ -1,0 +1,16 @@
+                   Player Country Level   Total XP
+1   APARNA - Save the App      IN   292  3,031,643
+2            THE AVENGERS      SG   292  3,022,244
+3                     Dun      NZ   238  2,007,907
+4              A M KIDWAI      IN   183  1,198,191
+5         Sujatha Molleti      IN   127    581,712
+6                  Vashti      TT   120    523,742
+7                Bharathi      IN   117    491,378
+8                 Arifa N      TT   117    490,913
+9            Vikash Kumar      IN   114    470,697
+10                 Vittoo      US   113    460,162
+11        Krishna Chandra      IN   106    408,293
+12                   Sana      IN   103    387,814
+13          ɪɴᴅʀᴀ ʙʜᴜꜱʜᴀɴ      IN   100    363,779
+14          Sarthak Tyagi      IN   100    361,678
+15             Loxodontoc      US   100    360,446

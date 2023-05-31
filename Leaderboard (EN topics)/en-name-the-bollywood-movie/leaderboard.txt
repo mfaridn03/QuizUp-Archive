@@ -1,0 +1,16 @@
+             Player Country Level   Total XP
+1   afthab t hassan      IN   426  6,409,034
+2   afthab t hassan      IN   272  2,621,857
+3      Invoker™ ₹ɘȵ      IN   180  1,153,446
+4              Tina      GB   163    950,685
+5        Waqas Khan      PK   160    916,694
+6        Nisha Khan      IN   153    844,338
+7            Ganesh      IN   148    786,725
+8       Manju Sheel      IN   135    656,044
+9     ANKIT BIRATIA      IN   127    581,087
+10       JAY RATHOD      IN   119    514,012
+11        Miis12128      IN   118    503,593
+12            Djinn      IN   115    474,663
+13             saba      IN   114    471,498
+14     Jagruti Shah      IN   111    445,298
+15    Vibhuti Handa      IN   111    443,498

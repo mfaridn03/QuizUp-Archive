@@ -1,0 +1,16 @@
+                                          Player Country Level    Total XP
+1                                          Renee      US   716  18,032,090
+2                                          Mozen      HR   642  14,525,659
+3                                 Phillip Davies      GB   497   8,716,358
+4                                        deleted      US   448   7,089,555
+5                                       Feldkamp      DE   437   6,730,942
+6                   Phillip Davies Saves the App      GB   410   5,927,007
+7                                            Mat      FR   366   4,732,170
+8   Ape X  SAVE THE APP  ₹ɘȵ  aka  Anthropic Evo      FR   336   3,987,930
+9                                          Lnaki      GR   333   3,916,501
+10                                  Van Nostrand      DE   308   3,358,122
+11                                           mcd      US   284   2,851,154
+12                                       Le Lazz      FR   240   2,050,883
+13            Vega Mateo (The Headmaster Ritual)      EC   206   1,514,007
+14                                        Brioul      FR   205   1,499,541
+15                                    Mark Heyes      GB   203   1,470,364

@@ -1,0 +1,16 @@
+                          Player   Country Level   Total XP
+1                Smooth Criminal        US   503  8,913,644
+2                           Andy        GB   360  4,583,776
+3                          Speez        CA   275  2,678,140
+4                   BurrioKontos        GB   272  2,619,923
+5   Alice Mary Chelsea McCormack        GB   268  2,541,765
+6                        Howelsh  QU_WALES   265  2,491,303
+7                     Jeff Dixon        US   261  2,419,692
+8              Melissa Highbaugh        US   253  2,277,974
+9                    JohnniePolo        US   250  2,222,294
+10                   Ryan Taylor        CA   222  1,747,699
+11                 David Chicago        US   215  1,649,648
+12                           mcd        US   200  1,419,179
+13                            JY        GB   198  1,400,833
+14                     [INK] ~-~        GB   191  1,299,553
+15               Sander Wallaert        BE   182  1,188,555

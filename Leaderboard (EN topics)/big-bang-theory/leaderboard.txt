@@ -1,0 +1,16 @@
+                    Player      Country  Level    Total XP
+1            Tracy Jacques           GB  1,529  82,074,162
+2                   Paul S   QU_ENGLAND  1,386  67,432,542
+3   Dragon ( Whips Tail! )           CA  1,102  42,617,571
+4                   M Buch           BR    940  31,025,962
+5                    April           US    854  25,648,140
+6             Dražen Makaj           HR    841  24,867,160
+7                Pixie5163           US    791  21,976,826
+8                  Mi-Schi           CH    790  21,922,239
+9                   Debbie           US    666  15,604,460
+10                    John           US    621  13,599,722
+11                   Renee           US    614  13,274,812
+12            Alfredo AnVe           MX    585  12,036,101
+13                 Manuela           DE    522   9,620,524
+14            Craig Gollan  QU_SCOTLAND    519   9,510,194
+15                   kathy           US    478   8,045,314

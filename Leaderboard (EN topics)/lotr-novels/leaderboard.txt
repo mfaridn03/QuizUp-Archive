@@ -1,0 +1,16 @@
+                    Player Country Level    Total XP
+1     Legendary Skysquid 🦑      US   930  30,370,586
+2                    Mikel      GB   846  25,173,394
+3   Rajendra Prasad Gorthi      IN   567  11,306,674
+4              Patch Boyle      GB   554  10,798,915
+5                    Ester      BR   520   9,541,773
+6                      SDF      CA   459   7,419,906
+7          Scrumdog #C-ILA      US   456   7,329,638
+8               Heisenberg      BR   445   6,986,691
+9              Neil M'Hael      IN   425   6,384,705
+10                 Charlie      FR   415   6,083,278
+11            Pierre Sagot      BE   380   5,109,113
+12                   Magda      US   372   4,884,056
+13                Thorsten      DE   372   4,883,495
+14                  Kialoa      US   356   4,486,158
+15                  Isilme      FR   339   4,075,896

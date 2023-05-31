@@ -1,0 +1,16 @@
+                    Player      Country Level    Total XP
+1                      Oma           US   737  19,087,022
+2              Paul Garcia           ES   439   6,799,282
+3                     Amik           CA   275   2,687,465
+4   Christa P Save the App           DE   270   2,583,630
+5                    Wilma           GB   249   2,203,573
+6                 Dokmccoy           US   240   2,049,518
+7         Susan McAllister  QU_SCOTLAND   237   1,988,624
+8           Shelley Faubel           US   230   1,875,700
+9                     Fish           US   189   1,270,734
+10               Pixie5163           US   184   1,208,225
+11                Toddo 71           DE   172   1,059,103
+12              Brett 1313           US   165     969,601
+13               KarineB71           FR   164     961,451
+14            EmmyD #L-ILA           GB   158     897,542
+15            Eileen Agius           AU   153     833,741

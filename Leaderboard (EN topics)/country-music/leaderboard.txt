@@ -1,0 +1,16 @@
+            Player Country  Level    Total XP
+1     Sandra Watts      US  1,121  44,164,295
+2      Roger Groff      US  1,058  39,309,121
+3       Werner2412      DE    863  26,157,892
+4           SueAnn      US    646  14,677,463
+5            Halos      US    600  12,665,787
+6   Stewart Sroufe      US    346   4,241,182
+7     James Ehlers      US    339   4,062,635
+8           Julien      FR    316   3,534,052
+9              Sue      US    305   3,287,334
+10            Yama      JP    297   3,128,707
+11     Lronhampton      US    295   3,076,124
+12    Dan Richards      US    265   2,498,860
+13         Nath KL      FR    260   2,394,217
+14   Mike Fletcher      US    251   2,230,719
+15        Mcfc4eva      GB    231   1,889,508

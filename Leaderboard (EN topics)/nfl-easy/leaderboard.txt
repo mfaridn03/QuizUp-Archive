@@ -1,0 +1,16 @@
+                 Player Country Level    Total XP
+1                 Train      US   832  24,360,338
+2                 VINCE      US   480   8,122,405
+3                ✦ɩναη֎      MX   401   5,670,052
+4               Mike J.      US   374   4,935,958
+5                 Karin      US   364   4,672,067
+6          xo Jonesy xo      CA   290   2,973,770
+7                Go Pre      US   286   2,892,781
+8                Donald      US   278   2,739,774
+9            Packer Doc      US   259   2,379,294
+10      Smooth Criminal      US   250   2,222,336
+11  Taylor Scott Hinson      US   250   2,217,930
+12              Eddie-E      US   243   2,094,988
+13        MeatballRules      US   238   2,012,405
+14         Logan Broome      US   235   1,966,112
+15             Steve E.      US   234   1,947,149

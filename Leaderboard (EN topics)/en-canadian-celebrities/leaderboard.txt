@@ -1,0 +1,16 @@
+              Player Country Level   Total XP
+1      ~~ Ali ~~ ₹ɘȵ      CA   400  5,649,065
+2               Deon      US   362  4,644,634
+3            Mona Lu      DE   347  4,259,163
+4         Cathy 🌎UT💫      CA   157    877,516
+5       Pete Delorme      CA   147    774,450
+6             Mike L      US   125    559,377
+7         Tim A. Mau      CA   123    545,284
+8             Sherri      CA   119    514,459
+9           Point 15      CA   108    424,403
+10  Ashik Antony LFC      IN   108    420,659
+11        Micky Evan      CA   105    398,520
+12   Michael Anthony      CA   104    393,911
+13      Gunner Grant      CA   101    367,352
+14               HBU      US   100    361,473
+15      Sharon Chase      US   100    361,353

@@ -1,0 +1,16 @@
+                Player      Country Level   Total XP
+1   Tenacious D    In*           US   358  4,544,380
+2           RockyMnWay           US   248  2,177,764
+3             Ian Ward   QU_ENGLAND   248  2,177,407
+4       Brendan Hurley           GB   242  2,085,491
+5            MJM Big D           US   242  2,076,098
+6         Brian Osmond           CA   215  1,638,964
+7     🐮 Happeecow 🌍UT💫  QU_SCOTLAND   181  1,168,339
+8                 Bart           BE   179  1,146,316
+9                Mandy   QU_ENGLAND   155    860,344
+10         Henchman 21           US   154    845,103
+11                 ej6           AU   151    820,752
+12      Clementia 🌏UT💫           DE   150    801,652
+13         Éric cndzgs           FR   146    768,978
+14          JamesIrish           US   146    765,663
+15             Clashix           FR   145    756,668

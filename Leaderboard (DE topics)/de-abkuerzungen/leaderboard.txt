@@ -1,0 +1,16 @@
+               Player Country Level    Total XP
+1                 Ela      DE   607  12,975,632
+2             Gruschu      DE   577  11,739,915
+3               Gizmo      DE   428   6,465,943
+4           JotttEsss      DE   359   4,546,789
+5              Eithne      DE   263   2,447,349
+6             19eli55      DE   206   1,506,403
+7             AlmUndI      DE   184   1,202,641
+8             SirEule      DE   182   1,188,452
+9       Frau X. Aus R      DE   181   1,165,181
+10         Comedix.de      DE   178   1,135,226
+11               pedi      DE   173   1,064,132
+12  Martin Winkelmann      AT   165     977,923
+13         Vegasliese      DE   164     957,081
+14           Geronimo      CH   161     923,023
+15        Dirk Helmke      DE   151     813,204

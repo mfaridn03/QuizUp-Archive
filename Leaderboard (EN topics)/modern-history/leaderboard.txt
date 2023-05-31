@@ -1,0 +1,16 @@
+                       Player     Country Level    Total XP
+1                         Mel          US   750  19,774,839
+2                         APK          IE   652  14,951,560
+3                        Mike          US   563  11,163,864
+4                  Bertolucci          DE   509   9,130,431
+5              Dik #Elite ILA          ES   505   8,989,912
+6                     Chris W          GB   470   7,794,457
+7                Alice #M-ILA          US   464   7,609,904
+8                       Nelly          DE   401   5,674,094
+9                     DaveB66  QU_ENGLAND   336   3,987,358
+10             Гаврил1(СРБИН)          DE   314   3,494,266
+11                        Rob          US   313   3,476,217
+12                  Pink Soda          PH   313   3,471,857
+13  Alessandro Ricardo Vieira          BR   250   2,219,577
+14                    Zigomar          FR   248   2,187,131
+15                Ana Palijaš          HR   235   1,970,193

@@ -1,0 +1,16 @@
+               Player Country  Level    Total XP
+1           Osha 🌍UT💫      US  1,401  68,870,429
+2          The Maiden      US  1,106  42,992,499
+3               Karsa      CA  1,100  42,454,794
+4         King Minion      ZA  1,033  37,507,973
+5   Ｗαʀʀιɸʀ Θυεεƞ ₹ɘȵ      US    977  33,518,667
+6          Lady Sansa      US    832  24,326,895
+7   Dr. Stranger 🌍UT💫      US    737  19,082,669
+8         Neil M'Hael      IN    713  17,867,209
+9          Susan Snow      GB    657  15,201,343
+10               SEBF      US    630  13,974,709
+11        The Warrior      GB    614  13,255,175
+12          Prakruthi      IN    608  13,005,465
+13  Victarion Greyjoy      US    603  12,784,560
+14      The Red Woman      US    600  12,658,005
+15                Pia      BW    596  12,512,453

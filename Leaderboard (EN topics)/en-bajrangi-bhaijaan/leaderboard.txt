@@ -1,0 +1,16 @@
+                Player     Country Level   Total XP
+1        Vinayak Nayak          IN   335  3,960,560
+2         Arun Badesra          IN   152    822,987
+3           Indain Boi          IN   119    507,966
+4         Bhakti Doshi          IN   110    435,801
+5   Him@nshu Ch@udhary          IN   104    395,062
+6                 Sona          IN   100    360,585
+7         Kunta Bakshi          IN    96    335,400
+8              Akki AG          IN    86    270,147
+9        purvam gandhi          IN    85    262,079
+10              kainat          IN    84    256,575
+11         Hamza Anwar          IN    83    250,986
+12                 Sri          IN    81    242,964
+13             trulysa          SA    80    232,396
+14        Raheem Nazir  QU_ENGLAND    72    191,178
+15   Shivang Choudhary          IN    71    183,374

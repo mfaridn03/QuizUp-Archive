@@ -1,0 +1,16 @@
+                  Player Country Level    Total XP
+1   Maverick #Legend-ILA      IN   731  18,795,900
+2        Arati Choudhury      IN   226   1,811,324
+3              Chandrika      IN   161     928,748
+4          Bhawna Sekhri      IN   160     918,532
+5           Minnal Tyagi      IN   117     491,840
+6        WJohn#Elite-ILA      US   106     406,850
+7          Kanchan Joshi      IN   103     385,338
+8                Bajwauk      GB   101     368,103
+9                Autumn1      IN   100     360,203
+10                 Kittu      IN    98     345,486
+11                 sandy      IN    93     316,689
+12          Sujata Mehta      IN    80     233,406
+13           Pranav Arun      IN    79     231,038
+14           Tvisha Vyas      IN    76     212,720
+15               Surabhi      IN    74     201,338

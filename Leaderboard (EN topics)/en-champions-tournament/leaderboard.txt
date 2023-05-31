@@ -1,0 +1,16 @@
+                Player Country Level    Total XP
+1           Bertolucci      DE   734  18,928,650
+2            The • Don      US   696  17,051,423
+3   lawrence fernandes      IN   437   6,727,420
+4            Geraldine      GB   418   6,154,988
+5                 Vera      DE   371   4,867,355
+6         Red red Rose      FR   348   4,284,810
+7              Fab.Mat      FR   308   3,354,147
+8              Carolyn      US   303   3,250,028
+9               Deacon      US   297   3,134,636
+10               Anita      US   294   3,054,454
+11                   .      US   268   2,557,768
+12          Deus vult!      US   268   2,547,451
+13       Monica Guerra      AR   253   2,272,583
+14                 IkR      FR   251   2,229,654
+15             P🌷mpkin      CL   246   2,148,597

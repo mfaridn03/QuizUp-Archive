@@ -1,0 +1,16 @@
+                  Player Country  Level    Total XP
+1                   mick      US  1,228  52,904,833
+2                      D      US  1,227  52,877,229
+3                Mgoblue      US    792  22,062,589
+4              Planteman      US    578  11,750,795
+5               BIG BLUE      US    566  11,266,712
+6   Chrissie Miller-Laco      US    530   9,894,512
+7         Adrian Jackson      US    404   5,765,947
+8        Athleticscorpio      US    385   5,243,809
+9       Karlie Hallquist      US    372   4,903,429
+10   th€ angry goat- JWP      US    372   4,896,643
+11            Spookaroni      US    344   4,189,868
+12      Headfullofnothin      US    337   4,007,845
+13           readyforall      US    336   3,996,397
+14         Edward Austin      US    328   3,815,112
+15                Scotty      US    318   3,575,475

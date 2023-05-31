@@ -1,0 +1,16 @@
+                 Player     Country  Level    Total XP
+1            Cathy 🌎UT💫          CA  1,000  35,101,357
+2        Bonita Batrell          US    772  20,933,466
+3          Robert Saffo          US    567  11,341,871
+4                 Nikki          GB    528   9,825,604
+5     Amalia Cardarello          GB    486   8,341,619
+6            Falconhill          DE    458   7,410,256
+7        Stalker”s Back          US    397   5,554,452
+8             Sigismund          GB    387   5,284,746
+9            vixshannon          US    354   4,430,855
+10                Lynne  QU_ENGLAND    341   4,114,027
+11  Je T’aime Mon Cheri          US    326   3,758,719
+12      MaryAnn Mrkonja          US    325   3,727,977
+13   Robert Battenbough    QU_WALES    322   3,665,814
+14         Ecio Radovan          HR    319   3,607,282
+15                Sandi          US    283   2,836,570

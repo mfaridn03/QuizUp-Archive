@@ -1,0 +1,16 @@
+                Player      Country Level    Total XP
+1              Cathryn           GB   559  11,003,818
+2             Galarnel           CA   544  10,441,926
+3   SallyAlice Collins           US   523   9,643,329
+4           Sutterfrau           NZ   406   5,808,587
+5    Margaret Gluckman           ZA   289   2,951,114
+6                   Pj           US   268   2,549,541
+7     Lorraine Jenkins           GB   267   2,530,967
+8                  Deb           US   264   2,476,337
+9          Danielle H.           US   258   2,368,508
+10    Stefanie Osbourn           US   250   2,221,663
+11                 Lil           US   250   2,211,696
+12             Steph S           US   217   1,668,835
+13          Kittykitty           US   216   1,666,824
+14            echiwawa           CA   205   1,502,961
+15            Ravelrig  QU_SCOTLAND   202   1,454,137

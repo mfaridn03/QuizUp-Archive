@@ -1,0 +1,16 @@
+              Player Country Level    Total XP
+1       Karen66 100+      US   582  11,939,391
+2     Karen Chartier      US   372   4,889,845
+3       The Punisher      US   333   3,913,519
+4             Fallon      US   319   3,610,791
+5                 JB      US   311   3,429,447
+6           Profe208      US   306   3,322,952
+7               Robb      GB   293   3,038,211
+8            Dimitra      AU   288   2,946,848
+9               Rick      CA   288   2,937,462
+10             Welch      US   250   2,218,187
+11        Luckyheart      US   248   2,178,517
+12             Jbird      US   244   2,109,932
+13        Deplorable      US   238   2,011,832
+14  Dianne Wadsworth      CA   221   1,732,206
+15               Ken      US   211   1,581,276
